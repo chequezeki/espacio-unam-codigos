@@ -164,6 +164,7 @@
 | `CGEFS2` | Ingeniería Petrolera | doc |
 | `55VVA9` | Ingeniería Petrolera | doc |
 | `8T2H42` | ## Ingeniería topográfica y geodésica | doc |
+| `9BCKYJ` | Ingeniería eléctrica y electrónica; Marco Tulio; Torres; 25; 2020 | comunidad |
 
 ## Facultad de Arquitectura
 
