@@ -11,7 +11,7 @@ hecho por y para toda la comunidad UNAM: CCH, prepas, FES, ENES, facultades de C
 
 | Quiero… | Ve a |
 |---|---|
-| Buscar un código por carrera, plantel, nombre o apellido | **[Buscador](https://OWNER.github.io/REPO/)** (GitHub Pages) |
+| Buscar un código por carrera, plantel, nombre o apellido | **[Buscador](https://jaguaror.github.io/espacio-unam-codigos/)** (GitHub Pages) |
 | Ver los códigos ordenados por sección | [`codigos/`](codigos/README.md) |
 | Compartir mis códigos | [Abrir un aporte](../../issues/new?template=aporte-codigo.yml) (necesitas cuenta de GitHub, es gratis) |
 | Reportar un código que no sirve o pedir que se retire un dato | [Abrir un reporte](../../issues/new?template=reporte.yml) |
