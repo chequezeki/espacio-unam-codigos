@@ -51,6 +51,7 @@
 | `34EDFF` | Alexa | doc |
 | `FTWZED` | Alexander | doc |
 | `FHQXMQ` | Alexandra | doc |
+| `W9THGT` | Alexandra | doc |
 | `9X7TGT` | Alexandro | doc |
 | `K4RNJH` | Alexia | doc |
 | `ZEWEKJ` | Alexis | doc |
@@ -108,6 +109,7 @@
 | `JEYZRQ` | Angel | doc |
 | `6PHDHX` | Angélica | doc |
 | `H6RRFW` | Angélica | doc |
+| `SN6AHU` | Ángela | doc |
 | `AXBZDR` | Angelli | doc |
 | `SS4VPK` | Angie | doc |
 | `CSSVLE` | Anel | doc |
@@ -377,6 +379,7 @@
 | `LJ3UDT` | Gerardo | doc |
 | `ELYMMJ` | Gerardo | doc |
 | `UU7ANV` | Gerónimo | doc |
+| `5D4C6P` | = Giancarlo | doc |
 | `AQK9HC` | Gibran | doc |
 | `SWCUS3` | Gibran | doc |
 | `MJLUUU` | Gibran | doc |
@@ -508,6 +511,7 @@
 | `4NGH85` | Jonatan | doc |
 | `QXVWPA` | Jonatan | doc |
 | `8T9YUR` | Jonathan | doc |
+| `JUDSPC` | Jhonathan (sí, con dos h) | doc |
 | `X3TE7F` | Jorge | doc |
 | `BK3FVG` | Jorge | doc |
 | `D8VY2V` | Josceline | doc |
@@ -520,6 +524,7 @@
 | `74KTUS` | Joselyn | doc |
 | `KRN9CS` | Josh tuua | doc |
 | `LKAE3D` | Josh tuua | doc |
+| `8QFQER` | Joshua | doc |
 | `G2SQMG` | Josué | doc |
 | `FL5998` | Jothan | doc |
 | `HQX32E` | Jovany | doc |
@@ -550,6 +555,7 @@
 | `GTMTH9` | Karla | doc |
 | `CEB2F7` | Karla | doc |
 | `YTGL83` | Karla | doc |
+| `2KC976` | Karla | doc |
 | `DL95TY` | Karlo | doc |
 | `ZLK3YB` | Karol | doc |
 | `J4MQAK` | Katerine | doc |
@@ -717,6 +723,7 @@
 | `HC2CCM` | Naomi | doc |
 | `WRVRM4` | Narumi | doc |
 | `USCSEG` | Nasya | doc |
+| `QV68T9` | Natalya (pls si alguien se llama igual pongan su código) | doc |
 | `FHTEF8` | Natalia | doc |
 | `6FTMDZ` | Natalia | doc |
 | `KN6UYX` | Natalie | doc |
@@ -731,7 +738,7 @@
 | `FX9WHN` | Nayla | doc |
 | `G5M54T` | Nelly | doc |
 | `L92K5P` | Nelly | doc |
-| `UUNN5X` | N | doc |
+| `UUNN5X` | Nestor | doc |
 | `NEARSC` | Neydan | doc |
 | `NBRR47` | Neylan | doc |
 | `SHYLDR` | Nicolas | doc |
@@ -796,6 +803,7 @@
 | `BSU7JW` | Quetzalli | doc |
 | `SZEXJ3` | Rachel | doc |
 | `YEGKL2` | Rafael | doc |
+| `5D62KA` | Rafael | doc |
 | `V569QT` | Raman | doc |
 | `RVY6UF` | Ramiro | doc |
 | `99MYX7` | Raquel | doc |

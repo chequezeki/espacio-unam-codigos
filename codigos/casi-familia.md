@@ -253,6 +253,7 @@
 | `J4MQAK` | Domínguez | doc |
 | `FTJ9YB` | Domínguez | doc |
 | `W3AQ9D` | Domínguez | doc |
+| `8QFQER` | Dominguez (sin acento) | doc |
 | `42W58A` | De Paula | doc |
 | `X2UKCH` | Duque | doc |
 | `E3ADVA` | Duarte | doc |
@@ -274,6 +275,7 @@
 | `CSYUZN` | Espinosa | doc |
 | `BPY827` | Espinosa | doc |
 | `Z9D3BT` | Espinosa | doc |
+| `5D4C6P` | Espinosa | doc |
 | `Y6JME9` | Espinoza | doc |
 | `7X35U4` | Espiridion | doc |
 | `H5G886` | Esquivel | doc |
@@ -410,6 +412,7 @@
 | `H8MKFQ` | Jeronim | doc |
 | `7NSF65` | Juárez | doc |
 | `Z2PFT2` | Jimenez | doc |
+| `UVJ83P` | Jiménez | doc |
 | `P3ZRE5` | Juarez | doc |
 | `4G7JK7` | Juarez | doc |
 | `8EJFYT` | Juárez | doc |
@@ -594,6 +597,7 @@
 | `VC52DV` | Nicolas | doc |
 | `33DBC2` | Nieto | doc |
 | `KKYHAT` | Noriega | doc |
+| `6NDDAC` | Noyola | doc |
 | `QXC39N` | Noyola | doc |
 | `H5MYK4` | Núñez | doc |
 | `ATFDWR` | Nuño | doc |

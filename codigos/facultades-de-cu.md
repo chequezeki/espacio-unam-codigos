@@ -6,6 +6,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `DD8TMC` | Actuaría | doc |
 | `A855UZ` | Actuaría | doc |
 | `7YEAR9` | Actuaría | doc |
 | `SAKNLC` | Actuaría | doc |
@@ -346,15 +347,13 @@
 | `S8LNQW` | Química Farmacéutico Biológica | doc |
 | `P5TDP6` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
+| `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
 | `VTPBQ4` | Trabajo Social | doc |
-| `VKVDLU` | Trabajo Social | doc |
-| `S785KG` | Trabajo Social | doc |
-| `ARFY59` | Trabajo Social | doc |
-| `H5MYK4` | Trabajo Social | doc |
-| `UGW46F` | Trabajo Social | doc |
-| `M7B54S` | Trabajo Social | doc |
-| `ZAX4D8` | Trabajo Social | doc |
+| `H5MYK4` | V | doc |
+| `UGW46F` | V | doc |
+| `M7B54S` | V | doc |
+| `ZAX4D8` | V | doc |
 | `FYZLQT` | Trabajo Social SUAyED | doc |
 | `D58HBT` | Trabajo Social SUAyED | doc |
 | `X4XHYB` | Trabajo Social SUAyED | doc |
@@ -436,8 +435,6 @@
 | `Z729FV` | Historia | doc |
 | `F38M8G` | Desarrollo y Gestión Intercultural | doc |
 | `Z7BAJP` | Desarrollo y Gestión Intercultural | doc |
-| `M7CRXF` | Estudios Latinoamericanos | doc |
-| `J4AVB4` | Estudios Latinoamericanos | doc |
 | `EJ7H9W` | Letras Clásicas | doc |
 | `6BX7JC` | Letras Clásicas | doc |
 | `JMRJPL` | Letras Clásicas | doc |
@@ -481,6 +478,8 @@
 | `D4SJJL` | (SUA), QPN${}$KGB | doc |
 | `KJY9A8` | (SUA), QPN${}$KGB | doc |
 | `CRGQXT` | (SUA), QPN${}$KGB | doc |
+| `5X5NKZ` | (SUA), QPN${}$KGB | doc |
+| `HHBKQS` | (SUA), QPN${}$KGB | doc |
 | `UWTZBJ` | Políticas y Administración Pública | doc |
 | `XH2446` | Políticas y Administración Pública | doc |
 | `ZTKJWR` | Políticas y Administración Pública | doc |
@@ -531,7 +530,7 @@
 | `NWANYF` | Administración | doc |
 | `U8C9G3` | Administración | doc |
 | `CM8RT8` | Administración | doc |
-| `UVJ83P` | Administración SUAYED | doc |
+| `UVJ83P` | Administración SUAYED a distancia | doc |
 | `ZG27YE` | Contaduría | doc |
 | `HGGMCD` | Contaduría | doc |
 | `SUAW4X` | Contaduría | doc |
@@ -640,6 +639,7 @@
 | `T952XQ` | 03BP4QB | doc |
 | `HVZSUK` | 03BP4QB | doc |
 | `79LV2Z` | 03BP4QB | doc |
+| `VYGM4N` | 03BP4QB | doc |
 | `RVT6RY` | Derecho SUAYED | doc |
 | `47BH5C` | Derecho SUAYED | doc |
 | `MJLUUU` | Derecho SUAYED | doc |

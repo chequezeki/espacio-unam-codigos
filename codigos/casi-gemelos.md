@@ -65,7 +65,9 @@
 | `SHYLDR` | 8 | doc |
 | `XP2KK8` | 8 | doc |
 | `L55SRC` | 8 | doc |
+| `JUDSPC` | 9 | doc |
 | `P6WWEB` | 12 | doc |
+| `7LFEMB` | 12 | doc |
 | `2TAERY` | 15 | doc |
 | `J8S4ZS` | 15 | doc |
 | `4JBFDU` | 16 | doc |
@@ -274,6 +276,7 @@
 | `MV2UYP` | 14 | doc |
 | `FHG5GS` | 15 | doc |
 | `UFEUD2` | 16 | doc |
+| `U44QDA` | 16 | doc |
 | `6LV4PL` | 17 | doc |
 | `BBUZSK` | 18 | doc |
 | `LH4MD7` | 19 | doc |
@@ -325,6 +328,7 @@
 | `2PNPJH` | 8 | doc |
 | `CJXGS2` | 9 | doc |
 | `HC2CCM` | 10 | doc |
+| `RWSHM3` | 10 | doc |
 | `R2CPA3` | 13 | doc |
 | `XJ65S3` | 13 | doc |
 | `UJ4PZC` | 14 | doc |

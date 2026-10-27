@@ -4,10 +4,13 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `JUDSPC` | Apiádate de nosotros bachillerato a distancia 🙏🏼 | doc |
+| `U44QDA` | y | doc |
 | `XC56EV` | Agreguen porfa | doc |
 | `VU4EAW` | Pasen código de Startup, Sistema Abierto y Bachillerato a Distancia pleaseee, soy ENES Oax | doc |
 | `BJLWBE` | — | doc |
 | `76P6V4` | Agréguenme bachillerato en línea plssss 😞😞 | doc |
+| `2KC976` | Agreguen porfa | doc |
 | `JEYZRQ` | Agreguenme bachillerato en línea por favor!! | doc |
 | `HGGMCD` | Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla | doc |
 | `JW9PBR` | Paro | doc |

@@ -546,6 +546,7 @@ XLWSAA,FES,FES Zaragoza,Psicología
 4HU2PV,FES,FES Zaragoza,Psicología
 E3ADVA,FES,FES Zaragoza,Psicología
 WJH8ME,FES,FES Zaragoza,Psicología
+P992QH,FES,FES Zaragoza,Psicología
 54TU4U,FES,FES Zaragoza,Desarrollo Comunitario para el Envejecimiento
 6R89TY,FES,FES Zaragoza,Desarrollo Comunitario para el Envejecimiento
 T7EPF6,FES,FES Zaragoza,Desarrollo Comunitario para el Envejecimiento
@@ -575,6 +576,7 @@ LDJN7P,FES,FES Zaragoza,Cirujano dentista
 QQN4JV,FES,FES Zaragoza,Cirujano dentista
 MTW6EY,FES,FES Zaragoza,Cirujano dentista
 AARUZQ,FES,FES Zaragoza,Cirujano dentista
+DD8TMC,Facultades de CU,Facultad de Ciencias,Actuaría
 A855UZ,Facultades de CU,Facultad de Ciencias,Actuaría
 7YEAR9,Facultades de CU,Facultad de Ciencias,Actuaría
 SAKNLC,Facultades de CU,Facultad de Ciencias,Actuaría
@@ -884,15 +886,13 @@ FZ33SX,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
 S8LNQW,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
 P5TDP6,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
 K9W559,Facultades de CU,Facultad de Química,Química Industrial
+3PXTU2,Facultades de CU,Facultad de Química,Trabajo Social
 DNLR3P,Facultades de CU,Facultad de Química,Trabajo Social
 VTPBQ4,Facultades de CU,Facultad de Química,Trabajo Social
-VKVDLU,Facultades de CU,Facultad de Química,Trabajo Social
-S785KG,Facultades de CU,Facultad de Química,Trabajo Social
-ARFY59,Facultades de CU,Facultad de Química,Trabajo Social
-H5MYK4,Facultades de CU,Facultad de Química,Trabajo Social
-UGW46F,Facultades de CU,Facultad de Química,Trabajo Social
-M7B54S,Facultades de CU,Facultad de Química,Trabajo Social
-ZAX4D8,Facultades de CU,Facultad de Química,Trabajo Social
+H5MYK4,Facultades de CU,Facultad de Química,V
+UGW46F,Facultades de CU,Facultad de Química,V
+M7B54S,Facultades de CU,Facultad de Química,V
+ZAX4D8,Facultades de CU,Facultad de Química,V
 FYZLQT,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 D58HBT,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 X4XHYB,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
@@ -969,8 +969,6 @@ RAUU69,Facultades de CU,Facultad de Filosofía y Letras,Historia
 Z729FV,Facultades de CU,Facultad de Filosofía y Letras,Historia
 F38M8G,Facultades de CU,Facultad de Filosofía y Letras,Desarrollo y Gestión Intercultural
 Z7BAJP,Facultades de CU,Facultad de Filosofía y Letras,Desarrollo y Gestión Intercultural
-M7CRXF,Facultades de CU,Facultad de Filosofía y Letras,Estudios Latinoamericanos
-J4AVB4,Facultades de CU,Facultad de Filosofía y Letras,Estudios Latinoamericanos
 EJ7H9W,Facultades de CU,Facultad de Filosofía y Letras,Letras Clásicas
 6BX7JC,Facultades de CU,Facultad de Filosofía y Letras,Letras Clásicas
 JMRJPL,Facultades de CU,Facultad de Filosofía y Letras,Letras Clásicas
@@ -1009,6 +1007,8 @@ B6PXK6,Facultades de CU,Facultad de Políticas y Sociales,"(SUA), QPN${}$KGB"
 D4SJJL,Facultades de CU,Facultad de Políticas y Sociales,"(SUA), QPN${}$KGB"
 KJY9A8,Facultades de CU,Facultad de Políticas y Sociales,"(SUA), QPN${}$KGB"
 CRGQXT,Facultades de CU,Facultad de Políticas y Sociales,"(SUA), QPN${}$KGB"
+5X5NKZ,Facultades de CU,Facultad de Políticas y Sociales,"(SUA), QPN${}$KGB"
+HHBKQS,Facultades de CU,Facultad de Políticas y Sociales,"(SUA), QPN${}$KGB"
 UWTZBJ,Facultades de CU,Facultad de Políticas y Sociales,Políticas y Administración Pública
 XH2446,Facultades de CU,Facultad de Políticas y Sociales,Políticas y Administración Pública
 ZTKJWR,Facultades de CU,Facultad de Políticas y Sociales,Políticas y Administración Pública
@@ -1054,7 +1054,7 @@ B4F5AD,Facultades de CU,Facultad de Contaduría y Administración,Administració
 NWANYF,Facultades de CU,Facultad de Contaduría y Administración,Administración
 U8C9G3,Facultades de CU,Facultad de Contaduría y Administración,Administración
 CM8RT8,Facultades de CU,Facultad de Contaduría y Administración,Administración
-UVJ83P,Facultades de CU,Facultad de Contaduría y Administración,Administración SUAYED
+UVJ83P,Facultades de CU,Facultad de Contaduría y Administración,Administración SUAYED a distancia
 ZG27YE,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 HGGMCD,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 SUAW4X,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
@@ -1148,6 +1148,7 @@ TE4967,Facultades de CU,Facultad de Derecho,Derecho
 T952XQ,Facultades de CU,Facultad de Derecho,03BP4QB
 HVZSUK,Facultades de CU,Facultad de Derecho,03BP4QB
 79LV2Z,Facultades de CU,Facultad de Derecho,03BP4QB
+VYGM4N,Facultades de CU,Facultad de Derecho,03BP4QB
 RVT6RY,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 47BH5C,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 MJLUUU,Facultades de CU,Facultad de Derecho,Derecho SUAYED
@@ -1268,6 +1269,7 @@ H8MKFQ,Tocayo,,Alexa
 34EDFF,Tocayo,,Alexa
 FTWZED,Tocayo,,Alexander
 FHQXMQ,Tocayo,,Alexandra
+W9THGT,Tocayo,,Alexandra
 9X7TGT,Tocayo,,Alexandro
 K4RNJH,Tocayo,,Alexia
 ZEWEKJ,Tocayo,,Alexis
@@ -1325,6 +1327,7 @@ WW36CR,Tocayo,,Angel
 JEYZRQ,Tocayo,,Angel
 6PHDHX,Tocayo,,Angélica
 H6RRFW,Tocayo,,Angélica
+SN6AHU,Tocayo,,Ángela
 AXBZDR,Tocayo,,Angelli
 SS4VPK,Tocayo,,Angie
 CSSVLE,Tocayo,,Anel
@@ -1594,6 +1597,7 @@ T4MZ7S,Tocayo,,Genesis
 LJ3UDT,Tocayo,,Gerardo
 ELYMMJ,Tocayo,,Gerardo
 UU7ANV,Tocayo,,Gerónimo
+5D4C6P,Tocayo,,= Giancarlo
 AQK9HC,Tocayo,,Gibran
 SWCUS3,Tocayo,,Gibran
 MJLUUU,Tocayo,,Gibran
@@ -1725,6 +1729,7 @@ MKH4HC,Tocayo,,Jonatan
 4NGH85,Tocayo,,Jonatan
 QXVWPA,Tocayo,,Jonatan
 8T9YUR,Tocayo,,Jonathan
+JUDSPC,Tocayo,,"Jhonathan (sí, con dos h)"
 X3TE7F,Tocayo,,Jorge
 BK3FVG,Tocayo,,Jorge
 D8VY2V,Tocayo,,Josceline
@@ -1737,6 +1742,7 @@ JN42QP,Tocayo,,José
 74KTUS,Tocayo,,Joselyn
 KRN9CS,Tocayo,,Josh tuua
 LKAE3D,Tocayo,,Josh tuua
+8QFQER,Tocayo,,Joshua
 G2SQMG,Tocayo,,Josué
 FL5998,Tocayo,,Jothan
 HQX32E,Tocayo,,Jovany
@@ -1767,6 +1773,7 @@ FFWLPX,Tocayo,,Karla
 GTMTH9,Tocayo,,Karla
 CEB2F7,Tocayo,,Karla
 YTGL83,Tocayo,,Karla
+2KC976,Tocayo,,Karla
 DL95TY,Tocayo,,Karlo
 ZLK3YB,Tocayo,,Karol
 J4MQAK,Tocayo,,Katerine
@@ -1934,6 +1941,7 @@ RZ6XRU,Tocayo,,Naomi
 HC2CCM,Tocayo,,Naomi
 WRVRM4,Tocayo,,Narumi
 USCSEG,Tocayo,,Nasya
+QV68T9,Tocayo,,Natalya (pls si alguien se llama igual pongan su código)
 FHTEF8,Tocayo,,Natalia
 6FTMDZ,Tocayo,,Natalia
 KN6UYX,Tocayo,,Natalie
@@ -1948,7 +1956,7 @@ QCDXFG,Tocayo,,Nayely
 FX9WHN,Tocayo,,Nayla
 G5M54T,Tocayo,,Nelly
 L92K5P,Tocayo,,Nelly
-UUNN5X,Tocayo,,N
+UUNN5X,Tocayo,,Nestor
 NEARSC,Tocayo,,Neydan
 NBRR47,Tocayo,,Neylan
 SHYLDR,Tocayo,,Nicolas
@@ -2013,6 +2021,7 @@ ZR8YJF,Tocayo,,Priscilla
 BSU7JW,Tocayo,,Quetzalli
 SZEXJ3,Tocayo,,Rachel
 YEGKL2,Tocayo,,Rafael
+5D62KA,Tocayo,,Rafael
 V569QT,Tocayo,,Raman
 RVY6UF,Tocayo,,Ramiro
 99MYX7,Tocayo,,Raquel
@@ -2424,6 +2433,7 @@ SE28C2,Casi familia,,Dorantes
 J4MQAK,Casi familia,,Domínguez
 FTJ9YB,Casi familia,,Domínguez
 W3AQ9D,Casi familia,,Domínguez
+8QFQER,Casi familia,,Dominguez (sin acento)
 42W58A,Casi familia,,De Paula
 X2UKCH,Casi familia,,Duque
 E3ADVA,Casi familia,,Duarte
@@ -2445,6 +2455,7 @@ ACZ97F,Casi familia,,Espinobarros
 CSYUZN,Casi familia,,Espinosa
 BPY827,Casi familia,,Espinosa
 Z9D3BT,Casi familia,,Espinosa
+5D4C6P,Casi familia,,Espinosa
 Y6JME9,Casi familia,,Espinoza
 7X35U4,Casi familia,,Espiridion
 H5G886,Casi familia,,Esquivel
@@ -2581,6 +2592,7 @@ HDUHXC,Casi familia,,Jarillo
 H8MKFQ,Casi familia,,Jeronim
 7NSF65,Casi familia,,Juárez
 Z2PFT2,Casi familia,,Jimenez
+UVJ83P,Casi familia,,Jiménez
 P3ZRE5,Casi familia,,Juarez
 4G7JK7,Casi familia,,Juarez
 8EJFYT,Casi familia,,Juárez
@@ -2765,6 +2777,7 @@ KLLK4N,Casi familia,,Navarro
 VC52DV,Casi familia,,Nicolas
 33DBC2,Casi familia,,Nieto
 KKYHAT,Casi familia,,Noriega
+6NDDAC,Casi familia,,Noyola
 QXC39N,Casi familia,,Noyola
 H5MYK4,Casi familia,,Núñez
 ATFDWR,Casi familia,,Nuño
@@ -3741,7 +3754,9 @@ DUKA2D,Casi gemelos,Febrero,7
 SHYLDR,Casi gemelos,Febrero,8
 XP2KK8,Casi gemelos,Febrero,8
 L55SRC,Casi gemelos,Febrero,8
+JUDSPC,Casi gemelos,Febrero,9
 P6WWEB,Casi gemelos,Febrero,12
+7LFEMB,Casi gemelos,Febrero,12
 2TAERY,Casi gemelos,Febrero,15
 J8S4ZS,Casi gemelos,Febrero,15
 4JBFDU,Casi gemelos,Febrero,16
@@ -3945,6 +3960,7 @@ EHKDLJ,Casi gemelos,Marzo,11
 MV2UYP,Casi gemelos,Marzo,14
 FHG5GS,Casi gemelos,Marzo,15
 UFEUD2,Casi gemelos,Marzo,16
+U44QDA,Casi gemelos,Marzo,16
 6LV4PL,Casi gemelos,Marzo,17
 BBUZSK,Casi gemelos,Marzo,18
 LH4MD7,Casi gemelos,Marzo,19
@@ -3996,6 +4012,7 @@ MTB58U,Casi gemelos,Marzo,6
 2PNPJH,Casi gemelos,Marzo,8
 CJXGS2,Casi gemelos,Marzo,9
 HC2CCM,Casi gemelos,Marzo,10
+RWSHM3,Casi gemelos,Marzo,10
 R2CPA3,Casi gemelos,Marzo,13
 XJ65S3,Casi gemelos,Marzo,13
 UJ4PZC,Casi gemelos,Marzo,14
@@ -4095,6 +4112,7 @@ UMZHHH,Compa de banca,,Psicología SUA CU 2023
 LH4MD7,Compa de banca,,Psicología SUA CU 2023
 SKBZDL,Compa de banca,,Psicología CU 2017
 PVGAYC,Compa de banca,,PEDAGOGÍA (presencial)/ Facultad de Filosofía y Letras/2021
+JUDSPC,Compa de banca,,PEDAGOGÍA (presencial)/ Facultad de Filosofía y Letras/2021
 D984G3,Compa de banca,,/ 2025
 FZTJCT,Compa de banca,,PEDAGOGIA (FES ARAGON) 2025
 SQMUC6,Compa de banca,,/
@@ -4241,10 +4259,13 @@ Z9D3BT,Compa de banca,,2023
 YJ3MH8,Compa de banca,,che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi
 MJLUUU,Otros,,
 NSGN8U,Otros,,
+JUDSPC,Anuncios de la comunidad,,Apiádate de nosotros bachillerato a distancia 🙏🏼
+U44QDA,Anuncios de la comunidad,,y
 XC56EV,Anuncios de la comunidad,,Agreguen porfa
 VU4EAW,Anuncios de la comunidad,,"Pasen código de Startup, Sistema Abierto y Bachillerato a Distancia pleaseee, soy ENES Oax"
 BJLWBE,Anuncios de la comunidad,,
 76P6V4,Anuncios de la comunidad,,Agréguenme bachillerato en línea plssss 😞😞
+2KC976,Anuncios de la comunidad,,Agreguen porfa
 JEYZRQ,Anuncios de la comunidad,,Agreguenme bachillerato en línea por favor!!
 HGGMCD,Anuncios de la comunidad,,"Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla"
 JW9PBR,Anuncios de la comunidad,,Paro

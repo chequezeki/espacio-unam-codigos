@@ -26,6 +26,7 @@
 | `LH4MD7` | Psicología SUA CU 2023 | doc |
 | `SKBZDL` | Psicología CU 2017 | doc |
 | `PVGAYC` | PEDAGOGÍA (presencial)/ Facultad de Filosofía y Letras/2021 | doc |
+| `JUDSPC` | PEDAGOGÍA (presencial)/ Facultad de Filosofía y Letras/2021 | doc |
 | `D984G3` | / 2025 | doc |
 | `FZTJCT` | PEDAGOGIA (FES ARAGON) 2025 | doc |
 | `SQMUC6` | / | doc |
