@@ -2,7 +2,7 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **4504**
+- Códigos del Google Doc: **4506**
 - Aportaciones vía GitHub: **0**
 
 | Sección | Códigos |
@@ -18,7 +18,7 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 31 |
 | [Tocayo](tocayo.md) | 938 |
 | [Casi familia](casi-familia.md) | 889 |
-| [Pastel compartido](pastel-compartido.md) | 576 |
+| [Pastel compartido](pastel-compartido.md) | 578 |
 | [Casi gemelos](casi-gemelos.md) | 347 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 11 |
 | [Compa de banca](compa-de-banca.md) | 162 |
