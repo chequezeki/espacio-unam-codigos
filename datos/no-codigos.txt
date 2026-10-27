@@ -1,0 +1,20 @@
+# Palabras de 6 letras que el extractor podría confundir con códigos.
+# Una por línea. Las líneas que empiezan con # se ignoran.
+SUAYED
+JAJAJA
+SUERTE
+PREPAS
+PASTEL
+FACMED
+ENALLT
+LLEGUE
+LETRAS
+LENGUA
+GUSTAS
+FALTAN
+DALEEE
+CUENTA
+AYUDEN
+AYUDAR
+PLEASE
+GRACES

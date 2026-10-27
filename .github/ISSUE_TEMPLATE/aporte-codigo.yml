@@ -1,0 +1,58 @@
+name: Aportar códigos
+description: Comparte tu código (o varios) para que otras personas de la UNAM te agreguen.
+title: "Aporte: "
+labels: ["aporte"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por sumar. Un bot agrega tus códigos a `datos/comunidad.csv` y cierra el issue en unos segundos.
+        **No escribas datos personales** (Instagram, teléfono, correo, número de cuenta). Solo el código y su categoría.
+  - type: dropdown
+    id: seccion
+    attributes:
+      label: Sección
+      options:
+        - CCH
+        - Prepas
+        - ENES
+        - FES
+        - Facultades de CU
+        - Escuelas nacionales y otras entidades
+        - Medallas secretas
+        - Tocayo
+        - Casi familia
+        - Casi gemelos
+        - Pastel compartido
+        - Compa de banca
+        - Cazadora de mitos
+        - Otros
+    validations:
+      required: true
+  - type: input
+    id: subseccion
+    attributes:
+      label: Plantel, facultad o mes
+      description: "Ej.: FES Acatlán, CCH Sur, Facultad de Ciencias, Marzo. Déjalo vacío si no aplica."
+  - type: input
+    id: etiqueta
+    attributes:
+      label: Carrera, nombre, apellido o día
+      description: "Carrera para sedes; primer nombre para Tocayo; primer apellido para Casi familia; día para Casi gemelos; carrera/plantel/generación para Compa de banca."
+    validations:
+      required: true
+  - type: textarea
+    id: codigos
+    attributes:
+      label: Códigos
+      description: Uno o varios, separados por coma o espacio. Máximo 20 por aporte.
+      placeholder: "ABC234, XYZ789"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmacion
+    attributes:
+      label: Confirmación
+      options:
+        - label: Los códigos son míos o ya eran públicos, y no incluí datos personales.
+          required: true

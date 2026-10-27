@@ -1,0 +1,41 @@
+name: Sincronizar con Google Docs
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # cada 15 minutos (GitHub puede retrasarlo en horas pico)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: escritura-datos
+  cancel-in-progress: false
+
+jobs:
+  sincronizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Descargar y regenerar
+        run: python3 scripts/sync_doc.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "espacio-unam-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add respaldo datos codigos docs
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el Doc."
+            exit 0
+          fi
+          resumen=$(git diff --cached --numstat datos/codigos-doc.csv | awk '{print "+"$1" / -"$2" líneas"}')
+          git commit -m "respaldo: $(date -u +'%Y-%m-%d %H:%M') UTC (${resumen:-sin cambios en códigos})"
+          git pull --rebase
+          git push

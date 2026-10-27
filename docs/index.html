@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Códigos Espacio UNAM</title>
+<style>
+  :root { --fondo:#f7f7f5; --texto:#1d1d1f; --tenue:#6b6b70; --borde:#dcdcd8; --tarjeta:#fff; --acento:#1f4e9c; --oro:#c9a227; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fondo:#141416; --texto:#ececef; --tenue:#9a9aa2; --borde:#2e2e33; --tarjeta:#1c1c20; --acento:#7aa5ee; --oro:#e0bd4a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--fondo); color:var(--texto); font:16px/1.5 system-ui, sans-serif; }
+  main { max-width:960px; margin:0 auto; padding:24px 16px 64px; }
+  h1 { margin:0 0 4px; font-size:1.6rem; border-left:6px solid var(--oro); padding-left:10px; }
+  p.sub { margin:0 0 20px; color:var(--tenue); }
+  a { color:var(--acento); }
+  .filtros { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:12px; }
+  input, select { font:inherit; padding:10px 12px; border:1px solid var(--borde); border-radius:8px; background:var(--tarjeta); color:var(--texto); }
+  input { flex:1 1 260px; }
+  select { flex:0 1 240px; max-width:100%; }
+  .cuenta { color:var(--tenue); font-size:.9rem; margin-bottom:8px; }
+  table { width:100%; border-collapse:collapse; background:var(--tarjeta); border:1px solid var(--borde); border-radius:8px; overflow:hidden; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--borde); vertical-align:top; }
+  th { font-size:.8rem; text-transform:uppercase; letter-spacing:.04em; color:var(--tenue); }
+  td.c { font-family:ui-monospace, monospace; font-weight:600; white-space:nowrap; }
+  button.copiar { font:inherit; font-size:.8rem; margin-left:6px; padding:2px 8px; border:1px solid var(--borde); border-radius:6px; background:none; color:var(--acento); cursor:pointer; }
+  .tabla { overflow-x:auto; }
+  @media (max-width:600px) { td.sub, th.sub { display:none; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>Códigos para platinar Espacio UNAM</h1>
+  <p class="sub">Respaldo comunitario del <a href="https://docs.google.com/document/d/1o8UgQYTTjpBznUktuLK0WDKmX9nV4Ao2UIWs1MJQ2-s/edit">Google Doc</a>, actualizado cada 15 minutos.
+    ¿Tienes un código? <a href="../../issues/new?template=aporte-codigo.yml" id="aportar">Compártelo aquí</a>.</p>
+
+  <div class="filtros">
+    <input id="q" type="search" placeholder="Busca carrera, plantel, nombre, apellido o código…" autofocus>
+    <select id="sec"><option value="">Todas las secciones</option></select>
+  </div>
+  <div class="cuenta" id="cuenta">Cargando…</div>
+  <div class="tabla">
+    <table>
+      <thead><tr><th>Código</th><th>Etiqueta</th><th class="sub">Plantel / mes</th><th>Sección</th></tr></thead>
+      <tbody id="filas"></tbody>
+    </table>
+  </div>
+</main>
+<script>
+  // En GitHub Pages la URL es usuario.github.io/repo/; el enlace de aporte apunta al repositorio.
+  const m = location.hostname.match(/^(.+)\.github\.io$/);
+  if (m) {
+    const repo = location.pathname.split("/").filter(Boolean)[0];
+    document.getElementById("aportar").href = `https://github.com/${m[1]}/${repo}/issues/new?template=aporte-codigo.yml`;
+  }
+
+  const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const $q = document.getElementById("q"), $sec = document.getElementById("sec");
+  const $filas = document.getElementById("filas"), $cuenta = document.getElementById("cuenta");
+  let datos = [];
+
+  function pintar() {
+    const q = norm($q.value.trim()), sec = $sec.value;
+    const res = datos.filter(d => (!sec || d.seccion === sec) && (!q || d._t.includes(q)));
+    $cuenta.textContent = `${res.length} de ${datos.length} códigos` + (res.length > 500 ? " (mostrando 500; afina la búsqueda)" : "");
+    $filas.innerHTML = res.slice(0, 500).map(d =>
+      `<tr><td class="c">${esc(d.codigo)}<button class="copiar" data-c="${esc(d.codigo)}">copiar</button></td>` +
+      `<td>${esc(d.etiqueta || "—")}</td><td class="sub">${esc(d.subseccion || "—")}</td><td>${esc(d.seccion)}</td></tr>`
+    ).join("");
+  }
+
+  $filas.addEventListener("click", e => {
+    const b = e.target.closest("button.copiar");
+    if (!b) return;
+    navigator.clipboard.writeText(b.dataset.c).then(() => { b.textContent = "¡listo!"; setTimeout(() => b.textContent = "copiar", 1200); });
+  });
+  $q.addEventListener("input", pintar);
+  $sec.addEventListener("change", pintar);
+
+  fetch("codigos.json").then(r => r.json()).then(j => {
+    datos = j.map(d => ({...d, _t: norm(`${d.codigo} ${d.seccion} ${d.subseccion} ${d.etiqueta}`)}));
+    [...new Set(datos.map(d => d.seccion))].forEach(s => $sec.add(new Option(s, s)));
+    pintar();
+  }).catch(() => { $cuenta.textContent = "No se pudo cargar codigos.json."; });
+</script>
+</body>
+</html>

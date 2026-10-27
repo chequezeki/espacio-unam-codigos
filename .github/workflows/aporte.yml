@@ -1,0 +1,64 @@
+name: Registrar aporte
+
+on:
+  issues:
+    types: [opened, reopened, edited]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: escritura-datos
+  cancel-in-progress: false
+
+jobs:
+  registrar:
+    if: contains(github.event.issue.labels.*.name, 'aporte') && github.event.issue.state == 'open'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # El cuerpo del issue es texto no confiable: se pasa por variable de entorno, nunca en la shell.
+      - name: Procesar formulario
+        id: procesar
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          RESUMEN: ${{ runner.temp }}/resumen.md
+        run: |
+          if python3 scripts/aporte.py; then
+            echo "nuevos=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "nuevos=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Guardar cambios
+        if: steps.procesar.outputs.nuevos == 'true'
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          python3 scripts/sync_doc.py --solo-paginas
+          git config user.name "espacio-unam-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos codigos docs
+          git commit -m "aporte: códigos del issue #${ISSUE_NUMBER}"
+          git pull --rebase
+          git push
+
+      - name: Responder y cerrar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          NUEVOS: ${{ steps.procesar.outputs.nuevos }}
+          RESUMEN: ${{ runner.temp }}/resumen.md
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body-file "$RESUMEN"
+          if [ "$NUEVOS" = "true" ]; then
+            gh issue close "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --reason completed
+          fi
