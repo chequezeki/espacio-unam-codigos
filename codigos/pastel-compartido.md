@@ -86,6 +86,7 @@
 | `XP2KK8` | FEBRERO | doc |
 | `AARUZQ` | FEBRERO | doc |
 | `EMXTCA` | FEBRERO | doc |
+| `L55SRC` | FEBRERO | doc |
 | `T9L84A` | MARZO | doc |
 | `K7HSZT` | MARZO | doc |
 | `YYSEV5` | MARZO | doc |
@@ -124,6 +125,7 @@
 | `PLDRZE` | 2CSXD | doc |
 | `W9THGT` | 2CSXD | doc |
 | `HAAYEY` | 2CSXD | doc |
+| `JEYZRQ` | 2CSXD | doc |
 | `Z2PFT2` | ABRIL | doc |
 | `QVC32M` | ABRIL | doc |
 | `HR5TVK` | ABRIL | doc |
@@ -301,6 +303,7 @@
 | `ZT76GT` | AGOSTO | doc |
 | `U9FRDX` | AGOSTO | doc |
 | `XJE3HZ` | AGOSTO | doc |
+| `SPMU3V` | AGOSTO | doc |
 | `HZ6A9Z` | SEPTIEMBRE | doc |
 | `RZ6XRU` | SEPTIEMBRE | doc |
 | `GLWNDS` | SEPTIEMBRE | doc |
@@ -393,8 +396,9 @@
 | `8JH9PL` | NOVIEMBRE | doc |
 | `VG39JT` | NOVIEMBRE | doc |
 | `6MURMS` | NOVIEMBRE | doc |
-| `27YHVB` | DICIEMBRE | doc |
+| `NQYJ5W` | DICIEMBRE | doc |
 | `Y6352H` | DICIEMBRE | doc |
+| `UU6VPQ` | DICIEMBRE | doc |
 | `XJWH5V` | DICIEMBRE | doc |
 | `MNM229` | DICIEMBRE | doc |
 | `T9UJMP` | DICIEMBRE | doc |
@@ -406,6 +410,7 @@
 | `M8MRDM` | DICIEMBRE | doc |
 | `RMNQ7T` | DICIEMBRE | doc |
 | `QR4PLZ` | DICIEMBRE | doc |
+| `27YHVB` | DICIEMBRE | doc |
 | `MP7Y6M` | DICIEMBRE | doc |
 | `ZWLYNY` | DICIEMBRE | doc |
 | `4CDW4N` | DICIEMBRE | doc |
@@ -453,6 +458,7 @@
 | `JUBN3N` | Chiapas | doc |
 | `W7AHQ2` | Chiapas | doc |
 | `YTGL83` | Chiapas | doc |
+| `R6TE6Q` | Chihuahua | doc |
 | `5D4C6P` | Ciudad de México | doc |
 | `G5SHBK` | Ciudad de México | doc |
 | `G73Z9E` | Ciudad de México | doc |
@@ -489,6 +495,7 @@
 | `TVGL8J` | Ciudad de México | doc |
 | `CM8RT8` | Ciudad de México | doc |
 | `HAAYEY` | Ciudad de México | doc |
+| `UU6VPQ` | Ciudad de México | doc |
 | `Y2S7KV` | Coahuila | doc |
 | `WSSGKM` | Coahuila | doc |
 | `79U7RY` | Colima | doc |
@@ -497,6 +504,7 @@
 | `VG39JT` | Durango | doc |
 | `JV4M3U` | Estado de México | doc |
 | `27YHVB` | Estado de México | doc |
+| `SPMU3V` | Estado de México | doc |
 | `WNYKCD` | Estado de México | doc |
 | `JN42QP` | Estado de México | doc |
 | `FFWLPX` | Estado de México | doc |
@@ -533,6 +541,7 @@
 | `M33WL2` | Guerrero | doc |
 | `ACZ97F` | Guerrero | doc |
 | `Z7V2DL` | 9MSMM | doc |
+| `3C5MX2` | Hidalgo | doc |
 | `FZC5EB` | Hidalgo | doc |
 | `NWB7JG` | Hidalgo | doc |
 | `9JUAP7` | Hidalgo | doc |
@@ -553,6 +562,7 @@
 | `FYZLQT` | Puebla | doc |
 | `7Y9LVV` | Puebla | doc |
 | `KVJNQD` | Puebla | doc |
+| `96DD2T` | Puebla | doc |
 | `UU7ANV` | Querétaro | doc |
 | `FEZ8TL` | Querétaro | doc |
 | `UDXDSE` | Querétaro | doc |

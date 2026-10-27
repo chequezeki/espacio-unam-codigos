@@ -4,7 +4,11 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `JEYZRQ` | Agreguenme bachillerato en línea por favor!! | doc |
 | `HGGMCD` | Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla | doc |
+| `JW9PBR` | Paro | doc |
+| `ER4UV5` | hola, agregame pls personitx de bachillerato a distancia | doc |
+| `96DD2T` | Por favor agregame compañerit@ de Bachillerato a Distancia | doc |
 | `G9HCLW` | Agreguenme bachillerato en línea por favor!! | doc |
 | `3UNCXG` | PORFIIIII AMIG@ | doc |
 | `75CQF3` | Agreguenmeeeeee bachillerato en línea, paro | doc |
@@ -27,6 +31,7 @@
 | `YATFRA` | — | doc |
 | `GVNBDS` | Porfis bachillerato en línea, agrégame | doc |
 | `2KLXRX` | — | doc |
+| `X4CUPQ` | Tiren paro porfa | doc |
 | `H423V6` | tiren paro sech 🙏🏿🙏🏿🥹🥹 | doc |
 | `ALVDTP` | — | doc |
 | `6VMRJF` | oye tú, si tú… apiadate de mi compañerit@ y te irá de lo mejor en ésta fkin vida 🙏🏻 | doc |
@@ -80,7 +85,6 @@
 | `7232Q7` | Lo mismo que los de arriba | doc |
 | `MKH4HC` | Lo mismo que los de arriba | doc |
 | `ALVDTP` | Lo mismo pa | doc |
-| `X4CUPQ` | Tiren paro porfa | doc |
 | `BVX339` | alguien de bachillerato a distancia porfa ayúdenme 🙏🫂 | doc |
 | `RMAY9F` | — | doc |
 | `533L3Q` | Bachillerato a distancia, porfa agrégame 👌🏽 | doc |
@@ -367,3 +371,6 @@
 | `HGGMCD` | persona de bachillerato a distancia plis agregame, solo me falta esa medalla | doc |
 | `RLTSWT` | Agregenme por faaa | doc |
 | `7LZ5TF` | Agregame plis | doc |
+| `P5TDP6` | BACHILLERATO EN LÍNEA, XFA | doc |
+| `KEGKRZ` | — | doc |
+| `FPN8E4` | Agreguen porfaaa | doc |

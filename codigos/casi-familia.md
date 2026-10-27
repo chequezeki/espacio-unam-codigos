@@ -53,6 +53,7 @@
 | `9BLSUT` | Arrazola | doc |
 | `ZGABW3` | Arredondo | doc |
 | `D8VY2V` | Arrieta | doc |
+| `WVBJN2` | Aparicio | doc |
 | `49ACHB` | Avalos | doc |
 | `ZAX7PL` | Avila | doc |
 | `YURFEC` | Aviña | doc |
@@ -89,6 +90,7 @@
 | `DJUVN4` | Barbosa | doc |
 | `F5554F` | Bárcenas | doc |
 | `QW57KK` | Bárcenas | doc |
+| `UU6VPQ` | Barrena | doc |
 | `M2P8C9` | Barrera | doc |
 | `UGW46F` | Barrientos | doc |
 | `T9UJMP` | Barriga | doc |
@@ -172,6 +174,7 @@
 | `3DYJLN` | Castrillo | doc |
 | `L3YB7T` | Castro | doc |
 | `JMDE8U` | Castro | doc |
+| `P5TDP6` | Catarino | doc |
 | `RUYFGM` | Ceballos | doc |
 | `9R45UR` | Cedeño | doc |
 | `H6RRFW` | Cedillo | doc |
@@ -291,6 +294,7 @@
 | `U243SW` | Fragoso | doc |
 | `WLW4WT` | Franco | doc |
 | `KLLK4N` | Fernández | doc |
+| `SNPFDC` | Fernández | doc |
 | `DFTXBL` | Fernández de Lara | doc |
 | `R7ZS2S` | Filomeno | doc |
 | `R3PD59` | Florián | doc |
@@ -412,6 +416,7 @@
 | `FNEAB4` | Kevin | doc |
 | `PYADLG` | Laguna | doc |
 | `Z6NQMM` | Lagunas | doc |
+| `XLB7Z2` | Landa | doc |
 | `QFJ94L` | Landeros | doc |
 | `QR4PLZ` | Lara | doc |
 | `Z5KZQ5` | Larios | doc |
@@ -426,6 +431,8 @@
 | `VF68YX` | Ledesma | doc |
 | `D3NJY3` | Ledesma | doc |
 | `YK4BYU` | LEYVA | doc |
+| `XJ65S3` | — | doc |
+| `LEZAMA` | — | doc |
 | `EF38ST` | Lira | doc |
 | `BFFU5Q` | Lira | doc |
 | `3EMQCQ` | Lizardi | doc |
@@ -624,6 +631,7 @@
 | `8B5R2K` | Palacio | doc |
 | `JJ3L4Z` | Pallares | doc |
 | `9TC9N9` | Palomar | doc |
+| `LDJN7P` | Paredes | doc |
 | `YXLJ6H` | Paredes | doc |
 | `EGRGG2` | Paredes | doc |
 | `FMBLNQ` | Partida | doc |
@@ -773,8 +781,9 @@
 | `D4SJJL` | Segura | doc |
 | `SFTYGK` | Serrano | doc |
 | `WRVUAF` | Serrano | doc |
+| `JEYZRQ` | Serrano | doc |
 | `E2N3KY` | Sanjuan | doc |
-| `S5VEZU` | Suárez | doc |
+| `2AAE5B` | Suárez | doc |
 | `BUUQPW` | Solano | doc |
 | `8AH8Y9` | Solis | doc |
 | `C77D29` | Soria | doc |
@@ -821,6 +830,7 @@
 | `ZJJYZU` | Tlahuancapa | doc |
 | `TVPG8X` | Toxcoyoa | doc |
 | `SKNEPP` | Toxqui | doc |
+| `LDJN7P` | Tzintzun | doc |
 | `W3FLD6` | Uribe | doc |
 | `QFDGGC` | Urbina | doc |
 | `F7E3UH` | Ubaldo | doc |

@@ -6,8 +6,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `X5S4VQ` | Ciencia de la Tierra | doc |
-| `ZGPKFJ` | Ciencia de la Tierra | doc |
+| `ZGPKFJ` | Ciencia de la Tierra: v | doc |
 | `QWC8VS` | Geografía Aplicada | doc |
 | `WNU5V3` | Geografía Aplicada | doc |
 | `FZCENF` | Geografía Aplicada | doc |
@@ -38,9 +37,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `TF5R49` | Traducción | doc |
-| `UBXD7M` | Traducción | doc |
 | `7JA7UX` | Lingüística Aplicada | doc |
-| `ABHZXJ` | Lingüística Aplicada | doc |
 | `KSQA7Y` | Lingüística Aplicada | doc |
 | `LH2NV7` | Lingüística Aplicada | doc |
 | `DNX7NY` | Teatro y actuación | doc |
@@ -51,12 +48,6 @@
 |---|---|---|
 | `DLFZY8` | Nanotecnología | doc |
 | `BXCKLK` | Nanotecnología | doc |
-
-## Centro de Física Aplicada y Avanzada (Juriquilla)
-
-| Código | Etiqueta | Origen |
-|---|---|---|
-| `CH2DGW` | Tecnología | doc |
 
 ## Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia
 

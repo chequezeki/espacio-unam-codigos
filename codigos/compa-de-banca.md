@@ -33,6 +33,8 @@
 | `6UQTGW` | derecho CU 2022 / Derecho CU 2022-2026 | doc |
 | `7Z9MNW` | DERECHO/FES ARAGON | doc |
 | `8GHZQ5` | / | doc |
+| `27YHVB` | Generación 2027 (nuevo ingreso) | doc |
+| `PQX8FT` | Generación 2027 (nuevo ingreso) | doc |
 | `7NSF65` | Generación 2026-1 | doc |
 | `NQK8TW` | (2027) | doc |
 | `S5VEZU` | ECONOMÍA/Facultad de Economía/ SUAyED/2023/ | doc |
@@ -91,7 +93,7 @@
 | `VV4X6H` | 2022 | doc |
 | `S37KHD` | 2021 | doc |
 | `7XMBB9` | Ingeniería Química Metalurgiaca/ Facultad de Química / 2023 | doc |
-| `FYZLQT` | TRABAJO SOCIAL FACTS 2021 | doc |
+| `FYZLQT` | 2021 | doc |
 | `UJ4PZC` | TRABAJO SOCIAL/FACTS/2024 | doc |
 | `M7B54S` | — | doc |
 | `5RMV32` | Trabajo Social/SUAyED/2023 | doc |
@@ -120,7 +122,6 @@
 | `VZ36RJ` | 2024 | doc |
 | `6WCB38` | 2024 | doc |
 | `GDEP4Z` | 2025 | doc |
-| `4QSM4X` | 2026 | doc |
 | `H6RRFW` | 2026 | doc |
 | `45KGQP` | 2020 | doc |
 | `VD522A` | RELACIONES INTERNACIONALES. FCPYS | doc |
@@ -144,8 +145,7 @@
 | `V569QT` | / 2025 | doc |
 | `ZVD8Z4` | Facultad de Odontología Cirujano Dentista / 2023 | doc |
 | `9R45UR` | Facultad de Odontología / 2021 / | doc |
-| `QKQC8H` | Licenciatura en investigación biomédica básica /2023 | doc |
-| `BT6K97` | Ing. en computación FI / 2021 / | doc |
+| `NQYJ5W` | Ing. en computación FI / 2021 / | doc |
 | `LADR7U` | /ARAGON/2025 | doc |
 | `TUKWSQ` | Ing Civil FI / 2021 / | doc |
 | `Z7BAJP` | Desarrollo y gestión interculturales FFyL 2022 | doc |
@@ -153,6 +153,7 @@
 | `LNY5TG` | Ingeniería quimica FESZ 2022 | doc |
 | `MAC4X6` | Relaciones internacionales SUA FES ARAGÓN 2023 | doc |
 | `JV4M3U` | 2025 | doc |
+| `NQYJ5W` | Ingeniería Mecánica FES Aragón | doc |
 | `6DT6SY` | 2027 | doc |
 | `PZBGYV` | 2024 | doc |
 | `4VP5BY` | Ingeniería de Minas FI 2015 | doc |

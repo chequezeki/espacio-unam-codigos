@@ -29,6 +29,7 @@
 | `8HY6EJ` | Biología | doc |
 | `ABK4DC` | Biología | doc |
 | `H4CMXL` | Biología | doc |
+| `XLB7Z2` | Biología | doc |
 | `AKASBM` | Ciencias de la Computación | doc |
 | `C5WC8U` | Ciencias de la Computación | doc |
 | `YBCTES` | Ciencias de la Computación | doc |
@@ -39,6 +40,7 @@
 | `DBFAJH` | Ciencias de la Computación | doc |
 | `NWG754` | Ciencias de la Computación | doc |
 | `QFJ94L` | Ciencias de la Computación | doc |
+| `EGJGMB` | Ciencias de la Computación | doc |
 | `5C9MQ9` | Ciencias de la Tierra | doc |
 | `D6ZCHZ` | Ciencias de la Tierra | doc |
 | `5WL3J2` | Física | doc |
@@ -110,6 +112,7 @@
 | `BPGFSP` | Ingeniería en Computación | doc |
 | `ELUYC2` | Ingeniería en Computación | doc |
 | `95Y7HN` | Ingeniería en Computación | doc |
+| `EGJGMB` | Ingeniería en Computación | doc |
 | `BLL2CA` | Ingeniería en Sistemas Biomédicos | doc |
 | `QBHNZB` | Ingeniería en Sistemas Biomédicos | doc |
 | `8H46ZM` | Ingeniería en Sistemas Biomédicos | doc |
@@ -126,6 +129,7 @@
 | `XH49V6` | Ingeniería Geofísica | doc |
 | `5WJBJF` | Ingeniería Geofísica | doc |
 | `EHKDLJ` | Ingeniería Geofísica | doc |
+| `6YPU7Z` | Ingeniería Geofísica | doc |
 | `TVSXD8` | Ingeniería Geológica | doc |
 | `MKKV83` | Ingeniería Geológica | doc |
 | `7V69QX` | Ingeniería Geológica | doc |
@@ -199,6 +203,7 @@
 | `S6FD5B` | Urbanismo | doc |
 | `5YLFA4` | Urbanismo | doc |
 | `WZ6CAL` | Urbanismo | doc |
+| `KWWL4T` | Urbanismo | doc |
 
 ## Facultad de Medicina
 
@@ -210,7 +215,6 @@
 | `3TGEAC` | Fisioterapia | doc |
 | `H388MB` | Fisioterapia | doc |
 | `G9HCLW` | Fisioterapia | doc |
-| `JXR8UW` | Investigación Biomédica Básica | doc |
 | `YB7DRB` | Investigación Biomédica Básica | doc |
 | `QKQC8H` | Investigación Biomédica Básica | doc |
 | `S7H7BF` | Investigación Biomédica Básica | doc |
@@ -341,6 +345,7 @@
 | `H9L5AJ` | Química Farmacéutico Biológica | doc |
 | `FZ33SX` | Química Farmacéutico Biológica | doc |
 | `S8LNQW` | Química Farmacéutico Biológica | doc |
+| `P5TDP6` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
 | `DNLR3P` | Trabajo Social | doc |
 | `VTPBQ4` | Trabajo Social | doc |
@@ -480,7 +485,6 @@
 | `JHCABD` | Políticas y Administración Pública | doc |
 | `YK4BPW` | Políticas y Administración Pública | doc |
 | `V7QEMW` | Políticas y Administración Pública | doc |
-| `PGPXPL` | Políticas y Administración Pública | doc |
 | `6DULNS` | Relaciones Internacionales | doc |
 | `NK254K` | Relaciones Internacionales | doc |
 | `S7HWRK` | Relaciones Internacionales | doc |
@@ -544,13 +548,9 @@
 | `B3FPGG` | Contaduría | doc |
 | `6VMRJF` | Contaduría | doc |
 | `EVKRFU` | Contaduría | doc |
+| `2AAE5B` | Informática | doc |
 | `CDPCQC` | Informática | doc |
 | `H3WUX3` | Informática | doc |
-| `CC9R43` | Informática | doc |
-| `F7WB4F` | Informática | doc |
-| `M46AEN` | Informática | doc |
-| `QUQ7A4` | Informática | doc |
-| `ZYQRC3` | Informática | doc |
 | `KGTXD3` | Negocios Internacionales | doc |
 | `9RE3VP` | Negocios Internacionales | doc |
 
@@ -575,7 +575,7 @@
 | `4YREGJ` | Diseño y Comunicación Visual | doc |
 | `SL5VWW` | Diseño y Comunicación Visual | doc |
 | `G8ZWJ9` | Diseño y Comunicación Visual | doc |
-| `GKBNW8` | Comunicación gráfica | doc |
+| `LR4WLT` | Diseño y Comunicación Visual | doc |
 
 ## Facultad de Economía
 
@@ -603,6 +603,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `UU6VPQ` | Derecho | doc |
 | `UFELAH` | Derecho | doc |
 | `JQZR96` | Derecho | doc |
 | `RD485C` | Derecho | doc |
@@ -617,7 +618,6 @@
 | `MJLUUU` | Derecho | doc |
 | `MTZ6TZ` | Derecho | doc |
 | `PV9QBS` | Derecho | doc |
-| `UU6VPQ` | Derecho | doc |
 | `232BCP` | Derecho | doc |
 | `GHCDJB` | Derecho | doc |
 | `CWY56V` | Derecho | doc |
@@ -642,10 +642,12 @@
 | `MJLUUU` | Derecho SUAYED | doc |
 | `74KTUS` | Derecho SUAYED | doc |
 | `7UGZTJ` | Derecho SUAYED | doc |
+| `UU6VPQ` | Derecho SUAYED | doc |
 | `YFF678` | Derecho SUAYED | doc |
 | `6S9FH3` | Derecho SUAYED | doc |
 | `CEB2F7` | Derecho SUAYED | doc |
 | `M8MRDM` | Derecho SUAYED | doc |
+| `XJ65S3` | Derecho SUAYED | doc |
 
 ## Facultad de Psicología
 
@@ -672,13 +674,13 @@
 | `ES34RL` | Psicología | doc |
 | `PFVZWY` | Psicología | doc |
 | `E3ADVA` | Psicología | doc |
-| `EMR2XF` | Psicología SUAyED | doc |
-| `U37TKR` | Psicología SUAyED | doc |
-| `UMZHHH` | Psicología SUAyED | doc |
-| `82H488` | Psicología SUAyED | doc |
-| `SUHQ7N` | Psicología SUAyED | doc |
-| `2G5REG` | Psicología SUAyED | doc |
-| `LVD3EW` | Psicología SUAyED | doc |
+| `EMR2XF` | Psicología SUA | doc |
+| `U37TKR` | Psicología SUA | doc |
+| `UMZHHH` | Psicología SUA | doc |
+| `82H488` | Psicología SUA | doc |
+| `SUHQ7N` | Psicología SUA | doc |
+| `2G5REG` | Psicología SUA | doc |
+| `LVD3EW` | Psicología SUA | doc |
 
 ## Facultad de Odontología
 

@@ -9,7 +9,6 @@
 | `BBUZSK` | CCH Azcapotzalco | doc |
 | `27SLUR` | CCH Azcapotzalco | doc |
 | `4JBFDU` | CCH Azcapotzalco | doc |
-| `PXH6BE` | CCH Azcapotzalco | doc |
 | `RC3V95` | CCH Naucalpan | doc |
 | `AMJL9T` | CCH Naucalpan | doc |
 | `JFYTD9` | CCH Vallejo | doc |

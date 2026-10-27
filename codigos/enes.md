@@ -32,6 +32,7 @@
 | `4THUMF` | Ingeniería Eléctrica y Electrónica | doc |
 | `8ZEKK9` | Ingeniería Eléctrica y Electrónica | doc |
 | `V569QT` | Ingeniería Eléctrica y Electrónica | doc |
+| `NQYJ5W` | Ingeniería en Computación | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
 | `V8VEEB` | Ingeniería en Computación | doc |
 | `DUQTLH` | Ingeniería en Computación | doc |
@@ -45,7 +46,6 @@
 | `U4S826` | Ingeniería en Computación | doc |
 | `FS9FAU` | Ingeniería en Computación | doc |
 | `8J76TG` | Ingeniería en Computación | doc |
-| `EGJGMB` | Ingeniería en Computación | doc |
 | `Z6NQMM` | Ingeniería Industrial | doc |
 | `NSZWUK` | Ingeniería Industrial | doc |
 | `JF5XLG` | Ingeniería Industrial | doc |
@@ -92,6 +92,7 @@
 | `UKWMB6` | Ingeniería Aeroespacial | doc |
 | `KLLK4N` | Ingeniería Aeroespacial | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
+| `NQYJ5W` | Ingeniería en Computación | doc |
 | `UDXDSE` | Ingeniería en Energías Renovables | doc |
 | `Q6PZ9U` | Ingeniería en Energías Renovables | doc |
 | `RJ863T` | Ingeniería en Energías Renovables | doc |
@@ -112,8 +113,7 @@
 | `JUJB7X` | Neuro | doc |
 | `Z3CBJ5` | Neuro | doc |
 | `KQHYGR` | Órtesis y Prótesis | doc |
-| `VK486N` | Psicología | doc |
-| `YXWY3C` | Psicología | doc |
+| `SWCUS3` | Psicología | doc |
 | `C79MXP` | Historia | doc |
 | `FNXSDN` | Historia | doc |
 | `W7PL3L` | Negocios Internacionales | doc |
@@ -124,10 +124,9 @@
 |---|---|---|
 | `2YCHDH` | Geociencias | doc |
 | `PMATBR` | Geociencias | doc |
-| `88RTJY` | Geociencias | doc |
+| `NQYJ5W` | Geociencias | doc |
 | `V32CE5` | Etnomusicología | doc |
 | `6TABQR` | Tecnologías para la Información en ciencias | doc |
-| `XBAWUN` | Ciencia de Materiales Sustentables | doc |
 | `58ZH4F` | Ciencias Ambientales | doc |
 | `863K8P` | Ecología | doc |
 | `G5ZJ2S` | Estudios Sociales y Gestión Local | doc |
@@ -154,6 +153,7 @@
 | `5VFXAG` | Administración | doc |
 | `VU4EAW` | Contaduría | doc |
 | `SUAW4X` | Contaduría | doc |
+| `2AAE5B` | Informática | doc |
 | `KR5R3H` | Informática | doc |
 | `VR3N9H` | Negocios Internacionales | doc |
 | `JH3PY7` | Negocios Internacionales | doc |

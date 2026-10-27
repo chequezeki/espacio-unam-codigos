@@ -77,6 +77,7 @@
 | `Z9D3BT` | Diseño Gráfico | doc |
 | `JE8MNE` | Enseñanza de Inglés ‘como Lengua Extranjera | doc |
 | `9UXLAZ` | Enseñanza de Francés como Lengua Extranjera | doc |
+| `TVPG8X` | Enseñanza de Francés como Lengua Extranjera | doc |
 | `G45DBK` | Enseñanza de Español como Lengua Extranjera | doc |
 | `T7EEMY` | Enseñanza de Español como Lengua Extranjera | doc |
 | `EDWUCZ` | Enseñanza de Español como Lengua Extranjera | doc |
@@ -140,6 +141,7 @@
 | `GR5YLN` | Ingeniería Civil | doc |
 | `QLNMF5` | Ingeniería Civil | doc |
 | `F783Q6` | Ingeniería Eléctrica y Electrónica | doc |
+| `2ST249` | Ingeniería en Computación | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
 | `V8VEEB` | Ingeniería en Computación | doc |
 | `DUQTLH` | Ingeniería en Computación | doc |
@@ -157,6 +159,7 @@
 | `NSZWUK` | Ingeniería Industrial | doc |
 | `JF5XLG` | Ingeniería Industrial | doc |
 | `Y9TEP9` | Ingeniería Industrial | doc |
+| `HBZN3T` | Pedagogía | doc |
 | `XTEJ8P` | Pedagogía | doc |
 | `GLWNDS` | Pedagogía | doc |
 | `TTHKXZ` | Pedagogía | doc |
@@ -266,6 +269,7 @@
 | `VZDJGS` | Contaduría | doc |
 | `4U5RXW` | Contaduría | doc |
 | `TXR9C2` | Contaduría | doc |
+| `2AAE5B` | Informática | doc |
 | `E7REA4` | Informática | doc |
 | `CQ4TYX` | Informática | doc |
 | `GKBNW8` | Comunicación gráfica | doc |
@@ -392,6 +396,8 @@
 | `RP824B` | Química Farmacéutica Biológica | doc |
 | `AVJUJF` | Química Farmacéutica Biológica | doc |
 | `T6DEYV` | Química Farmacéutica Biológica | doc |
+| `P5TDP6` | Química Farmacéutica Biológica | doc |
+| `LDJN7P` | Cirujano dentista | doc |
 | `QQN4JV` | Cirujano dentista | doc |
 | `MTW6EY` | Cirujano dentista | doc |
 | `AARUZQ` | Cirujano dentista | doc |
