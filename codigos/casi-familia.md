@@ -355,6 +355,7 @@
 | `4JQBNS` | Granados | doc |
 | `PFMXND` | Granados | doc |
 | `8PTA9A` | Guadarrama | doc |
+| `UUNN5X` | Guarneros | doc |
 | `SZZ6RB` | Guapilla | doc |
 | `SSGL8J` | Guerra | doc |
 | `4QSM4X` | Guerrero | doc |
@@ -414,6 +415,7 @@
 | `PKJWXH` | Karsten | doc |
 | `U4SC6Q` | Karyme | doc |
 | `FNEAB4` | Kevin | doc |
+| `AUB6XJ` | Kendra | doc |
 | `PYADLG` | Laguna | doc |
 | `Z6NQMM` | Lagunas | doc |
 | `XLB7Z2` | Landa | doc |
@@ -519,6 +521,7 @@
 | `XP4SYA` | Mendoza | doc |
 | `FDRDFV` | Méndez | doc |
 | `YTGL83` | Méndez | doc |
+| `WMWPYR` | Mendoza | doc |
 | `CSSVLE` | Mendiola | doc |
 | `JW9PBR` | Mendizábal | doc |
 | `FENCHJ` | Mendivil | doc |
@@ -652,10 +655,11 @@
 | `JLCAW9` | Perfecto | doc |
 | `44UQUR` | Pedro | doc |
 | `BGY7UX` | Peña | doc |
-| `WALUUQ` | Piedra | doc |
+| `HNELMV` | Peza | doc |
 | `EGV5ZC` | Peñaloza | doc |
 | `5KDYK6` | Pichardo | doc |
 | `NQQBE5` | Pineda | doc |
+| `WALUUQ` | Piedra | doc |
 | `ULFNRU` | Pineda | doc |
 | `7LX92Y` | Pinto | doc |
 | `BP8YXK` | Piñón | doc |
@@ -668,6 +672,7 @@
 | `4HU2PV` | Pozos | doc |
 | `AQ3GS6` | Prado | doc |
 | `ZEWEKJ` | Priego | doc |
+| `HTZ424` | Puebla | doc |
 | `5FT2AY` | Puebla | doc |
 | `8B7Y8P` | Pulido | doc |
 | `QFDGGC` | Palmillas | doc |
@@ -875,6 +880,7 @@
 | `D9GXLV` | Villalobos | doc |
 | `7V69QX` | Villalobos | doc |
 | `MB8M3H` | Villalon | doc |
+| `KFWUSC` | Villanueva | doc |
 | `MDTK49` | Villaseñor | doc |
 | `Q92CDU` | Villaseñor | doc |
 | `4QRXH7` | Villaseñor | doc |

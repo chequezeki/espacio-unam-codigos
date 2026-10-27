@@ -4,6 +4,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `76P6V4` | Agréguenme bachillerato en línea plssss 😞😞 | doc |
 | `JEYZRQ` | Agreguenme bachillerato en línea por favor!! | doc |
 | `HGGMCD` | Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla | doc |
 | `JW9PBR` | Paro | doc |
@@ -98,6 +99,7 @@
 | `DH5LMV` | Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agr c | doc |
 | `VK486N` | BACHILLERATOO Y COSMETICA POR FIII | doc |
 | `DJUVN4` | BACHILLERATOO Y COSMETICA POR FIII | doc |
+| `VU4EAW` | Personita de Bachillerato a Distancia, agrégame por favor 𖹭 | doc |
 | `XVETTP` | > | doc |
 | `TFX6ZG` | > | doc |
 | `ZAT8R9` | > | doc |

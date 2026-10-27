@@ -16,6 +16,8 @@
 | `BASB5W` | Relaciones Internacionales SUA/ GEN 2021 | doc |
 | `VPRKQA` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2023 | doc |
 | `6HAJFC` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2024 | doc |
+| `3EADS3` | DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024 | doc |
+| `AUB6XJ` | DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024 | doc |
 | `JAJAFK` | PSICOLOGÍA/Facultad de Estudios Superiores Iztacala / 2024 | doc |
 | `2G5REG` | PSICOLOGÍA SUAyED /Facultad de Estudios Superiores Iztacala / 2024 | doc |
 | `A9U467` | BIOLOGÍA/FACULTAD DE ESTUDIOS SUPERIORES IZTACALA/2019 | doc |
@@ -150,6 +152,7 @@
 | `TUKWSQ` | Ing Civil FI / 2021 / | doc |
 | `Z7BAJP` | Desarrollo y gestión interculturales FFyL 2022 | doc |
 | `74MYW8` | Diseño y Comunicación Visual FAD 2021 | doc |
+| `AUB6XJ` | Diseño y Comunicación Visual FAD 2021 | doc |
 | `LNY5TG` | Ingeniería quimica FESZ 2022 | doc |
 | `MAC4X6` | Relaciones internacionales SUA FES ARAGÓN 2023 | doc |
 | `JV4M3U` | 2025 | doc |

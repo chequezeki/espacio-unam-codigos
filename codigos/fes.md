@@ -49,7 +49,7 @@
 | `APSHVP` | Derecho | doc |
 | `XEJ383` | Derecho | doc |
 | `Q8294S` | Derecho | doc |
-| `7FQ738` | Derecho | doc |
+| `METDCV` | Derecho | doc |
 | `CY5CX8` | Derecho | doc |
 | `E92887` | Derecho | doc |
 | `MP7Y6M` | Derecho sua | doc |
@@ -304,11 +304,8 @@
 | `7HQ8FR` | Médico Cirujano | doc |
 | `M6Q9JV` | Médico Cirujano | doc |
 | `92B2W3` | Médico Cirujano | doc |
-| `H9HPEM` | Cirujano Dentista | doc |
-| `74JVX7` | Cirujano Dentista | doc |
-| `MEB379` | Cirujano Dentista | doc |
-| `KJ6ZGE` | Cirujano Dentista | doc |
 | `HENQS4` | Cirujano Dentista | doc |
+| `74JVX7` | Cirujano Dentista | doc |
 | `JKTGSW` | Optometría | doc |
 | `H8CZP8` | Optometría | doc |
 | `PZ3X8E` | Optometría | doc |

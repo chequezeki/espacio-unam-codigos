@@ -52,6 +52,7 @@
 | `VVZKGP` | ENERO | doc |
 | `ZTAQVJ` | ENERO | doc |
 | `8NZHFL` | ENERO | doc |
+| `6CRCR2` | FEBRERO | doc |
 | `GTTYS2` | FEBRERO | doc |
 | `GFE3DQ` | FEBRERO | doc |
 | `Z42WRW` | FEBRERO | doc |
@@ -396,6 +397,7 @@
 | `8JH9PL` | NOVIEMBRE | doc |
 | `VG39JT` | NOVIEMBRE | doc |
 | `6MURMS` | NOVIEMBRE | doc |
+| `3EADS3` | NOVIEMBRE | doc |
 | `NQYJ5W` | DICIEMBRE | doc |
 | `Y6352H` | DICIEMBRE | doc |
 | `UU6VPQ` | DICIEMBRE | doc |
@@ -496,12 +498,14 @@
 | `CM8RT8` | Ciudad de México | doc |
 | `HAAYEY` | Ciudad de México | doc |
 | `UU6VPQ` | Ciudad de México | doc |
+| `LX6WZD` | Ciudad de México | doc |
 | `Y2S7KV` | Coahuila | doc |
 | `WSSGKM` | Coahuila | doc |
 | `79U7RY` | Colima | doc |
 | `VUELXG` | Durango | doc |
 | `RJ863T` | Durango | doc |
 | `VG39JT` | Durango | doc |
+| `6CRCR2` | Estado de México | doc |
 | `JV4M3U` | Estado de México | doc |
 | `27YHVB` | Estado de México | doc |
 | `SPMU3V` | Estado de México | doc |

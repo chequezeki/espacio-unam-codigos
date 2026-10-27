@@ -11,7 +11,6 @@
 | `SYGFBM` | Desarrollo territorial | doc |
 | `XT3Z2W` | Economía Industrial | doc |
 | `H8W2VQ` | Economía Industrial | doc |
-| `MZA7HY` | Relaciones Internacionales | doc |
 | `NLX7FH` | Turismo y Desarrollo Sostenible | doc |
 | `YG3PZF` | Turismo y Desarrollo Sostenible | doc |
 | `L92K5P` | Turismo y Desarrollo Sostenible | doc |
@@ -74,6 +73,7 @@
 | `PZBGYV` | Ingeniería Mecánica | doc |
 | `Q25JJU` | Ingeniería Mecánica | doc |
 | `A6QH5Y` | Relaciones Internacionales | doc |
+| `MZA7HY` | Relaciones Internacionales | doc |
 | `8AH8Y9` | Relaciones Internacionales | doc |
 | `B32HHM` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |

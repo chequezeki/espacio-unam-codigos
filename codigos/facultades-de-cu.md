@@ -246,6 +246,7 @@
 | `GTMTH9` | Médico Cirujano | doc |
 | `HLTR92` | Médico Cirujano | doc |
 | `BTJWYA` | Médico Cirujano | doc |
+| `37SGX9` | Médico Cirujano | doc |
 | `S6K38H` | Neuro | doc |
 | `U7FQVT` | Neuro | doc |
 
@@ -396,6 +397,7 @@
 | `865U4C` | Lengua y Literaturas Modernas Francesas | doc |
 | `3GEXKK` | Lengua y Literaturas Modernas Francesas | doc |
 | `XEMANH` | Lengua y Literaturas Modernas Francesas | doc |
+| `H47GVV` | Lengua y Literaturas Modernas Francesas | doc |
 | `DBT5GV` | Lengua y Literaturas Modernas Alemanas | doc |
 | `MZZQ3K` | Lengua y Literaturas Modernas Inglesas | doc |
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |

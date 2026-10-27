@@ -58,7 +58,6 @@ ARWJMZ,ENES,ENES León,Administración Agropecuária
 SYGFBM,ENES,ENES León,Desarrollo territorial
 XT3Z2W,ENES,ENES León,Economía Industrial
 H8W2VQ,ENES,ENES León,Economía Industrial
-MZA7HY,ENES,ENES León,Relaciones Internacionales
 NLX7FH,ENES,ENES León,Turismo y Desarrollo Sostenible
 YG3PZF,ENES,ENES León,Turismo y Desarrollo Sostenible
 L92K5P,ENES,ENES León,Turismo y Desarrollo Sostenible
@@ -121,6 +120,7 @@ JPYYZ2,ENES,ENES León,Ingeniería Mecánica
 PZBGYV,ENES,ENES León,Ingeniería Mecánica
 Q25JJU,ENES,ENES León,Ingeniería Mecánica
 A6QH5Y,ENES,ENES León,Relaciones Internacionales
+MZA7HY,ENES,ENES León,Relaciones Internacionales
 8AH8Y9,ENES,ENES León,Relaciones Internacionales
 B32HHM,ENES,ENES León,Sociología
 EZLREM,ENES,ENES León,Derecho Sua
@@ -244,7 +244,7 @@ ZZ6AE3,FES,FES Acatlán,Derecho
 APSHVP,FES,FES Acatlán,Derecho
 XEJ383,FES,FES Acatlán,Derecho
 Q8294S,FES,FES Acatlán,Derecho
-7FQ738,FES,FES Acatlán,Derecho
+METDCV,FES,FES Acatlán,Derecho
 CY5CX8,FES,FES Acatlán,Derecho
 E92887,FES,FES Acatlán,Derecho
 MP7Y6M,FES,FES Acatlán,Derecho sua
@@ -484,11 +484,8 @@ HXYHZQ,FES,FES Iztacala,Enfermería
 7HQ8FR,FES,FES Iztacala,Médico Cirujano
 M6Q9JV,FES,FES Iztacala,Médico Cirujano
 92B2W3,FES,FES Iztacala,Médico Cirujano
-H9HPEM,FES,FES Iztacala,Cirujano Dentista
-74JVX7,FES,FES Iztacala,Cirujano Dentista
-MEB379,FES,FES Iztacala,Cirujano Dentista
-KJ6ZGE,FES,FES Iztacala,Cirujano Dentista
 HENQS4,FES,FES Iztacala,Cirujano Dentista
+74JVX7,FES,FES Iztacala,Cirujano Dentista
 JKTGSW,FES,FES Iztacala,Optometría
 H8CZP8,FES,FES Iztacala,Optometría
 PZ3X8E,FES,FES Iztacala,Optometría
@@ -800,6 +797,7 @@ AX92JQ,Facultades de CU,Facultad de Medicina,Médico Cirujano
 GTMTH9,Facultades de CU,Facultad de Medicina,Médico Cirujano
 HLTR92,Facultades de CU,Facultad de Medicina,Médico Cirujano
 BTJWYA,Facultades de CU,Facultad de Medicina,Médico Cirujano
+37SGX9,Facultades de CU,Facultad de Medicina,Médico Cirujano
 S6K38H,Facultades de CU,Facultad de Medicina,Neuro
 U7FQVT,Facultades de CU,Facultad de Medicina,Neuro
 4QSM4X,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Medicina Veterinaria y Zootecnia
@@ -930,6 +928,7 @@ AB3MHG,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Mod
 865U4C,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Francesas
 3GEXKK,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Francesas
 XEMANH,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Francesas
+H47GVV,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Francesas
 DBT5GV,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Alemanas
 MZZQ3K,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Inglesas
 VECKTJ,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Inglesas
@@ -1353,6 +1352,7 @@ FSZLZC,Tocayo,,Audrie
 WPAY3K,Tocayo,,Aura
 XRRLDC,Tocayo,,Aurea
 75DVYC,Tocayo,,Aurora
+Y7ZM9H,Tocayo,,Aury
 RWKVVL,Tocayo,,Avril
 YURFCE,Tocayo,,Axel
 QVC32M,Tocayo,,Axel
@@ -1419,6 +1419,7 @@ NYHVEN,Tocayo,,Citlalli
 PQ2FWE,Tocayo,,Claudia
 NWG754,Tocayo,,Claudia
 HU9HCY,Tocayo,,Constanza
+KFWUSC,Tocayo,,Constanza
 GHCDJB,Tocayo,,Cristal
 X5S4VQ,Tocayo,,Cristal
 TRAGDN,Tocayo,,Cristal
@@ -1779,6 +1780,7 @@ ZR8YJF,Tocayo,,Kim
 24K8R8,Tocayo,,Kitzia
 HVZSUK,Tocayo,,Kevin
 8GHZQ5,Tocayo,,Karime
+AUB6XJ,Tocayo,,Kendra
 EBC862,Tocayo,,Laila
 2WFKWY,Tocayo,,Lainy
 6HAJFC,Tocayo,,Laura
@@ -1939,6 +1941,7 @@ QCDXFG,Tocayo,,Nayely
 FX9WHN,Tocayo,,Nayla
 G5M54T,Tocayo,,Nelly
 L92K5P,Tocayo,,Nelly
+UUNN5X,Tocayo,,N
 NEARSC,Tocayo,,Neydan
 NBRR47,Tocayo,,Neylan
 SHYLDR,Tocayo,,Nicolas
@@ -2025,6 +2028,7 @@ WLWZ6P,Tocayo,,Rosa
 3UNCXG,Tocayo,,Rosa
 ADBZNZ,Tocayo,,Rosalba
 4QRXH7,Tocayo,,Rosendo
+YM9HJ3,Tocayo,,Rosaura
 L5GPBK,Tocayo,,Safir
 Q2432U,Tocayo,,Said
 PYADLG,Tocayo,,Salvador
@@ -2059,6 +2063,7 @@ P8AEN8,Tocayo,,Sharon
 F5TN2H,Tocayo,,Sharon
 BYF2UV,Tocayo,,Sheccid
 R6YX47,Tocayo,,Sheyla
+WMWPYR,Tocayo,,Seth
 4HU2PV,Tocayo,,Silvia
 9ZHNXC,Tocayo,,Sofía
 MTXZ58,Tocayo,,Sofía
@@ -2123,6 +2128,7 @@ LGRZ65,Tocayo,,Yaelih
 HKDG94,Tocayo,,Yahel
 8DVQXG,Tocayo,,Yahir
 BU3BHP,Tocayo,,Yamil
+AUB6XJ,Tocayo,,Yamile
 RSJUH3,Tocayo,,Yaneli
 73VSTT,Tocayo,,Yanine
 QXC39N,Tocayo,,Yaotli
@@ -2512,6 +2518,7 @@ XXYX8U,Casi familia,,Granados
 4JQBNS,Casi familia,,Granados
 PFMXND,Casi familia,,Granados
 8PTA9A,Casi familia,,Guadarrama
+UUNN5X,Casi familia,,Guarneros
 SZZ6RB,Casi familia,,Guapilla
 SSGL8J,Casi familia,,Guerra
 4QSM4X,Casi familia,,Guerrero
@@ -2571,6 +2578,7 @@ AQRPXV,Casi familia,,Jurado
 PKJWXH,Casi familia,,Karsten
 U4SC6Q,Casi familia,,Karyme
 FNEAB4,Casi familia,,Kevin
+AUB6XJ,Casi familia,,Kendra
 PYADLG,Casi familia,,Laguna
 Z6NQMM,Casi familia,,Lagunas
 XLB7Z2,Casi familia,,Landa
@@ -2676,6 +2684,7 @@ UJ6HJA,Casi familia,,Mendoza
 XP4SYA,Casi familia,,Mendoza
 FDRDFV,Casi familia,,Méndez
 YTGL83,Casi familia,,Méndez
+WMWPYR,Casi familia,,Mendoza
 CSSVLE,Casi familia,,Mendiola
 JW9PBR,Casi familia,,Mendizábal
 FENCHJ,Casi familia,,Mendivil
@@ -2809,10 +2818,11 @@ G9HCLW,Casi familia,,Pérez
 JLCAW9,Casi familia,,Perfecto
 44UQUR,Casi familia,,Pedro
 BGY7UX,Casi familia,,Peña
-WALUUQ,Casi familia,,Piedra
+HNELMV,Casi familia,,Peza
 EGV5ZC,Casi familia,,Peñaloza
 5KDYK6,Casi familia,,Pichardo
 NQQBE5,Casi familia,,Pineda
+WALUUQ,Casi familia,,Piedra
 ULFNRU,Casi familia,,Pineda
 7LX92Y,Casi familia,,Pinto
 BP8YXK,Casi familia,,Piñón
@@ -2825,6 +2835,7 @@ PV9QBS,Casi familia,,Pozos
 4HU2PV,Casi familia,,Pozos
 AQ3GS6,Casi familia,,Prado
 ZEWEKJ,Casi familia,,Priego
+HTZ424,Casi familia,,Puebla
 5FT2AY,Casi familia,,Puebla
 8B7Y8P,Casi familia,,Pulido
 QFDGGC,Casi familia,,Palmillas
@@ -3032,6 +3043,7 @@ Z8YBVP,Casi familia,,Vilchis
 D9GXLV,Casi familia,,Villalobos
 7V69QX,Casi familia,,Villalobos
 MB8M3H,Casi familia,,Villalon
+KFWUSC,Casi familia,,Villanueva
 MDTK49,Casi familia,,Villaseñor
 Q92CDU,Casi familia,,Villaseñor
 4QRXH7,Casi familia,,Villaseñor
@@ -3108,6 +3120,7 @@ W57TBG,Pastel compartido,,ENERO
 VVZKGP,Pastel compartido,,ENERO
 ZTAQVJ,Pastel compartido,,ENERO
 8NZHFL,Pastel compartido,,ENERO
+6CRCR2,Pastel compartido,,FEBRERO
 GTTYS2,Pastel compartido,,FEBRERO
 GFE3DQ,Pastel compartido,,FEBRERO
 Z42WRW,Pastel compartido,,FEBRERO
@@ -3452,6 +3465,7 @@ M3XBS3,Pastel compartido,,NOVIEMBRE
 8JH9PL,Pastel compartido,,NOVIEMBRE
 VG39JT,Pastel compartido,,NOVIEMBRE
 6MURMS,Pastel compartido,,NOVIEMBRE
+3EADS3,Pastel compartido,,NOVIEMBRE
 NQYJ5W,Pastel compartido,,DICIEMBRE
 Y6352H,Pastel compartido,,DICIEMBRE
 UU6VPQ,Pastel compartido,,DICIEMBRE
@@ -3552,12 +3566,14 @@ TVGL8J,Pastel compartido,,Ciudad de México
 CM8RT8,Pastel compartido,,Ciudad de México
 HAAYEY,Pastel compartido,,Ciudad de México
 UU6VPQ,Pastel compartido,,Ciudad de México
+LX6WZD,Pastel compartido,,Ciudad de México
 Y2S7KV,Pastel compartido,,Coahuila
 WSSGKM,Pastel compartido,,Coahuila
 79U7RY,Pastel compartido,,Colima
 VUELXG,Pastel compartido,,Durango
 RJ863T,Pastel compartido,,Durango
 VG39JT,Pastel compartido,,Durango
+6CRCR2,Pastel compartido,,Estado de México
 JV4M3U,Pastel compartido,,Estado de México
 27YHVB,Pastel compartido,,Estado de México
 SPMU3V,Pastel compartido,,Estado de México
@@ -3654,6 +3670,7 @@ B63GTY,Casi gemelos,Enero,2
 H7GEQM,Casi gemelos,Enero,3
 LKAE3D,Casi gemelos,Enero,3
 G73Z9E,Casi gemelos,Enero,4
+AUB6XJ,Casi gemelos,Enero,4
 W4MVK9,Casi gemelos,Enero,5
 9R45UR,Casi gemelos,Enero,6 T4MZ7UF
 45KGQP,Casi gemelos,Enero,8
@@ -3694,6 +3711,7 @@ J5HYY2,Casi gemelos,Febrero,3
 GFE3DQ,Casi gemelos,Febrero,4
 BTHEFM,Casi gemelos,Febrero,4
 6VMRJF,Casi gemelos,Febrero,5
+LX6WZD,Casi gemelos,Febrero,5
 RBKH65,Casi gemelos,Febrero,6
 DUKA2D,Casi gemelos,Febrero,7
 SHYLDR,Casi gemelos,Febrero,8
@@ -3788,6 +3806,7 @@ Y56JTV,Casi gemelos,Marzo,15
 TQFRKA,Casi gemelos,Marzo,16
 VF68YX,Casi gemelos,Marzo,17
 BP8YXK,Casi gemelos,Marzo,21
+F9TZFU,Casi gemelos,Marzo,23
 EC4755,Casi gemelos,Marzo,24
 KCVYLX,Casi gemelos,Marzo,25
 WESCS2,Casi gemelos,Marzo,25
@@ -4034,6 +4053,8 @@ AJ8KGJ,Compa de banca,,Relaciones Internacionales/ GEN 2020
 BASB5W,Compa de banca,,Relaciones Internacionales SUA/ GEN 2021
 VPRKQA,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2023
 6HAJFC,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2024
+3EADS3,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024
+AUB6XJ,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024
 JAJAFK,Compa de banca,,PSICOLOGÍA/Facultad de Estudios Superiores Iztacala / 2024
 2G5REG,Compa de banca,,PSICOLOGÍA SUAyED /Facultad de Estudios Superiores Iztacala / 2024
 A9U467,Compa de banca,,BIOLOGÍA/FACULTAD DE ESTUDIOS SUPERIORES IZTACALA/2019
@@ -4168,6 +4189,7 @@ LADR7U,Compa de banca,,/ARAGON/2025
 TUKWSQ,Compa de banca,,Ing Civil FI / 2021 /
 Z7BAJP,Compa de banca,,Desarrollo y gestión interculturales FFyL 2022
 74MYW8,Compa de banca,,Diseño y Comunicación Visual FAD 2021
+AUB6XJ,Compa de banca,,Diseño y Comunicación Visual FAD 2021
 LNY5TG,Compa de banca,,Ingeniería quimica FESZ 2022
 MAC4X6,Compa de banca,,Relaciones internacionales SUA FES ARAGÓN 2023
 JV4M3U,Compa de banca,,2025
@@ -4187,6 +4209,7 @@ Z9D3BT,Compa de banca,,2023
 YJ3MH8,Compa de banca,,che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi
 MJLUUU,Otros,,
 NSGN8U,Otros,,
+76P6V4,Anuncios de la comunidad,,Agréguenme bachillerato en línea plssss 😞😞
 JEYZRQ,Anuncios de la comunidad,,Agreguenme bachillerato en línea por favor!!
 HGGMCD,Anuncios de la comunidad,,"Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla"
 JW9PBR,Anuncios de la comunidad,,Paro
@@ -4281,6 +4304,7 @@ X3DZYF,Anuncios de la comunidad,,Amiguit@ de bachillerato a distancia; agregame
 DH5LMV,Anuncios de la comunidad,,"Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agr c"
 VK486N,Anuncios de la comunidad,,BACHILLERATOO Y COSMETICA POR FIII
 DJUVN4,Anuncios de la comunidad,,BACHILLERATOO Y COSMETICA POR FIII
+VU4EAW,Anuncios de la comunidad,,"Personita de Bachillerato a Distancia, agrégame por favor 𖹭"
 XVETTP,Anuncios de la comunidad,,>
 TFX6ZG,Anuncios de la comunidad,,>
 ZAT8R9,Anuncios de la comunidad,,>
