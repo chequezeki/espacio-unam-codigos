@@ -127,6 +127,8 @@
 | `W9THGT` | 2CSXD | doc |
 | `HAAYEY` | 2CSXD | doc |
 | `JEYZRQ` | 2CSXD | doc |
+| `3UA93V` | 2CSXD | doc |
+| `2AVJJ6` | 2CSXD | doc |
 | `Z2PFT2` | ABRIL | doc |
 | `QVC32M` | ABRIL | doc |
 | `HR5TVK` | ABRIL | doc |
@@ -188,6 +190,7 @@
 | `8GHZQ5` | MAYO GVALGQ | doc |
 | `YTGL83` | MAYO GVALGQ | doc |
 | `MRAV79` | MAYO GVALGQ | doc |
+| `WJH8ME` | MAYO GVALGQ | doc |
 | `CEB2F7` | JUNIO | doc |
 | `4QSM4X` | JUNIO | doc |
 | `7M3MNC` | JUNIO | doc |
@@ -341,6 +344,7 @@
 | `WPWR7B` | ' | doc |
 | `ZTQ9QP` | ' | doc |
 | `EGRGG2` | ' | doc |
+| `UAW9AA` | ' | doc |
 | `ESN8G3` | OCTUBRE | doc |
 | `8C9ST8` | OCTUBRE | doc |
 | `TZ3CU6` | OCTUBRE | doc |
@@ -358,6 +362,8 @@
 | `3SPJYT` | OCTUBRE | doc |
 | `T6DEYV` | OCTUBRE | doc |
 | `92B2W3` | OCTUBRE | doc |
+| `SDPBTV` | OCTUBRE | doc |
+| `ZAX4D8` | OCTUBRE | doc |
 | `2K9FK5` | NOVIEMBRE | doc |
 | `CBU3CE` | NOVIEMBRE | doc |
 | `JL85MQ` | NOVIEMBRE | doc |
@@ -500,11 +506,9 @@
 | `UU6VPQ` | Ciudad de México | doc |
 | `LX6WZD` | Ciudad de México | doc |
 | `Y2S7KV` | Coahuila | doc |
-| `WSSGKM` | Coahuila | doc |
 | `79U7RY` | Colima | doc |
 | `VUELXG` | Durango | doc |
-| `RJ863T` | Durango | doc |
-| `VG39JT` | Durango | doc |
+| `VG39JT` | RJ863WSSGKMT | doc |
 | `6CRCR2` | Estado de México | doc |
 | `JV4M3U` | Estado de México | doc |
 | `27YHVB` | Estado de México | doc |
@@ -538,6 +542,9 @@
 | `8GHZQ5` | Estado de México | doc |
 | `92B2W3` | Estado de México | doc |
 | `82H488` | Estado de México | doc |
+| `2AVJJ6` | Estado de México | doc |
+| `WJH8ME` | Estado de México | doc |
+| `ZAX4D8` | Estado de México | doc |
 | `ZFHZNJ` | Guanajuato | doc |
 | `4QQA2Z` | Guanajuato | doc |
 | `CYSVAV` | Guanajuato | doc |
@@ -555,7 +562,6 @@
 | `PW5KSH` | Michoacán | doc |
 | `DGSDUJ` | Morelos | doc |
 | `6EJ8H5` | Morelos | doc |
-| `T9F732` | Morelos | doc |
 | `K334YB` | Nayarit | doc |
 | `SCFY3G` | Nuevo León | doc |
 | `3C9YXF` | Nuevo León | doc |

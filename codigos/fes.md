@@ -258,6 +258,7 @@
 | `XAYS2Y` | Ingeniería química | doc |
 | `3C99SZ` | Farmacia | doc |
 | `VUGKWY` | Farmacia | doc |
+| `VBL7L6` | Farmacia | doc |
 | `K9W559` | Química Industrial | doc |
 | `N3MF6K` | Química Industrial | doc |
 | `FTJ9YB` | Química Industrial | doc |
@@ -316,6 +317,7 @@
 | `668YW9` | Psicología | doc |
 | `7WX85K` | Psicología | doc |
 | `9P4JYG` | Psicología | doc |
+| `KN6UYX` | Psicología | doc |
 | `HZ6A9Z` | Psicología SUAyED | doc |
 | `5WHRX6` | Psicología SUAyED | doc |
 | `BYF2UV` | Psicología SUAyED | doc |
@@ -369,6 +371,7 @@
 | `XLWSAA` | Psicología | doc |
 | `4HU2PV` | Psicología | doc |
 | `E3ADVA` | Psicología | doc |
+| `WJH8ME` | Psicología | doc |
 | `54TU4U` | Desarrollo Comunitario para el Envejecimiento | doc |
 | `6R89TY` | Desarrollo Comunitario para el Envejecimiento | doc |
 | `T7EPF6` | Desarrollo Comunitario para el Envejecimiento | doc |

@@ -90,7 +90,7 @@
 | `L3CJV6` | Ciencias de la Tierra | doc |
 | `EMXTCA` | Ingeniería Aeroespacial | doc |
 | `UKWMB6` | Ingeniería Aeroespacial | doc |
-| `KLLK4N` | Ingeniería Aeroespacial | doc |
+| `KLLK4N` | — | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
 | `NQYJ5W` | Ingeniería en Computación | doc |
 | `UDXDSE` | Ingeniería en Energías Renovables | doc |
@@ -128,7 +128,6 @@
 | `V32CE5` | Etnomusicología | doc |
 | `6TABQR` | Tecnologías para la Información en ciencias | doc |
 | `58ZH4F` | Ciencias Ambientales | doc |
-| `863K8P` | Ecología | doc |
 | `G5ZJ2S` | Estudios Sociales y Gestión Local | doc |
 | `HL67XM` | Administración | doc |
 | `2C99TJ` | Administración | doc |

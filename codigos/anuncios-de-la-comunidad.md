@@ -4,6 +4,9 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `XC56EV` | Agreguen porfa | doc |
+| `VU4EAW` | Pasen código de Startup, Sistema Abierto y Bachillerato a Distancia pleaseee, soy ENES Oax | doc |
+| `BJLWBE` | — | doc |
 | `76P6V4` | Agréguenme bachillerato en línea plssss 😞😞 | doc |
 | `JEYZRQ` | Agreguenme bachillerato en línea por favor!! | doc |
 | `HGGMCD` | Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla | doc |
@@ -11,7 +14,9 @@
 | `ER4UV5` | hola, agregame pls personitx de bachillerato a distancia | doc |
 | `96DD2T` | Por favor agregame compañerit@ de Bachillerato a Distancia | doc |
 | `G9HCLW` | Agreguenme bachillerato en línea por favor!! | doc |
+| `3UA93V` | Yo también quiero amigos de bachillerato en línea | doc |
 | `3UNCXG` | PORFIIIII AMIG@ | doc |
+| `QV68T9` | Agreguenme bachillerato en línea por favor!! | doc |
 | `75CQF3` | Agreguenmeeeeee bachillerato en línea, paro | doc |
 | `WZ73LP` | — | doc |
 | `TJBK73` | Solo m faltas tu bachillerato a distanciaaa | doc |
@@ -376,3 +381,4 @@
 | `P5TDP6` | BACHILLERATO EN LÍNEA, XFA | doc |
 | `KEGKRZ` | — | doc |
 | `FPN8E4` | Agreguen porfaaa | doc |
+| `QV68T9` | AGRÉGUENME BACHILLERATO EN LÍNEA POR FAVOR | doc |

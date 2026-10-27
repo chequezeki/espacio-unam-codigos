@@ -34,6 +34,7 @@
 | `HERGCA` | Alvaro | doc |
 | `8ALFYC` | Amador | doc |
 | `F783Q6` | Ambrocio | doc |
+| `FWAU7T` | Amezquita | doc |
 | `YG3PZF` | Angel | doc |
 | `K4ARRF` | Andrade | doc |
 | `E882BB` | Aguilar | doc |
@@ -52,6 +53,7 @@
 | `T2MUUG` | Araiza | doc |
 | `9BLSUT` | Arrazola | doc |
 | `ZGABW3` | Arredondo | doc |
+| `3UA93V` | Arreola | doc |
 | `D8VY2V` | Arrieta | doc |
 | `WVBJN2` | Aparicio | doc |
 | `49ACHB` | Avalos | doc |
@@ -86,6 +88,7 @@
 | `5N5AAH` | Banda | doc |
 | `QQ9PAN` | Bandera | doc |
 | `7LX92Y` | Bandin | doc |
+| `SDPBTV` | Baranda | doc |
 | `LYZ5CF` | Barajas | doc |
 | `DJUVN4` | Barbosa | doc |
 | `F5554F` | Bárcenas | doc |
@@ -110,6 +113,7 @@
 | `W43LHM` | Bermejo | doc |
 | `USQZVW` | Berumen | doc |
 | `EGUFTR` | Blanquet | doc |
+| `UAW9AA` | Bocanegra | doc |
 | `R3Y27V` | Bocardo | doc |
 | `XR5KLQ` | Bolaños | doc |
 | `YFF678` | Borja | doc |
@@ -133,6 +137,7 @@
 | `KUUMRG` | Calleja | doc |
 | `PW5KSH` | Calzada | doc |
 | `L9A6EJ` | Carrasco | doc |
+| `6YLFPN` | Carballo | doc |
 | `CXFVXV` | Cabrera | doc |
 | `ZR8YJF` | Cabañas | doc |
 | `27NGUN` | Caballero | doc |
@@ -389,6 +394,7 @@
 | `XV6KAN` | Heredia | doc |
 | `3VQ66U` | Hubert | doc |
 | `AEXBFW` | Huerta | doc |
+| `KWRTRY` | Huizar | doc |
 | `NZS26K` | Ibarra | doc |
 | `WQPRJZ` | Izquierdo | doc |
 | `X4BZBK` | Illescas | doc |
@@ -420,6 +426,7 @@
 | `Z6NQMM` | Lagunas | doc |
 | `XLB7Z2` | Landa | doc |
 | `QFJ94L` | Landeros | doc |
+| `ZAX4D8` | Landeros | doc |
 | `QR4PLZ` | Lara | doc |
 | `Z5KZQ5` | Larios | doc |
 | `YXVL5Z` | Lazaro | doc |
@@ -598,6 +605,7 @@
 | `DBFAJH` | Olivares | doc |
 | `XEJ383` | Olivares | doc |
 | `A6QH5Y` | Olivares | doc |
+| `AWFUWK` | Olivos | doc |
 | `YUJUAX` | Oliveros | doc |
 | `R5QWA8` | Olmos | doc |
 | `FZ33SX` | Olmos | doc |
@@ -782,6 +790,7 @@
 | `TE86WP` | Sierra | doc |
 | `QLXHKW` | Sibaja | doc |
 | `NYSCU3` | Silva | doc |
+| `SDPBTV` | Silva | doc |
 | `U6QC39` | Simon | doc |
 | `D4SJJL` | Segura | doc |
 | `SFTYGK` | Serrano | doc |

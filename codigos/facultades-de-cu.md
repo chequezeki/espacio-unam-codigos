@@ -138,7 +138,6 @@
 | `3A7PQZ` | Ingeniería Geomática | doc |
 | `U243SW` | Ingeniería Industrial | doc |
 | `X4WFYP` | Ingeniería Industrial | doc |
-| `RR5XMX` | Ingeniería Industrial | doc |
 | `6EH4SX` | Ingeniería Industrial | doc |
 | `MB8M3H` | Ingeniería Industrial | doc |
 | `LJ3UDT` | Ingeniería Industrial | doc |
@@ -203,7 +202,6 @@
 | `S6FD5B` | Urbanismo | doc |
 | `5YLFA4` | Urbanismo | doc |
 | `WZ6CAL` | Urbanismo | doc |
-| `KWWL4T` | Urbanismo | doc |
 
 ## Facultad de Medicina
 
@@ -249,6 +247,7 @@
 | `37SGX9` | Médico Cirujano | doc |
 | `S6K38H` | Neuro | doc |
 | `U7FQVT` | Neuro | doc |
+| `CSSVLE` | Neuro | doc |
 
 ## Facultad de Medicina Veterinaria y Zootecnia
 
@@ -338,7 +337,6 @@
 | `XP7XAD` | Química de Alimentos | doc |
 | `AWFUWK` | Química e Ingeniería en Materiales | doc |
 | `QE4UEL` | Química e Ingeniería en Materiales | doc |
-| `E2N3KY` | Química e Ingeniería en Materiales | doc |
 | `PA7FWF` | Química Farmacéutico Biológica | doc |
 | `X82MPH` | Química Farmacéutico Biológica | doc |
 | `BD452P` | Química Farmacéutico Biológica | doc |
@@ -374,11 +372,12 @@
 | `C44NTV` | Bibliotecología y Estudios de la Información | doc |
 | `Y2SM92` | Bibliotecología y Estudios de la Información | doc |
 | `FRTNXJ` | Bibliotecología y Estudios de la Información | doc |
-| `M33DPN` | Administración de Archivos y Gestión Documental | doc |
+| `M33DPN` | ental | doc |
 | `DL7ZKB` | Filosofía | doc |
 | `5DV4P9` | Filosofía | doc |
 | `9JURAL` | Filosofía | doc |
 | `KJFPHV` | Filosofía | doc |
+| `6YLFPN` | Geografía | doc |
 | `3SCR3U` | Geografía | doc |
 | `3W637B` | Geografía | doc |
 | `XTEKTV` | Geografía | doc |
@@ -403,6 +402,7 @@
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |
 | `5GBMQ7` | Lengua y Literaturas Modernas Italianas | doc |
 | `JBND4D` | Lengua y Literaturas Modernas Portuguesas | doc |
+| `6NDDAC` | Literatura Dramática y Teatro | doc |
 | `ZUACTS` | Literatura Dramática y Teatro | doc |
 | `8XQTQW` | Literatura Dramática y Teatro | doc |
 | `5VSKLQ` | Literatura Dramática y Teatro | doc |
@@ -531,6 +531,7 @@
 | `NWANYF` | Administración | doc |
 | `U8C9G3` | Administración | doc |
 | `CM8RT8` | Administración | doc |
+| `UVJ83P` | Administración SUAYED | doc |
 | `ZG27YE` | Contaduría | doc |
 | `HGGMCD` | Contaduría | doc |
 | `SUAW4X` | Contaduría | doc |
