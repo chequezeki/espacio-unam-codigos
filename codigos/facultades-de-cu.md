@@ -696,3 +696,9 @@
 | `74JVX7` | QQN4JVYSS7JK | doc |
 | `C73DE3` | Odontologia | doc |
 | `9R45UR` | Odontologia | doc |
+
+## Facultad de Economia
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `FPN8E4` | Carrera | comunidad |
