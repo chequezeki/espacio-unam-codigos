@@ -192,6 +192,7 @@
 | `A6QH5Y` | Relaciones Internacionales | doc |
 | `MZA7HY` | Relaciones Internacionales | doc |
 | `8AH8Y9` | Relaciones Internacionales | doc |
+| `2UAYY2` | Relaciones Internacionales | doc |
 | `B32HHM` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |
 | `27YHVB` | Derecho Sua | doc |
@@ -227,6 +228,8 @@
 | `LHDWAY` | diseño y visual suayed | doc |
 | `CC2JVA` | diseño y visual suayed | doc |
 | `KBCGJE` | diseño y visual suayed | doc |
+| `V6ZKQ8` | diseño y visual suayed | doc |
+| `4TYNFK` | diseño y visual suayed | doc |
 | `CBU3CE` | Ingeniería Mecánica Eléctrica | doc |
 | `A33PGG` | Ingeniería Mecánica Eléctrica | doc |
 | `TSG2P2` | Ingeniería Mecánica Eléctrica | doc |

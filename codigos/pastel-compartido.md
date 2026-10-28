@@ -195,6 +195,7 @@
 | `WJH8ME` | MAYO GVALGQ | doc |
 | `57EYLG` | MAYO GVALGQ | doc |
 | `KBH4QN` | MAYO GVALGQ | doc |
+| `6NDDAC` | JUNIO | doc |
 | `CEB2F7` | JUNIO | doc |
 | `4QSM4X` | JUNIO | doc |
 | `7M3MNC` | JUNIO | doc |
@@ -273,6 +274,7 @@
 | `SKNEPP` | JULIO KVJNQD | doc |
 | `5KDYK6` | JULIO KVJNQD | doc |
 | `Z7V2DL` | JULIO KVJNQD | doc |
+| `95Y7HN` | JULIO KVJNQD | doc |
 | `FBTPB7` | AGOSTO | doc |
 | `M8PN5M` | AGOSTO | doc |
 | `TP7G2U` | AGOSTO | doc |
@@ -295,6 +297,7 @@
 | `KNWN28` | AGOSTO | doc |
 | `N3MF6K` | AGOSTO | doc |
 | `S4S24L` | AGOSTO | doc |
+| `V6ZKQ8` | AGOSTO | doc |
 | `PZBGYV` | AGOSTO | doc |
 | `4THUMF` | AGOSTO | doc |
 | `AC6R6Z` | AGOSTO | doc |
@@ -468,12 +471,12 @@
 | `KVMVNM` | Baja California Sur | doc |
 | `BKY7PY` | Baja California | doc |
 | `J5HYY2` | Baja California | doc |
-| `SMBPQF` | Campeche | doc |
-| `ZUH73Z` | Campeche | doc |
+| `ZUH73Z` | Campeche: SMB PQF | doc |
 | `XZXA2V` | Chiapas | doc |
 | `JUBN3N` | Chiapas | doc |
 | `W7AHQ2` | Chiapas | doc |
 | `YTGL83` | Chiapas | doc |
+| `JA9ZR3` | Chiapas | doc |
 | `R6TE6Q` | Chihuahua | doc |
 | `5D4C6P` | Ciudad de México | doc |
 | `Q2SZ3B` | Ciudad de México | doc |
@@ -494,6 +497,7 @@
 | `HE4X2K` | Ciudad de México | doc |
 | `QDXBQ9` | Ciudad de México | doc |
 | `ZQ7D4T` | Ciudad de México | doc |
+| `V6ZKQ8` | Ciudad de México | doc |
 | `LH4MD7` | Ciudad de México | doc |
 | `M7B54S` | Ciudad de México | doc |
 | `V569QT` | Ciudad de México | doc |
@@ -518,6 +522,7 @@
 | `57EYLG` | Ciudad de México | doc |
 | `8R5W24` | Ciudad de México | doc |
 | `KBH4QN` | Ciudad de México | doc |
+| `95Y7HN` | Ciudad de México | doc |
 | `Y2S7KV` | Coahuila | doc |
 | `79U7RY` | Colima | doc |
 | `VUELXG` | Durango | doc |

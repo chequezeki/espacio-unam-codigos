@@ -50,9 +50,9 @@ JG276B,Prepas,,Prepa 7
 9TBEQ9,Prepas,,Prepa 7
 6ZBET4,Prepas,,Prepa 7
 TH5KZ6,Prepas,,Prepa 8
+NQQBE5,Prepas,,Prepa 9
 6GNP6P,Prepas,,Prepa 9
 KB5FFD,Prepas,,Prepa 9
-NQQBE5,Prepas,,Prepa 9
 Z7V2DL,ENES,ENES León,Optometría
 ARWJMZ,ENES,ENES León,Administración Agropecuária
 ZGKH37,ENES,ENES León,Administración Agropecuária
@@ -136,7 +136,7 @@ L3CJV6,ENES,ENES Juriquilla,Ciencias de la Tierra
 ZGKH37,ENES,ENES Juriquilla,Ciencias de la Tierra
 EMXTCA,ENES,ENES Juriquilla,Ingeniería Aeroespacial
 UKWMB6,ENES,ENES Juriquilla,Ingeniería Aeroespacial
-KLLK4N,ENES,ENES Juriquilla,
+KLLK4N,ENES,ENES Juriquilla,Ingeniería Aeroespacial
 UDHBH3,ENES,ENES Juriquilla,Ingeniería en Computación
 NQYJ5W,ENES,ENES Juriquilla,Ingeniería en Computación
 UDXDSE,ENES,ENES Juriquilla,Ingeniería en Energías Renovables
@@ -160,7 +160,6 @@ JUJB7X,ENES,ENES Juriquilla,Neuro
 Z3CBJ5,ENES,ENES Juriquilla,Neuro
 KQHYGR,ENES,ENES Juriquilla,Órtesis y Prótesis
 SWCUS3,ENES,ENES Juriquilla,Psicología
-C79MXP,ENES,ENES Juriquilla,Historia
 FNXSDN,ENES,ENES Juriquilla,Historia
 W7PL3L,ENES,ENES Juriquilla,Negocios Internacionales
 2YCHDH,ENES,ENES Morelia,Geociencias
@@ -186,7 +185,7 @@ U58UYF,ENES,ENES Morelia,Literatura Intercultural
 5VSKLQ,ENES,ENES Morelia,Música y Artística
 N3APR4,ENES,ENES Morelia,Ciencias Agroforestales
 ZL5WRA,ENES,ENES Oaxaca,Administración
-5VFXAG,ENES,ENES Oaxaca,Administración
+58ZH4F,ENES,ENES Oaxaca,Administración
 VU4EAW,ENES,ENES Oaxaca,Contaduría
 SUAW4X,ENES,ENES Oaxaca,Contaduría
 2AAE5B,ENES,ENES Oaxaca,Informática
@@ -195,6 +194,7 @@ VR3N9H,ENES,ENES Oaxaca,Negocios Internacionales
 JH3PY7,ENES,ENES Oaxaca,Negocios Internacionales
 FNXSDN,ENES,ENES Oaxaca,Historia
 43SGEZ,ENES,ENES Oaxaca,Historia
+C79MXP,ENES,ENES Oaxaca,Historia
 P2Z3FB,ENES,ENES Mérida,Ciencias de la Tierra
 T53TWT,ENES,ENES Mérida,Ciencias de la Tierra
 YLA386,ENES,ENES Mérida,Ingeniería en Computación
@@ -386,6 +386,7 @@ W9THGT,FES,FES Aragón,Ingeniería Mecánica
 A6QH5Y,FES,FES Aragón,Relaciones Internacionales
 MZA7HY,FES,FES Aragón,Relaciones Internacionales
 8AH8Y9,FES,FES Aragón,Relaciones Internacionales
+2UAYY2,FES,FES Aragón,Relaciones Internacionales
 B32HHM,FES,FES Aragón,Sociología
 EZLREM,FES,FES Aragón,Derecho Sua
 27YHVB,FES,FES Aragón,Derecho Sua
@@ -416,6 +417,8 @@ VPRKQA,FES,FES Cuautitlán,diseño y visual suayed
 LHDWAY,FES,FES Cuautitlán,diseño y visual suayed
 CC2JVA,FES,FES Cuautitlán,diseño y visual suayed
 KBCGJE,FES,FES Cuautitlán,diseño y visual suayed
+V6ZKQ8,FES,FES Cuautitlán,diseño y visual suayed
+4TYNFK,FES,FES Cuautitlán,diseño y visual suayed
 CBU3CE,FES,FES Cuautitlán,Ingeniería Mecánica Eléctrica
 A33PGG,FES,FES Cuautitlán,Ingeniería Mecánica Eléctrica
 TSG2P2,FES,FES Cuautitlán,Ingeniería Mecánica Eléctrica
@@ -758,6 +761,7 @@ FDDWLX,Facultades de CU,Facultad de Arquitectura,Arquitectura
 X4BZBK,Facultades de CU,Facultad de Arquitectura,Arquitectura
 J8S4ZS,Facultades de CU,Facultad de Arquitectura,Arquitectura
 HAAYEY,Facultades de CU,Facultad de Arquitectura,Arquitectura
+634MZ6,Facultades de CU,Facultad de Arquitectura,Arquitectura
 4PXEED,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
 96EUFJ,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
 27NGUN,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
@@ -1219,6 +1223,7 @@ C73DE3,Facultades de CU,Facultad de Odontología,Odontologia
 9R45UR,Facultades de CU,Facultad de Odontología,Odontologia
 ZGPKFJ,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Ciencia de la Tierra: v
 ZGKH37,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Ciencia de la Tierra: v
+7GW9UE,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Ciencia de la Tierra: v
 QWC8VS,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Geografía Aplicada
 WNU5V3,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Geografía Aplicada
 FZCENF,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Geografía Aplicada
@@ -1400,6 +1405,7 @@ KEPNNC,Tocayo,,Aylin
 5WZDUP,Tocayo,,Azucena
 P7PAUD,Tocayo,,Azul
 L576TC,Tocayo,,Araceli
+5M92E6,Tocayo,,Alitzel
 HG6QQX,Tocayo,,Barbara
 M8MRDM,Tocayo,,Bárbara
 XKYNQ8,Tocayo,,Beatriz
@@ -1420,6 +1426,7 @@ WW7T4K,Tocayo,,Brenda
 7FDNDL,Tocayo,,Brenda
 TVPG8X,Tocayo,,Brenda
 GKZCFU,Tocayo,,Brian
+7BSNQB,Tocayo,,Brian
 XFX8U7,Tocayo,,Briana
 UALS83,Tocayo,,Brigitte
 KNM6SQ,Tocayo,,Briseida
@@ -1571,6 +1578,7 @@ G8ZWJ9,Tocayo,,Ennovi
 6DERTR,Tocayo,,Enzi
 RSJUH3,Tocayo,,Erandi
 SSY4TG,Tocayo,,Erandy
+DPL3TW,Tocayo,,Eric
 JUF5W6,Tocayo,,Erick
 85XQ5L,Tocayo,,Erik
 S8LNQW,Tocayo,,Erik
@@ -1708,6 +1716,7 @@ DHXMPS,Tocayo,,Ivan
 T827MU,Tocayo,,Ivan
 82H488,Tocayo,,Ivonne
 URT7XH,Tocayo,,Ivonne
+4TYNFK,Tocayo,,Ivonne
 YR3TKQ,Tocayo,,Ixchel
 WARSUJ,Tocayo,,Inés
 DX388V,Tocayo,,Iliana
@@ -1940,6 +1949,7 @@ EEDHP3,Tocayo,,Melisa
 3UA93V,Tocayo,,Meredith
 5NKZKL,Tocayo,,Melissa
 PVGZW9,Tocayo,,Melissa
+95Y7HN,Tocayo,,Melissa
 MCNAW6,Tocayo,,Metzi
 VZCC45,Tocayo,,Metzli
 LVD3EW,Tocayo,,Metzli
@@ -2496,7 +2506,6 @@ ACZ97F,Casi familia,,Espinobarros
 CSYUZN,Casi familia,,Espinosa
 BPY827,Casi familia,,Espinosa
 Z9D3BT,Casi familia,,Espinosa
-5D4C6P,Casi familia,,Espinosa
 Y6JME9,Casi familia,,Espinoza
 7X35U4,Casi familia,,Espiridion
 H5G886,Casi familia,,Esquivel
@@ -2736,6 +2745,7 @@ BSGVLY,Casi familia,,Maqueda
 GSZHQW,Casi familia,,Mata
 JTWXGC,Casi familia,,Matamoros
 UMZHHH,Casi familia,,Mateos
+95Y7HN,Casi familia,,Matias
 Y7J263,Casi familia,,Maya
 TW75Y9,Casi familia,,Maya
 QGLTRC,Casi familia,,Mayorga
@@ -2799,6 +2809,7 @@ ZJJYZU,Casi familia,,Moras
 8T9YUR,Casi familia,,Moran
 8GUZQ5,Casi familia,,Moreno
 K7AFKF,Casi familia,,Moreno
+V6ZKQ8,Casi familia,,Moreno
 VJWGJX,Casi familia,,Morcillo
 L3CJV6,Casi familia,,Morteo
 VQW8C2,Casi familia,,Motte
@@ -3343,6 +3354,7 @@ MRAV79,Pastel compartido,,MAYO GVALGQ
 WJH8ME,Pastel compartido,,MAYO GVALGQ
 57EYLG,Pastel compartido,,MAYO GVALGQ
 KBH4QN,Pastel compartido,,MAYO GVALGQ
+6NDDAC,Pastel compartido,,JUNIO
 CEB2F7,Pastel compartido,,JUNIO
 4QSM4X,Pastel compartido,,JUNIO
 7M3MNC,Pastel compartido,,JUNIO
@@ -3421,6 +3433,7 @@ FUEQZD,Pastel compartido,,JULIO KVJNQD
 SKNEPP,Pastel compartido,,JULIO KVJNQD
 5KDYK6,Pastel compartido,,JULIO KVJNQD
 Z7V2DL,Pastel compartido,,JULIO KVJNQD
+95Y7HN,Pastel compartido,,JULIO KVJNQD
 FBTPB7,Pastel compartido,,AGOSTO
 M8PN5M,Pastel compartido,,AGOSTO
 TP7G2U,Pastel compartido,,AGOSTO
@@ -3443,6 +3456,7 @@ ZVD8Z4,Pastel compartido,,AGOSTO
 KNWN28,Pastel compartido,,AGOSTO
 N3MF6K,Pastel compartido,,AGOSTO
 S4S24L,Pastel compartido,,AGOSTO
+V6ZKQ8,Pastel compartido,,AGOSTO
 PZBGYV,Pastel compartido,,AGOSTO
 4THUMF,Pastel compartido,,AGOSTO
 AC6R6Z,Pastel compartido,,AGOSTO
@@ -3616,12 +3630,12 @@ UEW98C,Pastel compartido,,Baja California Sur
 KVMVNM,Pastel compartido,,Baja California Sur
 BKY7PY,Pastel compartido,,Baja California
 J5HYY2,Pastel compartido,,Baja California
-SMBPQF,Pastel compartido,,Campeche
-ZUH73Z,Pastel compartido,,Campeche
+ZUH73Z,Pastel compartido,,Campeche: SMB PQF
 XZXA2V,Pastel compartido,,Chiapas
 JUBN3N,Pastel compartido,,Chiapas
 W7AHQ2,Pastel compartido,,Chiapas
 YTGL83,Pastel compartido,,Chiapas
+JA9ZR3,Pastel compartido,,Chiapas
 R6TE6Q,Pastel compartido,,Chihuahua
 5D4C6P,Pastel compartido,,Ciudad de México
 Q2SZ3B,Pastel compartido,,Ciudad de México
@@ -3642,6 +3656,7 @@ PFMXND,Pastel compartido,,Ciudad de México
 HE4X2K,Pastel compartido,,Ciudad de México
 QDXBQ9,Pastel compartido,,Ciudad de México
 ZQ7D4T,Pastel compartido,,Ciudad de México
+V6ZKQ8,Pastel compartido,,Ciudad de México
 LH4MD7,Pastel compartido,,Ciudad de México
 M7B54S,Pastel compartido,,Ciudad de México
 V569QT,Pastel compartido,,Ciudad de México
@@ -3666,6 +3681,7 @@ LX6WZD,Pastel compartido,,Ciudad de México
 57EYLG,Pastel compartido,,Ciudad de México
 8R5W24,Pastel compartido,,Ciudad de México
 KBH4QN,Pastel compartido,,Ciudad de México
+95Y7HN,Pastel compartido,,Ciudad de México
 Y2S7KV,Pastel compartido,,Coahuila
 79U7RY,Pastel compartido,,Colima
 VUELXG,Pastel compartido,,Durango
@@ -3870,6 +3886,7 @@ N7AA4Q,Casi gemelos,Marzo,24
 W9THGT,Casi gemelos,Marzo,24
 M6XECA,Casi gemelos,Marzo,25
 6VJL25,Casi gemelos,Marzo,27
+JPJXQW,Casi gemelos,Marzo,28
 T9L84A,Casi gemelos,Marzo,30
 UDXDSE,Casi gemelos,Marzo,31
 XQST48,Casi gemelos,Marzo,2
@@ -3967,6 +3984,7 @@ WZJWL5,Casi gemelos,Marzo,30
 E92887,Casi gemelos,Marzo,1
 EHX8WQ,Casi gemelos,Marzo,2
 MG9MBE,Casi gemelos,Marzo,3
+95Y7HN,Casi gemelos,Marzo,4
 U4SXG7,Casi gemelos,Marzo,6
 G5CQWJ,Casi gemelos,Marzo,7
 MY5REG,Casi gemelos,Marzo,8
@@ -4028,6 +4046,8 @@ DH3XJL,Casi gemelos,Marzo,22
 AKASBM,Casi gemelos,Marzo,23
 3C9YXF,Casi gemelos,Marzo,26
 DZ239X,Casi gemelos,Marzo,27
+V6ZKQ8,Casi gemelos,Marzo,28
+QGZNVD,Casi gemelos,Marzo,28
 QC4WVW,Casi gemelos,Marzo,29
 SPMU3V,Casi gemelos,Marzo,30
 DWWWCX,Casi gemelos,Marzo,31
@@ -4047,6 +4067,7 @@ LH4MD7,Casi gemelos,Marzo,19
 LADR7U,Casi gemelos,Marzo,20
 UAW9AA,Casi gemelos,Marzo,20
 HZ6A9Z,Casi gemelos,Marzo,21
+Z8V7GJ,Casi gemelos,Marzo,22
 82H488,Casi gemelos,Marzo,23
 4DQSNA,Casi gemelos,Marzo,25
 WYXF2U,Casi gemelos,Marzo,26
@@ -4069,7 +4090,7 @@ SDPBTV,Casi gemelos,Marzo,13
 YE9YNV,Casi gemelos,Marzo,14
 KXQAX2,Casi gemelos,Marzo,15
 BP4BSQ,Casi gemelos,Marzo,16
-Z9D3BT,Casi gemelos,Marzo,17
+4XAJYP,Casi gemelos,Marzo,17
 92B2W3,Casi gemelos,Marzo,18
 JW9PBR,Casi gemelos,Marzo,19
 QCDXFG,Casi gemelos,Marzo,19
@@ -4089,6 +4110,7 @@ Y2SM92,Casi gemelos,Marzo,1
 WNYKCD,Casi gemelos,Marzo,4
 CBU3CE,Casi gemelos,Marzo,4
 6DT6SY,Casi gemelos,Marzo,5
+4TYNFK,Casi gemelos,Marzo,5
 Q92CDU,Casi gemelos,Marzo,6
 MTB58U,Casi gemelos,Marzo,6
 2PNPJH,Casi gemelos,Marzo,8
@@ -4174,6 +4196,7 @@ RVDYNM,Cazadora de mitos,,
 FTJ9YB,Cazadora de mitos,,
 6WCB38,Cazadora de mitos,,
 5UQAMY,Cazadora de mitos,,(da medalla de virus al ser agregado)
+V6ZKQ8,Cazadora de mitos,,
 8R5W24,Compa de banca,,Gen 2026
 8FWQFZ,Compa de banca,,ACTUARIA / FES ACATLAN / GEN 2023
 ZNFGAC,Compa de banca,,ACTUARIA / FES ACATLAN / GEN 2023
@@ -4187,6 +4210,7 @@ AJ8KGJ,Compa de banca,,Relaciones Internacionales/ GEN 2020
 BASB5W,Compa de banca,,Relaciones Internacionales SUA/ GEN 2021
 VPRKQA,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2023
 6HAJFC,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2024
+V6ZKQ8,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán SUAYED 2025
 3EADS3,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024
 AUB6XJ,Compa de banca,,DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024
 JAJAFK,Compa de banca,,PSICOLOGÍA/Facultad de Estudios Superiores Iztacala / 2024
@@ -4345,7 +4369,8 @@ ZGKH37,Compa de banca,,2023
 YJ3MH8,Compa de banca,,che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi
 MJLUUU,Otros,,
 NSGN8U,Otros,,
-ZGKH37,Anuncios de la comunidad,,
+ZGKH37,Anuncios de la comunidad,,"porfa agrengueme bachillerato en línea , porfissss!!!!"
+634MZ6,Anuncios de la comunidad,,
 4JBFDU,Anuncios de la comunidad,,#
 JUDSPC,Anuncios de la comunidad,,Apiádate de nosotros bachillerato a distancia 🙏🏼
 U44QDA,Anuncios de la comunidad,,y
@@ -4374,7 +4399,6 @@ Z2PFT2,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
 EGJGMB,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
 8FXSPJ,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
 JQZR96,Anuncios de la comunidad,,"porfa agrengueme bachillerato en línea , porfissss!!!!"
-634MZ6,Anuncios de la comunidad,,
 QAN9U2,Anuncios de la comunidad,,"Porfis bachillerato en linea agregame, te transfiero 50 pesotes :("
 CCQBM9,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor 😔
 XEJ383,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
@@ -4565,6 +4589,7 @@ CS6WBV,Anuncios de la comunidad,,Bachillerato a distancia y cosme xfaaa
 VPLEVJ,Anuncios de la comunidad,,Agréguenme bachillerato a distancia
 DH5LMV,Anuncios de la comunidad,,"Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agregaras c: Bachill"
 F9TZFU,Anuncios de la comunidad,,"gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y S"
+4ULDZZ,Anuncios de la comunidad,,🙏🏻🙏🏻
 X3TE7F,Anuncios de la comunidad,,"Porfi agregame amix de bachillerato a distancia, ya solo me faltas tu d(u.u)b soy de Pedag"
 PWGZE8,Anuncios de la comunidad,,"gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y S"
 YR3TKQ,Anuncios de la comunidad,,"Añadenme los de química cosmética, bachillerato a distancia y el Cephcis xfa 🙏🙏🙏😔"
@@ -4733,3 +4758,4 @@ S6YQL2,Anuncios de la comunidad,,porfaaaaa bachillerato en línea
 5EQXAK,Anuncios de la comunidad,,
 5KDYK6,Anuncios de la comunidad,,Tiren paro bachillerato en linea plis :(
 V8SF6Z,Anuncios de la comunidad,,Porfa agregame bro
+6NDDAC,Anuncios de la comunidad,,"gente de bachillerato a distancia agreguen porfavor, soy de teatro"

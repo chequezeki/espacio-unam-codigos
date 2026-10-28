@@ -17,6 +17,7 @@
 | `BASB5W` | Relaciones Internacionales SUA/ GEN 2021 | doc |
 | `VPRKQA` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2023 | doc |
 | `6HAJFC` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2024 | doc |
+| `V6ZKQ8` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán SUAYED 2025 | doc |
 | `3EADS3` | DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024 | doc |
 | `AUB6XJ` | DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024 | doc |
 | `JAJAFK` | PSICOLOGÍA/Facultad de Estudios Superiores Iztacala / 2024 | doc |

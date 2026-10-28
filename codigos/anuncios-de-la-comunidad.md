@@ -4,7 +4,8 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `ZGKH37` | — | doc |
+| `ZGKH37` | porfa agrengueme bachillerato en línea , porfissss!!!! | doc |
+| `634MZ6` | — | doc |
 | `4JBFDU` | # | doc |
 | `JUDSPC` | Apiádate de nosotros bachillerato a distancia 🙏🏼 | doc |
 | `U44QDA` | y | doc |
@@ -33,7 +34,6 @@
 | `EGJGMB` | Agrégame bachillerato en línea por favor | doc |
 | `8FXSPJ` | Agrégame bachillerato en línea por favor | doc |
 | `JQZR96` | porfa agrengueme bachillerato en línea , porfissss!!!! | doc |
-| `634MZ6` | — | doc |
 | `QAN9U2` | Porfis bachillerato en linea agregame, te transfiero 50 pesotes :( | doc |
 | `CCQBM9` | Agrégame bachillerato en línea por favor 😔 | doc |
 | `XEJ383` | Agrégame bachillerato en línea por favor | doc |
@@ -224,6 +224,7 @@
 | `VPLEVJ` | Agréguenme bachillerato a distancia | doc |
 | `DH5LMV` | Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agregaras c: Bachill | doc |
 | `F9TZFU` | gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y S | doc |
+| `4ULDZZ` | 🙏🏻🙏🏻 | doc |
 | `X3TE7F` | Porfi agregame amix de bachillerato a distancia, ya solo me faltas tu d(u.u)b soy de Pedag | doc |
 | `PWGZE8` | gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y S | doc |
 | `YR3TKQ` | Añadenme los de química cosmética, bachillerato a distancia y el Cephcis xfa 🙏🙏🙏😔 | doc |
@@ -392,3 +393,4 @@
 | `5EQXAK` | — | doc |
 | `5KDYK6` | Tiren paro bachillerato en linea plis :( | doc |
 | `V8SF6Z` | Porfa agregame bro | doc |
+| `6NDDAC` | gente de bachillerato a distancia agreguen porfavor, soy de teatro | doc |

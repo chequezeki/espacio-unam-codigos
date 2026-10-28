@@ -94,7 +94,7 @@
 | `ZGKH37` | Ciencias de la Tierra | doc |
 | `EMXTCA` | Ingeniería Aeroespacial | doc |
 | `UKWMB6` | Ingeniería Aeroespacial | doc |
-| `KLLK4N` | — | doc |
+| `KLLK4N` | Ingeniería Aeroespacial | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
 | `NQYJ5W` | Ingeniería en Computación | doc |
 | `UDXDSE` | Ingeniería en Energías Renovables | doc |
@@ -118,7 +118,6 @@
 | `Z3CBJ5` | Neuro | doc |
 | `KQHYGR` | Órtesis y Prótesis | doc |
 | `SWCUS3` | Psicología | doc |
-| `C79MXP` | Historia | doc |
 | `FNXSDN` | Historia | doc |
 | `W7PL3L` | Negocios Internacionales | doc |
 
@@ -154,7 +153,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `ZL5WRA` | Administración | doc |
-| `5VFXAG` | Administración | doc |
+| `58ZH4F` | Administración | doc |
 | `VU4EAW` | Contaduría | doc |
 | `SUAW4X` | Contaduría | doc |
 | `2AAE5B` | Informática | doc |
@@ -163,6 +162,7 @@
 | `JH3PY7` | Negocios Internacionales | doc |
 | `FNXSDN` | Historia | doc |
 | `43SGEZ` | Historia | doc |
+| `C79MXP` | Historia | doc |
 
 ## ENES Mérida
 
