@@ -711,3 +711,9 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `FPN8E4` | Carrera | comunidad |
+
+## FACULTAD DE ENFERMERIA Y OBSTETRICIA MAYO
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `KBH4QN` | CARLOS RODRIGUEZ 8 DE MAYO | comunidad |
