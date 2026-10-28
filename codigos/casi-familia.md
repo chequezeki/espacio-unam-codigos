@@ -48,6 +48,7 @@
 | `RDFGD3` | Araujo | doc |
 | `9VVQ6V` | Arauz | doc |
 | `TE4967` | Arellano | doc |
+| `JCDSEA` | Arellano | doc |
 | `LZ7ETX` | Arias | doc |
 | `G4K6JE` | Arias | doc |
 | `JQQYTZ` | Arjona | doc |
@@ -392,6 +393,7 @@
 | `8EJFYT` | Hernandez | doc |
 | `B63GTY` | Hernandez | doc |
 | `FDSTL4` | Hernández | doc |
+| `H6U52K` | Hernández | doc |
 | `ZUACTS` | Hernández | doc |
 | `BXAMZP` | Hernández | doc |
 | `36562B` | Herrera | doc |
@@ -602,6 +604,7 @@
 | `4GVBZN` | Najera | doc |
 | `VC52DV` | Nicolas | doc |
 | `33DBC2` | Nieto | doc |
+| `AWLR5V` | Nieto | doc |
 | `KKYHAT` | Noriega | doc |
 | `6NDDAC` | Noyola | doc |
 | `QXC39N` | Noyola | doc |
@@ -750,6 +753,7 @@
 | `L92K5P` | Rodríguez | doc |
 | `3C9YXF` | Rodríguez | doc |
 | `PXH6BE` | Rodríguez | doc |
+| `KBH4QN` | Rodríguez | doc |
 | `QXN8JQ` | Rojas | doc |
 | `FZTJCT` | Rojas | doc |
 | `KMKJZT` | Rojas | doc |

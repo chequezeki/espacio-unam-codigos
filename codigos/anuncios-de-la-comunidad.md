@@ -80,6 +80,7 @@
 | `U4SXG7` | x8 | doc |
 | `BBVWWW` | Encuentrenme los de bachillerato en Línea | doc |
 | `AFV9RM` | porfi ayuda | doc |
+| `SN6AHU` | por favoor | doc |
 | `6WSK45` | A Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en | doc |
 | `T3NAZ7` | Posdata: les dejo otro código secreto | doc |
 | `DJ7WBM` | — | doc |
@@ -388,3 +389,6 @@
 | `FPN8E4` | Agreguen porfaaa | doc |
 | `QV68T9` | AGRÉGUENME BACHILLERATO EN LÍNEA POR FAVOR | doc |
 | `S6YQL2` | porfaaaaa bachillerato en línea | doc |
+| `5EQXAK` | — | doc |
+| `5KDYK6` | Tiren paro bachillerato en linea plis :( | doc |
+| `V8SF6Z` | Porfa agregame bro | doc |

@@ -308,6 +308,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `B6QPMU` | Ingeniería Química | doc |
 | `9GNVRV` | Ingeniería Química | doc |
 | `Q2JACM` | Ingeniería Química | doc |
 | `24Q4N8` | Ingeniería Química | doc |
@@ -645,10 +646,11 @@
 | `5KQ9YZ` | Derecho | doc |
 | `QGLTRC` | Derecho | doc |
 | `TE4967` | Derecho | doc |
-| `T952XQ` | 03BP4QB | doc |
-| `HVZSUK` | 03BP4QB | doc |
-| `79LV2Z` | 03BP4QB | doc |
-| `VYGM4N` | 03BP4QB | doc |
+| `3BP4QB` | Derecho | doc |
+| `T952XQ` | Derecho | doc |
+| `HVZSUK` | Derecho | doc |
+| `79LV2Z` | Derecho | doc |
+| `VYGM4N` | Derecho | doc |
 | `RVT6RY` | Derecho SUAYED | doc |
 | `47BH5C` | Derecho SUAYED | doc |
 | `MJLUUU` | Derecho SUAYED | doc |
@@ -686,6 +688,7 @@
 | `ES34RL` | Psicología | doc |
 | `PFVZWY` | Psicología | doc |
 | `E3ADVA` | Psicología | doc |
+| `JCDSEA` | Psicología | doc |
 | `EMR2XF` | Psicología SUA | doc |
 | `U37TKR` | Psicología SUA | doc |
 | `UMZHHH` | Psicología SUA | doc |

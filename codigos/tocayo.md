@@ -41,6 +41,7 @@
 | `RMNQ7T` | Alejandra | doc |
 | `PV9QBS` | Alejandra | doc |
 | `SQP3HF` | Alejandro | doc |
+| `H6U52K` | Alejandro | doc |
 | `XZBWUT` | Alejandro | doc |
 | `E7U7YA` | Alejandro | doc |
 | `J4QES4` | Alessandra | doc |
@@ -162,6 +163,7 @@
 | `LDJN7P` | Belén | doc |
 | `42GEXU` | Betzabeth | doc |
 | `DGHY32` | Berenice | doc |
+| `AWLR5V` | Berenice | doc |
 | `73VSTT` | Bersheva | doc |
 | `E76VKM` | Blanca | doc |
 | `CYSVAV` | Brandon | doc |
@@ -236,6 +238,7 @@
 | `PWGZE8` | Daniela | doc |
 | `S5VEZU` | Daniela | doc |
 | `EBKB4C` | Daniela | doc |
+| `JCDSEA` | Daniela | doc |
 | `5FT2AY` | Daira | doc |
 | `NWX4TN` | Daira | doc |
 | `F7E3UH` | Dara | doc |
@@ -939,6 +942,7 @@
 | `QXC39N` | Yaotli | doc |
 | `7HQ8FR` | Yara | doc |
 | `2RBCJ8` | Yareli | doc |
+| `C5YRWU` | Yaretzi | doc |
 | `6YLFPN` | Yaretzi | doc |
 | `P3ZRE5` | Yaritzi | doc |
 | `XCDN8J` | Yasari | doc |
@@ -954,6 +958,7 @@
 | `J7QZJW` | Yoari | doc |
 | `PXH6BE` | Yosahary | doc |
 | `6G6XMW` | Yojhan | doc |
+| `LF4ZAE` | Yoletzi | doc |
 | `485WSG` | Yolotzin | doc |
 | `Z42WRW` | Yolotzin | doc |
 | `WWZ8MG` | Yoltic | doc |

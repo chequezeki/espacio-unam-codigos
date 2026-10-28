@@ -45,10 +45,7 @@
 | `7M3MNC` | ECONOMÍA/Facultad de Economía/ SUAyED/2023/ | doc |
 | `BHXKZL` | ECONOMÍA/Facultad de Economia/ SUAyED/2022/ | doc |
 | `8ERZAR` | ECONOMÍA/Facultad de Economía/Escolarizado/2021 | doc |
-| `7M3MNC` | ECONOMÍA/Facultad de Economía/Escolarizado/2021 | doc |
-| `V8NHYS` | / | doc |
-| `DRVR87` | 2024/ | doc |
-| `UZJXUG` | ECONOMÍA/Facultad de Economía/Escolarizado/2024 | doc |
+| `KBH4QN` | loENFERMERÍA/ Facultad de enfermería y obstetricia/ 2023 | doc |
 | `3RX6LZ` | ENFERMERÍA/ Facultad de Estudios Superiores Zaragoza/ Escolarizado/ 2026 | doc |
 | `LTU3JQ` | DERECHO / Facultad de Derecho / 2025 | doc |
 | `3BP4QB` | / DED 2027 | doc |

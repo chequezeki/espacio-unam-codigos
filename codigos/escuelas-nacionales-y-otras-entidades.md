@@ -45,11 +45,6 @@
 | `KSQA7Y` | Lingüística Aplicada | doc |
 | `LH2NV7` | Lingüística Aplicada | doc |
 | `DNX7NY` | Teatro y actuación | doc |
-
-## Centro de Nanos y Nano (Ensenada)
-
-| Código | Etiqueta | Origen |
-|---|---|---|
 | `DLFZY8` | Nanotecnología | doc |
 | `BXCKLK` | Nanotecnología | doc |
 
