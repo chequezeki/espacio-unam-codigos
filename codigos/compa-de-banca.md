@@ -130,6 +130,7 @@
 | `VD522A` | RELACIONES INTERNACIONALES. FCPYS | doc |
 | `2FB5UB` | 2022 | doc |
 | `L6KQTK` | 2019 | doc |
+| `GD53DM` | 2024 | doc |
 | `75CQF3` | 2021 | doc |
 | `P3ZRE5` | 2023 | doc |
 | `VFL56D` | 2024 | doc |
@@ -169,5 +170,6 @@
 | `QC4WVW` | Literatura dramática y teatro, Facultad de filosofía (2023) | doc |
 | `XTEKTV` | Geografía (escolarizado, generación 2024) | doc |
 | `Z9D3BT` | 2023 | doc |
+| `ZGKH37` | 2023 | doc |
 | `5KDYK6` | PEDAGOGÍA/ GEN 2026 | doc |
 | `YJ3MH8` | che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi | doc |

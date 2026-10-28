@@ -127,7 +127,7 @@
 
 [Centro de Física Aplicada y Avanzada (Juriquilla)](#centro-de-física-aplicada-y-avanzada-\(juriquilla\))
 
-[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) —](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(morelia\)-—)
+[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) —](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(morelia\)-pasenlo-lo-borraron—)
 
 [Instituto de Energías Renovables (Temixco)](#instituto-de-energías-renovables-\(temixco\))
 
@@ -170,267 +170,269 @@
 ## **Medallas secretas** {#medallas-secretas}
 
 **3AKJEE**
-**Este código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻**
+Este código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻
 
 **T3NAZ7**
-**Otro código secreto, se premia nuestra perseverancia.**
+Otro código secreto, se premia nuestra perseverancia.
 
 **3Y3E34**
-**Otro código secreto: la UNAMball.**
+Otro código secreto: la UNAMball.
 
 **Persona Famosa**
-**Se obtiene al llegar a los 1500 lazos.**
+Se obtiene al llegar a los 1500 lazos.
 
 **Bug Killer**
-**Se obtiene al reportar un Bug.**
+Se obtiene al reportar un Bug.
 
 **OLAK4S3**
-**Para el de la llama 🦙**
+Para el de la llama 🦙
 
 **H3RM4N0**
-**Para el de: Hermandad 🤝**
+Para el de: Hermandad 🤝
 
 **N0LAT3N**
-**Para el de: Esa tu no la tienes 😏**
+Para el de: Esa tu no la tienes 😏
 
 **C1UDAD0**
-**Para la de: Ciudadano promedio 🚶**
+Para la de: Ciudadano promedio 🚶
 
 **T0D0B1EN**
-**Para el de: Todo está bien 🔥**
+Para el de: Todo está bien 🔥
 
 **CANSAD0**
-**Para el de: Estoy cansado jefe 🥱**
+Para el de: Estoy cansado jefe 🥱
 
 **N0SERICK**
-**Para el de: No lo se Rick 🤔**
+Para el de: No lo se Rick 🤔
 
 **TR4NQU1**
-**Para la de: Oye tranquilo viejo**
+Para la de: Oye tranquilo viejo
 
 **ESTR3LL4**
-**Para la de estrellita en la frente.**
+Para la de estrellita en la frente**.**
 
 **T0RR3S**
-**Homenaje a las torres de la FES Aragón**
+Homenaje a las torres de la FES Aragón
 
 **TL4CU4**
-**Medalla de tlacuache. Medalla propuesta por Ximena Valencia**
+Medalla de tlacuache. Medalla propuesta por Ximena Valencia
 
 **P0K3B0L4**
-**La Leonardita del anexo de Ingeniería, a la que todo el campus conoce como la Pokébola. Idea de Alexis e Israel; ícono de Israel. Medalla secreta. Atte. Dapheriel**
+La Leonardita del anexo de Ingeniería, a la que todo el campus conoce como la Pokébola. Idea de Alexis e Israel; ícono de Israel. Medalla secreta. Atte. Dapheriel
 
 **CH1NCH3**
-**Por la fama de enchincharnos en la UNAM y por los px de veterinaria- Propuesta por Mariana**
+Por la fama de enchincharnos en la UNAM y por los px de veterinaria- Propuesta por Mariana
 
 **1YAR1**
-**Homenaje a Iyari, la puma de la Facultad de Medicina veterinaria y Zootecnia. Idea e icono de Nahomi. Medalla secreta.**
+Homenaje a Iyari, la puma de la Facultad de Medicina veterinaria y Zootecnia. Idea e icono de Nahomi. Medalla secreta.
 
 **G0Y0**
-**Para Goyo, la mascota del Club Universidad Nacional: el puma que pone a rugir el estadio. Idea e ícono de José Carlos. Medalla secreta.**
+Para Goyo, la mascota del Club Universidad Nacional: el puma que pone a rugir el estadio. Idea e ícono de José Carlos. Medalla secreta.
 
 **PR0M3T30**
-**Para el Prometeo de la Facultad de Ciencias. Idea de Emmanuel y Santiago; ícono de Santiago. Medalla secreta. El prometeo llevando el conocimiento hacia nuevos horizontes.**
+Para el Prometeo de la Facultad de Ciencias. Idea de Emmanuel y Santiago; ícono de Santiago. Medalla secreta. El prometeo llevando el conocimiento hacia nuevos horizontes.
 
 **M4ND4R1N**
-**Para Mandarino, el gatito naranja de la Facultad de Química que la comunidad cuidó y esterilizó, y que hoy vive en Canadá. Idea de Zoe.**
+Para Mandarino, el gatito naranja de la Facultad de Química que la comunidad cuidó y esterilizó, y que hoy vive en Canadá. Idea de Zoe.
 
 **R3S3RV4**
-**Por la Reserva Ecológica del Pedregal de San Ángel, el espacio vivo dentro de Ciudad Universitaria. Idea de Andrés.**
+Por la Reserva Ecológica del Pedregal de San Ángel, el espacio vivo dentro de Ciudad Universitaria. Idea de Andrés.
 
 **LGBTQ1**
-**Para la comunidad LGBTQ+ de la UNAM y quienes la acompañan: aquí cabe toda la diversidad. Idea de Ulises. Medalla secreta.**
+Para la comunidad LGBTQ+ de la UNAM y quienes la acompañan: aquí cabe toda la diversidad. Idea de Ulises. Medalla secreta.
 
 **4UR4FARM**
-**Idea mía Gael 🤓hay una medalla por el top 100 en el mini juego secreto 🤫 idea mía tmb**
-**Y una por proponer una medalla 😛**
-**Para quien farmea aura por los pasillos de la UNAM. Idea de Gael.**
+Para quien farmea aura por los pasillos de la UNAM. Idea de Gael.
+
+*Hay una medalla por el top 100 en el mini juego secreto* 🤫
+Y una por proponer una medalla 😛
 
 **N0B3LQ, N0B3LP, N0B3LL**
-**Investiguen quiénes han sido nuestros premios Nobel\!\!\!**
+Investiguen quiénes han sido nuestros premios Nobel\!\!\!
 
 **C0L4M0CH**
-**Para ColaMocha, el perro de CCH que toda su comunidad quiso y recuerda. Idea e ícono de Elian. Medalla secreta.**
+Para ColaMocha, el perro de CCH que toda su comunidad quiso y recuerda. Idea e ícono de Elian. Medalla secreta.
 
 **CUPUM4S**
-**La porra más viral de la UNAM. Idea de Ian, Edgar, Aurora(su servidora) y Alan.**
+
+La porra más viral de la UNAM. Idea de Ian, Edgar, Aurora(su servidora) y Alan.
 
 **4RD1LL4**
-**Para las ardillas de los campus, que nos roban la comida con toda la confianza. Idea de Adrián, Marco (su servilleta) y Leonardo. Medalla secreta.**
+Para las ardillas de los campus, que nos roban la comida con toda la confianza. Idea de Adrián, Marco (su servilleta) y Leonardo. Medalla secreta.
 
 **S4LM0N3L**
-**Comiste en el Pasillo de la Salmonela y sobreviviste para contarlo. Idea de Tomás y Denis. Atte. Dapheriel**
+Comiste en el Pasillo de la Salmonela y sobreviviste para contarlo. Idea de Tomás y Denis. Atte. Dapheriel
 
-**H4YP4R0 \- HU3LG4**
-**Para quienes alzan la voz y defienden sus derechos y los de su comunidad. Idea de Andrea M., David, Guadalupe, Leslie y Andrea B. Medalla secreta.**
+**H4YP4R0 / HU3LG4**
+Para quienes alzan la voz y defienden sus derechos y los de su comunidad. Idea de Andrea M., David, Guadalupe, Leslie y Andrea B. Medalla secreta.
 
 **4BR3C0CA**
-**Para la Muela de la Facultad de Odontología, uno de los rincones más reconocibles de CU. Idea de Sergio y Santiago; ícono de Santiago. Medalla secreta.**
+Para la Muela de la Facultad de Odontología, uno de los rincones más reconocibles de CU. Idea de Sergio y Santiago; ícono de Santiago. Medalla secreta.
 
 **M1ZTL1**
-**Homenaje a Miztli, la puma que fue emblema de la UNAM. Idea de Getzemani. Medalla secreta.**
+Homenaje a Miztli, la puma que fue emblema de la UNAM. Idea de Getzemani. Medalla secreta.
 
 **HUM4N1D4D**
-**Para «La Humanidad Hoy», el monumento que es símbolo de la FES Acatlán. Idea e ícono de Hanna. Medalla secreta.**
+Para «La Humanidad Hoy», el monumento que es símbolo de la FES Acatlán. Idea e ícono de Hanna. Medalla secreta.
 
 **TR3N1NG**
-**Para el tren del edificio principal de la Facultad de Ingeniería. Idea de Israel. Medalla secreta.**
+Para el tren del edificio principal de la Facultad de Ingeniería. Idea de Israel. Medalla secreta.
 
 **0NLIN31159**
-**Para quienes estudian en línea y suben la tarea al último minuto, pero la suben. Idea de Ángel Alexander.**
+Para quienes estudian en línea y suben la tarea al último minuto, pero la suben. Idea de Ángel Alexander.
 
 **CH1T0**
-**Para Chito, la hormiga mascota del CCH Azcapotzalco. Idea e ícono de Diego Yamil. Medalla secreta.**
+Para Chito, la hormiga mascota del CCH Azcapotzalco. Idea e ícono de Diego Yamil. Medalla secreta.
 
 **C0VID19**
-**Para quienes estudiaron en la UNAM durante la pandemia de COVID-19 (2020–2022): clases en línea, cámaras apagadas y aun así seguimos adelante. Idea de Ilse. Medalla secreta**
+Para quienes estudiaron en la UNAM durante la pandemia de COVID-19 (2020–2022): clases en línea, cámaras apagadas y aun así seguimos adelante. Idea de Ilse. Medalla secreta
 
 **V14J3R0**
- **Para quienes hacen dos horas o más de camino a su facultad o sede, sobreviviendo al tráfico en un viaje interdimensional diario: cada día llegan y eso ya es un logro. Idea de Yocelyn y Jhosep. Medalla secreta.**
+ Para quienes hacen dos horas o más de camino a su facultad o sede, sobreviviendo al tráfico en un viaje interdimensional diario: cada día llegan y eso ya es un logro. Idea de Yocelyn y Jhosep. Medalla secreta.
 
 **2DEOCT**
-**En memoria del movimiento estudiantil de 1968 y de quienes lo dieron todo: a esa generación le debemos mucho de lo que hoy tenemos. Las cosas han mejorado, pero todavía hay causas por las cuales luchar. «Somos nietos de la Revolución, hijos del 68 y hermanos de los 43.» Idea de Jonathan, Jorge Pavel y Cecilia. Medalla secreta.**
+En memoria del movimiento estudiantil de 1968 y de quienes lo dieron todo: a esa generación le debemos mucho de lo que hoy tenemos. Las cosas han mejorado, pero todavía hay causas por las cuales luchar. «Somos nietos de la Revolución, hijos del 68 y hermanos de los 43.» Idea de Jonathan, Jorge Pavel y Cecilia. Medalla secreta.
 
 **STCCU**
-**Para la estación Universidad, la puerta de entrada a Ciudad Universitaria para miles de pumas cada día. Idea de Luis Enrique y Jorge. Medalla secreta.**
+Para la estación Universidad, la puerta de entrada a Ciudad Universitaria para miles de pumas cada día. Idea de Luis Enrique y Jorge. Medalla secreta.
 
 **M4STR04P4**
-**Una medalla secreta para quien domina el formato APA sin perder la cordura. Idea de Abigail. Medalla Secreta.**
+Una medalla secreta para quien domina el formato APA sin perder la cordura. Idea de Abigail. Medalla Secreta.
 
 **JUL1F13RR0**
-**En honor a Julieta Fierro, astrónoma de la UNAM y una de las grandes divulgadoras de la ciencia en México. Idea e ícono de Eder Gael; también la propuso Mariana Jaired. Medalla secreta.**
+En honor a Julieta Fierro, astrónoma de la UNAM y una de las grandes divulgadoras de la ciencia en México. Idea e ícono de Eder Gael; también la propuso Mariana Jaired. Medalla secreta.
 
 **S1XS3V3N**
-**Six… seven. El meme del momento. Solo se gana con su código secreto. Idea de Raúl, Adrián, Isaac**
+Six… seven. El meme del momento. Solo se gana con su código secreto. Idea de Raúl, Adrián, Isaac
 
 **T4C0S**
-**El desayuno oficial de la comunidad: el de la bici, la canasta y la salsa verde.**
+El desayuno oficial de la comunidad: el de la bici, la canasta y la salsa verde.
 
 **PUM4D0L4R**
-**Los pumadólares que te cobran en tu primer dí**
-**a… y que nunca existieron.**
+Los pumadólares que te cobran en tu primer día… y que nunca existieron.
 
 **P13DR4**
-**Para la piedra más famosa de la FES Acatlán y su leyenda: si te tomas foto con ella, no te titulas. Idea de Alyzon, Jair, Eibraham y 9 personas más. Medalla secreta.**
+Para la piedra más famosa de la FES Acatlán y su leyenda: si te tomas foto con ella, no te titulas. Idea de Alyzon, Jair, Eibraham y 9 personas más. Medalla secreta.
 
 **3SP1G4**
-**Para «La Espiga»🌾, la escultura que aparece en el escudo de la FES Zaragoza. Idea de Sergio, Hernán, César y 8 personas más. Medalla secreta.**
+Para «La Espiga»🌾, la escultura que aparece en el escudo de la FES Zaragoza. Idea de Sergio, Hernán, César y 8 personas más. Medalla secreta.
 
 **UN4MOR**
-**Para quienes encontraron el amor en la UNAM: el campus también es lugar de encuentros. Idea de Elian, Irene, Denis y 7 personas más. Medalla secreta.**
+Para quienes encontraron el amor en la UNAM: el campus también es lugar de encuentros. Idea de Elian, Irene, Denis y 7 personas más. Medalla secreta.
 
 **BU1T0FQ**
-**Para el búho que recibe a la comunidad de la Facultad de Química. Idea de Marian, Raúl Alberto, Noel Omar y 6 personas más. Medalla secreta.**
+Para el búho que recibe a la comunidad de la Facultad de Química. Idea de Marian, Raúl Alberto, Noel Omar y 6 personas más. Medalla secreta.
 
 **S0RJU4N4**
-**Para el monumento a Sor Juana Inés de la Cruz de la FES Acatlán, que distingue a toda su comunidad. Idea de Andrea y Johanna. Medalla secreta.**
+Para el monumento a Sor Juana Inés de la Cruz de la FES Acatlán, que distingue a toda su comunidad. Idea de Andrea y Johanna. Medalla secreta.
 
 **\[tu propio codigo\]**
-**Para la medalla secreta de amor propio**
+*Para la medalla secreta de amor propio*
 
 **GR4N1T0**
-**Para quien pone un poco de sí para hacer de este mundo un lugar mejor. Medalla secreta.**
+Para quien pone un poco de sí para hacer de este mundo un lugar mejor. Medalla secreta.
 
 **G1S3S**
-**Para «Los Gises», la escultura de Helen Escobedo que identifica a la FES Iztacala. Idea de Cynthia, Joshua, Alyzon y 14 personas más; ícono de Edgar David. Medalla secreta.**
+Para «Los Gises», la escultura de Helen Escobedo que identifica a la FES Iztacala. Idea de Cynthia, Joshua, Alyzon y 14 personas más; ícono de Edgar David. Medalla secreta.
 
 **4XOLOT**
-**Para los ajolotes, tan queridos en la FAD de Xochimilco. Idea de Nathalia. Medalla secreta.**
+Para los ajolotes, tan queridos en la FAD de Xochimilco. Idea de Nathalia. Medalla secreta.
 
 **AGU1LA**
-**Para el águila del pilar de la UNAM, la facultad de Derecho. Idea de Zyanya, Frida, Javier y 5 personas más. Medalla secreta.**
+Para el águila del pilar de la UNAM, la facultad de Derecho. Idea de Zyanya, Frida, Javier y 5 personas más. Medalla secreta.
 
 **T4K1S**
-**Los Takis de Zaragoza. Para «El abrazo del maíz», la escultura del Campus I de la FES Zaragoza que la comunidad bautizó como los Takis. Idea de Laura Fabiola, Lluvia, Leonardo y 4 personas más. Medalla secreta.**
+Los Takis de Zaragoza. Para «El abrazo del maíz», la escultura del Campus I de la FES Zaragoza que la comunidad bautizó como los Takis. Idea de Laura Fabiola, Lluvia, Leonardo y 4 personas más. Medalla secreta.
 
 **BUF4L1N**
-**Para Bufalín, la mascota de la Facultad de Contaduría y Administración. Idea de Luis Enrique, Mayte, Karla Angélica y 6 personas más. Medalla secreta.**
+Para Bufalín, la mascota de la Facultad de Contaduría y Administración. Idea de Luis Enrique, Mayte, Karla Angélica y 6 personas más. Medalla secreta.
 
 **4L1N3**
-**Serie «Mujeres que hicieron la UNAM»: Aline Schunemann de Aluja, médica veterinaria y primera mujer profesora emérita de la UNAM. Idea de María Concepción y Karla Beatriz. Medalla secreta.**
+Serie «Mujeres que hicieron la UNAM»: Aline Schunemann de Aluja, médica veterinaria y primera mujer profesora emérita de la UNAM. Idea de María Concepción y Karla Beatriz. Medalla secreta.
 
 **D3LF1N**
-**Para el delfín, el animal que representa a la ENP 7 «Ezequiel A. Chávez». Idea de Emmanuel, Sofía Lucrecia, Claudia e Itzel. Medalla secreta.**
+Para el delfín, el animal que representa a la ENP 7 «Ezequiel A. Chávez». Idea de Emmanuel, Sofía Lucrecia, Claudia e Itzel. Medalla secreta.
 
 **T0T3M**
-**Para el Atlante de Tula de la ENP 9, al que la comunidad le deja ofrendas y monedas antes de los exámenes. Idea de Fernanda Camila, José Emilio, Leonardo y 5 personas moás. Medalla secreta**
+Para el Atlante de Tula de la ENP 9, al que la comunidad le deja ofrendas y monedas antes de los exámenes. Idea de Fernanda Camila, José Emilio, Leonardo y 5 personas moás. Medalla secreta
 
 **HUG0L**
-**Para Hugo Sánchez: estudió Odontología en la UNAM y en 2026 se cumplen 50 años de su debut con Pumas. Idea de Ana Isabella, Ángel Benjamín, Braulio y 6 personas más. Medalla secreta.**
+Para Hugo Sánchez: estudió Odontología en la UNAM y en 2026 se cumplen 50 años de su debut con Pumas. Idea de Ana Isabella, Ángel Benjamín, Braulio y 6 personas más. Medalla secreta.
 
 **4RB0LJUM3X**
-**Para el árbol de la Facultad de Química que toda su comunidad conoce como «el árbol Jumex». Idea de Abril, Elsa Daniela, Gonzalo y 4 personas más. Medalla secreta.**
+Para el árbol de la Facultad de Química que toda su comunidad conoce como «el árbol Jumex». Idea de Abril, Elsa Daniela, Gonzalo y 4 personas más. Medalla secreta.
 
 **M1L3T0**
-**En memoria de Mario Lenguas de Mileto, el perrito del CCH Naucalpan que acompañó a muchas generaciones y hoy tiene un mural en su biblioteca. Idea de María Jasmín, Arcelia, Andrea y 6 personas más. Medalla secreta.**
+En memoria de Mario Lenguas de Mileto, el perrito del CCH Naucalpan que acompañó a muchas generaciones y hoy tiene un mural en su biblioteca. Idea de María Jasmín, Arcelia, Andrea y 6 personas más. Medalla secreta.
 
 **V4MP1RO**
 **(se activa el 31 de oct)**
 
 **TUTS1**
-**Para «MéXXico, el siglo lleva tu nombre», la escultura de la Facultad de Arquitectura que la comunidad llama la Tutsi Pop. Idea de Sergio, Oswald, Axel Emmanuel y 7 personas más. Medalla secreta.**
+Para «MéXXico, el siglo lleva tu nombre», la escultura de la Facultad de Arquitectura que la comunidad llama la Tutsi Pop. Idea de Sergio, Oswald, Axel Emmanuel y 7 personas más. Medalla secreta.
 
 **B1G0T3S**
-**Para Los Bigotes, la escultura de CU junto al Metro Universidad y la parada del Pumabús. Idea de Sergio, Raúl, Diego Antonio y 4 personas más. Medalla secreta.**
+Para Los Bigotes, la escultura de CU junto al Metro Universidad y la parada del Pumabús. Idea de Sergio, Raúl, Diego Antonio y 4 personas más. Medalla secreta.
+
 **B1NN104X**
-**Para Binni Sicarú, la nutria mascota de la ENES Oaxaca. Idea d un e Óscar Isidro, Excel Zuriel y Alfredo Daniel. Medalla secreta.**
+Para Binni Sicarú, la nutria mascota de la ENES Oaxaca. Idea d un e Óscar Isidro, Excel Zuriel y Alfredo Daniel. Medalla secreta.
 
 **1SL4SCU**
-**Hay lugares que se vuelven parte de nuestra historia: Las Islas son el corazón de Ciudad Universitaria. Idea de Celeste. Medalla secreta.**
+Hay lugares que se vuelven parte de nuestra historia: Las Islas son el corazón de Ciudad Universitaria. Idea de Celeste. Medalla secreta.
 
 **C0L1BR1**
-**Para el colibrí de Trabajo Social, que dejó de ser Escuela y ahora es Facultad: un momento histórico. A su comunidad le llega sola. Idea de Karen, Karina, Daniela y 5 personas más. Medalla secreta.**
+Para el colibrí de Trabajo Social, que dejó de ser Escuela y ahora es Facultad: un momento histórico. A su comunidad le llega sola. Idea de Karen, Karina, Daniela y 5 personas más. Medalla secreta.
 
 **TUZ4S0R**
-**Para las tuzas que viven en los pastos del CCH Oriente. Idea de Santiago, Naomi, Rafael y 2 personas más. Medalla secreta.**
+Para las tuzas que viven en los pastos del CCH Oriente. Idea de Santiago, Naomi, Rafael y 2 personas más. Medalla secreta.
 
 **4ZUL0R0**
-**Por los colores que nos identifican en todo el mundo, idea de Adri. Medalla Secreta.**
+Por los colores que nos identifican en todo el mundo, idea de Adri. Medalla Secreta.
 
  **G0Y4**
-**Para Goya, la puma del equipo femenil de Pumas y compañera de Goyo. Idea de Giselle, Priscilla, Pedro y 7 personas más; ícono de Pedro. Medalla secreta.**
+Para Goya, la puma del equipo femenil de Pumas y compañera de Goyo. Idea de Giselle, Priscilla, Pedro y 7 personas más; ícono de Pedro. Medalla secreta.
 
 **ESPUM1T4**
-**Para el jabón que inventaron en la UNAM: hasta la espuma puede ser ciencia universitaria. Idea de Dulce Liliana. Medalla secreta.**
+Para el jabón que inventaron en la UNAM: hasta la espuma puede ser ciencia universitaria. Idea de Dulce Liliana. Medalla secreta.
 
 **IBM650**
-**Para la IBM 650, la primera computadora de México, que llegó a la UNAM en 1958\. Idea de Elizabeth Briseida. Medalla secreta.**
+Para la IBM 650, la primera computadora de México, que llegó a la UNAM en 1958\. Idea de Elizabeth Briseida. Medalla secreta.
 
 **M0NT0Y4**
-**Para Matilde Montoya, la primera médica de México: se tituló en la Escuela Nacional de Medicina en 1887\. Serie «Mujeres que hicieron la UNAM». Idea de Ángel Manuel y Audrie Annel. Medalla secreta.**
+Para Matilde Montoya, la primera médica de México: se tituló en la Escuela Nacional de Medicina en 1887\. Serie «Mujeres que hicieron la UNAM». Idea de Ángel Manuel y Audrie Annel. Medalla secreta.
 
 **3PP3NSFM**
-**Para «La vida, la muerte, el mestizaje y los cuatro elementos», el mural de Francisco Eppens en la Facultad de Medicina. Idea de Diego Alejandro, Jessica Alexa,  Rodrigo y 2 personas más. Medalla secreta.**
+Para «La vida, la muerte, el mestizaje y los cuatro elementos», el mural de Francisco Eppens en la Facultad de Medicina. Idea de Diego Alejandro, Jessica Alexa,  Rodrigo y 2 personas más. Medalla secreta.
 
 **PR0F3S**
-**Para las y los profes y las personas trabajadoras que sostienen la UNAM todos los días. Idea de Héctor Erick, Dalthon y Carol Lizeth. Medalla secreta.**
+Para las y los profes y las personas trabajadoras que sostienen la UNAM todos los días. Idea de Héctor Erick, Dalthon y Carol Lizeth. Medalla secreta.
 
 **H4RU**
-**Para Haru, el gatito del CCH Vallejo que tiene su propio mural en el plantel. Idea de Maricruz Martínez y Silvia Pozos. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para Haru, el gatito del CCH Vallejo que tiene su propio mural en el plantel. Idea de Maricruz Martínez y Silvia Pozos. Serie «Mascotas de mi escuela». Medalla secreta.
 
  **0C3L0T3**
-**Para el Ocelote, la mascota que lleva con orgullo los colores y los equipos de la FES Zaragoza. Idea de Juan Hernández y Silvia Pozos. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para el Ocelote, la mascota que lleva con orgullo los colores y los equipos de la FES Zaragoza. Idea de Juan Hernández y Silvia Pozos. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **3SP3R4NZ4**
-**Para quienes siguen adelante con valentía en sus propias batallas: siempre hay una luz al final del camino y una comunidad que camina uncontigo. Idea de Omar Ortega, Jhosep Silva y Dalia Maldonado.**
+Para quienes siguen adelante con valentía en sus propias batallas: siempre hay una luz al final del camino y una comunidad que camina uncontigo. Idea de Omar Ortega, Jhosep Silva y Dalia Maldonado.
 
 **S0NRIS4**
-**Para Ris, el león dientes de sable que le saca una sonrisa a toda la Facultad de Odontología. Idea de Jesús Núñez. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para Ris, el león dientes de sable que le saca una sonrisa a toda la Facultad de Odontología. Idea de Jesús Núñez. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **BUH0**
-**Para el Búho, mascota de la Facultad de Derecho: sabiduría y desvelos de estudio. Idea de Gojan Neri. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para el Búho, mascota de la Facultad de Derecho: sabiduría y desvelos de estudio. Idea de Gojan Neri. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **4J0L0T3**
-**Para el ajolote, mascota del CCH Vallejo. Idea de José Contreras. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para el ajolote, mascota del CCH Vallejo. Idea de José Contreras. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **L30P4RD0**
-**Para los Leopardos, la mascota que ruge por la Prepa 8 «Miguel E. Schulz». Idea de Eduardo Palacio y Emiliano Zamudio. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para los Leopardos, la mascota que ruge por la Prepa 8 «Miguel E. Schulz». Idea de Eduardo Palacio y Emiliano Zamudio. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **C0Y0T3**
-**Para los Coyotes, emblema y equipos de la Prepa 6 «Antonio Caso» en Coyoacán. Idea de Raúl Coronado, Elías Macotela, Amos Vega y más. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para los Coyotes, emblema y equipos de la Prepa 6 «Antonio Caso» en Coyoacán. Idea de Raúl Coronado, Elías Macotela, Amos Vega y más. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **0SC4R**
-**Para Alfonso Cuarón y Emmanuel Lubezki, que estudiaron cine en la UNAM y ganaron el Óscar. Idea de Dylan, Denis, Frida Sabina y Letizia. Medalla secreta.**
+Para Alfonso Cuarón y Emmanuel Lubezki, que estudiaron cine en la UNAM y ganaron el Óscar. Idea de Dylan, Denis, Frida Sabina y Letizia. Medalla secreta.
 
 **DG1R3**
 Para la comunidad del Sistema Incorporado: preparatorias, CCH y licenciaturas incorporadas que también son parte de la UNAM. Idea de Mariana Celeste. Medalla secreta.
@@ -449,6 +451,7 @@ Serie «Mujeres que hicieron la UNAM»: Helia Bravo Hollis, primera bióloga tit
 
 **H4LCON / PR3P1N**
 Para Prepín y los Halcones, el orgullo de la Prepa 9 «Pedro de Alba». Idea de Jonathan Álvarez, Katia Chávez, Eduardo Palacio y más. Serie «Mascotas de mi escuela»
+
 **CH4T4**
 Para Chata, la perrita más querida de la FES Zaragoza Campus 2, compañera fiel de toda su comunidad. Idea de Fátima Cruz y Dana García. Serie «Mascotas de mi escuela». Medalla secreta.
 
@@ -480,39 +483,39 @@ Serie «Mujeres que hicieron la UNAM»: Ifigenia Martínez, economista y primera
 Para el «Pikachu», como la comunidad de la FES Acatlán llama a su monumento más famoso. Idea de Iván, Eibraham, Johan y 6 personas más. Medalla secreta.
 
 **YAPORF4VOR**
-**Para quienes ya no pueden con tantas medallas nuevas…y aún así siguen juntándose. Idea de Diego, Sara y Oziel. Solo se gana con su código secreto.**
+Para quienes ya no pueden con tantas medallas nuevas…y aún así siguen juntándose. Idea de Diego, Sara y Oziel. Solo se gana con su código secreto.
 
 **CH0RN3**
 
-**Para Margarita Chorné y Salazar, la primera dentista titulada de México (1886) y una de las primeras mujeres con título profesional en América Latina. Serie «Mujeres que hicieron la UNAM». Idea de Daniel Flores. Medalla secreta.**
+Para Margarita Chorné y Salazar, la primera dentista titulada de México (1886) y una de las primeras mujeres con título profesional en América Latina. Serie «Mujeres que hicieron la UNAM». Idea de Daniel Flores. Medalla secreta.
 
 **W4FFL3S**
 
-**Para Waffles, el perro que todo el CCH Oriente conoce. Idea de Brian Lucas. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para Waffles, el perro que todo el CCH Oriente conoce. Idea de Brian Lucas. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **TURN0S**
 
-**Para quienes comparten salones, pasillos y profes pero casi nunca se ven: el turno de la mañana y el de la tarde son una sola comunidad. Idea de Sarahí Guerrero. Medalla secreta.**
+Para quienes comparten salones, pasillos y profes pero casi nunca se ven: el turno de la mañana y el de la tarde son una sola comunidad. Idea de Sarahí Guerrero. Medalla secreta.
 
 **VIRUS**
 
-**Se contagia, alguien con la medalla te lo debe pasar al agregarte**
+*Se contagia, alguien con la medalla te lo debe pasar al agregarte*
 
 **B0PUM3**
 
-**Para el buque oceanográfico El Puma de la UNAM, que estudia los mares de México. Idea de Salvador y Ximena. Medalla secreta.**
+Para el buque oceanográfico El Puma de la UNAM, que estudia los mares de México. Idea de Salvador y Ximena. Medalla secreta.
 
 **J41D4R**
 
-**Para Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear en la UNAM**
+Para Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear en la UNAM
 
-**C4CHORR0/3R4SM0**
+**C4CHORR0 / 3R4SM0**
 
-**Para los Cachorros pumas, el orgullo de la Prepa 2 «Erasmo Castellanos Quinto».**
+Para los Cachorros pumas, el orgullo de la Prepa 2 «Erasmo Castellanos Quinto».
 
 **ZOSC9R**
 
-**Encontraste el código secreto de El Apagón: en su primer día, a Espacio UNAM se le fue la luz… y aun así encendió.**
+Encontraste el código secreto de El Apagón: en su primer día, a Espacio UNAM se le fue la luz… y aun así encendió.
 
 **H1L4R10**
 
@@ -528,15 +531,15 @@ Para Suadero, el perrito de la FES Cuautitlán. Idea de Alan Salvador Laguna. Se
 
 **OAX4C4 (ya esta bn)**
 
-**Para la ENES Oaxaca y las ocho regiones del estado que se encuentran en su campus. Idea de Ángel Azael Cisneros. Medalla secreta.**
+Para la ENES Oaxaca y las ocho regiones del estado que se encuentran en su campus. Idea de Ángel Azael Cisneros. Medalla secreta.
 
 **JUG4D4**
 
-**Para esa movida maestra que nadie vio venir: hasta un peón puede llegar al otro lado del tablero y coronarse. Medalla secreta.**
+Para esa movida maestra que nadie vio venir: hasta un peón puede llegar al otro lado del tablero y coronarse. Medalla secreta.
 
 **4T3N34**
 
-**Para Atenea, la diosa de la sabiduría que es el emblema de la Facultad de Filosofía y Letras. Idea de Jaisha, Jesús Horacio, Alejandra y 5 personas más. Serie «Mascotas de mi escuela». Medalla secreta.**
+Para Atenea, la diosa de la sabiduría que es el emblema de la Facultad de Filosofía y Letras. Idea de Jaisha, Jesús Horacio, Alejandra y 5 personas más. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **M0NJ3**
 
@@ -629,9 +632,35 @@ Para Miguel Alcubierre, físico de la UNAM famoso en el mundo por su propuesta d
 
 La Universidad cumple 475 años (1551–2026) y tú estuviste ahí: encontraste el código escondido en Espacio. Idea de Luis Jair, Sergio, Ariana y 9 personas más. Medalla secreta.
 
-**N0B3LP**
+**GR4MMYS**
 
-Egresado de Derecho de la UNAM y Premio Nobel de la Paz 1982 por su trabajo por el desarme nuclear. Idea de Lizbeth y Ángel Gabriel. Medalla secreta.
+Para Gabriela Ortiz Torres, compositora formada en la Facultad de Música de la UNAM y ganadora de tres premios Grammy: la música de la UNAM en el escenario más grande del mundo. Idea de Edurne, Jared y Hana. Medalla secreta.
+
+**MP0NC3**
+
+Para Manuel M. Ponce, el compositor que dirigió la escuela de música de la Universidad en 1945\. Idea de Christofer. Serie «Personajes de la UNAM». Medalla secreta.
+
+**PUM4M0R**
+
+**N0STR3S**
+
+**C4C0M1X**
+
+**0FUN4M**
+
+**V4C4CO4P4**
+
+**1999UNAM**
+
+**H1K4RU**
+
+**JUST0S**
+
+**4STR0N4UT4**
+
+**3GU1AL1S**
+
+**G4C3T0**
 
 ¿Alguien tiene el código de la de “Soñador”?
 
@@ -675,10 +704,10 @@ Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:
 
 CEPHCIS Mérida / Lic en Desarrollo y Gestión Interculturales : ELIMINADO (POR AHORA)
 
-Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia / ecología y  :
+Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia / ecología y SI CONSIGUEN ROLENLO  :
 
 Instituto de Energías Renovables (Temixco):
-**639CKM**
+**ZGKH37**
 
 ## **\*Platinado especial\***
 
@@ -732,11 +761,11 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Optometría:** Z7V2DL.
 
-**Administración Agropecuária:** ARWJMZ
+**Administración Agropecuária:** ARWJMZ, ZGKH37
 
-**Comunicación:**
+**Comunicación: ZGKH37**
 
-**Desarrollo territorial:** SYGFBM
+**Desarrollo territorial:** SYGFBM, ZGKH37
 
 **Economía Industrial:** XT3Z2W , H8W2VQ
 
@@ -744,7 +773,7 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Turismo y Desarrollo Sostenible:**NLX7FH YG3PZF, L92K5P, B4SAK2, RD7ZU4, 7LH22V
 
-**Desarrollo y Gestión Interculturales:** F38M8G
+**Desarrollo y Gestión Interculturales:** 7LH22V
 
 **Traducción:** XHGFPK, 7PDUXU, 4L2U5Q, EA87CQ, UBXD7M
 
@@ -770,7 +799,7 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 ### ***ENES Juriquilla*** {#enes-juriquilla}
 
-**Ciencias de la Tierra:** SBT2UX, HGBPLC, L3CJV6
+**Ciencias de la Tierra:** SBT2UX, HGBPLC, L3CJV6, ZGKH37
 
 **Ingeniería Aeroespacial:** EMXTCA UKWMB6,
 
@@ -806,11 +835,11 @@ KLLK4N
 
 **Tecnologías para la Información en ciencias:** 6TABQR
 
-**Ciencia de Materiales Sustentables:** P2pzb7
+**Ciencia de Materiales Sustentables:** P2pzb7, ZGKH37
 
 **Ciencias Ambientales:** 58ZH4F
 
-**Ecología:** 863K8
+**Ecología:**
 
 **Estudios Sociales y Gestión Local:** G5ZJ2S
 
@@ -882,7 +911,7 @@ Historia: FNXSDN 43SGEZ
 
 **Políticas y Administración Pública:** ALVDTP R9DENV, T827MU, BH45YR, UN34WK,
 
-**Comunicación:** 6CRCR2**,** Q2SZ3B, KBXVYT, UCHESZ, KMHUFX, BTV8F2, X8HHE5, DAYASH
+**Comunicación:** 6CRCR2**,** Q2SZ3B, KBXVYT, UCHESZ, KMHUFX, BTV8F2, X8HHE5, DAYASH,
 
 **Derecho:** ACZ97F, 6PHCHQ, 7Z9MNW, ZZ6AE3,APSHVP, XEJ383, Q8294S,METDCV  CY5CX8, E92887
 
@@ -902,16 +931,16 @@ Historia: FNXSDN 43SGEZ
 
 **Enseñanza de Aleman como Lengua Extranjera:** ELIMINADO (POR AHORA)
 
-**Enseñanza de Francés como Lengua Extranjera:** 9UXLAZ, TVPG8X
+**Enseñanza de Francés como Lengua Extranjera: ZGKH37**
 
 **Enseñanza de Español como Lengua Extranjera:** G45DBK, T7EEMY, EDWUCZ, 4QQA2Z
 
-**Enseñanza de Italiano :**SXFJVK
+**Enseñanza de Italiano :**SXFJVK, ZGKH37
 **Enseñanza de Portugues:** ELIMINADO (POR AHORA)
 
 **Enseñanza de ingles:** WTUU9H, 3FWPDJ, GM2S6V, LGRZ65
 
-**Filosofía:** NZQBK9
+**Filosofía:** NZQBK9, ZGKH37
 
 **Historia:** AQDZJ4, 99YS7A
 
@@ -927,11 +956,11 @@ Historia: FNXSDN 43SGEZ
 
 **Diseño Industrial:** UWJK4T, KNFKMV, 325FC5, N6DMGP, HGZBWY, 6Z52ZA, SMNMJW
 
-**Derecho: 27YHVB,** TK24MU, SB3S58,7NSF65, 8GHZQ5
+**Derecho: 27YHVB,** TK24MU, SB3S58,7NSF65, 8GHZQ5,AWLR5V
 
 **Economía:** X87RX3, B6N39M, QV8YWM , 84HDNQ
 
-**Economía SUAyED:** , 4E5D5N
+**Economía SUAyED:** , 4E5D5N, ZGKH37
 
 **Ingeniería Civil:** BZJX2A, UEYKGM, GAVUGY, GR5YLN,  QLNMF5
 
@@ -977,7 +1006,7 @@ Medicina Veterinaria y Zootecnia: **45KGQP,** **4NHT3T, BNMEKR**,**Z42WRW**, **L
 
 Química: **YA8C2Q, V4LUEE,  B9ELGM, F3WH5B**
 
-Bioquímica Diagnóstica:**JL85MQ,** **ALKPT3, 2WFKWY, P8AEN8, WNP6JM, GVT6M9**
+Bioquímica Diagnóstica:**JL85MQ,** **ALKPT3, 2WFKWY, P8AEN8, WNP6JM, GVT6M9, ZGKH37**
 
 Tecnología:
 
@@ -1121,7 +1150,7 @@ Urbanismo: **8ZYAK5**, **S6FD5B, 5YLFA4, WZ6CAL,,**
 
 ### ***Facultad de Medicina*** {#facultad-de-medicina}
 
-Ciencia de la Nutrición Humana: **XLCKDK, KB2U7B**
+Ciencia de la Nutrición Humana: **KB2U7B, ZGKH37**
 
 Fisioterapia: **LRYEUK, 3TGEAC, LRYEUK, H388MB, G9HCLW**
 
@@ -1135,7 +1164,7 @@ Neuro: **S6K38H**, **U7FQVT,** CSSVLE
 
 ### ***Facultad de Medicina Veterinaria y Zootecnia*** {#facultad-de-medicina-veterinaria-y-zootecnia}
 
-Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, X82MPH, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS**
+Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, X82MPH, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS, QVVXC4**
 
 ***Facultad de Enfermería y Obstetricia***
 
@@ -1189,17 +1218,15 @@ Estudios sociales y gestión local: **G5ZJ2S**
 
 ### ***Facultad de Filosofía y Letras*** {#facultad-de-filosofía-y-letras}
 
-Bibliotecología y Estudios de la Información: **9R55ZS, A7YU5R, ZG5ZBZ, C44NTV, Y2SM92, FRTNXJ**
+Bibliotecología y Estudios de la Información: **9R55ZS, A7YU5R, ZG5ZBZ, C44NTV, Y2SM92, FRTNXJ, 57EYLG**
 
-Administración de Archivos y Gestión Docum
-
-ental: **M33DPN**
+Administración de Archivos y Gestión Documental: **M33DPN**
 
 Filosofía: **DL7ZKB**, **5DV4P9**, **9JURAL, KJFPHV**
 
 Geografía: **6YLFPN, 3SCR3U, 3W637B,  , XTEKTV, H6F4BA, G4K6JE, L55SRC**
 
-Lengua y Literaturas Hispánicas: **EHX8WQ,** **2B9BEB, MD2YTA, CWFTUP, 8N24Z3, LHVZE2, 4ZBCV9**
+Lengua y Literaturas Hispánicas: **VNMPZ9, EHX8WQ,** **2B9BEB, MD2YTA, CWFTUP, 8N24Z3, LHVZE2, 4ZBCV9**
 
 Lengua y Literaturas Modernas Francesas: **TVPG8X, AB3MHG, 865U4C, 3GEXKK, XEMANH, H47GVV**
 
@@ -1249,21 +1276,21 @@ Ciencias de la Comunicación (SUAyED): **75CQF3, VFL56D, BHJJJA, DFTXBL, BFFU5Q,
 
 ### ***Facultad de Contaduría y Administración*** {#facultad-de-contaduría-y-administración}
 
-Administración: **VBDF4E, FFWLPX, HL67XM, 9MEAAP ,2KBVYQ, YE83KR 779X24, F28GAL, 8V5JU5,EQ6X25, 9DT2GX, B4F5AD, 4CYKPC, NWANYF, U8C9G3, CM8RT8**
+Administración: **9MEAAP, VBDF4E, FFWLPX, HL67XM, ,2KBVYQ, YE83KR 779X24, F28GAL, 8V5JU5,EQ6X25, 9DT2GX, B4F5AD, 4CYKPC, NWANYF, U8C9G3, CM8RT8**
 
 **Administración SUAYED a distancia: UVJ83P**
 
-Contaduría: **ZG27YE, HGGMCD, SUAW4X , BE5FU9** ,**5QQJBV**, **C7NXLY**, **MU69T3**, **PZK7RS** , **374S23**, **WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU**
+Contaduría: **ZMY6X9**, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, **LH9W8W**
 
-Informática: **2AAE5B**,**CDPCQC, H3WUX3**
+Informática: **2AAE5B**,CDPCQC, H3WUX3
 
 Negocios Internacionales**: KGTXD3 , 9RE3VP**
 
 ### ***Facultad de Artes y Diseño*** {#facultad-de-artes-y-diseño}
 
-Arte y Diseño:  **NPCGN7**
+Arte y Diseño:  **NPCGN7, ZGKH37**
 
-Artes Visuales: **W3FLD6**, **SZEXJ3, ZEX4TV, ZASTKX, L8GE4V, W3ZPUK**
+Artes Visuales: **W3FLD6**, **SZEXJ3, ZEX4TV, ZASTKX, L8GE4V, W3ZPUK, RANETR**
 
 Diseño y Comunicación Visual: **BFJ5ZB**, **XJWH5V**, **AFJHRE**, **M7978E, 74MYW8, YULUPY, Z68CTF, 4YREGJ, SL5VWW, 74MYW8, G8ZWJ9, LR4WLT**
 
@@ -1305,7 +1332,7 @@ Odontologia: **C73DE3, 9R45UR**
 
 ### ***Escuela Nacional de Ciencias de la Tierra*** {#escuela-nacional-de-ciencias-de-la-tierra}
 
-Ciencia de la Tierra: **v, ZGPKFJ**
+Ciencia de la Tierra: **v, ZGPKFJ, ZGKH37**
 
 Geografía Aplicada: **QWC8VS, WNU5V3, FZCENF**
 
@@ -1317,7 +1344,7 @@ Forense: **G73Z9E,** **KKYHAT, PAVDZD,** **ZS32YZ**, **USQZVW, LEH2JS, 7TCYKC**
 
 Ciencia de Datos: **S64AYZ**, **L4RHWU**
 
-Matemáticas Aplicadas: **9K99R3**
+Matemáticas Aplicadas: **9K99R3, ZGKH37**
 
 ***ENAC (Escuela Nacional de Artes Cinematográficas)***
 
@@ -1343,7 +1370,7 @@ Nanotecnología: **DLFZY8, BXCKLK**
 
 Tecnología:
 
-### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) —*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-—}
+### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—}
 
 CIencias :
 
@@ -1373,7 +1400,7 @@ Desarrollo y gestión interculturales:
 
 | A |
 | ----- |
-| BXAMZP, MJLUUU, ALVDTP \- **Aaron** K4Z8HD, 89JNM3 \- **Abigail** UGVD3C, VSVE5R  \- **Abraham** 4LDPLD, TT6442 \- **Abril** 26MW2U- **Absalón**  E6FYLQ \- **Ada** 354CMX \- **Adamari** M33WL2 \- **Adolfo**  UDHBH3 \- **Adonay** F783Q6, SB3S58 \- **Adrian** 7UHFHJ, EZLREM \- **Adriana** X5S4VQ  \- **Agnes**  HYADUU **\- Ailed**  W88YLX \- **Aidé**  TZ3CU6 \- **Aideé**  R7WR2E \- **Aileen** FDR434, 3RX6LZ, XLB7Z2 \- **Ailin**  G5VSUZ \- **Aislin** LHVZE2 \- **Ainar** 55VVA9 \- **Akin**  PYADLG \- **Alan** SLYBSD \- **Alberto** MAVRJ9 \- **Aldair** MHLNQF \- **Aldo** 4QSM4X**,** RMNQ7T, PV9QBS, \- **Alejandra** SQP3HF, XZBWUT, E7U7YA \- **Alejandro** J4QES4 \- **Alessandra**  ETYJEM, TC2RHZ, TL83CB, H8MKFQ, 34EDFF \- **Alexa**  FTWZED- **Alexander** FHQXMQ, W9THGT \- **Alexandra** 9X7TGT \- **Alexandro**  K4RNJH \- **Alexia** ZEWEKJ \- **Alexis** AB6RWP, 5VFXAG \- **Alfredo** XH8ZZE \- **Alfonso**  LM2U7L \- **Alicia** GSKBMJ \- **Alin** M2A9L3 \- **Aline** 8N24Z3  \- **Alinne** VAQYCV \- **Alison** G73Z9E **\- Allison** B4P9YP \- **Alma** TEQN9R \- **Alondra** XSLEPM \- **Alonso** DTL4P5 **\- Alvaro**  W25A2E \- **Alyzon** N7RKPL \- **Amanda** LYZ5CF \- **Amauri** U6QC39, WNMKU5 \- **Ambar** QMDEAM \- **Amelie** 9U3QWM, F5Z27H \- **America** SSD55C \- **Ameyal**  BGY7UX \- **Ameyala**  3EGY3N \- **Ameyali**  LH2NV7 \- **Ameyalli**  Z5K8S9 \- **Amalinalli** F688S8 \- **Amairani** ZJJYZU \- **Amayrani** WLW4WT \- **Amir** NBDGLB \- **Amos** 6GT9PH, UMZHHH, RP824B, 56XQJ8 \- **Ana** QHQFZB \- **Anna** XQST48, M7B54S \- **Anahí** MP7Y6M \- **Anaid** YK4BPW \- **Anaremi**  HB9TUV \- **Anael** 44UQUR \- **Andre** 6WM8QZ, WGM2KG, MY5REG, EMXTCA- **Andrea** QKQC8H, XTEJ8P \- **Andrés** UAW9AA \- **Andrey** Y2SM92, KJY9A8, WW36CR, JEYZRQ \- **Angel** 6PHDHX, H6RRFW \- **Angélica SN6AHU \- Ángela**  AXBZDR \- **Angelli** SS4VPK \- **Angie**  CSSVLE \- **Anel** 4PXEED \- **Anneli** RCNKSB \- **Annie** UGVEHD, MJLUUU, XJE3HZ \- **Antonio** YULUPY \- **Aquetzalli**  ZVD8Z4 \- **Arantxa** C2E6DR **\- Aranza** CXZGG6 \- **Arath** 3ZH8AS \- **Arely** Y7J263 \- **Ari** HFAAS9 \- **Aridani** GXZ73A \- **Ariel** LZ7ETX \- **Arlet**  F5JCTS \- **Arleth** 9DFZVJ \- **Arcelia**  Q6QP7H \- **Argenis**  XV6KAN \- **Arely** MVNWXC \- **Ariana** FKWYFZ \- **Armando** 7Z9MNW \- **Arturo** JQEG3U \- **Ashley**  AL6N8L \- **Ashly** 49ACHB \- **Audrey** FSZLZC \- **Audrie** WPAY3K- **Aura** XRRLDC \- **Aurea** 75DVYC \- **Aurora**  Y7ZM9H- **Aury** RWKVVL \- **Avril**  YURFCE, QVC32M \- **Axel** PPYFAU \- **Ayari** UALS83 \- **Ayelen** ZUAMAT \- **Ayerim** KEPNNC \- **Aylin** 9GNVRV \- **Azael** 5WZDUP \- **Azucena** P7PAUD  \- **Azul**  L576TC **\- Araceli** |
+| BXAMZP, MJLUUU, ALVDTP \- **Aaron** K4Z8HD, 89JNM3 \- **Abigail** UGVD3C, VSVE5R  \- **Abraham** 4LDPLD, TT6442 \- **Abril** 26MW2U- **Absalón**  E6FYLQ \- **Ada** 354CMX \- **Adamari** M33WL2 \- **Adolfo**  UDHBH3 \- **Adonay** F783Q6, SB3S58 \- **Adrian** 7UHFHJ, EZLREM \- **Adriana** X5S4VQ  \- **Agnes**  HYADUU **\- Ailed**  W88YLX \- **Aidé**  TZ3CU6 \- **Aideé**  R7WR2E \- **Aileen** FDR434, 3RX6LZ, XLB7Z2 \- **Ailin**  G5VSUZ \- **Aislin** LHVZE2 \- **Ainar** 55VVA9 \- **Akin**  PYADLG \- **Alan** SLYBSD \- **Alberto** MAVRJ9 \- **Aldair** MHLNQF \- **Aldo** 4QSM4X**,** RMNQ7T, PV9QBS, \- **Alejandra** SQP3HF, XZBWUT, E7U7YA \- **Alejandro** J4QES4 \- **Alessandra**  ETYJEM, TC2RHZ, TL83CB, H8MKFQ, 34EDFF \- **Alexa**  FTWZED- **Alexander** FHQXMQ, W9THGT \- **Alexandra** 9X7TGT \- **Alexandro**  K4RNJH \- **Alexia** ZEWEKJ \- **Alexis** AB6RWP, 5VFXAG \- **Alfredo** XH8ZZE \- **Alfonso**  LM2U7L \- **Alicia** GSKBMJ \- **Alin** M2A9L3 \- **Aline** 8N24Z3  \- **Alinne** VAQYCV \- **Alison** G73Z9E **\- Allison RMXZ4E \- Alisson**  B4P9YP \- **Alma** TEQN9R \- **Alondra** XSLEPM \- **Alonso** DTL4P5 **\- Alvaro**  W25A2E \- **Alyzon** N7RKPL \- **Amanda** LYZ5CF \- **Amauri** U6QC39, WNMKU5 \- **Ambar** QMDEAM \- **Amelie** 9U3QWM, F5Z27H \- **America** SSD55C \- **Ameyal**  BGY7UX \- **Ameyala**  3EGY3N \- **Ameyali**  LH2NV7 \- **Ameyalli**  Z5K8S9 \- **Amalinalli** F688S8 \- **Amairani** ZJJYZU \- **Amayrani** WLW4WT \- **Amir** NBDGLB \- **Amos** 6GT9PH, UMZHHH, RP824B, 56XQJ8 \- **Ana** QHQFZB \- **Anna** XQST48, M7B54S \- **Anahí** MP7Y6M \- **Anaid** YK4BPW \- **Anaremi**  HB9TUV \- **Anael** 44UQUR \- **Andre** 6WM8QZ, WGM2KG, MY5REG, EMXTCA- **Andrea** QKQC8H, XTEJ8P \- **Andrés** UAW9AA \- **Andrey** Y2SM92, KJY9A8, WW36CR, JEYZRQ \- **Angel** 6PHDHX, H6RRFW \- **Angélica SN6AHU \- Ángela**  AXBZDR \- **Angelli** SS4VPK \- **Angie**  CSSVLE \- **Anel** 4PXEED \- **Anneli** RCNKSB \- **Annie** UGVEHD, MJLUUU, XJE3HZ \- **Antonio** YULUPY \- **Aquetzalli**  ZVD8Z4 \- **Arantxa** C2E6DR **\- Aranza** CXZGG6 \- **Arath** 3ZH8AS \- **Arely** Y7J263 \- **Ari** HFAAS9 \- **Aridani** GXZ73A \- **Ariel** LZ7ETX \- **Arlet**  F5JCTS \- **Arleth** 9DFZVJ \- **Arcelia**  Q6QP7H \- **Argenis**  XV6KAN \- **Arelys**  MVNWXC \- **Ariana** FKWYFZ \- **Armando** 7Z9MNW \- **Arturo** JQEG3U \- **Ashley**  AL6N8L \- **Ashly** MDW9W3 **\- Atenea** 49ACHB \- **Audrey** FSZLZC \- **Audrie** WPAY3K- **Aura** XRRLDC \- **Aurea** 75DVYC \- **Aurora**  Y7ZM9H- **Aury** RWKVVL \- **Avril**  YURFCE, QVC32M \- **Axel** PPYFAU \- **Ayari** UALS83 \- **Ayelen** ZUAMAT \- **Ayerim** KEPNNC \- **Aylin** 9GNVRV \- **Azael** 5WZDUP \- **Azucena** P7PAUD  \- **Azul**  L576TC **\- Araceli** |
 | **B** |
 | HG6QQX \- **Barbara**  M8MRDM \- **Bárbara**  XKYNQ8 \- **Beatriz**  8MT3SY \- **Belem** LDJN7P **\- Belén**  42GEXU \- **Betzabeth** DGHY32 \- **Berenice** 73VSTT \- **Bersheva** E76VKM \- **Blanca** CYSVAV- **Brandon** D3NJY3, JTWXGC \- **Braulio** SLYBSD \- **Brayan** VZ36RJ, UU6VPQ, WW7T4K, 7FDNDL, TVPG8X- **Brenda** GKZCFU \- **Brian** XFX8U7 **\- Briana** UALS83 \- **Brigitte** KNM6SQ \- **Briseida** 2PFVA4, JNFJKW \- **Bruno** 668YW9 \- **Bryan** |
 | **C** |
@@ -1383,7 +1410,7 @@ Desarrollo y gestión interculturales:
 | **E** |
 | 7XMBB9, DH5LMV **\- Eder** HR5TVK, C4S5F9 \- **Edgar** VPDHVT \- **Edgardo** Q3Q9LU**\- Edahi** 9MS2MK \- **Edmundo** 48WMEU, MJLUUU \- **Edna** 5WL3J2, H6ET8G, HLTR92 \- **Eduardo** DVX6Y3 \- **Edwin** E44DJW, RRB4ZF \- **Efrén** J4C52P \- **Eibraham** 7XMBB9 \- **Eithan**  UTNDXQ \- **Elena** PXH6BE \- **Elí** 7C33QL \- **Eliam**
 XEYR24 \- **Elian** AARUZQ-**Elías**
-V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** JUF5W6 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel** |
+V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** JUF5W6 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
 | **F** |
 | 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
 | **G** |
@@ -1414,7 +1441,7 @@ U9FRDX \- **Nidia** R7ZS2S \- **Noé** MTUVQH \- **Noel** NVA94H \- **Noemy 8NZH
 | 9Z7HUK \- **Quetzal** 4R4MNQ \- **Quetzali** BSU7JW \- **Quetzalli**  |
 | **R** |
 | SZEXJ3 \- **Rachel**  YEGKL2,5D62KA \- **Rafael** V569QT **\- Raman** RVY6UF \- **Ramiro** 99MYX7 \- **Raquel** PGQ43A \- **Raúl**  Q978AJ,WRVUAF \- **Rebeca** 6TBAMV \- **Regina**  Z5KZQ5, XEJ383 \- **Renata** D5GYZY \- **Ricardo** GAVUGY \- **Roberto** ALKPT3 \- **Rocio** T5ARSK \- **Rodolfo** EUF8A3, HGGMCD, GNPVXS \- **Rodrigo** EQAW8X \- **Rolando** XYRRTS \- **Romina** HUUGQ5 \- **Rommel** WLWZ6P, 3UNCXG \- **Rosa** ADBZNZ \- **Rosalba**
-4QRXH7 \- **Rosendo** YM9HJ3 \- **Rosaura**  |
+4QRXH7 \- **Rosendo** YM9HJ3 \- **Rosaura** BXQMZX-**Rigoberto**  |
 | **S** |
 | L5GPBK \- **Safir** Q2432U \- **Said** PYADLG \- **Salvador** P7PAUD, K7KBUF, AAABHU, BASB5W \- **Samantha**  634MZ6 \- **Samanta** YNPKGP \- **Sandra**  Z6NQMM, GLWNDS, 6DT6SY, TVGL8J- **Santiago**  7NSF65- **Sara** KNFKMV \- **Sarahi** 2UZB9F \- Sarai PMXRXP \- **Saul** 93H9J9 \- **Sayid**
 SKBZDL-**Sayra** XTEKTV \- **Scarlett** CC2JVA, VMXG5A, FDSTL4 \- **Sebastián** SAKNLC \- **Selene** MAVVEW, Z2PFT2, V2XP99, Q25JJU, XPQ7SN \- **Sergio** 8RYZLX \- **Shania**  P8AEN8, F5TN2H \- **Sharon**  BYF2UV- **Sheccid** R6YX47 \- **Sheyla**  WMWPYR **\- Seth** 4HU2PV \- **Silvia** 9ZHNXC, MTXZ58 \- **Sofía** EF38ST \- **Spencer** 9MVBUH \- **Stephanie** LGB2ZV \- **Stefany** 27YHVB \- **Sunmy** X3DZYF \- **Suzanne** |
@@ -1478,7 +1505,7 @@ YG3PZF \- Angel
 K4ARRF \- Andrade
 E882BB \- Aguilar
 Q499LL  \-  Ángeles
-8CYDV9, 4THUMF \- Angeles (sin acento)
+8CYDV9, 4THUMF, MDW9W3 \- Angeles (sin acento)
 68DWUL  \- Ángulo
  U5HQH4 \- Ambriz
 JHCABD  \-  Aragón
@@ -1604,6 +1631,7 @@ RUYFGM \- Ceballos
 9R45UR \- Cedeño
 H6RRFW \- Cedillo
 8Z733R  \-  Celis
+DGTEB4 \- Cerón
 X3TE7F \- Cervantes
 TVPG8X \- Chantes
 DQ5KTT \- Chacón
@@ -1712,7 +1740,7 @@ DUP9YP  \-  Fuentes
 8FWQFZ \- Galindo
 7Y9LVV \- Galindo
 RPX2XG \- Galicia
-N7RKPL, 9X7TGT \- Galván
+N7RKPL, 9X7TGT, V8SF6Z \- Galván
 EQBXZA. Galvez
 X3DZYF  \-  Gallardo
 TEQN9R  \-  Gallegos
@@ -2112,9 +2140,10 @@ Z85GPC  \-  Urzua
 GSKBMJ \- VÁZQUEZ
 QC4WVW \- Vázquez
 KBL9AS \- Valadez
-CLQ8NT,  \- Valdés
+CLQ8NT, XCHMUY \- Valdés
 TZXDBB  \-  Valdez
 9GNVRV, UALS83   \- Valderrama
+UEYKGM \- Valdovinos
 764BK4  \-  Valenzuela
 BTHEFM, P7ALHB- Valencia
 7FDNDL \- Valle
@@ -2177,14 +2206,14 @@ SSD55C \- Zunun
 | ENERO G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9 KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL |
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2 |
-| **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6  |
+| **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3  |
 | **ABRIL** Z2PFT2, QVC32M, HR5TVK, FDSTL4, X4WFYP, ARCUK3, Z85GPC, ETW2ZZ, PMZUG6, 3W5HLK, MTUVQH, 6F25A8, ADBZNZ, 2WFKWY, JN42QP, B9ELGM, YULUPY, NQK8TW, RPEUKJ, Z2PFT2, 7LX92Y, FZTJCT, UZJXUG, ZQ7D4T, BDJ43Q, P79ZDH,BKY7PY, H47GVV, BDJ43Q, JN42QP, QP8C79, 9G29YH, Q3Q9LU, |
-| **MAYO** GVALGQ**,** YG7BHR ,LBK24D, ZUACTS, DL7ZKB, F9TZFU, APSHVP,T2UL6E, TE86WP, TT6442, WHRPQ7, X3DZYF, FB5CLB, T3L5C5, XMKRM8 , E5VNTW, EL5ESZ, EGGBNP, R3Y27V, 6HAJFC, 2G5REG, 8EJFYT, GTYWRN, 2G5REG, V569QT, GVALGQ, GNPVXS, X4XZKY, HB9TUV, GFES9K, 8GHZQ5, YTGL83, MRAV79, WJH8ME |
+| **MAYO** GVALGQ**,** YG7BHR ,LBK24D, ZUACTS, DL7ZKB, F9TZFU, APSHVP,T2UL6E, TE86WP, TT6442, WHRPQ7, X3DZYF, FB5CLB, T3L5C5, XMKRM8 , E5VNTW, EL5ESZ, EGGBNP, R3Y27V, 6HAJFC, 2G5REG, 8EJFYT, GTYWRN, 2G5REG, V569QT, GVALGQ, GNPVXS, X4XZKY, HB9TUV, GFES9K, 8GHZQ5, YTGL83, MRAV79, WJH8ME, 57EYLG |
 | **JUNIO** CEB2F7, 4QSM4X**,** 7M3MNC**,** L5GPBK, 3LX4CZ, 5WL3J2, P8AEN8 ,GHCDJB, LWPJ6V, E6FYLQ, MB8M3H, 3BQQCQ, HKDG94, JMDE8U, A39J8V, LTU3JQ, PQ5YP6 , ZEWEKJ; XKYNQ8, MDTK49 FHTEF8, 27NGUN, 45XLW5, 8PAUA9, GSZHQW, Y9DWP5, NWX4TN, QDXBQ9, BHEFGR, E3ADVA, KNLS2K, V58MF3, U243SW, UBXD7M, M6Q9JV |
 | **JULIO** KVJNQD, JUBN3N, HGGMCD, E92887 ,DFTXBL,ZZ6AE3, JUBN3N,99MYX7, VFYFQQ, YE83KR, FDR434, 5KX44U, DS7SU5, 3TGEAC, A28B7B, SYGFBM, 6DXUFC, 47X28G, KQTXQ3,BP23LR, Y6JME9, ZEDTNW, GC6HKG, KBCGJE, NBDGLB, X4XHYB, TNHMSN, M28V7D, E7MD3K, QW57KK, JQEG3U, V7QEMW, G8ZWJ9, V8NSTH, 8CYDV9, XTEKTV, 4G7JK7, WFK9M9, JQEG3U, XTEKTV, N7RKPL, QW57KK, C2E6DR, FUEQZD, SKNEPP, 5KDYK6, Z7V2DL |
 | **AGOSTO** FBTPB7, M8PN5M**,** TP7G2U, BLL2CA , 374S23, 96DD2T, M33DPN, 4TG2S7, S5G28G, E22JQT, 8Y89R9, CSYUZN, KNFKMV, EX43MU AK6ZWR, D5GYZY, YURFCE, ZVD8Z4, 8N24Z3 , KNWN28, N3MF6K, S4S24L, PZBGYV, 4THUMF, AC6R6Z, FTJ9YB, TUBLX3, 3C9YXF, 7HQ8FR, 76J4U9, PGPXPL, P94HEN, TVGL8J, 7Q64Z9, M8PN5M, DZ239X, QC4WVW, ZT76GT, U9FRDX, XJE3HZ, SPMU3V |
 | **SEPTIEMBRE** HZ6A9Z, RZ6XRU**,** GLWNDS, BYF2UV, X87RX3, RUR545, 9MVBUH, BVWBB6, USVWAX, FMBLNQ, FL5998, LEH2JS', JPLRZG, U44QDA, DUP9YP, HMZ3AD, UUN8K5, UH9C9E. QMDEAM, YK9XG3, 82H488,9RE3VP, Z7BAJP, 74MYW8, X4BZBK, W3AQ9D, HERGCA, CRWXDZ, CXZGG6, CBHD9N, BK3FVG, NKMK4D**,** 6LV4PL, WPWR7B, ZTQ9QP, EGRGG2, UAW9AA |
-| **OCTUBRE** ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8 |
+| **OCTUBRE** ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W |
 | **NOVIEMBRE** 2K9FK5, CBU3CE, JL85MQ**,** C77D29**,**, VPRKQA**,** 74KTUS, 6WM8QZ, , K4P832, F698MD, QY3VQ9, NEKJCK, FHQXMQ, 9RDDKY, W3FLD6, VZ36RJ, 2M56EN, W8LHZL, HFAAS9, UN34WK, RWSHM3, 33DBC2, UMZHHH, L3CJV6, 4CYKPC, PW5KSH, CY6ATS , CJXGS2, ALKPT3, GTMTH9, K7AFKF, Y2SM92, NQPMGB, 6DT6SY, CJXGS2, HC2CCM, UJ4PZC, M3XBS3, 8JH9PL, VG39JT, 6MURMS, 3EADS3 |
 | **DICIEMBRE** NQYJ5W,Y6352H,UU6VPQ, XJWH5V, MNM229,T9UJMP, P8E4PW, TAZL6P, MGQ845,  9DT7WG, VU4EAW, M8MRDM, RMNQ7T, QR4PLZ, 27YHVB, MP7Y6M, ZWLYNY, 4CDW4N, 9TSJ9S, RWKVVL, MHLNQF,NWG754, QGLTRC, EE55CC,B3FPGG, ACZ97F, 4VP5BY, M7PS49, XLWSAA, F5Z27H, 39GFZJ, 9HHDZS ALVDTP, DRVR87, BPY827, KB5FFD, HLTR92, DRVR87,BTJWYA, GSWGUF, SQVJ7P, KEPNNC, PQX8FT, DRVR87, ZWLYNY, ZT5TXN, 79LV2Z, ACZ97F, YGTGPZ, G9HCLW, W25A2E, QAN9U2, 634MZ6, LHPSC9 |
 
@@ -2199,11 +2228,11 @@ K334YB
 | **Campeche:**  SMBPQF, ZUH73Z |
 | **Chiapas:** XZXA2V, JUBN3N, W7AHQ2, YTGL83 |
 | **Chihuahua:** R6TE6Q |
-| **Ciudad de México: 5D4C6P ,,**G5SHBK G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD |
+| **Ciudad de México: 5D4C6P ,Q2SZ3B**, G5SHBK G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD, 57EYLG |
 | **Coahuila:** Y2S7KV,  |
 | **Colima:**79U7RY |
 | **Durango:** VUELXG, RJ863WSSGKMT, VG39JT |
-| **Estado de México:** 6CRCR2, JV4M3U, 27YHVB, SPMU3V, WNYKCD, JN42QP, FFWLPX, GVALGQ, BP8YXK, 45KGQP, T9L84A**,** BPY827, 62CSXD, MB8M3H, ZZ6AE3, G5CQWJ, T4MZ7S, E92887, M7PS49, XLWSAA, ALKPT3, ALVDTP, GTYWRN, BP4BSQ, SHYLDR, BVAQGH, QC4WVW, PYADLG, URT7XH, AARUZQ, 8GHZQ5, 92B2W3, 82H488, 2AVJJ6, WJH8ME, ZAX4D8 |
+| **Estado de México:** 6CRCR2, JV4M3U, 27YHVB, SPMU3V, WNYKCD, JN42QP, FFWLPX, GVALGQ, BP8YXK, 45KGQP, T9L84A**,** BPY827, 62CSXD, MB8M3H, ZZ6AE3, G5CQWJ, T4MZ7S, E92887, M7PS49, XLWSAA, ALKPT3, ALVDTP, GTYWRN, BP4BSQ, SHYLDR, BVAQGH, QC4WVW, PYADLG, URT7XH, AARUZQ, 8GHZQ5, 92B2W3, 82H488, 2AVJJ6, WJH8ME, ZAX4D8, VYGM4N, MDW9W3 |
 | **Guanajuato:** ZFHZNJ, 4QQA2Z, CYSVAV |
 | **Guerrero:** PA7FWF, M33WL2, ACZ97F, 9MSMM, Z7V2DL |
 | **Hidalgo:** 3C5MX2, FZC5EB, NWB7JG, 9JUAP7, 4THUMF |
@@ -2230,7 +2259,7 @@ K334YB
 
 ***“Lazos sin frontera”***
 
-**FHG5GS, 8TQ47J,  7TCTV3, CBHD9N, VU4EAW, PGPXPL**
+**FHG5GS, 8TQ47J,  7TCTV3, CBHD9N, VU4EAW, PGPXPL,**
 
 ## **Apartado “Casi Gemelos”**  {#apartado-“casi-gemelos”}
 
@@ -2317,7 +2346,7 @@ K334YB
 ***13 SXZK7G***
 ***14  78UUJ3***
 ***15***  **ESNV5Y**
-***16***  **VFL56D**
+***16***  **VFL56D, MDW9W3**
 ***17***  **7WX85K**
 ***18***  **6UQTGW, K7HSZT**
 ***19***  **2AVJJ6**
@@ -2366,7 +2395,7 @@ K334YB
 ***30***  **HL67XM, ARFY59**
 **Mayo**
 ***1***
-***2 JMR2JU***
+***2 JMR2JU, DGTEB4***
 ***3 HTZ424***
 ***4 2G5REG***
 ***5***
@@ -2395,7 +2424,7 @@ K334YB
 ***28 75CQF3***
 ***29***
 ***30*** **6HAJFC**
-***31***
+***31 57EYLG***
 **Junio**
 ***1 RR6U5D***
 ***2***
@@ -2467,7 +2496,7 @@ K334YB
 ***5***   **ZUW2TP**
 ***6  G5SHBK, 7STSNM , XJE3HZ, 96DD2T***
 ***7***  **PGPXPL**
-***8***
+***8  NBYEXE***
 ***9***   **AC6R6Z, ZEX4TV**
 ***10***
 ***11 2M7NP7***
@@ -2536,14 +2565,14 @@ K334YB
 ***11***
 ***12 JNFJKW***
 ***13 MUME6D,*** SDPBTV
-***14***
+***14 YE9YNV***
 ***15 KXQAX2***
 ***16 BP4BSQ***
 ***17 Z9D3BT***
 ***18 92B2W3***
 ***19 JW9PBR, QCDXFG, SQMUC6***
 ***20***
-***21 7WZ6CU***
+***21 7WZ6CU, LH9W8W***
 ***22 UQQGXT***
 ***23 FFWLPX***
 ***24 UU7ANV***
@@ -2815,7 +2844,7 @@ RELACIONES INTERNACIONALES. FCPYS. : VD522A
 2021:
 2022:
 2023:
-2024:
+2024: GD53DM
 2025:
 2026:
 2027:
@@ -2913,7 +2942,7 @@ Geografía (escolarizado, generación 2024\) \- XTEKTV
 
 **Diseño Gráfico**:
 
-2023: Z9D3BT
+2023: Z9D3BT, ZGKH37
 
 PEDAGOGÍA/ GEN 2026 \- 5KDYK6
 
@@ -3034,6 +3063,9 @@ Otra cosa nadie quiere perder el acceso, no cambien los códigos, hagan su letre
 
 # **No borren ni sustituyan los códigos, cada quien haga su propio anuncio nmmn, si quieren usen uno de base y copien el texto. NO HAGAN SPAM DE UN SOLO CÓDIGO O HARÁN QUE NO SE PUEDA EDITAR EL DOCUMENTO OTRA VEZ (ya pasó 2 veces y no quieren una tercera).**
 
+AGREGAME POR FAVOR BACHILLERATO A DISTANCIA
+ ZGKH37
+
 Apiádate de nosotros bachillerato a distancia 🙏🏼 JUDSPC y U44QDA
 Agreguen porfa XC56EV
 
@@ -3065,6 +3097,8 @@ Por favor agregame compañerit@ de Bachillerato a Distancia  96DD2T
 **PORFAVOR RANETR es la única q me falta ;u;**
 
 **Agreguenmeeeeee bachillerato en línea, paro: 75CQF3**
+
+**Agregame persona de bachillerato por fa :( UEYKGM**
 
 **Por favor amigos de bachillerato a distancia, les ruego que ayuden a este pobre mentecato.**
 **WZ73LP**
@@ -3180,7 +3214,7 @@ Y si tengo algún tocayo de apellido, soy Jácome 🥹
 
 **AFV9RM**  porfi ayuda
 
-**Estimados compañeros que estudian en el *CEPHCIS Merida* e *Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia*. También de *Bachillerato a Distancia, Enseñanza de Italiano y Alemán como lengua extranjera, Ingeniería Topográfica, Química Cosmética Industrial* e *Iniciación universitaria*. Además otra persona que se apellide *Terán*. Agréguenme porfa: 6WSK45**
+A**Estimados compañeros que estudian en el *CEPHCIS Merida* e *Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia*. También de *Bachillerato a Distancia, Enseñanza de Italiano y Alemán como lengua extranjera, Ingeniería Topográfica, Química Cosmética Industrial* e *Iniciación universitaria*. Además otra persona que se apellide *Terán*. Agréguenme porfa: 6WSK45**
 
 **Posdata: les dejo otro código secreto T3NAZ7**
 
@@ -3199,6 +3233,8 @@ Y si tengo algún tocayo de apellido, soy Jácome 🥹
 **Bachillerato en línea ayuden a esta pobre alma 🙏🙏 ELUYC2**
 
 **Agreguen porfas y les compro una pizza**
+
+****
 
 ****
 
@@ -3428,7 +3464,7 @@ Agreguenme en Bachillerato a distancia y a Química cosmética por favor SMC4YU
 
 **Agregenme alguien de bachillerato a distancia, por favorr: SE28C2**
 
-Amigos de Bachillerato a Distancia y Agroforestales, agregame porfis y te llevo de Tour a Ciencias ![❤][image7]gr
+Amigos de Bachillerato a Distancia y Agroforestales, agregame porfis y te llevo de Tour a Ciencias ![❤][image8]gr
 **Tmb a mi porfa agregameee Y4SECU**
 
 **KY43YW**
@@ -3948,5 +3984,9 @@ Agregame plis 7LZ5TF
 **Agreguenme bachillerato en línea por favor\!\! JEYZRQ \- PLISSS**
 
 **AGRÉGUENME BACHILLERATO EN LÍNEA POR FAVOR QV68T9 🙏🏻🙏🏻😭**
+
+S6YQL2 porfaaaaa bachillerato en línea
+
+**Agreguenme bachillerato en línea por favor\!\! JEYZRQ \- PLISSS**
 
 [^1]:

@@ -4,6 +4,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `ZGKH37` | — | doc |
 | `JUDSPC` | Apiádate de nosotros bachillerato a distancia 🙏🏼 | doc |
 | `U44QDA` | y | doc |
 | `XC56EV` | Agreguen porfa | doc |
@@ -21,6 +22,7 @@
 | `3UNCXG` | PORFIIIII AMIG@ | doc |
 | `QV68T9` | Agreguenme bachillerato en línea por favor!! | doc |
 | `75CQF3` | Agreguenmeeeeee bachillerato en línea, paro | doc |
+| `UEYKGM` | Agregame persona de bachillerato por fa :( | doc |
 | `WZ73LP` | — | doc |
 | `TJBK73` | Solo m faltas tu bachillerato a distanciaaa | doc |
 | `BBUZSK` | Amix de bachillerato en línea me agregan plz | doc |
@@ -77,7 +79,7 @@
 | `U4SXG7` | x8 | doc |
 | `BBVWWW` | Encuentrenme los de bachillerato en Línea | doc |
 | `AFV9RM` | porfi ayuda | doc |
-| `6WSK45` | Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E | doc |
+| `6WSK45` | A Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en | doc |
 | `T3NAZ7` | Posdata: les dejo otro código secreto | doc |
 | `DJ7WBM` | — | doc |
 | `7M3MNC` | agregen porfa y les doy un riko pollo 🍗 | doc |
@@ -385,3 +387,4 @@
 | `KEGKRZ` | — | doc |
 | `FPN8E4` | Agreguen porfaaa | doc |
 | `QV68T9` | AGRÉGUENME BACHILLERATO EN LÍNEA POR FAVOR | doc |
+| `S6YQL2` | porfaaaaa bachillerato en línea | doc |

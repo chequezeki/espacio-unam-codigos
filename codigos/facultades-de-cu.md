@@ -208,8 +208,8 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `XLCKDK` | Ciencia de la Nutrición Humana | doc |
 | `KB2U7B` | Ciencia de la Nutrición Humana | doc |
+| `ZGKH37` | Ciencia de la Nutrición Humana | doc |
 | `LRYEUK` | Fisioterapia | doc |
 | `3TGEAC` | Fisioterapia | doc |
 | `H388MB` | Fisioterapia | doc |
@@ -276,6 +276,7 @@
 | `H6RRFW` | Medicina Veterinaria y Zootecnia | doc |
 | `8ALFYC` | Medicina Veterinaria y Zootecnia | doc |
 | `R5UKGS` | Medicina Veterinaria y Zootecnia | doc |
+| `QVVXC4` | Medicina Veterinaria y Zootecnia | doc |
 | `JXMAQR` | Enfermería | doc |
 | `G5M54T` | Enfermería | doc |
 | `SFS8D8` | Enfermería | doc |
@@ -371,7 +372,8 @@
 | `C44NTV` | Bibliotecología y Estudios de la Información | doc |
 | `Y2SM92` | Bibliotecología y Estudios de la Información | doc |
 | `FRTNXJ` | Bibliotecología y Estudios de la Información | doc |
-| `M33DPN` | ental | doc |
+| `57EYLG` | Bibliotecología y Estudios de la Información | doc |
+| `M33DPN` | Administración de Archivos y Gestión Documental | doc |
 | `DL7ZKB` | Filosofía | doc |
 | `5DV4P9` | Filosofía | doc |
 | `9JURAL` | Filosofía | doc |
@@ -383,6 +385,7 @@
 | `H6F4BA` | Geografía | doc |
 | `G4K6JE` | Geografía | doc |
 | `L55SRC` | Geografía | doc |
+| `VNMPZ9` | Lengua y Literaturas Hispánicas | doc |
 | `EHX8WQ` | Lengua y Literaturas Hispánicas | doc |
 | `2B9BEB` | Lengua y Literaturas Hispánicas | doc |
 | `MD2YTA` | Lengua y Literaturas Hispánicas | doc |
@@ -514,10 +517,10 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `9MEAAP` | Administración | doc |
 | `VBDF4E` | Administración | doc |
 | `FFWLPX` | Administración | doc |
 | `HL67XM` | Administración | doc |
-| `9MEAAP` | Administración | doc |
 | `2KBVYQ` | Administración | doc |
 | `YE83KR` | Administración | doc |
 | `779X24` | Administración | doc |
@@ -531,6 +534,7 @@
 | `U8C9G3` | Administración | doc |
 | `CM8RT8` | Administración | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
+| `ZMY6X9` | Contaduría | doc |
 | `ZG27YE` | Contaduría | doc |
 | `HGGMCD` | Contaduría | doc |
 | `SUAW4X` | Contaduría | doc |
@@ -550,6 +554,8 @@
 | `B3FPGG` | Contaduría | doc |
 | `6VMRJF` | Contaduría | doc |
 | `EVKRFU` | Contaduría | doc |
+| `MDW9W3` | Contaduría | doc |
+| `LH9W8W` | Contaduría | doc |
 | `2AAE5B` | Informática | doc |
 | `CDPCQC` | Informática | doc |
 | `H3WUX3` | Informática | doc |
@@ -561,12 +567,14 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `NPCGN7` | Arte y Diseño | doc |
+| `ZGKH37` | Arte y Diseño | doc |
 | `W3FLD6` | Artes Visuales | doc |
 | `SZEXJ3` | Artes Visuales | doc |
 | `ZEX4TV` | Artes Visuales | doc |
 | `ZASTKX` | Artes Visuales | doc |
 | `L8GE4V` | Artes Visuales | doc |
 | `W3ZPUK` | Artes Visuales | doc |
+| `RANETR` | Artes Visuales | doc |
 | `BFJ5ZB` | Diseño y Comunicación Visual | doc |
 | `XJWH5V` | Diseño y Comunicación Visual | doc |
 | `AFJHRE` | Diseño y Comunicación Visual | doc |

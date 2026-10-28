@@ -76,18 +76,19 @@
 | `NC53MT` | Diseño Gráfico | doc |
 | `Z9D3BT` | Diseño Gráfico | doc |
 | `JE8MNE` | Enseñanza de Inglés ‘como Lengua Extranjera | doc |
-| `9UXLAZ` | Enseñanza de Francés como Lengua Extranjera | doc |
-| `TVPG8X` | Enseñanza de Francés como Lengua Extranjera | doc |
+| `ZGKH37` | Enseñanza de Francés como Lengua Extranjera | doc |
 | `G45DBK` | Enseñanza de Español como Lengua Extranjera | doc |
 | `T7EEMY` | Enseñanza de Español como Lengua Extranjera | doc |
 | `EDWUCZ` | Enseñanza de Español como Lengua Extranjera | doc |
 | `4QQA2Z` | Enseñanza de Español como Lengua Extranjera | doc |
 | `SXFJVK` | Enseñanza de Italiano | doc |
+| `ZGKH37` | Enseñanza de Italiano | doc |
 | `WTUU9H` | Enseñanza de ingles | doc |
 | `3FWPDJ` | Enseñanza de ingles | doc |
 | `GM2S6V` | Enseñanza de ingles | doc |
 | `LGRZ65` | Enseñanza de ingles | doc |
 | `NZQBK9` | Filosofía | doc |
+| `ZGKH37` | Filosofía | doc |
 | `AQDZJ4` | Historia | doc |
 | `99YS7A` | Historia | doc |
 | `DW3N8A` | Lengua y Literaturas Hispánicas | doc |
@@ -130,11 +131,13 @@
 | `SB3S58` | Derecho | doc |
 | `7NSF65` | Derecho | doc |
 | `8GHZQ5` | Derecho | doc |
+| `AWLR5V` | Derecho | doc |
 | `X87RX3` | Economía | doc |
 | `B6N39M` | Economía | doc |
 | `QV8YWM` | Economía | doc |
 | `84HDNQ` | Economía | doc |
 | `4E5D5N` | Economía SUAyED | doc |
+| `ZGKH37` | Economía SUAyED | doc |
 | `BZJX2A` | Ingeniería Civil | doc |
 | `UEYKGM` | Ingeniería Civil | doc |
 | `GAVUGY` | Ingeniería Civil | doc |
@@ -248,6 +251,7 @@
 | `P8AEN8` | Bioquímica Diagnóstica | doc |
 | `WNP6JM` | Bioquímica Diagnóstica | doc |
 | `GVT6M9` | Bioquímica Diagnóstica | doc |
+| `ZGKH37` | Bioquímica Diagnóstica | doc |
 | `WNYKCD` | Ingeniería química | doc |
 | `8HVPLY` | Ingeniería química | doc |
 | `DQ5KTT` | Ingeniería química | doc |

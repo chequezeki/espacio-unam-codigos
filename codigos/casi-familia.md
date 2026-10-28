@@ -41,6 +41,7 @@
 | `Q499LL` | Ángeles | doc |
 | `8CYDV9` | Angeles (sin acento) | doc |
 | `4THUMF` | Angeles (sin acento) | doc |
+| `MDW9W3` | Angeles (sin acento) | doc |
 | `68DWUL` | Ángulo | doc |
 | `U5HQH4` | Ambriz | doc |
 | `JHCABD` | Aragón | doc |
@@ -184,6 +185,7 @@
 | `9R45UR` | Cedeño | doc |
 | `H6RRFW` | Cedillo | doc |
 | `8Z733R` | Celis | doc |
+| `DGTEB4` | Cerón | doc |
 | `X3TE7F` | Cervantes | doc |
 | `TVPG8X` | Chantes | doc |
 | `DQ5KTT` | Chacón | doc |
@@ -311,6 +313,7 @@
 | `RPX2XG` | Galicia | doc |
 | `N7RKPL` | Galván | doc |
 | `9X7TGT` | Galván | doc |
+| `V8SF6Z` | Galván | doc |
 | `EQBXZA` | Galvez | doc |
 | `X3DZYF` | Gallardo | doc |
 | `TEQN9R` | Gallegos | doc |
@@ -860,9 +863,11 @@
 | `QC4WVW` | Vázquez | doc |
 | `KBL9AS` | Valadez | doc |
 | `CLQ8NT` | Valdés | doc |
+| `XCHMUY` | Valdés | doc |
 | `TZXDBB` | Valdez | doc |
 | `9GNVRV` | Valderrama | doc |
 | `UALS83` | Valderrama | doc |
+| `UEYKGM` | Valdovinos | doc |
 | `764BK4` | Valenzuela | doc |
 | `BTHEFM` | Valencia | doc |
 | `P7ALHB` | Valencia | doc |

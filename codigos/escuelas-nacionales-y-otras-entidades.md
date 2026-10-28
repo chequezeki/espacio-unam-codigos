@@ -7,6 +7,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `ZGPKFJ` | Ciencia de la Tierra: v | doc |
+| `ZGKH37` | Ciencia de la Tierra: v | doc |
 | `QWC8VS` | Geografía Aplicada | doc |
 | `WNU5V3` | Geografía Aplicada | doc |
 | `FZCENF` | Geografía Aplicada | doc |
@@ -30,6 +31,7 @@
 | `S64AYZ` | Ciencia de Datos | doc |
 | `L4RHWU` | Ciencia de Datos | doc |
 | `9K99R3` | Matemáticas Aplicadas | doc |
+| `ZGKH37` | Matemáticas Aplicadas | doc |
 | `JFFLLG` | Cinematografía | doc |
 
 ## ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)

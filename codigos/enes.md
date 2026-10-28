@@ -8,7 +8,10 @@
 |---|---|---|
 | `Z7V2DL` | Optometría | doc |
 | `ARWJMZ` | Administración Agropecuária | doc |
+| `ZGKH37` | Administración Agropecuária | doc |
+| `ZGKH37` | Comunicación | doc |
 | `SYGFBM` | Desarrollo territorial | doc |
+| `ZGKH37` | Desarrollo territorial | doc |
 | `XT3Z2W` | Economía Industrial | doc |
 | `H8W2VQ` | Economía Industrial | doc |
 | `NLX7FH` | Turismo y Desarrollo Sostenible | doc |
@@ -17,7 +20,7 @@
 | `B4SAK2` | Turismo y Desarrollo Sostenible | doc |
 | `RD7ZU4` | Turismo y Desarrollo Sostenible | doc |
 | `7LH22V` | Turismo y Desarrollo Sostenible | doc |
-| `F38M8G` | Desarrollo y Gestión Interculturales | doc |
+| `7LH22V` | Desarrollo y Gestión Interculturales | doc |
 | `XHGFPK` | Traducción | doc |
 | `7PDUXU` | Traducción | doc |
 | `4L2U5Q` | Traducción | doc |
@@ -88,6 +91,7 @@
 | `SBT2UX` | Ciencias de la Tierra | doc |
 | `HGBPLC` | Ciencias de la Tierra | doc |
 | `L3CJV6` | Ciencias de la Tierra | doc |
+| `ZGKH37` | Ciencias de la Tierra | doc |
 | `EMXTCA` | Ingeniería Aeroespacial | doc |
 | `UKWMB6` | Ingeniería Aeroespacial | doc |
 | `KLLK4N` | — | doc |
@@ -127,6 +131,7 @@
 | `NQYJ5W` | Geociencias | doc |
 | `V32CE5` | Etnomusicología | doc |
 | `6TABQR` | Tecnologías para la Información en ciencias | doc |
+| `ZGKH37` | Ciencia de Materiales Sustentables: P2pzb7 | doc |
 | `58ZH4F` | Ciencias Ambientales | doc |
 | `G5ZJ2S` | Estudios Sociales y Gestión Local | doc |
 | `HL67XM` | Administración | doc |
