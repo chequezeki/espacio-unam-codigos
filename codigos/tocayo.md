@@ -367,6 +367,7 @@
 | `MTXZ58` | Fernanda | doc |
 | `8EJFYT` | Fernanda | doc |
 | `7V69QX` | Fernanda | doc |
+| `8R5W24` | Fernando | doc |
 | `Y6352H` | Francisco | doc |
 | `9JUXJP` | Francisco | doc |
 | `74MYW8` | Francisco | doc |
@@ -839,6 +840,7 @@
 | `K7KBUF` | Samantha | doc |
 | `AAABHU` | Samantha | doc |
 | `BASB5W` | Samantha | doc |
+| `7Y4N48` | Samantha | doc |
 | `634MZ6` | Samanta | doc |
 | `YNPKGP` | Sandra | doc |
 | `Z6NQMM` | Santiago | doc |

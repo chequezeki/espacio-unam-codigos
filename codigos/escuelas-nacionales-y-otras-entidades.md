@@ -11,6 +11,7 @@
 | `QWC8VS` | Geografía Aplicada | doc |
 | `WNU5V3` | Geografía Aplicada | doc |
 | `FZCENF` | Geografía Aplicada | doc |
+| `8R5W24` | Geografía Aplicada | doc |
 
 ## Escuela Nacional de Ciencias Forenses
 
@@ -23,6 +24,7 @@
 | `USQZVW` | Forense | doc |
 | `LEH2JS` | Forense | doc |
 | `7TCYKC` | Forense | doc |
+| `BVZXZF` | Forense | doc |
 
 ## IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sist
 

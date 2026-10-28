@@ -5,6 +5,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `ZGKH37` | — | doc |
+| `4JBFDU` | # | doc |
 | `JUDSPC` | Apiádate de nosotros bachillerato a distancia 🙏🏼 | doc |
 | `U44QDA` | y | doc |
 | `XC56EV` | Agreguen porfa | doc |
@@ -300,7 +301,6 @@
 | `RMXZ4E` | porfis | doc |
 | `AARUZQ` | — | doc |
 | `QV6PRZ` | bachillerato en línea porfaaa | doc |
-| `4JBFDU` | # | doc |
 | `6DT6SY` | bachillerato en linea, amistad apiadate 😔🙏 | doc |
 | `8JH9PL` | Agrega bachillerato en línea porfa | doc |
 | `GNPVXS` | Agrega bachillerato en línea porfa | doc |

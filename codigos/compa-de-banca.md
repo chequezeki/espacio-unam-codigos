@@ -4,6 +4,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `8R5W24` | Gen 2026 | doc |
 | `8FWQFZ` | ACTUARIA / FES ACATLAN / GEN 2023 | doc |
 | `ZNFGAC` | ACTUARIA / FES ACATLAN / GEN 2023 | doc |
 | `J7PAEG` | Actuaria Facultad de Ciencias Gen 2021 | doc |
@@ -47,6 +48,7 @@
 | `7M3MNC` | ECONOMÍA/Facultad de Economía/Escolarizado/2021 | doc |
 | `V8NHYS` | / | doc |
 | `DRVR87` | 2024/ | doc |
+| `UZJXUG` | ECONOMÍA/Facultad de Economía/Escolarizado/2024 | doc |
 | `3RX6LZ` | ENFERMERÍA/ Facultad de Estudios Superiores Zaragoza/ Escolarizado/ 2026 | doc |
 | `LTU3JQ` | DERECHO / Facultad de Derecho / 2025 | doc |
 | `3BP4QB` | / DED 2027 | doc |
@@ -140,6 +142,7 @@
 | `9ZP2AZ` | 2023 | doc |
 | `PGPXPL` | 2020 | doc |
 | `HR5TVK` | INGENIERIA EN ALIMENTOS / FESC / 2023 | doc |
+| `TUQWSQ` | Ingeniería Civil CU 2021 | doc |
 | `T827MU` | POLITICAS Y ADMINISTRACION PUBLICA. FESA | doc |
 | `G4K6JE` | GEOGRAFIA SUA/ 2024 | doc |
 | `H6F4BA` | GEOGRAFIA (2019🧑‍🦳) | doc |

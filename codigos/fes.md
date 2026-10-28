@@ -215,6 +215,7 @@
 | `DL95TY` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `M7PS49` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `M8PN5M` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
+| `9QDPTW` | — | doc |
 | `K4RNJH` | Ingeniería Industrial | doc |
 | `VPRKQA` | Diseño y Visual | doc |
 | `3W5HLK` | Diseño y Visual | doc |

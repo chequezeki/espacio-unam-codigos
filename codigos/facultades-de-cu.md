@@ -114,6 +114,7 @@
 | `ELUYC2` | Ingeniería en Computación | doc |
 | `95Y7HN` | Ingeniería en Computación | doc |
 | `EGJGMB` | Ingeniería en Computación | doc |
+| `7Y4N48` | Ingeniería en Computación | doc |
 | `BLL2CA` | Ingeniería en Sistemas Biomédicos | doc |
 | `QBHNZB` | Ingeniería en Sistemas Biomédicos | doc |
 | `8H46ZM` | Ingeniería en Sistemas Biomédicos | doc |
