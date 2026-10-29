@@ -735,3 +735,9 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `KBH4QN` | CARLOS RODRIGUEZ 8 DE MAYO | comunidad |
+
+## Facultad de filosofía y letras
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `8N24Z3` | Lengua y literatura hispanicas | comunidad |
