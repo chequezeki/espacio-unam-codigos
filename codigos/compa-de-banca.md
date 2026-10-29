@@ -151,6 +151,7 @@
 | `V569QT` | / 2025 | doc |
 | `ZVD8Z4` | Facultad de Odontología Cirujano Dentista / 2023 | doc |
 | `9R45UR` | Facultad de Odontología / 2021 / | doc |
+| `PYADLG` | Ingeniería Agrícola: 2025 / | doc |
 | `NQYJ5W` | Ing. en computación FI / 2021 / | doc |
 | `LADR7U` | /ARAGON/2025 | doc |
 | `TUKWSQ` | Ing Civil FI / 2021 / | doc |

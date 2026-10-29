@@ -53,7 +53,6 @@
 | `Z6NQMM` | Ingeniería Industrial | doc |
 | `NSZWUK` | Ingeniería Industrial | doc |
 | `JF5XLG` | Ingeniería Industrial | doc |
-| `Y9TEP9` | Ingeniería Industrial | doc |
 | `XTEJ8P` | Pedagogía | doc |
 | `GLWNDS` | Pedagogía | doc |
 | `TTHKXZ` | Pedagogía | doc |

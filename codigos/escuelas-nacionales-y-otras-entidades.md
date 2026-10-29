@@ -49,6 +49,12 @@
 | `DLFZY8` | Nanotecnología | doc |
 | `BXCKLK` | Nanotecnología | doc |
 
+## Centro de Física Aplicada y Avanzada (Juriquilla) -PASENLOOOOOOO
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `CH2DGW` | ↑ | doc |
+
 ## Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia
 
 | Código | Etiqueta | Origen |

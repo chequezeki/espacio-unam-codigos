@@ -263,7 +263,6 @@
 |---|---|---|
 | `4QSM4X` | Medicina Veterinaria y Zootecnia | doc |
 | `9UA5EN` | Medicina Veterinaria y Zootecnia | doc |
-| `X82MPH` | Medicina Veterinaria y Zootecnia | doc |
 | `ZW8MBV` | Medicina Veterinaria y Zootecnia | doc |
 | `3J2QT2` | Medicina Veterinaria y Zootecnia | doc |
 | `SS2V9T` | Medicina Veterinaria y Zootecnia | doc |
@@ -284,6 +283,7 @@
 | `8ALFYC` | Medicina Veterinaria y Zootecnia | doc |
 | `R5UKGS` | Medicina Veterinaria y Zootecnia | doc |
 | `QVVXC4` | Medicina Veterinaria y Zootecnia | doc |
+| `2KC976` | Medicina Veterinaria y Zootecnia | doc |
 | `JXMAQR` | Enfermería | doc |
 | `G5M54T` | Enfermería | doc |
 | `SFS8D8` | Enfermería | doc |
@@ -622,6 +622,7 @@
 |---|---|---|
 | `CF4UBR` | Derecho | doc |
 | `UU6VPQ` | Derecho | doc |
+| `5NT3GR` | Derecho | doc |
 | `UFELAH` | Derecho | doc |
 | `JQZR96` | Derecho | doc |
 | `RD485C` | Derecho | doc |

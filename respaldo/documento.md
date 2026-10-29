@@ -19,7 +19,7 @@
 
 **Firma jaguarOR.**
 
-**CUENTA LA LEYENDA QUE LAS MEDALLAS SECRETAS NO PARAN DE SPAWNEAR**
+**CUENTA LA LEYENDA QUE LAS MEDALLAS SECRETAS NO PARAN DE SPAWN EAR**
 
 **PASEN CÓDIGO DE SISTEMA ABIERTO**
 
@@ -127,7 +127,7 @@
 
 [Centro de Física Aplicada y Avanzada (Juriquilla) \-PASENLOOOOOOO](#centro-de-física-aplicada-y-avanzada-\(juriquilla\)--pasenlooooooo)
 
-[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(morelia\)-pasenlo-lo-borraron—)
+[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(morelia\)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta)
 
 [Instituto de Energías Renovables (Temixco)](#instituto-de-energías-renovables-\(temixco\))
 
@@ -663,7 +663,7 @@ Para Justo Sierra, que fundó la Universidad Nacional en 1910\. Idea de Johan, D
 
 **4STR0N4UT4**
 
-Para Rodolfo Neri Vela, egresado de Ingeniería de la UNAM y primer astronauta mexicano (1985). Idea de Jonathan y Dylan. Medalla secreta
+Para Rodolfo Neri Vela, egresado de Ingeniería de la UNAM y primer astronauta mexicano (1985). Idea de Jonathan y Dylan. Ah Medalla secreta
 
 **3GU1AL1S**
 
@@ -710,6 +710,8 @@ Para quienes quieren todas las medallas secretas y las cuidan como un anillo: mi
 Empezaste a llenar tu Pasaporte porque todo mundo lo estaba llenando y no te lo ibas a perder. Idea de Rodrigo. Solo se gana con su código secreto. OMG soy yo 😭😭 agregenme GNPVXS
 
 **C0NQU3S0**
+
+**G4B1N1T0**
 
 .
 
@@ -761,7 +763,7 @@ Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:
 
 CEPHCIS Mérida / Lic en Desarrollo y Gestión Interculturales : ZGKH37
 
-Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia / ecología y SI CONSIGUEN ROLENLO
+Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia / ecología y SI CONSIGUEN ROLENLO¡¡¡ URGE \!\!\!
 
 Instituto de Energías Renovables (Temixco):
 **ZGKH37**
@@ -842,7 +844,7 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Ingeniería en Computación:** NQYJ5W**,** UDHBH3, V8VEEB, DUQTLH, VQ8HT4, GK234W, C77D4V, PKJWXH, 62MWGU, RXMWFZ, LTVR5B, U4S826, FS9FAU 8J76TG,
 
-**Ingeniería Industrial:** Z6NQMM, NSZWUK, JF5XLG, Y9TEP9
+**Ingeniería Industrial:** Z6NQMM, NSZWUK, JF5XLG,
 
 **Pedagogía:** XTEJ8P, GLWNDS, TTHKXZ, 764BK4, 84AEE7, QCS6CU, EBKB4C, A39J8V, FZTJCT, YYSEV5, Q92CDU, SQMUC6, DQ7HBE,
 
@@ -1222,7 +1224,7 @@ Neuro: **S6K38H**, **U7FQVT,** CSSVLE
 
 ### ***Facultad de Medicina Veterinaria y Zootecnia*** {#facultad-de-medicina-veterinaria-y-zootecnia}
 
-Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, X82MPH, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS, QVVXC4**
+Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS, QVVXC4, 2KC976**
 
 ***Facultad de Enfermería y Obstetricia***
 
@@ -1363,7 +1365,7 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **CF4UBR, UU6VPQ UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, , PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, ,  QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N**
+Derecho: **CF4UBR, UU6VPQ, 5NT3GR**, **UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, , PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, ,  QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N**
 
 Derecho SUAYED: **RVT6RY,, , 47BH5C, MJLUUU, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3,**
 
@@ -1423,9 +1425,11 @@ Nanotecnología: **DLFZY8, BXCKLK**
 
 ### ***Centro de Física Aplicada y Avanzada (Juriquilla) \-PASENLOOOOOOO*** {#centro-de-física-aplicada-y-avanzada-(juriquilla)--pasenlooooooo}
 
+↑ CH2DGW
+
 Tecnología:
 
-### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—}
+### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta}
 
 CIencias :
 
@@ -2407,7 +2411,7 @@ K334YB
 ***15***  **ESNV5Y**
 ***16***  **VFL56D, MDW9W3**
 ***17***  **7WX85K**
-***18***  **6UQTGW, K7HSZT**
+***18***  **6UQTGW, K7HSZT, PYADLG,**
 ***19***  **2AVJJ6**
 ***20 9MQNWS***
 ***21***  **V8NHYS**
@@ -2505,10 +2509,10 @@ K334YB
 ***18\. 4QSM4X***
 ***19 TVSXD8***
 ***20 C4CR5W***
-***21 YATFRA, CEB2F7,***
+***21 YATFRA, CEB2F7, 9VVQ6V***
 ***22***
 ***23*** FTE4UJ
-***24***
+***24*** **5NT3GR**
 ***25***
 ***26 NSZV7K,*** 4DB2PC
 ***27*** **4QQA2Z**
@@ -2683,7 +2687,7 @@ K334YB
 ***7 8J76TG***
 ***8 Z6HQVD***
 ***9 NQYJ5W***
-***10***
+***10 3SCLAP***
 ***11*** \- XJWH5V, HBZN3T
 ***12\.  PQX8FT***
 ***13\. 68GS37***
@@ -2963,6 +2967,8 @@ Facultad de Odontología / 2021 / 9R45UR
 
 Licenciatura en investigación biomédica básica /2023
 
+Ingeniería Agrícola: 2025 / PYADLG
+
 Ing. en computación FI / 2021 / NQYJ5W
 
 LADR7U/ARAGON/2025
@@ -3024,7 +3030,7 @@ Gracias al admin por tener confianza en la comunidad, los tqm y confíen que ya 
 * che documento todo hermoso te amo gracias por ayudarme solo me falta una…  necesito una chica que se llame ESPERANZAAA\!\!\!\! YJ3MH8 es mi codigo ya lo puse en la tabla 7w7
 
 Que se aparezcan los de música y teatro🫰 (alch si) mejor salen los de las enes que esos xd (ya nadie quiere ser un puchamon musical :( ) YA LLEGUE
-
+Escuchense JAMIE PAIGE 🗣️🗣️🗣️
  **Viva Maluma, viva sanntiagod, viva iza tkm, viva Latin Mafia \<- mejor mrd amiga**
 Quien para unos tacos al pastor **yooo**
 Regresaaaa Abril, regresaaaa\!🗣️🗣️🗣️
@@ -3069,7 +3075,8 @@ Te extraño abril, a ti también denisse, cam tú ctm 🫰
 
 Saquen harwulin cerca del campus central
 Este ijo de perra hizo un flyer en word (mejor que la IA 🗣️)
-But haces tus memes en google docs: el futuro es hoy oíste viejo :v
+when haces tus memes en google docs: el futuro es hoy oíste viejo :v
+but te terminan borrando :’v
 Ese wey
 Jajajajaja se mamó
 No mames xd
@@ -3159,12 +3166,11 @@ Agréguenme bachillerato en línea plssss 😞😞 76P6V4
 
 Agreguen porfa 2KC976
 
-**Agreguenme bachillerato en línea por favor\!\! JEYZRQ \- PLISSS**
 Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla HGGMCD plis
 
 Paro JW9PBR xfa
 **hola, agregame pls personitx de bachillerato a distancia ER4UV5**
-
+**🩷 agréguenme please por el amor de mymelody 5NT3GR**
 Por favor agregame compañerit@ de Bachillerato a Distancia  96DD2T
 
 **Agreguenme bachillerato en línea por favor\!\! G9HCLW**
@@ -4085,3 +4091,13 @@ S6YQL2 porfaaaaa bachillerato en línea
 **Porfa agregame bro V8SF6Z te lo pidoooooooooo**
 
 **6NDDAC gente de bachillerato a distancia agreguen porfavor, soy de teatro**
+
+# ¿Llegaste hasta el final?
+
+# Holiiiiii :)
+
+# Por favor Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia. Ayudaaaaaaaaa
+
+# **SPMU3V**
+
+(Tengo virus y soy de FMVZ)
