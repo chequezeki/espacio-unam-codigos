@@ -129,8 +129,7 @@
 | `8B5R2K` | Breton | doc |
 | `7XFJ3N` | Buendía | doc |
 | `2KZGV6` | Buitrón | doc |
-| `5T9VMQ` | Bustamante | doc |
-| `RLMNKN` | Bustamante (El otro no funciona) | doc |
+| `RLMNKN` | Bustamante | doc |
 | `ZGPKFJ` | Bribiesca | doc |
 | `LADR7U` | Briones | doc |
 | `TL83CB` | Bautista | doc |
@@ -244,6 +243,7 @@
 | `MAVVEW` | Delgado | doc |
 | `SPMU3V` | Delgado | doc |
 | `EDWUCZ` | Delgado | doc |
+| `7TUCT5` | Delgado | doc |
 | `Q78WJ7` | Delgado Loaiza | doc |
 | `MJLMS9` | De Jesus ( Si va sin acento) | doc |
 | `QDXBQ9` | De Jesus | doc |
@@ -253,6 +253,7 @@
 | `YJQJD5` | Diaz | doc |
 | `NEKJCK` | Díaz | doc |
 | `SPMU3V` | Diaz | doc |
+| `77S9EC` | Diaz | doc |
 | `QC4WVW` | Díaz | doc |
 | `B9ELGM` | Diego | doc |
 | `UWTZBJ` | Del Valle | doc |

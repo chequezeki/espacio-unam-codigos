@@ -135,6 +135,8 @@
 
 (Los códigos secretos fueron restaurados abajo, favor de seguir escribiendolos en las siguientes páginas)
 
+**CFLQMC BACHILLERATO A DISTANCIA**
+
 **Disclaimer 1**: Prácticamente todos los códigos se han publicado en FB, este es más que nada un recopilatorio.  Los IG están en otra pestaña del documento en “Insta´s pa seguirnos”
 
 **Disclaimer 2:** Recuerden que pueden poner su código aunque ya esté el de su carrera/plantel, no borren códigos que ya estén, por favor. Y separen los códigos nuevos con una coma, gracias.
@@ -576,6 +578,7 @@ Para Lomitos FAD, el grupo de estudiantes de la Facultad de Artes y Diseño que 
 
 **G4R1N**
 Para Manuela Garín Pinillos, de las primeras mujeres en estudiar matemáticas en la UNAM y pionera de esa ciencia en México. Serie «Mujeres que hicieron la UNAM». Idea de Joaquín Omar. Medalla secreta.
+
 **M4R1ASU**
 Serie «Mujeres que hicieron la UNAM»: María Asunción Sandoval, primera mujer abogada titulada en México (1898). Idea de Yari Natalia y Ana Esperanza. Medalla secreta.
 
@@ -816,25 +819,23 @@ Para Radio UNAM, que desde 1937 lleva la voz de la Universidad a todo el país. 
 Para quienes quieren todas las medallas secretas y las cuidan como un anillo: mi precioso. Idea de Rodrigo. Solo se gana con su código secreto
 
 **F0M0PUMA**
-
 Empezaste a llenar tu Pasaporte porque todo mundo lo estaba llenando y no te lo ibas a perder. Idea de Rodrigo. Solo se gana con su código secreto.
 
 **V4C4ESF3R4**
-
 Supongamos una vaca esférica en el vacío... El chiste clásico de Física, para quienes simplifican el problema hasta que sale. Idea de Metztli. Medalla secreta
-
 **C0NQU3S0**
-
 La pregunta más famosa de CCH azcapo. ¿Conqueso tus papas?
-
 **G4B1N1T0**
 Para Gabinito y los perritos de la Prepa 1 «Gabino Barreda». Idea de Giann Enriachetti y Marlen Nava. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **N0SIST3MA**
+Para conmemorar esas veces que Espacio se cayó y aquí seguimos. Idea de Miriam y Emmanuel. Solo se gana con su código secreto.
 
 **C4NT3R4**
-
 Para La Cantera, donde se forman los Pumas. Idea de Ángela y Adrián. Medalla secreta.
+
+**F0S1L**
+Fortaleza, Orgullo, Superación, Identidad y Lealtad. Para quienes llevan años en la UNAM y nos recuerdan que cada quien tiene sus tiempos, que la perseverancia también merece reconocimiento y que nunca es tarde para terminar lo que uno empezó. Idea de Virginia, Brenda, Jonathan, Gael, Frida y Yamil. Medalla secreta.
 
 .
 
@@ -842,11 +843,7 @@ Para La Cantera, donde se forman los Pumas. Idea de Ángela y Adrián. Medalla s
 
 ¿Alguien tiene el código de la “startup"?
 
-¿Alguien tiene la de “No hay sistema”? :( es **N0SIST3MA**
-
-Y la de no deberías estar estudiando:(((? Porfis
-
-La de no deberías estar estudiando se consigue quedándose una hora con la página de espacio unam abierta XD
+La de no deberías estar estudiando se consigue quedándose una hora con la página de espacio unam abierta
 
 En total, son muchas medallas secretas mis estimados (al menos eso me dijo GoIA, además de que siguen actualizando la página). Atte. Diego Terán 🍻 Ahora son 200 JAJAJA no paran de agregar más. Una disculpa JAJAJA La UNAM dándose cuenta que no fue buena idea aceptar solicitudes (no van a parar) se acabarán las ideas en algún momento ntp (o se dan por vencidos, 1 de 2\) LAS MEDALLAS NO PARAN DE SPAWNEAR WTF JSJD consecuencias de dejarnos sugerirlas. Ya me cansé de agregar los códigos secretos, mañana amaneceremos con 100 JAJA. Buenas noches, mis estimados adictos a los lazos.
 
@@ -888,7 +885,7 @@ Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:
 
 CEPHCIS Mérida / Lic en Desarrollo y Gestión Interculturales : ZGKH37
 
-Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia / ecología y SI CONSIGUEN ROLENLO¡¡¡ URGE \!\!\!
+Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia / ecología y SI CONSIGUEN ROLENLO¡¡¡ URGE \!\!\! HE4X2K
 
 Instituto de Energías Renovables (Temixco):
 **ZGKH37**
@@ -930,7 +927,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Prepa 7:** JG276B, 9TBEQ9, 6ZBET4
 
-**Prepa 8:** TH5KZ6
+**Prepa 8:** TH5KZ6, F7E3UH
 
 **Prepa 9:** NQQBE5, 6GNP6P,  KB5FFD, NQQBE5
 
@@ -1004,7 +1001,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Neuro:** SHK8MR, JUJB7X, Z3CBJ5,
 
-**Órtesis y Prótesis:**  KQHYGR
+**Órtesis y Prótesis:**  KQHYGR, TT9QJA, 8DAUF2
 
 **Psicología:** SWCUS3, ZGKH37
 
@@ -1018,7 +1015,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Geociencias:** 2YCHDH, PMATBR
 
-**Etnomusicología:** V32CE5, ZGKH37
+**Etnomusicología:V32CE5**, ZGKH37
 
 **Tecnologías para la Información en ciencias:** 6TABQR
 
@@ -1032,7 +1029,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Administración:** HL67XM**,** 2C99TJ,
 
-**Derecho:** T952XQ, BQ9KD3 \<- este no es Derecho Morelia
+**Derecho:** T952XQ, BQ9KD3 \<- estos no son Derecho Morelia
 
 **Administración de Archivos y Gestión Documental:** WA2DEC, M33DPN
 
@@ -1059,6 +1056,8 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 **Negocios Internacionales:** VR3N9H JH3PY7
 
 **Historia:** FNXSDN, 43SGEZ, C79MXP
+
+###
 
 ### ***ENES Mérida*** {#enes-mérida}
 
@@ -1088,7 +1087,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Actuaría:** 8FWQFZ, 99S7TP, NSBZJK, VG39JT
 
-**Arquitectura**: BKY3KF,Z2PFT2, 73VSTT, TP7G2U, 27XX4P, 5DE3MV, DEPQX9
+**Arquitectura**: BKY3KF, Z2PFT2, 73VSTT, TP7G2U, 27XX4P, 5DE3MV, DEPQX9
 
 **Ciencia de Datos:**  L4RHWU , ZGKH37
 
@@ -1123,6 +1122,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 **Enseñanza de Español como Lengua Extranjera:** G45DBK, T7EEMY, EDWUCZ, 4QQA2Z
 
 **Enseñanza de Italiano :**SXFJVK, ZGKH37
+
 **Enseñanza de Portugues:** ELIMINADO (POR AHORA)
 
 **Enseñanza de ingles:** , 3FWPDJ, GM2S6V, LGRZ65
@@ -1163,7 +1163,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ingeniería Mecánica:** 88RTJY, LV3YJU, EBKL2G, JPYYZ2, PZBGYV, Q25JJU, 6DT6SY , RVDYNM, W9THGT
 
-**Relaciones Internacionales:**A6QH5Y, MZA7HY, 8AH8Y9, 2UAYY2, 3PPWQ5
+**Relaciones Internacionales:** F2AYJ4, A6QH5Y, MZA7HY, 8AH8Y9, 2UAYY2, 3PPWQ5
 
 **Sociología:** B32HHM, ZGKH37
 
@@ -1173,7 +1173,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 ### ***FES Cuautitlán*** {#fes-cuautitlán}
 
-Administración: **BP8YXK, RZQRJ4, 48MWEU, BDJ43Q, 4DB2PC**
+Administración: **BP8YXK, RZQRJ4, BDJ43Q, 4DB2PC**
 
 Conta **C24B7W**
 
@@ -1226,7 +1226,7 @@ Biología: **Q2KLU8, A28B7B, 49ACHB**, **RMNQ7T**, **YU7DW5**, **5WZDUP**, **GSW
 
 Enfermería: RAUM9Z,  **X7BTUA,  HXYHZQ**
 
-Médico Cirujano: **7HQ8FR, M6Q9JV, 92B2W3**
+Médico Cirujano: **7HQ8FR, M6Q9JV, 92B2W3, 6A6RSY**
 
 Cirujano Dentista: **, HENQS4 74JVX7**
 
@@ -1310,9 +1310,9 @@ Ingeniería Geológica: **TVSXD8, MKKV83,7V69QX, YG7BHR**
 
 Ingeniería Geomática **ETW2ZZ, 3A7PQZ**
 
-Ingeniería Industrial: **U243SW**, **X4WFYP**,, **6EH4SX**, **MB8M3H, LJ3UDT, BTHEFM**, **XKYNQ8, 7TCTV3, JF5XLG, CBHD9N**
+Ingeniería Industrial: **U243SW**, **X4WFYP**, **6EH4SX**, **MB8M3H, LJ3UDT, BTHEFM**, **XKYNQ8, 7TCTV3, JF5XLG, CBHD9N**
 
-Ingeniería Mecánica: **EZAULC,, G5NGST ,HQMYVK, PGCXXV , MTXZ58, JVQRZJ, LJ3UDT, LHPSC9**
+Ingeniería Mecánica: **EZAULC, G5NGST, HQMYVK, PGCXXV, MTXZ58, JVQRZJ, LJ3UDT, LHPSC9**
 
 Ingeniería mecánica eléctrica:**TSG2P2, YY2YU6**
 
@@ -1326,7 +1326,7 @@ Ingeniería Petrolera: **T8N7E2**, **H5G2EY,** **DSN67E, CGEFS2, 55VVA9**
 
 ### ***Facultad de Arquitectura*** {#facultad-de-arquitectura}
 
-Arquitectura:  **Z2PFT2, 6PL54P, S4S24L, 4T9W9R, TAD88R, Y7J263, FDDWLX, 7FDNDL, 5SYS4J, X4BZBK, J8S4ZS, HAAYEY, 634MZ6,**  **UQDRBZ** , **37RXPE** ,  **TAD88R**
+Arquitectura:  **Z2PFT2, 6PL54P, S4S24L, 4T9W9R, TAD88R, Y7J263, FDDWLX, 7FDNDL, 5SYS4J, X4BZBK, J8S4ZS, HAAYEY, 634MZ6,**  **UQDRBZ** , **37RXPE** ,  **TAD88R, NZZ4RS**
 
 Arquitectura de Paisaje: **4PXEED, 96EUFJ,  27NGUN, UJP93G, 2ZFWAV, VQT3ZX, 4L8E8B, ESETLJ**
 
@@ -1380,7 +1380,7 @@ Música · Música y Tecnología Artistica: **5VSKLQ**
 
 ### ***Facultad de Química***  {#facultad-de-química}
 
-Ingeniería Química:  **B6QPMU**, 9GNVRV, **Q2JACM, 24Q4N8, Z9V8YJ,** **S5G28G**, **LX96J7**, **FHQXMQ, ETYJEM, 28TBBT, AK6ZWR, RSJUH3, LHN8GW**
+Ingeniería Química:  **B6QPMU**, **9GNVRV**, **Q2JACM, 24Q4N8, Z9V8YJ,** **S5G28G**, **LX96J7**, **FHQXMQ, ETYJEM, 28TBBT, AK6ZWR, RSJUH3, LHN8GW**
 
 Ingeniería Química Metalúrgica: **XZ5H3V**, **6JGSCT**, **QUQKEZ**, **59BL4M, KN7BSP, QCDXFG, 7XMBB9**
 
@@ -1406,7 +1406,7 @@ Estudios sociales y gestión local: **G5ZJ2S**
 
 ### ***Facultad de Filosofía y Letras*** {#facultad-de-filosofía-y-letras}
 
-Bibliotecología y Estudios de la Información: **9R55ZS, A7YU5R, ZG5ZBZ, C44NTV, Y2SM92, FRTNXJ, 57EYLG**
+Bibliotecología y Estudios de la Información: **9R55ZS, A7YU5R, ZG5ZBZ, C44NTV, Y2SM92, FRTNXJ, 57EYLG, 77S9EC**
 
 Administración de Archivos y Gestión Documental: **M33DPN, ZGKH37**
 
@@ -1454,22 +1454,22 @@ Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR,
 
 Relaciones Internacionales **6DULNS**,  **NK254K, S7HWRK, E8S6NE, ADBZNZ, DSWH9X, 2FB5UB, JYEF89, QAN9U2, VD522A(sua)**
 
-Sociología: **BJ4SN6, S5Y4U2, SPN24H, UH9C9E, UJZHQQ,2Q2JR9 , 78WFBX**
+Sociología: **BJ4SN6, S5Y4U2, SPN24H, UH9C9E, UJZHQQ, 2Q2JR9, 78WFBX**
 
 Ciencias Políticas y AP A DISTANCIA NUEVO INGRESO: **V7QEMW**
 
-Ciencias de la Comunicación (SUAyED): **75CQF3, VFL56D, BHJJJA, DFTXBL, BFFU5Q, P3ZRE5**
+Ciencias de la Comunicación (SUAyED): **75CQF3, VFL56D, BHJJJA, DFTXBL, P3ZRE5**
 
 ###
 
 ### ***Facultad de Contaduría y Administración*** {#facultad-de-contaduría-y-administración}
 
 Administración: **9ZP2AZ, VBDF4E, FFWLPX, HL67XM**
-**Administración SUAYED a distancia: UVJ83P**
+Administración SUAYED a distancia: **UVJ83P**
 
-Contaduría: 3C5MX2, 4TB6ZC, N54J7V, **ZMY6X9**, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, **LH9W8W**
+Contaduría: **3C5MX2, 4TB6ZC, N54J7V, ZMY6X9, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, LH9W8W**
 
-Informática: **2AAE5B**,CDPCQC, H3WUX3
+Informática: **2AAE5B,CDPCQC, H3WUX3**
 
 Negocios Internacionales**: KGTXD3 , 9RE3VP**
 
@@ -1481,7 +1481,7 @@ Artes Visuales: **W3FLD6**, **SZEXJ3, ZEX4TV, ZASTKX, L8GE4V, W3ZPUK, RANETR**
 
 Diseño y Comunicación Visual: **BFJ5ZB**, **XJWH5V**, **AFJHRE**, **M7978E, 74MYW8, YULUPY, Z68CTF, 4YREGJ, SL5VWW, 74MYW8, G8ZWJ9, LR4WLT**
 
-Comunicación gráfica
+Comunicación gráfica:
 
 ###
 
@@ -1493,19 +1493,19 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **CF4UBR, UU6VPQ, MFCF6H, 5NT3GR**, **UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, , PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, ,  QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW**
+Derecho: **QMDEAM**, **CF4UBR, 5NT3GR, UU6VPQ, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, , PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K**
 
 Derecho SUAYED: **RVT6RY,, , 47BH5C, MJLUUU, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3,**
 
 ### ***Facultad de Psicología*** {#facultad-de-psicología}
 
-Psicología: **TJBK73,** **76P6V4**, **8EJFYT,**  **BBVWWW**, **PLDRZE**, **TK24MU**, **PYDJVG**, **XDRLB3, 89JNM3, QMVLT8**, **BYJNUA**, **245BFU, F9TZFU, ZCDEZZ, 78K5AB, EDVQEC, 5EEBMP,  ZAX7PL  WPWR7B, ES34RL, PFVZWY, E3ADVA, JCDSEA**
+Psicología: **TJBK73,** **76P6V4**, **8EJFYT,**  **BBVWWW**, **PLDRZE**, **TK24MU**, **PYDJVG**, **XDRLB3, 89JNM3, QMVLT8**, **BYJNUA**, **245BFU, F9TZFU, ZCDEZZ, 78K5AB, EDVQEC, 5EEBMP,  ZAX7PL  WPWR7B, ES34RL, PFVZWY, E3ADVA, JCDSEA, H7GEQM**
 
 Psicología SUA: **EMR2XF, U37TKR UMZHHH, , 82H488, SUHQ7N, 2G5REG, LVD3EW**
 
 ### ***Facultad de Odontología*** {#facultad-de-odontología}
 
-Cirujano Dentista: **KJ6ZGE**,**, QQN4JVYSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, GL8ETS**
+Cirujano Dentista: **KJ6ZGE**,**, QQN4JV,YSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, GL8ETS,7VPCWT**
 
 Odontologia: **C73DE3, 9R45UR**
 
@@ -1555,15 +1555,15 @@ Nanotecnología: **DLFZY8, BXCKLK**
 
 ↑ CH2DGW
 
-Tecnología:
+Tecnología: ${}$
 
 ### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta}
 
 CIencias :
 
-Ecologia: **863K8P (son de otro plantel)**
+Ecologia:
 
-Ciencias Agroforestales: **N3APR4**
+Ciencias Agroforestales:
 
 ### ***Instituto de Energías Renovables (Temixco)*** {#instituto-de-energías-renovables-(temixco)}
 
@@ -1591,7 +1591,7 @@ Desarrollo y gestión interculturales:
 | **B** |
 | HG6QQX \- **Barbara**  M8MRDM \- **Bárbara**  XKYNQ8 \- **Beatriz**  8MT3SY \- **Belem** LDJN7P **\- Belén**  42GEXU \- **Betzabeth** DGHY32, AWLR5V \- **Berenice** 73VSTT \- **Bersheva** E76VKM \- **Blanca** CYSVAV- **Brandon** D3NJY3, JTWXGC \- **Braulio** SLYBSD \- **Brayan** VZ36RJ, UU6VPQ, WW7T4K, 7FDNDL, TVPG8X- **Brenda** GKZCFU, 7BSNQB \- **Brian** XFX8U7 **\- Briana** UALS83 \- **Brigitte** KNM6SQ \- **Briseida** 2PFVA4, JNFJKW \- **Bruno** 668YW9 \- **Bryan** |
 | **C** |
-| BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** FNXSDNNEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  |
+| BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** FNXSDNNEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL, 7TUCT5- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  |
 | **D** |
 | VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** CBMN94, XRE63S, VEXQQZ, ESZSG5, 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9 \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V, YY4XRF- **Dulce** |
 | **E** |
@@ -1599,7 +1599,7 @@ Desarrollo y gestión interculturales:
 XEYR24 \- **Elian** AARUZQ-**Elías**
 V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** DPL3TW**\- Eric** JUF5W6 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
 | **F** |
-| 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** 8R5W24 \- **Fernando** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
+| 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** EBAGVV, 8R5W24 \- **Fernando** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
 | **G** |
 | QV8YWM, H6RDXQ \- **Gabriel** AFJHRE, 2G5REG \- **Gabriela** NU9ED2 \- **Gael** 6GNP6P \- **Gamaliel** T4MZ7S \- **Genesis**  LJ3UDT, ELYMMJ \- **Gerardo** UU7ANV \- **Gerónimo  5D4C6P \=  Giancarlo**  AQK9HC, SWCUS3, MJLUUU \- **Gibran** PYWASS \- **Gilberto** ZB3X47 \- **Giovanni 3C9YXF \- GiovannA** ULS7F3 \- **Giovanny** L6KQTK \- **Giselle** H5G886 \- **Gonzalo** XFLRJV \- **Grace** UJCX2D \- **Grecia** KWRTRY \- **Gregorio**  JA9ZR3 , CJXGS2 \- **Guadalupe**  ZL5WRA, 3WLQSH, PQ5YP6 \- **Gustavo** |
 | **H** |
@@ -1616,14 +1616,14 @@ L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | **L** |
 | EBC862 \- **Laila** 2WFKWY \- **Lainy**  6HAJFC, MTW6EY, 3JSZ6E, XRE63S, FTHR87, GDEP4Z, N3MF6K, Q6UC7G , HTZ424 \- **Laura** FED72D \- **Legna** ENP68N \- **Leilany**  NGP3Q4 \-  **Lenin** 9GNVRV \- **Leon** 55QGR6, CBHD9N \- **Leonardo** M7PS49 \-  **Leonor** TE4967 \- **Lesli** Y6JME9, E22JQT, X8VAHT \- **Leslie** ZG5ZBZ, BTXU6S \- **Lesly** ZAX7PL \- **Letizia** MTB58U **\- Leticia**  RANETR **\- Leyla** CRWXDZ \- **Lian** W5HKDQ **\- Lidia** W3YVLV, SNXU8D \- **Lilian**  XZ5A7P \- **Liliana**  TRAGDN \- **Linda**  W3ZPUK \- **Linette** 9W8ZSS \- **Lisbet J7PAEG \- Lisette** 9BRDEG \- **Lisset** 95ZBRN \- **Lissette**  VPRKQA \- **Lizbeth** 7BNX7W, M6XECA \- **Lizeth** JJ3L4Z \- **Lizzet** DSN67E \- **Lizzete** JVN4MW \- **Logan** YF2ENX \- **Louis** 2FB5UB \- **Lourdes**  AN4FG8 \- **Luan** GXQDEJ \- **Lucero (NO ES LUCERO)** XL8RSK \- **Lucero** ZFM8W6, F5Z27H \- **Lucia** KN7BSP, B9ELGM, UH9C9E 8CYDV9 \- **Luis** UWTZBJ,DQ7HBE, \- **Luz** |
 | **M** |
-| JYEF89 \- **Magali** BFFU5Q \- **Magdalena** A33PGG \- **Maira** GM5UZ6 \- **Maite** HMZ3AD, 75CQF3 \- **Manuel** XXYX8U \- **Marcelo** 4YDJ8D, FVYJ2H, W3AQ9D \- **Marco** A9U467, HCGEZ2 \- **Marcos** U3VAVW \- **Mareli**  FGJEJV \- **Marely** LTU3JQ,  RUYFGM, DBY6Z4 \- **María** PFMXND, 3LX4CZ \- **Marian** JUPMS4, JBSBZL, SPMU3V, P79ZDH \- **Mariana** TUBLX3 \- **Maricela** 23RYUG \- **Maricruz** T8VYDC \- **Mariela** 5EEBMP \- **Marina** LV3YJU, 6B348Q, WLCJGV \- **Mario** 6G2Y54 \- **Marisol** 7WZ6CU, CF4UBR **\- Marlen**  UPVKFL **\- Marlene** SSMW9C \- **Marlon** Y6GLBD \- **Martha** HXR9QK \- **Mary** Z2PFT2, 54CXKN, Z2PFT2, PZBGYV \- **Martín** ​TKWWTU, 7M3MNC \- **Mauricio** 24NPWG \- **Mauro** BHKWUA \- **Maximiliano** TKJ7GY \- **Máximo** BHEFGR \- **Maya** QJV2T6 \- **Mayra** 2KBVYQ \- **Mayte** WESCS2 \- **Megan** 7UGZTJ \- **Melani**  W2CA3T, JWZJ9R, CM8RT8 \- **Melanie** EEDHP3 \- **Melisa**  3UA93V **Meredith**  5NKZKL, PVGZW9, 95Y7HN \- **Melissa**  MCNAW6 \- **Metzi** VZCC45, LVD3EW \- **Metzli**  DSN67E \- **Mia** FED72D \- **Michell** RPX2XG \- **Michelle** KXXUEB \- **Midori** XQWQS7, 4G7JK7, 92B2W3 \- **Miguel** 7WX85K \- **Milay** 296PCT \- **Milton** UZK9Z4 \- **Miranda** 9BLSUT \- **Miriam** QY3VQ9 \- **Miroslava** E7MD3K \- **Mirna** 8HY6EJ \- **Misael** 4TG2S7, QGLTRC \- **Mónica**  MAT54P, KDTKR8 \- **Monserrat**  F9TZFU \- **Montserrat** 57EYLG \- **Monzerrat** UFELAH \-  \- **Monserrath** |
+| JYEF89 \- **Magali** BFFU5Q \- **Magdalena** A33PGG \- **Maira** GM5UZ6 \- **Maite** HMZ3AD, 75CQF3 \- **Manuel** XXYX8U \- **Marcelo** 4YDJ8D, FVYJ2H, W3AQ9D \- **Marco** A9U467, HCGEZ2 \- **Marcos** U3VAVW \- **Mareli**  FGJEJV \- **Marely** LTU3JQ,  RUYFGM, DBY6Z4 \- **María** PFMXND, 3LX4CZ \- **Marian** JUPMS4, JBSBZL, SPMU3V, P79ZDH \- **Mariana** TUBLX3 \- **Maricela** 23RYUG \- **Maricruz** T8VYDC \- **Mariela** 5EEBMP \- **Marina** LV3YJU, 6B348Q, WLCJGV \- **Mario** 6G2Y54 \- **Marisol** 7WZ6CU, CF4UBR **\- Marlen**  UPVKFL **\- Marlene** SSMW9C \- **Marlon** Y6GLBD \- **Martha** HXR9QK \- **Mary** Z2PFT2, 54CXKN, Z2PFT2, PZBGYV \- **Martín** ​TKWWTU, 7M3MNC \- **Mauricio** 24NPWG \- **Mauro** BHKWUA \- **Maximiliano** TKJ7GY \- **Máximo** BHEFGR \- **Maya** QJV2T6 \- **Mayra** 2KBVYQ \- **Mayte** WESCS2 \- **Megan** 7UGZTJ \- **Melani**  W2CA3T, JWZJ9R, CM8RT8 \- **Melanie** EEDHP3 \- **Melisa**  3UA93V **Meredith**  5NKZKL, PVGZW9, 95Y7HN \- **Melissa**  MCNAW6 \- **Metzi** VZCC45, LVD3EW \- **Metzli**  DSN67E \- **Mia** FED72D \- **Michell** RPX2XG \- **Michelle** KXXUEB \- **Midori** XQWQS7, 4G7JK7, 92B2W3,77S9EC \- **Miguel** 7WX85K \- **Milay** 296PCT \- **Milton** UZK9Z4 \- **Miranda** 9BLSUT \- **Miriam** QY3VQ9 \- **Miroslava** E7MD3K \- **Mirna** 8HY6EJ \- **Misael** 4TG2S7, QGLTRC \- **Mónica**  MAT54P, KDTKR8 \- **Monserrat**  F9TZFU \- **Montserrat** 57EYLG \- **Monzerrat** UFELAH \-  \- **Monserrath** |
 | **N** |
-| 4CYKPC \- **Naara**  3BAUAL \-  **Nadia** Y4SECU \- **Nahomi** LKNHSS \- **Naim** 7RSZST \- **Nancy** KNK7Y4, RZ6XRU, HC2CCM- **Naomi** WRVRM4 \- **Narumi** USCSEG \- **Nasya**  QV68T9 \- **Natalya** (pls si alguien se llama igual pongan su código) FHTEF8, 6FTMDZ \- **Natalia** KN6UYX \- **Natalie** SSMW9C, UGVEHD **\- Natanael** YT6GMJ **\- Nathalia** AC6R6Z, A6KFLN **\- Nayeli FZ33SX- Nayelly** KCVYLX\- **Nallely QCDXFG \- Nayely** FX9WHN \- **Nayla** G5M54T, L92K5P \- **Nelly UUNN5X \- Nestor**  NEARSC \- **Neydan** NBRR47 \- **Neylan**  SHYLDR \- **Nicolas** R4GH96 \- **Nicole** RRB4ZF \- **Niels**
+| 4CYKPC \- **Naara**  3BAUAL \-  **Nadia** Y4SECU \- **Nahomi** LKNHSS \- **Naim** 7RSZST \- **Nancy** KNK7Y4, RZ6XRU, HC2CCM- **Naomi** WRVRM4 \- **Narumi** USCSEG \- **Nasya**  QV68T9 \- **Natalya** (pls si alguien se llama igual pongan su código) FHTEF8, 6FTMDZ \- **Natalia** KN6UYX \- **Natalie** SSMW9C, UGVEHD **\- Natanael** YT6GMJ **\- Nathalia** AC6R6Z, A6KFLN **\- Nayeli FZ33SX- Nayelly** KCVYLX\- **Nallely QCDXFG \- Nayely** FX9WHN \- **Nayla** G5M54T, L92K5P \- **Nelly UUNN5X \- Nestor**  NEARSC \- **Neydan** NBRR47 \- **Neylan**  SHYLDR \- **Nicolas** R4GH96 \- **Nicole** H6F4BA **\- Nicoletta** RRB4ZF \- **Niels**
 U9FRDX \- **Nidia** R7ZS2S \- **Noé** MTUVQH \- **Noel** , NVA94H \- **Noemy 8NZHFL-Noemí** AWTK5Y \- **Nora** JQHGUQ \- **Norma** 8MTVNS \- **Nydya 5WE598 \-  Nailen** |
 | **O** |
 | FTJ9YB \- **Oana** SYULLG \- **Obed** 8B7XR6 \- **Odaliz** 4DB2PC **\- Odry** VBDF4E \- **Olga**  ZUACTS, HVH8HB \- **Oliver** JLVQVW \- **Ollin** ZY78VD \- **Omar** YATFRA, MXA4B9, J7WBD7, 5KX44U, VU4EAW, 2AVJJ6 \- **Oscar** QUQKEZ \- **Osmar** 9ULQ75 \- **Osvaldo** WZ6CAL \- **Oswald** TSG2P2 \- **Oswaldo** 9MEAAP- **Owen** 4Y96Q5 \- **OZIEL 5WE598 \- Osiris**  |
 | **P** |
-| DJUVN4 \- **Pablo** 9TSJ9S \- **Pamela** JMR2JU **\- Paloma** 47X28G, ZZ6AE3 \- **Paola**  C77D29 \- **Paris** 96DD2T, HUM9FU, 9MQNWS- **Patricia** U243SW \- **Patricio** 8UFMYP, UZJXUG, 9R45UR \- **Paula** BTHEFM, 9QDPTW, VR3N9H \- **Paulina** MEYJA9 \- **Paulo** GXQDEJ \- **Paz** LPC2K4, FS9FAU \- **Pedro** EDWUCZ \- **Penélope** 7LX92Y, E3ADVA \- **Perla** ZR8YJF, CF4UBR \- **Priscilla**  |
+| DJUVN4 \- **Pablo** 9TSJ9S \- **Pamela** JMR2JU **\- Paloma** 47X28G, ZZ6AE3 \- **Paola**  C77D29 \- **Paris** 96DD2T, HUM9FU, 9MQNWS- **Patricia** U243SW \- **Patricio** F2AYJ4 \- **Patrick** 8UFMYP, UZJXUG, 9R45UR \- **Paula** BTHEFM, 9QDPTW, VR3N9H \- **Paulina** MEYJA9 \- **Paulo** GXQDEJ \- **Paz** LPC2K4, FS9FAU \- **Pedro** EDWUCZ \- **Penélope** 7LX92Y, E3ADVA \- **Perla** ZR8YJF, CF4UBR \- **Priscilla**  |
 | **Q** |
 | 9Z7HUK \- **Quetzal** 4R4MNQ \- **Quetzali** BSU7JW \- **Quetzalli**  |
 | **R** |
@@ -1772,8 +1772,7 @@ EUCUPZ, 4Y3TKD, BDJ43Q, WW36CR \- Bravo
 8B5R2K \- Breton
 7XFJ3N  \-  Buendía
 2KZGV6 \- Buitrón
-5T9VMQ  \-  Bustamante
-RLMNKN \- Bustamante (El otro no funciona)
+RLMNKN \- Bustamante
 ZGPKFJ \- Bribiesca
 LADR7U \- Briones
 TL83CB \- Bautista
@@ -1863,7 +1862,7 @@ GCZY6P  \-  Danna
 Z7YS6K \- De la Rosa
 ZUW2TP \- De la Vega
 XJE3HZ \- De Los Santos
-MAVVEW, SPMU3V,EDWUCZ \- Delgado
+MAVVEW, SPMU3V,EDWUCZ, 7TUCT5- Delgado
 Q78WJ7- Delgado Loaiza
 MJLMS9 \- De Jesus ( Si va sin acento)
 QDXBQ9 \- De Jesus
@@ -1873,6 +1872,7 @@ CBMN94  \-  Diana
 YJQJD5 \-  Diaz
 NEKJCK  \-  Díaz
 SPMU3V- Diaz
+77S9EC- Diaz
 QC4WVW **\-** Díaz
 B9ELGM \- Diego
 UWTZBJ \- Del Valle
@@ -2069,7 +2069,7 @@ M2UHSN \- Melgarejo
 J7QZJW \- Mendez
 R4GH96, ZYKAWY, UJ6HJA, XP4SYA \- Mendoza
 FDRDFV, YTGL83 \- Méndez
-WMWPYR \- **Mendoza**
+WMWPYR \- Mendoza
 CSSVLE \- Mendiola
 JW9PBR \- Mendizábal
 FENCHJ \- Mendivil
@@ -2394,7 +2394,7 @@ SSD55C \- Zunun
 
 ## **DISCLAIMER:** Solo pongan el código en su mes, no pongan más datos por favor. Y separen igual con coma **(CASI GEMELOS SE ENCUENTRA EN OTRA SECCIÓN ).** {#disclaimer:-solo-pongan-el-código-en-su-mes,-no-pongan-más-datos-por-favor.-y-separen-igual-con-coma-(casi-gemelos-se-encuentra-en-otra-sección-).}
 
-| ENERO G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF |
+| ENERO G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR, KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF |
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR |
 | **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3  |
@@ -2403,12 +2403,10 @@ SSD55C \- Zunun
 | **JUNIO** 6NDDAC, CEB2F7, 4QSM4X**,** 7M3MNC**,** L5GPBK, 3LX4CZ, 5WL3J2, P8AEN8 ,GHCDJB, LWPJ6V, E6FYLQ, MB8M3H, CF4UBR, 3BQQCQ, HKDG94, JMDE8U, A39J8V, LTU3JQ, PQ5YP6 , ZEWEKJ; XKYNQ8, MDTK49 FHTEF8, 27NGUN, 45XLW5, 8PAUA9, GSZHQW, Y9DWP5, NWX4TN, QDXBQ9, BHEFGR, E3ADVA, KNLS2K, V58MF3, U243SW, UBXD7M, M6Q9JV |
 | **JULIO** KVJNQD, H6U52K, JUBN3N, HGGMCD, E92887 ,DFTXBL,ZZ6AE3, JUBN3N,99MYX7, VFYFQQ, YE83KR, FDR434, 5KX44U, DS7SU5, 3TGEAC, A28B7B, SYGFBM, 6DXUFC, 47X28G, KQTXQ3,BP23LR, Y6JME9, ZEDTNW, GC6HKG, KBCGJE, NBDGLB, X4XHYB, TNHMSN, M28V7D, E7MD3K, QW57KK, JQEG3U, V7QEMW, G8ZWJ9, V8NSTH, 8CYDV9, XTEKTV, 4G7JK7, WFK9M9, JQEG3U, XTEKTV, N7RKPL, QW57KK, C2E6DR, FUEQZD, SKNEPP, 5KDYK6, Z7V2DL, 95Y7HN |
 | **AGOSTO** FBTPB7, M8PN5M**,** TP7G2U, BLL2CA , 374S23, 96DD2T, M33DPN, 4TG2S7, S5G28G, E22JQT, 8Y89R9, CSYUZN, KNFKMV, EX43MU AK6ZWR, D5GYZY, YURFCE, ZVD8Z4, 8N24Z3 , KNWN28, N3MF6K, S4S24L, V6ZKQ8, PZBGYV, 4THUMF, AC6R6Z, FTJ9YB, TUBLX3, 3C9YXF, 7HQ8FR, 76J4U9, PGPXPL, P94HEN, TVGL8J, 7Q64Z9, M8PN5M, DZ239X, QC4WVW, ZT76GT, U9FRDX, XJE3HZ, SPMU3V, M7B54S |
-| **SEPTIEMBRE** HZ6A9Z, RZ6XRU**,** GLWNDS, BYF2UV, X87RX3, RUR545, 9MVBUH, BVWBB6, USVWAX, FMBLNQ, FL5998, LEH2JS', JPLRZG, U44QDA, DUP9YP, HMZ3AD, UUN8K5, UH9C9E. QMDEAM, YK9XG3, 82H488,9RE3VP, Z7BAJP, 74MYW8, X4BZBK, W3AQ9D, HERGCA, CRWXDZ, CXZGG6, CBHD9N, BK3FVG, NKMK4D**,** 6LV4PL, WPWR7B, ZTQ9QP, EGRGG2, UAW9AA |
-| **OCTUBRE** VNMPZ9, ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W, 7GW9UE |
+| **SEPTIEMBRE** HZ6A9Z, RZ6XRU**,** GLWNDS, BYF2UV, X87RX3, RUR545, 9MVBUH, BVWBB6, USVWAX, FMBLNQ, FL5998, LEH2JS', JPLRZG, U44QDA, DUP9YP, HMZ3AD, UUN8K5, UH9C9E. QMDEAM, YK9XG3, 82H488,9RE3VP, Z7BAJP, 74MYW8, X4BZBK, W3AQ9D, HERGCA, CRWXDZ, CXZGG6, CBHD9N, BK3FVG, NKMK4D**,** 6LV4PL, WPWR7B, ZTQ9QP, EGRGG2, UAW9AA, MJPW9K |
+| **OCTUBRE** VNMPZ9, ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W, 7GW9UE,77S9EC |
 | **NOVIEMBRE** 2K9FK5, CBU3CE, JL85MQ**,** C77D29**,**, VPRKQA**,** 74KTUS, 6WM8QZ, , K4P832, F698MD, QY3VQ9, NEKJCK, FHQXMQ, 9RDDKY, W3FLD6, VZ36RJ, 2M56EN, W8LHZL, HFAAS9, UN34WK, RWSHM3, 33DBC2, UMZHHH, L3CJV6, 4CYKPC, PW5KSH, CY6ATS , CJXGS2, ALKPT3, GTMTH9, K7AFKF, Y2SM92, NQPMGB, 6DT6SY, CJXGS2, HC2CCM, UJ4PZC, M3XBS3, 8JH9PL, VG39JT, 6MURMS, 3EADS3 |
 | **DICIEMBRE** NQYJ5W,Y6352H,UU6VPQ, XJWH5V, MNM229,T9UJMP, P8E4PW, TAZL6P, MGQ845,  9DT7WG, VU4EAW, M8MRDM, RMNQ7T, QR4PLZ, 27YHVB, MP7Y6M, ZWLYNY, 4CDW4N, 9TSJ9S, RWKVVL, JCDSEA, MHLNQF,NWG754, QGLTRC, EE55CC,B3FPGG, ACZ97F, 4VP5BY, M7PS49, XLWSAA, F5Z27H, 39GFZJ, 9HHDZS ALVDTP, DRVR87, BPY827, KB5FFD, HLTR92, DRVR87,BTJWYA, GSWGUF, SQVJ7P, KEPNNC, PQX8FT, DRVR87, ZWLYNY, ZT5TXN, 79LV2Z, ACZ97F, YGTGPZ, G9HCLW, W25A2E, QAN9U2, 634MZ6, LHPSC9, 3C5MX2 |
-
-K334YB
 
 **LOGRO DE TODA LA REPÚBLICA 🗺️**
 
@@ -2419,7 +2417,7 @@ K334YB
 | **Campeche:**  SMB PQF, ZUH73Z |
 | **Chiapas:** XZXA2V, JUBN3N, W7AHQ2, YTGL83,  |
 | **Chihuahua:** R6TE6Q |
-| **Ciudad de México:** 4C7WHL, **CF4UBR, 5D4C6P ,Q2SZ3B**, G5SHBK H6U52K G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, V6ZKQ8, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD, 57EYLG, 8R5W24, KBH4QN, 95Y7HN |
+| **Ciudad de México:** 4C7WHL, **CF4UBR, 5D4C6P ,Q2SZ3B**, G5SHBK H6U52K G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, V6ZKQ8, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD, 57EYLG, 8R5W24, KBH4QN, 95Y7HN, MJPW9K |
 | **Coahuila:** Y2S7KV,  |
 | **Colima:**79U7RY |
 | **Durango:** VUELXG, RJ863WSSGKMT, VG39JT |
@@ -2503,7 +2501,7 @@ K334YB
 ***11***
 ***12 P6WWEB, 7LFEMB***
 ***13***
-***14***
+***14*** **EBAGVV**
 ***15***    **2TAERY, J8S4ZS**
 ***16\.   4JBFDU***
 ***17   5T9VMQ***
@@ -2740,7 +2738,7 @@ K334YB
 ***26 WYXF2U***
 ***27 HRQHZL***
 ***28 E9PR4H***
-***29${}$*****Z7BAJP**
+***29${}$*****Z7BAJP, MJPW9K**
 ***30 X5NADC***
 **Octubre**
 ***1 7GW9UE***
@@ -2750,7 +2748,7 @@ K334YB
 ***5 ESN8G3***
 ***6  8C9ST8, FSZLZC***
 ***7*** **SEDAKG**
-***8  M33WL2***
+***8  M33WL2, 77S9EC***
 ***9*** **A6QH5Y, CCQBM9, VNMPZ9**
 ***10  FYZLQT***
 ***11***
@@ -2814,13 +2812,13 @@ K334YB
 ***6 7GADBP***
 ***7 8J76TG***
 ***8 Z6HQVD***
-***9 NQYJ5W***
+***9 NQYJ5W  F7E3UH***
 ***10 3SCLAP***
 ***11*** \- XJWH5V, HBZN3T
 ***12\.  PQX8FT***
 ***13\. 68GS37***
 ***14 FA7FL7***
-***15 Q9AML2 , R5UKGS***
+***15 Q9AML2 , R5UKGS, 7TUCT5***
 ***16  39GFZJ***
 ***17  DRVR87, ZWLYNY***
 ***18***
@@ -3261,7 +3259,7 @@ Otra cosa nadie quiere perder el acceso, no cambien los códigos, hagan su letre
 
 chupamela
 
-# **No borren ni sustituyan los códigos, cada quien haga su propio anuncio nmmn, si quieren usen uno de base y copien el texto. NO HAGAN SPAM DE UN SOLO CÓDIGO O HARÁN QUE NO SE PUEDA EDITAR EL DOCUMENTO OTRA VEZ (ya pasó 2 veces y no quieren una tercera).**
+# **No borren ni sustituyen los códigos, cada quien haga su propio anuncio nmmn, si quieren usen uno de base y copien el texto. NO HAGAN SPAM DE UN SOLO CÓDIGO O HARÁN QUE NO SE PUEDA EDITAR EL DOCUMENTO OTRA VEZ (ya pasó 2 veces y no quieren una tercera).**
 
 **Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia. También de Bachillerato a Distancia. Agréguenme porfa: 6WSK45**
 
@@ -3326,6 +3324,7 @@ chupamela
 **8FXSPJ**
 **Agrégame bachillerato en línea por favor**
 **JQZR96**
+**77S9EC**
 
 **porfa agrengueme bachillerato en línea , porfissss\!\!\!\!**
 **634MZ6**
@@ -3919,3 +3918,5 @@ chupamela
 **E7MD3K**
 
 **HOLA, NECESITO EL CÓDIGO DE ALGUIEN DE BACHILLERATO A DISTANCIA. 7GW9UE gracias :)**
+
+# KEGKRZ

@@ -54,13 +54,6 @@
 |---|---|---|
 | `CH2DGW` | ↑ | doc |
 
-## Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia
-
-| Código | Etiqueta | Origen |
-|---|---|---|
-| `863K8P` | Ecologia | doc |
-| `N3APR4` | Ciencias Agroforestales | doc |
-
 ## Instituto de Energías Renovables (Temixco)
 
 | Código | Etiqueta | Origen |

@@ -191,6 +191,7 @@
 | `6DT6SY` | Ingeniería Mecánica | doc |
 | `RVDYNM` | Ingeniería Mecánica | doc |
 | `W9THGT` | Ingeniería Mecánica | doc |
+| `F2AYJ4` | Relaciones Internacionales | doc |
 | `A6QH5Y` | Relaciones Internacionales | doc |
 | `MZA7HY` | Relaciones Internacionales | doc |
 | `8AH8Y9` | Relaciones Internacionales | doc |
@@ -209,7 +210,6 @@
 |---|---|---|
 | `BP8YXK` | Administración | doc |
 | `RZQRJ4` | Administración | doc |
-| `48MWEU` | Administración | doc |
 | `BDJ43Q` | Administración | doc |
 | `4DB2PC` | Administración | doc |
 | `C24B7W` | Conta | doc |
@@ -323,6 +323,7 @@
 | `7HQ8FR` | Médico Cirujano | doc |
 | `M6Q9JV` | Médico Cirujano | doc |
 | `92B2W3` | Médico Cirujano | doc |
+| `6A6RSY` | Médico Cirujano | doc |
 | `HENQS4` | Cirujano Dentista | doc |
 | `74JVX7` | Cirujano Dentista | doc |
 | `JKTGSW` | Optometría | doc |

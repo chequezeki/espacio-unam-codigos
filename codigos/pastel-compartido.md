@@ -358,6 +358,7 @@
 | `ZTQ9QP` | ' | doc |
 | `EGRGG2` | ' | doc |
 | `UAW9AA` | ' | doc |
+| `MJPW9K` | ' | doc |
 | `VNMPZ9` | OCTUBRE | doc |
 | `ESN8G3` | OCTUBRE | doc |
 | `8C9ST8` | OCTUBRE | doc |
@@ -380,6 +381,7 @@
 | `ZAX4D8` | OCTUBRE | doc |
 | `LH9W8W` | OCTUBRE | doc |
 | `7GW9UE` | OCTUBRE | doc |
+| `77S9EC` | OCTUBRE | doc |
 | `2K9FK5` | NOVIEMBRE | doc |
 | `CBU3CE` | NOVIEMBRE | doc |
 | `JL85MQ` | NOVIEMBRE | doc |
@@ -472,7 +474,6 @@
 | `634MZ6` | DICIEMBRE | doc |
 | `LHPSC9` | DICIEMBRE | doc |
 | `3C5MX2` | DICIEMBRE | doc |
-| `K334YB` | LOGRO DE TODA LA REPÚBLICA 🗺️ | doc |
 | `TPZWY9` | Aguascalientes | doc |
 | `UEW98C` | Baja California Sur | doc |
 | `KVMVNM` | Baja California Sur | doc |
@@ -531,6 +532,7 @@
 | `8R5W24` | Ciudad de México | doc |
 | `KBH4QN` | Ciudad de México | doc |
 | `95Y7HN` | Ciudad de México | doc |
+| `MJPW9K` | Ciudad de México | doc |
 | `Y2S7KV` | Coahuila | doc |
 | `79U7RY` | Colima | doc |
 | `VUELXG` | Durango | doc |

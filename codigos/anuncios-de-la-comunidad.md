@@ -38,7 +38,8 @@
 | `TVPG8X` | Agrégame bachillerato en línea por favor | doc |
 | `EGJGMB` | Agrégame bachillerato en línea por favor | doc |
 | `8FXSPJ` | Agrégame bachillerato en línea por favor | doc |
-| `JQZR96` | porfa agrengueme bachillerato en línea , porfissss!!!! | doc |
+| `JQZR96` | — | doc |
+| `77S9EC` | porfa agrengueme bachillerato en línea , porfissss!!!! | doc |
 | `634MZ6` | — | doc |
 | `QAN9U2` | Porfis bachillerato en linea agregame, te transfiero 50 pesotes :( | doc |
 | `CCQBM9` | Agrégame bachillerato en línea por favor 😔 | doc |
@@ -63,7 +64,6 @@
 | `MJLUUU` | — | doc |
 | `8N24Z3` | — | doc |
 | `CJXNZG` | — | doc |
-| `JQZR96` | — | doc |
 | `KECG5J` | — | doc |
 | `EHJ3Q2` | ) | doc |
 | `YGTGPZ` | Ofertón para Bachillerato a distancia | doc |

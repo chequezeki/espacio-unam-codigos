@@ -197,6 +197,7 @@
 | `634MZ6` | Arquitectura | doc |
 | `UQDRBZ` | Arquitectura | doc |
 | `37RXPE` | Arquitectura | doc |
+| `NZZ4RS` | Arquitectura | doc |
 | `4PXEED` | Arquitectura de Paisaje | doc |
 | `96EUFJ` | Arquitectura de Paisaje | doc |
 | `27NGUN` | Arquitectura de Paisaje | doc |
@@ -387,6 +388,7 @@
 | `Y2SM92` | Bibliotecología y Estudios de la Información | doc |
 | `FRTNXJ` | Bibliotecología y Estudios de la Información | doc |
 | `57EYLG` | Bibliotecología y Estudios de la Información | doc |
+| `77S9EC` | Bibliotecología y Estudios de la Información | doc |
 | `M33DPN` | Administración de Archivos y Gestión Documental | doc |
 | `ZGKH37` | Administración de Archivos y Gestión Documental | doc |
 | `DL7ZKB` | Filosofía | doc |
@@ -529,7 +531,6 @@
 | `VFL56D` | Ciencias de la Comunicación (SUAyED) | doc |
 | `BHJJJA` | Ciencias de la Comunicación (SUAyED) | doc |
 | `DFTXBL` | Ciencias de la Comunicación (SUAyED) | doc |
-| `BFFU5Q` | Ciencias de la Comunicación (SUAyED) | doc |
 | `P3ZRE5` | Ciencias de la Comunicación (SUAyED) | doc |
 
 ## Facultad de Contaduría y Administración
@@ -622,10 +623,11 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `QMDEAM` | Derecho | doc |
 | `CF4UBR` | Derecho | doc |
+| `5NT3GR` | Derecho | doc |
 | `UU6VPQ` | Derecho | doc |
 | `MFCF6H` | Derecho | doc |
-| `5NT3GR` | Derecho | doc |
 | `UFELAH` | Derecho | doc |
 | `JQZR96` | Derecho | doc |
 | `RD485C` | Derecho | doc |
@@ -663,6 +665,7 @@
 | `VYGM4N` | Derecho | doc |
 | `TUBLX3` | Derecho | doc |
 | `JPJXQW` | Derecho | doc |
+| `MJPW9K` | Derecho | doc |
 | `RVT6RY` | Derecho SUAYED | doc |
 | `47BH5C` | Derecho SUAYED | doc |
 | `MJLUUU` | Derecho SUAYED | doc |
@@ -702,6 +705,7 @@
 | `PFVZWY` | Psicología | doc |
 | `E3ADVA` | Psicología | doc |
 | `JCDSEA` | Psicología | doc |
+| `H7GEQM` | Psicología | doc |
 | `EMR2XF` | Psicología SUA | doc |
 | `U37TKR` | Psicología SUA | doc |
 | `UMZHHH` | Psicología SUA | doc |
@@ -715,12 +719,15 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `KJ6ZGE` | Cirujano Dentista | doc |
-| `VZD8Z4` | QQN4JVYSS7JK | doc |
-| `9ZHNXC` | QQN4JVYSS7JK | doc |
-| `TZ3CU6` | QQN4JVYSS7JK | doc |
-| `74JVX7` | QQN4JVYSS7JK | doc |
-| `H36HPZ` | QQN4JVYSS7JK | doc |
-| `GL8ETS` | QQN4JVYSS7JK | doc |
+| `QQN4JV` | Cirujano Dentista | doc |
+| `YSS7JK` | Cirujano Dentista | doc |
+| `VZD8Z4` | Cirujano Dentista | doc |
+| `9ZHNXC` | Cirujano Dentista | doc |
+| `TZ3CU6` | Cirujano Dentista | doc |
+| `74JVX7` | Cirujano Dentista | doc |
+| `H36HPZ` | Cirujano Dentista | doc |
+| `GL8ETS` | Cirujano Dentista | doc |
+| `7VPCWT` | Cirujano Dentista | doc |
 | `C73DE3` | Odontologia | doc |
 | `9R45UR` | Odontologia | doc |
 

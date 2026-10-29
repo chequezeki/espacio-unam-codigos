@@ -118,6 +118,8 @@
 | `JUJB7X` | Neuro | doc |
 | `Z3CBJ5` | Neuro | doc |
 | `KQHYGR` | Órtesis y Prótesis | doc |
+| `TT9QJA` | Órtesis y Prótesis | doc |
+| `8DAUF2` | Órtesis y Prótesis | doc |
 | `SWCUS3` | Psicología | doc |
 | `ZGKH37` | Psicología | doc |
 | `FNXSDN` | Historia | doc |
