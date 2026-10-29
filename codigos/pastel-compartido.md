@@ -46,6 +46,7 @@
 | `5D4C6P` | ENERO | doc |
 | `WRVUAF` | ENERO | doc |
 | `Z5K8S9` | ENERO | doc |
+| `CF4UBR` | ENERO | doc |
 | `KN6UYX` | ENERO | doc |
 | `56XQJ8` | ENERO | doc |
 | `W57TBG` | ENERO | doc |
@@ -89,6 +90,7 @@
 | `EMXTCA` | FEBRERO | doc |
 | `L55SRC` | FEBRERO | doc |
 | `8R5W24` | FEBRERO | doc |
+| `CF4UBR` | FEBRERO | doc |
 | `T9L84A` | MARZO | doc |
 | `K7HSZT` | MARZO | doc |
 | `YYSEV5` | MARZO | doc |
@@ -207,6 +209,7 @@
 | `LWPJ6V` | JUNIO | doc |
 | `E6FYLQ` | JUNIO | doc |
 | `MB8M3H` | JUNIO | doc |
+| `CF4UBR` | JUNIO | doc |
 | `3BQQCQ` | JUNIO | doc |
 | `HKDG94` | JUNIO | doc |
 | `JMDE8U` | JUNIO | doc |
@@ -476,8 +479,8 @@
 | `JUBN3N` | Chiapas | doc |
 | `W7AHQ2` | Chiapas | doc |
 | `YTGL83` | Chiapas | doc |
-| `JA9ZR3` | Chiapas | doc |
 | `R6TE6Q` | Chihuahua | doc |
+| `CF4UBR` | Ciudad de México | doc |
 | `5D4C6P` | Ciudad de México | doc |
 | `Q2SZ3B` | Ciudad de México | doc |
 | `G5SHBK` | Ciudad de México | doc |
@@ -578,7 +581,6 @@
 | `FZC5EB` | Hidalgo | doc |
 | `NWB7JG` | Hidalgo | doc |
 | `9JUAP7` | Hidalgo | doc |
-| `4THUMF` | Hidalgo | doc |
 | `5MMQ9F` | Jalisco | doc |
 | `7GJ83S` | Michoacán | doc |
 | `PW5KSH` | Michoacán | doc |

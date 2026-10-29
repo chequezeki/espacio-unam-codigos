@@ -204,7 +204,7 @@ RGVNRQ,ENES,ENES Mérida,Manejo Sustentable de Zonas Costeras
 2CPSVN,ENES,ENES Mérida,Geografía Aplicada
 VMHDRH,ENES,ENES Mérida,Sociología Aplicada
 F38M8G,ENES,ENES Mérida,Desarrollo y Gestión Interculturales
-863K8P,ENES,ENES Mérida,Ecología
+RGVNRQ,ENES,ENES Mérida,Ecología
 8FWQFZ,FES,FES Acatlán,Actuaría
 99S7TP,FES,FES Acatlán,Actuaría
 NSBZJK,FES,FES Acatlán,Actuaría
@@ -387,6 +387,7 @@ A6QH5Y,FES,FES Aragón,Relaciones Internacionales
 MZA7HY,FES,FES Aragón,Relaciones Internacionales
 8AH8Y9,FES,FES Aragón,Relaciones Internacionales
 2UAYY2,FES,FES Aragón,Relaciones Internacionales
+3PPWQ5,FES,FES Aragón,Relaciones Internacionales
 B32HHM,FES,FES Aragón,Sociología
 EZLREM,FES,FES Aragón,Derecho Sua
 27YHVB,FES,FES Aragón,Derecho Sua
@@ -1057,23 +1058,11 @@ BHJJJA,Facultades de CU,Facultad de Políticas y Sociales,Ciencias de la Comunic
 DFTXBL,Facultades de CU,Facultad de Políticas y Sociales,Ciencias de la Comunicación (SUAyED)
 BFFU5Q,Facultades de CU,Facultad de Políticas y Sociales,Ciencias de la Comunicación (SUAyED)
 P3ZRE5,Facultades de CU,Facultad de Políticas y Sociales,Ciencias de la Comunicación (SUAyED)
-9MEAAP,Facultades de CU,Facultad de Contaduría y Administración,Administración
 VBDF4E,Facultades de CU,Facultad de Contaduría y Administración,Administración
 FFWLPX,Facultades de CU,Facultad de Contaduría y Administración,Administración
 HL67XM,Facultades de CU,Facultad de Contaduría y Administración,Administración
-2KBVYQ,Facultades de CU,Facultad de Contaduría y Administración,Administración
-YE83KR,Facultades de CU,Facultad de Contaduría y Administración,Administración
-779X24,Facultades de CU,Facultad de Contaduría y Administración,Administración
-F28GAL,Facultades de CU,Facultad de Contaduría y Administración,Administración
-8V5JU5,Facultades de CU,Facultad de Contaduría y Administración,Administración
-EQ6X25,Facultades de CU,Facultad de Contaduría y Administración,Administración
-9DT2GX,Facultades de CU,Facultad de Contaduría y Administración,Administración
-B4F5AD,Facultades de CU,Facultad de Contaduría y Administración,Administración
-4CYKPC,Facultades de CU,Facultad de Contaduría y Administración,Administración
-NWANYF,Facultades de CU,Facultad de Contaduría y Administración,Administración
-U8C9G3,Facultades de CU,Facultad de Contaduría y Administración,Administración
-CM8RT8,Facultades de CU,Facultad de Contaduría y Administración,Administración
 UVJ83P,Facultades de CU,Facultad de Contaduría y Administración,Administración SUAYED a distancia
+N54J7V,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 ZMY6X9,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 ZG27YE,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 HGGMCD,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
@@ -1138,6 +1127,7 @@ BHXKZL,Facultades de CU,Facultad de Economía,Economia SUAyED
 42DDXA,Facultades de CU,Facultad de Economía,Economia SUAyED
 AGLLPJ,Facultades de CU,Facultad de Economía,Economia SUAyED
 4G7JK7,Facultades de CU,Facultad de Economía,Economia SUAyED
+CF4UBR,Facultades de CU,Facultad de Derecho,Derecho
 UU6VPQ,Facultades de CU,Facultad de Derecho,Derecho
 UFELAH,Facultades de CU,Facultad de Derecho,Derecho
 JQZR96,Facultades de CU,Facultad de Derecho,Derecho
@@ -1185,6 +1175,7 @@ YFF678,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 CEB2F7,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 M8MRDM,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 XJ65S3,Facultades de CU,Facultad de Derecho,Derecho SUAYED
+TJBK73,Facultades de CU,Facultad de Psicología,Psicología
 76P6V4,Facultades de CU,Facultad de Psicología,Psicología
 8EJFYT,Facultades de CU,Facultad de Psicología,Psicología
 BBVWWW,Facultades de CU,Facultad de Psicología,Psicología
@@ -1373,6 +1364,7 @@ YULUPY,Tocayo,,Aquetzalli
 ZVD8Z4,Tocayo,,Arantxa
 C2E6DR,Tocayo,,Aranza
 CXZGG6,Tocayo,,Arath
+N54J7V,Tocayo,,Areli
 3ZH8AS,Tocayo,,Arely
 Y7J263,Tocayo,,Ari
 HFAAS9,Tocayo,,Aridani
@@ -1473,6 +1465,7 @@ YTVD9L,Tocayo,,Crista
 F5JCTS,Tocayo,,Cynthia
 RJ863T,Tocayo,,Citlaly
 VVG2NM,Tocayo,,Dafne
+3PPWQ5,Tocayo,,Daphne
 ESNV5Y,Tocayo,,Dalí
 RWSHM3,Tocayo,,Dalia
 KLVKPA,Tocayo,,Dalia
@@ -1819,6 +1812,7 @@ YTGL83,Tocayo,,Karla
 DL95TY,Tocayo,,Karlo
 ZLK3YB,Tocayo,,Karol
 J4MQAK,Tocayo,,Katerine
+CF4UBR,Tocayo,,Katherine
 DAWV3T,Tocayo,,Katherine
 JPLRZG,Tocayo,,Katerinee
 XAYS2Y,Tocayo,,Kathya
@@ -1925,6 +1919,7 @@ LV3YJU,Tocayo,,Mario
 WLCJGV,Tocayo,,Mario
 6G2Y54,Tocayo,,Marisol
 7WZ6CU,Tocayo,,Marlen
+CF4UBR,Tocayo,,Marlen
 UPVKFL,Tocayo,,Marlene
 SSMW9C,Tocayo,,Marlon
 Y6GLBD,Tocayo,,Martha
@@ -2008,6 +2003,7 @@ RRB4ZF,Tocayo,,Niels
 U9FRDX,Tocayo,,Nidia
 R7ZS2S,Tocayo,,Noé
 MTUVQH,Tocayo,,Noel
+CF4UBR,Tocayo,,Noemy
 NVA94H,Tocayo,,Noemy
 8NZHFL,Tocayo,,Noemí
 AWTK5Y,Tocayo,,Nora
@@ -2018,7 +2014,7 @@ FTJ9YB,Tocayo,,Oana
 SYULLG,Tocayo,,Obed
 8B7XR6,Tocayo,,Odaliz
 4DB2PC,Tocayo,,Odry
-EUSGCL,Tocayo,,Olga
+VBDF4E,Tocayo,,Olga
 ZUACTS,Tocayo,,Oliver
 HVH8HB,Tocayo,,Oliver
 JLVQVW,Tocayo,,Ollin
@@ -2038,6 +2034,7 @@ TSG2P2,Tocayo,,Oswaldo
 5WE598,Tocayo,,Osiris
 DJUVN4,Tocayo,,Pablo
 9TSJ9S,Tocayo,,Pamela
+JMR2JU,Tocayo,,Paloma
 47X28G,Tocayo,,Paola
 ZZ6AE3,Tocayo,,Paola
 C77D29,Tocayo,,Paris
@@ -2059,6 +2056,7 @@ EDWUCZ,Tocayo,,Penélope
 7LX92Y,Tocayo,,Perla
 E3ADVA,Tocayo,,Perla
 ZR8YJF,Tocayo,,Priscilla
+CF4UBR,Tocayo,,Priscilla
 9Z7HUK,Tocayo,,Quetzal
 4R4MNQ,Tocayo,,Quetzali
 BSU7JW,Tocayo,,Quetzalli
@@ -2132,6 +2130,7 @@ MTXZ58,Tocayo,,Sofía
 EF38ST,Tocayo,,Spencer
 9MVBUH,Tocayo,,Stephanie
 LGB2ZV,Tocayo,,Stefany
+CF4UBR,Tocayo,,Stefany
 27YHVB,Tocayo,,Sunmy
 X3DZYF,Tocayo,,Suzanne
 JVURUC,Tocayo,,Tadeo
@@ -2449,6 +2448,7 @@ QWGP83,Casi familia,,Cortez
 3BP4QB,Casi familia,,Covarrubias
 H388MB,Casi familia,,Contreras
 W3ZPUK,Casi familia,,Contreras
+VBDF4E,Casi familia,,FKWYFdZ
 E7METL,Casi familia,,FKWYFdZ
 T2UL6E,Casi familia,,FKWYFdZ
 7M3MNC,Casi familia,,FKWYFdZ
@@ -2657,6 +2657,7 @@ AQRPXV,Casi familia,,Jurado
 PKJWXH,Casi familia,,Karsten
 U4SC6Q,Casi familia,,Karyme
 FNEAB4,Casi familia,,Kevin
+CF4UBR,Casi familia,,Kendra
 AUB6XJ,Casi familia,,Kendra
 PYADLG,Casi familia,,Laguna
 Z6NQMM,Casi familia,,Lagunas
@@ -2825,6 +2826,7 @@ CJ4TXS,Casi familia,,Muñoz
 NU9ED2,Casi familia,,Naranjo
 B39J96,Casi familia,,Naranjo
 LTU3JQ,Casi familia,,Nava
+CF4UBR,Casi familia,,Nava
 2A2W46,Casi familia,,Nava
 7WZ6CU,Casi familia,,Nava
 QBHNZB,Casi familia,,Navarrete
@@ -2871,6 +2873,7 @@ GZLSDQ,Casi familia,,Orihuela
 75CQF3,Casi familia,,Orostico
 LW2M4D,Casi familia,,Orozco
 FNBTDD,Casi familia,,Ortega
+CF4UBR,Casi familia,,Ortega
 WGM2KG,Casi familia,,Ortega
 H388MB,Casi familia,,Ortuño
 AQK9HC,Casi familia,,Omaña
@@ -3038,6 +3041,7 @@ U6QC39,Casi familia,,Simon
 D4SJJL,Casi familia,,Segura
 SFTYGK,Casi familia,,Serrano
 WRVUAF,Casi familia,,Serrano
+CF4UBR,Casi familia,,Serrano
 JEYZRQ,Casi familia,,Serrano
 E2N3KY,Casi familia,,Sanjuan
 2AAE5B,Casi familia,,Suárez
@@ -3205,6 +3209,7 @@ H7GEQM,Pastel compartido,,ENERO
 5D4C6P,Pastel compartido,,ENERO
 WRVUAF,Pastel compartido,,ENERO
 Z5K8S9,Pastel compartido,,ENERO
+CF4UBR,Pastel compartido,,ENERO
 KN6UYX,Pastel compartido,,ENERO
 56XQJ8,Pastel compartido,,ENERO
 W57TBG,Pastel compartido,,ENERO
@@ -3248,6 +3253,7 @@ AARUZQ,Pastel compartido,,FEBRERO
 EMXTCA,Pastel compartido,,FEBRERO
 L55SRC,Pastel compartido,,FEBRERO
 8R5W24,Pastel compartido,,FEBRERO
+CF4UBR,Pastel compartido,,FEBRERO
 T9L84A,Pastel compartido,,MARZO
 K7HSZT,Pastel compartido,,MARZO
 YYSEV5,Pastel compartido,,MARZO
@@ -3366,6 +3372,7 @@ GHCDJB,Pastel compartido,,JUNIO
 LWPJ6V,Pastel compartido,,JUNIO
 E6FYLQ,Pastel compartido,,JUNIO
 MB8M3H,Pastel compartido,,JUNIO
+CF4UBR,Pastel compartido,,JUNIO
 3BQQCQ,Pastel compartido,,JUNIO
 HKDG94,Pastel compartido,,JUNIO
 JMDE8U,Pastel compartido,,JUNIO
@@ -3635,8 +3642,8 @@ XZXA2V,Pastel compartido,,Chiapas
 JUBN3N,Pastel compartido,,Chiapas
 W7AHQ2,Pastel compartido,,Chiapas
 YTGL83,Pastel compartido,,Chiapas
-JA9ZR3,Pastel compartido,,Chiapas
 R6TE6Q,Pastel compartido,,Chihuahua
+CF4UBR,Pastel compartido,,Ciudad de México
 5D4C6P,Pastel compartido,,Ciudad de México
 Q2SZ3B,Pastel compartido,,Ciudad de México
 G5SHBK,Pastel compartido,,Ciudad de México
@@ -3737,7 +3744,6 @@ Z7V2DL,Pastel compartido,,9MSMM
 FZC5EB,Pastel compartido,,Hidalgo
 NWB7JG,Pastel compartido,,Hidalgo
 9JUAP7,Pastel compartido,,Hidalgo
-4THUMF,Pastel compartido,,Hidalgo
 5MMQ9F,Pastel compartido,,Jalisco
 7GJ83S,Pastel compartido,,Michoacán
 PW5KSH,Pastel compartido,,Michoacán
@@ -3900,10 +3906,12 @@ P79ZDH,Casi gemelos,Marzo,4
 KEGKRZ,Casi gemelos,Marzo,7
 BKY7PY,Casi gemelos,Marzo,10
 Z2PFT2,Casi gemelos,Marzo,11
+TJBK73,Casi gemelos,Marzo,11
 4NGH85,Casi gemelos,Marzo,12
 H47GVV,Casi gemelos,Marzo,12
 UZJXUG,Casi gemelos,Marzo,13
 LDJN7P,Casi gemelos,Marzo,16
+URS4PZ,Casi gemelos,Marzo,17
 HDYHEQ,Casi gemelos,Marzo,18
 BDJ43Q,Casi gemelos,Marzo,19
 XZ5A7P,Casi gemelos,Marzo,19
@@ -3937,6 +3945,7 @@ ZK2VQW,Casi gemelos,Marzo,13
 Y56JTV,Casi gemelos,Marzo,15
 8GHZQ5,Casi gemelos,Marzo,16
 TQFRKA,Casi gemelos,Marzo,16
+CF4UBR,Casi gemelos,Marzo,17
 VF68YX,Casi gemelos,Marzo,17
 BP8YXK,Casi gemelos,Marzo,21
 F9TZFU,Casi gemelos,Marzo,23
@@ -4229,6 +4238,7 @@ L576TC,Compa de banca,,PEDAGOGÍA (FFyL) Escolarizado - Generación 2024
 6S9FH3,Compa de banca,,DERECHO / Facultad de Derecho SUA / 2024
 QK7GDH,Compa de banca,,/
 6UQTGW,Compa de banca,,derecho CU 2022 / Derecho CU 2022-2026
+CF4UBR,Compa de banca,,Derecho CU 2025
 7Z9MNW,Compa de banca,,DERECHO/FES ARAGON
 8GHZQ5,Compa de banca,,/
 27YHVB,Compa de banca,,Generación 2027 (nuevo ingreso)
@@ -4369,6 +4379,7 @@ ZGKH37,Compa de banca,,2023
 YJ3MH8,Compa de banca,,che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi
 MJLUUU,Otros,,
 NSGN8U,Otros,,
+6WSK45,Anuncios de la comunidad,,Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E
 ZGKH37,Anuncios de la comunidad,,"porfa agrengueme bachillerato en línea , porfissss!!!!"
 634MZ6,Anuncios de la comunidad,,
 4JBFDU,Anuncios de la comunidad,,#
@@ -4446,7 +4457,6 @@ U4SXG7,Anuncios de la comunidad,,x8
 BBVWWW,Anuncios de la comunidad,,Encuentrenme los de bachillerato en Línea
 AFV9RM,Anuncios de la comunidad,,porfi ayuda
 SN6AHU,Anuncios de la comunidad,,por favoor
-6WSK45,Anuncios de la comunidad,,A Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en
 T3NAZ7,Anuncios de la comunidad,,Posdata: les dejo otro código secreto
 DJ7WBM,Anuncios de la comunidad,,
 7M3MNC,Anuncios de la comunidad,,agregen porfa y les doy un riko pollo 🍗
@@ -4757,5 +4767,6 @@ QV68T9,Anuncios de la comunidad,,AGRÉGUENME BACHILLERATO EN LÍNEA POR FAVOR
 S6YQL2,Anuncios de la comunidad,,porfaaaaa bachillerato en línea
 5EQXAK,Anuncios de la comunidad,,
 5KDYK6,Anuncios de la comunidad,,Tiren paro bachillerato en linea plis :(
+7BSNQB,Anuncios de la comunidad,,
 V8SF6Z,Anuncios de la comunidad,,Porfa agregame bro
 6NDDAC,Anuncios de la comunidad,,"gente de bachillerato a distancia agreguen porfavor, soy de teatro"

@@ -193,6 +193,7 @@
 | `MZA7HY` | Relaciones Internacionales | doc |
 | `8AH8Y9` | Relaciones Internacionales | doc |
 | `2UAYY2` | Relaciones Internacionales | doc |
+| `3PPWQ5` | Relaciones Internacionales | doc |
 | `B32HHM` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |
 | `27YHVB` | Derecho Sua | doc |

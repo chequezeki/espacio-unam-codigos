@@ -520,23 +520,11 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `9MEAAP` | Administración | doc |
 | `VBDF4E` | Administración | doc |
 | `FFWLPX` | Administración | doc |
 | `HL67XM` | Administración | doc |
-| `2KBVYQ` | Administración | doc |
-| `YE83KR` | Administración | doc |
-| `779X24` | Administración | doc |
-| `F28GAL` | Administración | doc |
-| `8V5JU5` | Administración | doc |
-| `EQ6X25` | Administración | doc |
-| `9DT2GX` | Administración | doc |
-| `B4F5AD` | Administración | doc |
-| `4CYKPC` | Administración | doc |
-| `NWANYF` | Administración | doc |
-| `U8C9G3` | Administración | doc |
-| `CM8RT8` | Administración | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
+| `N54J7V` | Contaduría | doc |
 | `ZMY6X9` | Contaduría | doc |
 | `ZG27YE` | Contaduría | doc |
 | `HGGMCD` | Contaduría | doc |
@@ -616,6 +604,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `CF4UBR` | Derecho | doc |
 | `UU6VPQ` | Derecho | doc |
 | `UFELAH` | Derecho | doc |
 | `JQZR96` | Derecho | doc |
@@ -668,6 +657,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `TJBK73` | Psicología | doc |
 | `76P6V4` | Psicología | doc |
 | `8EJFYT` | Psicología | doc |
 | `BBVWWW` | Psicología | doc |

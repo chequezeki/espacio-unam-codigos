@@ -177,4 +177,4 @@
 | `2CPSVN` | Geografía Aplicada | doc |
 | `VMHDRH` | Sociología Aplicada | doc |
 | `F38M8G` | Desarrollo y Gestión Interculturales | doc |
-| `863K8P` | Ecología | doc |
+| `RGVNRQ` | Ecología | doc |

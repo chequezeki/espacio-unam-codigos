@@ -36,6 +36,7 @@
 | `6S9FH3` | DERECHO / Facultad de Derecho SUA / 2024 | doc |
 | `QK7GDH` | / | doc |
 | `6UQTGW` | derecho CU 2022 / Derecho CU 2022-2026 | doc |
+| `CF4UBR` | Derecho CU 2025 | doc |
 | `7Z9MNW` | DERECHO/FES ARAGON | doc |
 | `8GHZQ5` | / | doc |
 | `27YHVB` | Generación 2027 (nuevo ingreso) | doc |
