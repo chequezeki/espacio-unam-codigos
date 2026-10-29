@@ -3,6 +3,116 @@
 
 #### Códigos para platinar Espacio UNAM {#códigos-para-platinar-espacio-unam}
 
+[Códigos para platinar Espacio UNAM](#códigos-para-platinar-espacio-unam)
+
+[MEDALLAS SECRETAS](#medallas-secretas)
+
+[Pokemones que ya no existen, y/o cambiaron de nombre o aún no hay alumnos](#pokemones-que-ya-no-existen,-y/o-cambiaron-de-nombre-o-aún-no-hay-alumnos)
+
+[SEDES](#sedes)
+
+[\*Platinado especial\*](#*platinado-especial*)
+
+[CCH](#cch)
+
+[PREPAS](#prepas)
+
+[ENES](#enes)
+
+[ENES León](#enes-león)
+
+[ENES Juriquilla](#enes-juriquilla)
+
+[ENES Morelia](#enes-morelia)
+
+[ENES Oaxaca](#enes-oaxaca)
+
+[ENES Mérida](#enes-mérida)
+
+[FES](#fes)
+
+[FES Acatlán](#fes-acatlán)
+
+[FES Aragón](#fes-aragón)
+
+[FES Cuautitlán](#fes-cuautitlán)
+
+[FES Iztacala](#fes-iztacala)
+
+[FES Zaragoza](#fes-zaragoza)
+
+[Facultad de Ciencias](#facultad-de-ciencias)
+
+[Facultad de Ingeniería](#facultad-de-ingeniería)
+
+[Facultad de Arquitectura](#facultad-de-arquitectura)
+
+[Facultad de Medicina](#facultad-de-medicina)
+
+[Facultad de Medicina Veterinaria y Zootecnia](#facultad-de-medicina-veterinaria-y-zootecnia)
+
+[Facultad de Música](#facultad-de-música)
+
+[Facultad de Química](#facultad-de-química)
+
+[Facultad de Filosofía y Letras](#facultad-de-filosofía-y-letras)
+
+[Facultad de Ciencias Políticas y Sociales](#facultad-de-ciencias-políticas-y-sociales)
+
+[Facultad de Contaduría y Administración](#facultad-de-contaduría-y-administración)
+
+[Facultad de Artes y Diseño](#facultad-de-artes-y-diseño)
+
+[Facultad de Economía](#facultad-de-economía)
+
+[Facultad de Derecho](#facultad-de-derecho)
+
+[Facultad de Psicología](#facultad-de-psicología)
+
+[Facultad de Odontología](#facultad-de-odontología)
+
+[ESCUELAS NACIONALES Y OTRAS ENTIDADES](#escuelas-nacionales-y-otras-entidades)
+
+[Escuela Nacional de Ciencias de la Tierra](#escuela-nacional-de-ciencias-de-la-tierra)
+
+[Escuela Nacional de Ciencias Forenses](#escuela-nacional-de-ciencias-forenses)
+
+[IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas)](#iimas-\(instituto-de-investigaciones-en-matemáticas-aplicadas-y-en-sistemas\))
+
+[ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)](#enallt-\(escuela-nacional-de-lenguass,-lingüística-y-traducción\))
+
+[Centro de Física Aplicada y Avanzada (Juriquilla) \-PASENLOOOOOOO](#centro-de-física-aplicada-y-avanzada-\(juriquilla\)--pasenlooooooo)
+
+[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(morelia\)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta)
+
+[Instituto de Energías Renovables (Temixco)](#instituto-de-energías-renovables-\(temixco\))
+
+[Centro de  Genómicas (Cuernavaca)](#centro-de-genómicas-\(cuernavaca\))
+
+[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mérida)](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(mérida\))
+
+[APARTADO PARA EL LOGRO DE TOCAYO](#apartado-para-el-logro-de-tocayo)
+
+[APARTADO CASI FAMILIA](#apartado-casi-familia)
+
+[APARTADO A EL LOGRO DE PASTEL COMPARTIDO](#apartado-a-el-logro-de-pastel-compartido)
+
+[DISCLAIMER: Solo pongan el código en su mes, no pongan más datos por favor. Y separen igual con coma (CASI GEMELOS SE ENCUENTRA EN OTRA SECCIÓN ).](#disclaimer:-solo-pongan-el-código-en-su-mes,-no-pongan-más-datos-por-favor.-y-separen-igual-con-coma-\(casi-gemelos-se-encuentra-en-otra-sección-\).)
+
+[Apartado “Casi Gemelos”](#apartado-“casi-gemelos”)
+
+[APARTADO “CAZADORA DE MITOS”](#apartado-“cazadora-de-mitos”)
+
+[APARTADO A COMPA DE BANCA 🪑](#apartado-a-compa-de-banca-🪑)
+
+[•     •     •     •](#•-•-•-•)
+
+[Fotos para que completes tus sellos](#fotos-para-que-completes-tus-sellos)
+
+[Te va a aceptar foto de cualquier cosa siempre que la tomes en ese momento.](#te-va-a-aceptar-foto-de-cualquier-cosa-siempre-que-la-tomes-en-ese-momento.)
+
+####
+
 **Muchas gracias a toda la comunidad de la UNAM por cooperar en la creación de este documento, cada carrera es importante en la universidad y ustedes son importantes, ¡a seguir obteniendo los códigos\! \- Etmis**
 
 [**https\://docs.google.com/document/d/1o8UgQYTTjpBznUktuLK0WDKmX9nV4Ao2UIWs/edit?usp=sharing**](https://docs.google.com/document/d/1o8UgQYTTjpBznUktuLK0WDKmX9nV4Ao2UIWs1MJQ2-s/edit?usp=sharing)
@@ -176,7 +286,7 @@ Se obtiene al llegar a los 1500 lazos.
 **Bug Killer**
 Se obtiene al reportar un Bug.
 
-**OLAK4S3**
+**olakace**
 Para el de la llama 🦙
 
 **H3RM4N0**
@@ -703,19 +813,34 @@ Para Radio UNAM, que desde 1937 lleva la voz de la Universidad a todo el país. 
 
 **M1PR3C10S0**
 
-Para quienes quieren todas las medallas secretas y las cuidan como un anillo: mi precioso. Idea de Rodrigo. Solo se gana con su código secreto OMG soy yo 😭😭 agregenme GNPVXS
+Para quienes quieren todas las medallas secretas y las cuidan como un anillo: mi precioso. Idea de Rodrigo. Solo se gana con su código secreto
 
 **F0M0PUMA**
 
-Empezaste a llenar tu Pasaporte porque todo mundo lo estaba llenando y no te lo ibas a perder. Idea de Rodrigo. Solo se gana con su código secreto. OMG soy yo 😭😭 agregenme GNPVXS
+Empezaste a llenar tu Pasaporte porque todo mundo lo estaba llenando y no te lo ibas a perder. Idea de Rodrigo. Solo se gana con su código secreto.
+
+**V4C4ESF3R4**
+
+Supongamos una vaca esférica en el vacío... El chiste clásico de Física, para quienes simplifican el problema hasta que sale. Idea de Metztli. Medalla secreta
 
 **C0NQU3S0**
 
+La pregunta más famosa de CCH azcapo. ¿Conqueso tus papas?
+
 **G4B1N1T0**
+Para Gabinito y los perritos de la Prepa 1 «Gabino Barreda». Idea de Giann Enriachetti y Marlen Nava. Serie «Mascotas de mi escuela». Medalla secreta.
+
+**N0SIST3MA**
+
+**C4NT3R4**
+
+Para La Cantera, donde se forman los Pumas. Idea de Ángela y Adrián. Medalla secreta.
 
 .
 
 ¿Alguien tiene el código de la de “Soñador”?
+
+¿Alguien tiene el código de la “startup"?
 
 ¿Alguien tiene la de “No hay sistema”? :( es **N0SIST3MA**
 
@@ -749,11 +874,11 @@ Estudios Sociales y Gestión Local  /ENES Morelia: **G5ZJ2S**
 
 Literatura Intercultural / ENES Morelia:
 
-Comunicación Gráfica **GKBNW8, ZGKH37**
+Comunicación Gráfica **GKBNW8**
 
 Música y tecnología artística: **5VSKLQ**
 
-Teatro y Actuación / CUT:  **DNX7NY** (La persona no dió su autorización para estar en este documento, pide que al menos la sigan en insta es majoopastelito) esa mamada jaja
+Teatro y Actuación / CUT:  **DNX7NY** (La persona no dió su autorización para estar en este documento, pide que al menos la sigan en insta es majoopastelito) esa mamada, x2 jaja
 
 Ingeniería Topográfica y geodesica\!\!\!: **8T2H42, ZGKH37**
 
@@ -771,6 +896,9 @@ Instituto de Energías Renovables (Temixco):
 ## **\*Platinado especial\***  {#*platinado-especial*}
 
 Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade brillo):
+
+Shiny
+Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con un aro tornasol, porque son más difíciles de conseguir.
 
 ## **CCH** {#cch}
 
@@ -818,15 +946,15 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Fisioterapia:**  ZGKH37
 
-**Odontología:**
+**Odontología:** ARWJMZ
 
 **Optometría:** Z7V2DL.
 
-**Administración Agropecuária:** ARWJMZ, ZGKH37,
+**Administración Agropecuária:** , ZGKH37,
 
-**Comunicación:** ZGKH37
+**Comunicación:**
 
-**Desarrollo territorial:** SYGFBM, ZGKH37
+**Desarrollo territorial: SYGFBM**, ZGKH37
 
 **Economía Industrial:** XT3Z2W , H8W2VQ
 
@@ -840,7 +968,7 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Etnomusicologia:** V32CE5, ZGKH37
 
-**Ingeniería Eléctrica y Electrónica:** GTTYS2**,** F783Q6, E5YKZ7, LKAE3D, 4THUMF, 8ZEKK9, V569QT
+**Ingeniería Eléctrica y Electrónica:** GTTYS2**,** F783Q6, 5, LKAE3D, 4THUMF, 8ZEKK9, V569QT
 
 **Ingeniería en Computación:** NQYJ5W**,** UDHBH3, V8VEEB, DUQTLH, VQ8HT4, GK234W, C77D4V, PKJWXH, 62MWGU, RXMWFZ, LTVR5B, U4S826, FS9FAU 8J76TG,
 
@@ -888,7 +1016,7 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 ### **ENES Morelia** {#enes-morelia}
 
-**Geociencias:** 2YCHDH, PMATBR, NQYJ5W
+**Geociencias:** 2YCHDH, PMATBR
 
 **Etnomusicología:** V32CE5, ZGKH37
 
@@ -938,7 +1066,7 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Ingeniería en Computación:**  YLA386
 
-**Biología:** Q2KLU8, ZGKH37
+**Biología:** Q2KLU8
 
 **Ciencias  ambientales:** 58ZH4F
 
@@ -972,7 +1100,7 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Comunicación:** 6CRCR2**,** Q2SZ3B, KBXVYT, UCHESZ, KMHUFX, BTV8F2, X8HHE5, DAYASH,
 
-**Derecho:** ACZ97F, 6PHCHQ, 7Z9MNW, ZZ6AE3, APSHVP, XEJ383, Q8294S, METDCV, CY5CX8, E92887
+**Derecho:** ACZ97F, 6PHCHQ, 7Z9MNW, ZZ6AE3, APSHVP, XEJ383, Q8294S, METDCV, CY5CX8, E92887, XHYP6B
 
 **Derecho sua:** MP7Y6M, 6S9FH3
 
@@ -980,24 +1108,24 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Relaciones Internacionales:** ZEWEKJ, JPLRZG, XV6KAN, EFJWGK, 78UUJ3, 78UUJ3,VD522A, AJ8KGJ
 
-**Relaciones Internacionales SUAYED:**  BASB5W
+**Relaciones Internacionales SUAYED:**  BASB5W, VD522A
 
 **Sociología:** 46Q2KK, 7UHFHJ, XT3Z2W, 88RTJY. SPN24H, WW36CR
 
 **Diseño Gráfico:**  BAK93R, HM8VPD, SJHBNY , NC53MT, Z9D3BT
 
-**Enseñanza de Inglés ‘como  Lengua Extranjera:** JE8MNE, ZGKH37
+**Enseñanza de Inglés ‘como  Lengua Extranjera:** JE8MNE,
 
 **Enseñanza de Aleman como Lengua Extranjera:** ELIMINADO (POR AHORA)
 
-**Enseñanza de Francés como Lengua Extranjera: ZGKH37**
+**Enseñanza de Francés como Lengua Extranjera:** TVPG8X
 
 **Enseñanza de Español como Lengua Extranjera:** G45DBK, T7EEMY, EDWUCZ, 4QQA2Z
 
 **Enseñanza de Italiano :**SXFJVK, ZGKH37
 **Enseñanza de Portugues:** ELIMINADO (POR AHORA)
 
-**Enseñanza de ingles:** WTUU9H, 3FWPDJ, GM2S6V, LGRZ65
+**Enseñanza de ingles:** , 3FWPDJ, GM2S6V, LGRZ65
 
 **Filosofía:** NZQBK9, ZGKH37
 
@@ -1015,11 +1143,11 @@ Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade bril
 
 **Diseño Industrial:** UWJK4T, KNFKMV, 325FC5, N6DMGP, HGZBWY, 6Z52ZA, SMNMJW
 
-**Derecho: 27YHVB,** TK24MU, SB3S58, 7NSF65, 8GHZQ5, AWLR5V
+**Derecho: 27YHVB,** TK24MU, SB3S58, 7NSF65, 8GHZQ5, AWLR5V, YY4XRF
 
 **Economía:** X87RX3, B6N39M, QV8YWM , 84HDNQ
 
-**Economía SUAyED:** , 4E5D5N, ZGKH37
+**Economía SUAyED:** , 4E5D5N
 
 **Ingeniería Civil:** BZJX2A, UEYKGM, GAVUGY, GR5YLN,  QLNMF5
 
@@ -1094,7 +1222,7 @@ Medicina: **AY2E6M**, **P7PAUD**, **4YDJ8D, 8VA22G, Y6352H**
 
 Ecología : **YU7DW5, ZGKH37**
 
-Biología: **Q2KLU8, A28B7B, 49ACHB**, **RMNQ7T**, **YU7DW5**, **5WZDUP**, **GSWGUF**, **JHZYCT**, **BH4AAA, VSVE5R, EL5ESZ, WCSRV9, Q2KLU8, JHZYCT**, **34EDFF, CJ4TXS,**
+Biología: **Q2KLU8, A28B7B, 49ACHB**, **RMNQ7T**, **YU7DW5**, **5WZDUP**, **GSWGUF**, **JHZYCT**, **BH4AAA, VSVE5R, EL5ESZ, WCSRV9, Q2KLU8, JHZYCT**, **34EDFF, CJ4TXS, E7MD3K**
 
 Enfermería: RAUM9Z,  **X7BTUA,  HXYHZQ**
 
@@ -1110,7 +1238,7 @@ Psicología SUAyED: **HZ6A9Z**, **5WHRX6, BYF2UV,**  **A6KFLN, FKWYFZ**, **MDTK4
 
 ### ***FES Zaragoza*** {#fes-zaragoza}
 
-Biología: KWAFZM, **UGVEHD, NZS26K, ATFDWR, UZK9Z4, X74JDR**
+Biología: KWAFZM, **, NZS26K, ATFDWR, UZK9Z4, X74JDR**
 
 Médico Cirujano: **ZWLYNY**, **K7HSZT**, **7WBMZG**, **Z5B27L, 665H4N, JUPMS4, T8VYDC, BELPYW, Y9DWP5, WHRPQ7, 56XQJ8**
 
@@ -1120,7 +1248,7 @@ Desarrollo Comunitario para el Envejecimiento: **54TU4U, 6R89TY, T7EPF6**
 
 Enfermería: **EUSGCL , EBY6TR**
 
-Enfermería y Obstetricia**: G5GKTE , ZGKH37**
+Enfermería y Obstetricia**: G5GKTE**
 
 Ingeniería Química: **4BJ4EV, S5G28G, ZUAMAT, FL5998, FADDM5, 9SXR95, 742NB2, AC6R6Z**
 
@@ -1140,7 +1268,7 @@ Biología: **G4HDC9**, **VUMWSG, 4SPRWY, C77D29, Q2KLU8, 6G9NY5, ATAT6C,5H874P, 
 
  Ciencias de la Computación: AKASBM, **C5WC8U YBCTES, NEARSC, VFYFQQ, T9L84A, CS6WBV, DBFAJH, NWG754, QFJ94L, EGJGMB**
 
-Ciencias de la Tierra: **5C9MQ9, D6ZCHZ,**
+Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS): **5C9MQ9, D6ZCHZ, 7GW9UE**
 
 Física: **5WL3J2, JZC46F, NYSCU3**, **3BQQCQ,367Y2Q**
 
@@ -1168,7 +1296,7 @@ Ingeniería Civil: **ZT5TXN, UQQGXT**, **99T3U8**, **USVWAX**, **KE6HNZ, K3DVAH*
 
 Ingeniería en Minas y Metalurgia:**, TZ7S35, 4VP5BY , R6YX47**
 
-Ingeniería Eléctrica y Electrónica: **F783Q6, DWWWCX, V569QT, WEP2HC**
+Ingeniería Eléctrica y Electrónica: **F783Q6, DWWWCX, V569QT, WEP2HC, 3GML34**
 
 Ingeniería en Computación: **9ZULZT** **V3HNZA**, **TFX6ZG**, **5EFYQV**, **7HE78F**, **T2UL6E , JN42QP, QXN8JQ, ZH8RDP, BPGFSP, ELUYC2, 95Y7HN, EGJGMB, 7Y4N48**
 
@@ -1198,7 +1326,7 @@ Ingeniería Petrolera: **T8N7E2**, **H5G2EY,** **DSN67E, CGEFS2, 55VVA9**
 
 ### ***Facultad de Arquitectura*** {#facultad-de-arquitectura}
 
-Arquitectura:  **UQDRBZ** , **37RXPE** ,  **TAD88R Z2PFT2, 6PL54P, S4S24L, 4T9W9R, TAD88R, Y7J263, FDDWLX, 7FDNDL, 5SYS4J, X4BZBK, J8S4ZS, HAAYEY, 634MZ6**
+Arquitectura:  **Z2PFT2, 6PL54P, S4S24L, 4T9W9R, TAD88R, Y7J263, FDDWLX, 7FDNDL, 5SYS4J, X4BZBK, J8S4ZS, HAAYEY, 634MZ6,**  **UQDRBZ** , **37RXPE** ,  **TAD88R**
 
 Arquitectura de Paisaje: **4PXEED, 96EUFJ,  27NGUN, UJP93G, 2ZFWAV, VQT3ZX, 4L8E8B, ESETLJ**
 
@@ -1210,13 +1338,13 @@ Urbanismo: **8ZYAK5**, **S6FD5B, 5YLFA4, WZ6CAL,,**
 
 ### ***Facultad de Medicina*** {#facultad-de-medicina}
 
-Ciencia de la Nutrición Humana: **KB2U7B, ZGKH37 \<- este wey anda dejando su código en todos lados, no es de esta carrera**
+Ciencia de la Nutrición Humana: **KB2U7B**
 
 Fisioterapia: **LRYEUK, 3TGEAC, H388MB, G9HCLW**
 
 Investigación Biomédica Básica:  **YB7DRB, QKQC8H, S7H7BF**
 
-Médico Cirujano:**KVJNQD** **NU9ED2, NN2BAN, HXNPTW, 8VA22G, 8B7XR6, H97KQ2, XB4HM4, Z5B27L, UL6QXT, J4QES4, ZV7JT3, 6NFGQN,VVG2NM, 8YFL8T, FHTEF8, DBY6Z4  NMMG83, 8RYZLX DH5LMV, ZWB5GG, BVX339, SHYLDR, GNPVXS, AX92JQ, GTMTH9, HLTR92, BTJWYA, 37SGX9**
+Médico Cirujano:**KVJNQD** **NU9ED2, NN2BAN, HXNPTW, 8VA22G, 8B7XR6, H97KQ2, XB4HM4, Z5B27L, UL6QXT, J4QES4, ZV7JT3, 6NFGQN,VVG2NM, 8YFL8T, FHTEF8, DBY6Z4  NMMG83, 8RYZLX DH5LMV, ZWB5GG, BVX339, SHYLDR, GNPVXS, AX92JQ, GTMTH9, HLTR92, BTJWYA, 37SGX9, S6YQL2**
 
 Neuro: **S6K38H**, **U7FQVT,** CSSVLE
 
@@ -1272,7 +1400,7 @@ Trabajo Social: **3PXTU2,** **DNLR3P**, **VTPBQ4**, **V**, **H5MYK4**, **UGW46F,
 
 Trabajo Social SUAyED: **FYZLQT, D58HBT, X4XHYB, V8NSTH, 2AVJJ6**
 
-Estudios sociales y gestión local: **G5ZJ2S, ZGKH37**
+Estudios sociales y gestión local: **G5ZJ2S**
 
 ###
 
@@ -1320,11 +1448,11 @@ Historia del arte**: SYCLSN**
 
 Antropología: **TWC27T**, **C3EXMD, P79ZDH, 8MT3SY, ARA68T, FFHFFF, MGHG7B**
 
-Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, **Z85GPC** , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPN${}$KGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, R9DENV, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS**
+Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, **Z85GPC** , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, R9DENV, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS**
 
 Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR, JHCABD, YK4BPW, V7QEMW, PGPXPL**
 
-Relaciones Internacionales **6DULNS**,  **NK254K, S7HWRK, E8S6NE, ADBZNZ, DSWH9X, 2FB5UB, JYEF89, QAN9U2, VD522A**
+Relaciones Internacionales **6DULNS**,  **NK254K, S7HWRK, E8S6NE, ADBZNZ, DSWH9X, 2FB5UB, JYEF89, QAN9U2, VD522A(sua)**
 
 Sociología: **BJ4SN6, S5Y4U2, SPN24H, UH9C9E, UJZHQQ,2Q2JR9 , 78WFBX**
 
@@ -1336,10 +1464,10 @@ Ciencias de la Comunicación (SUAyED): **75CQF3, VFL56D, BHJJJA, DFTXBL, BFFU5Q,
 
 ### ***Facultad de Contaduría y Administración*** {#facultad-de-contaduría-y-administración}
 
-Administración: **VBDF4E, FFWLPX, HL67XM**
+Administración: **9ZP2AZ, VBDF4E, FFWLPX, HL67XM**
 **Administración SUAYED a distancia: UVJ83P**
 
-Contaduría:4TB6ZC, N54J7V, **ZMY6X9**, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, **LH9W8W**
+Contaduría: 3C5MX2, 4TB6ZC, N54J7V, **ZMY6X9**, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, **LH9W8W**
 
 Informática: **2AAE5B**,CDPCQC, H3WUX3
 
@@ -1347,7 +1475,7 @@ Negocios Internacionales**: KGTXD3 , 9RE3VP**
 
 ### ***Facultad de Artes y Diseño*** {#facultad-de-artes-y-diseño}
 
-Arte y Diseño:  **NPCGN7, ZGKH37 \<- este no es**
+Arte y Diseño:  **NPCGN7**
 
 Artes Visuales: **W3FLD6**, **SZEXJ3, ZEX4TV, ZASTKX, L8GE4V, W3ZPUK, RANETR**
 
@@ -1365,7 +1493,7 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **CF4UBR, UU6VPQ, 5NT3GR**, **UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, , PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, ,  QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N**
+Derecho: **CF4UBR, UU6VPQ, MFCF6H, 5NT3GR**, **UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, , PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, ,  QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW**
 
 Derecho SUAYED: **RVT6RY,, , 47BH5C, MJLUUU, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3,**
 
@@ -1377,7 +1505,7 @@ Psicología SUA: **EMR2XF, U37TKR UMZHHH, , 82H488, SUHQ7N, 2G5REG, LVD3EW**
 
 ### ***Facultad de Odontología*** {#facultad-de-odontología}
 
-Cirujano Dentista: **KJ6ZGE**,**, QQN4JVYSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ**
+Cirujano Dentista: **KJ6ZGE**,**, QQN4JVYSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, GL8ETS**
 
 Odontologia: **C73DE3, 9R45UR**
 
@@ -1391,7 +1519,7 @@ Odontologia: **C73DE3, 9R45UR**
 
 ### ***Escuela Nacional de Ciencias de la Tierra*** {#escuela-nacional-de-ciencias-de-la-tierra}
 
-Ciencia de la Tierra: **v, ZGPKFJ, ZGKH37, 7GW9UE**
+Ciencia de la Tierra: **v, ZGPKFJ, 7GW9UE**
 
 Geografía Aplicada: **QWC8VS, WNU5V3, FZCENF, 8R5W24**
 
@@ -1465,7 +1593,7 @@ Desarrollo y gestión interculturales:
 | **C** |
 | BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** FNXSDNNEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  |
 | **D** |
-| VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** CBMN94, XRE63S, VEXQQZ, ESZSG5, 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9 \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V \- **Dulce** |
+| VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** CBMN94, XRE63S, VEXQQZ, ESZSG5, 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9 \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V, YY4XRF- **Dulce** |
 | **E** |
 | 7XMBB9, DH5LMV **\- Eder** HR5TVK, C4S5F9 \- **Edgar** VPDHVT \- **Edgardo** Q3Q9LU**\- Edahi** 9MS2MK \- **Edmundo** 48WMEU, MJLUUU \- **Edna** 5WL3J2, H6ET8G, HLTR92 \- **Eduardo** DVX6Y3 \- **Edwin** E44DJW, RRB4ZF \- **Efrén** J4C52P \- **Eibraham** 7XMBB9 \- **Eithan**  UTNDXQ \- **Elena** PXH6BE \- **Elí** 7C33QL \- **Eliam**
 XEYR24 \- **Elian** AARUZQ-**Elías**
@@ -1482,7 +1610,7 @@ L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | **I** |
 | CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel**  |
 | **J** |
-| FA7FL7, MG9MBE, VQT3ZX \- **Jacqueline**  BPY827 **\- Jaqueline** ZAZBK8 \- **Jade** 6S9FH3 \- **Jael** BXAMZP, QERZ9Y \- **Jair** G5VSUZ \- **Janet** BV6XE8 \- **Janette** ASFT6Z **\- Jared** XCDN8J \- **Jasiel** 3AHQQ8 \- **Jatziri** 9JUXJP 8CYDV9 \- **Javier** V7QEMW, VD522A \- **Jazmin** 89G6U2 \- **Jean** BHJJJA \- **Jeison** 4WKRNM \- **Jenifer** ZV7JT3, BELPYW \- **Jennifer** G9HCLW- **Jenny GSWGUF, KRYNU4- Jeremy** ZHSJL4 \- **Jesica** 8YFL8T, YYSEV5 \- **Jessica 4DTUW6 \- Jesua** XH2446 \- **Jeshua**  LCGMTK, WKT9XN, UFEUD2 \- **Jesús** ZEDTNW, ZQRPGW \- **Jimena** ATVRUU \- **Joan** VZ4TY9 \- **Joana** 7U3R9D \- **Joanna** T9UJMP \- **Joaquín**  U9ZV92 \- **Job**  J5HYY2 \- **Jocelyn** CU6X4E, BP4BSQ \- **Joel** MMTHB4, H4LK2K \- **Johan**  ASGK4F \- **Johanna**  V4LUEE \- **Johenna** MKH4HC, 4NGH85, QXVWPA \- **Jonatan** 8T9YUR \- **Jonathan JUDSPC- Jhonathan (sí, con dos h)** X3TE7F, BK3FVG \- **Jorge** D8VY2V \- **Josceline** JNUXUA, ZE3R39, X4BZBK, RKUDH3, K7AFKF, JN42QP \- **José**  74KTUS \- **Joselyn** KRN9CS, LKAE3D \- **Josh tuua** 8QFQER **Joshua** G2SQMG \- **Josué** FL5998 \- **Jothan** HQX32E \- **Jovany** MJLUUU, H3DW2S, B54D8Z \-B63GTY **Juan** R9DENV, CSZCKD \- **Judith** SSGL8J, M3SNLV \- **Julia** QE4UEL, 99YS7A \- **Julian**  9DT7WG \- **Juliana** UN34WK \- **Julieta** CA469K \- **Julio** |
+| FA7FL7, MG9MBE, VQT3ZX \- **Jacqueline**  BPY827 **\- Jaqueline** ZAZBK8 \- **Jade** 6S9FH3 \- **Jael** BXAMZP, QERZ9Y \- **Jair** G5VSUZ \- **Janet** BV6XE8 \- **Janette** ASFT6Z **\- Jared** XCDN8J \- **Jasiel** 3AHQQ8 \- **Jatziri** 9JUXJP 8CYDV9 \- **Javier** V7QEMW, VD522A \- **Jazmin** 89G6U2 \- **Jean** BHJJJA \- **Jeison** 4WKRNM \- **Jenifer** ZV7JT3, BELPYW \- **Jennifer** G9HCLW- **Jenny GSWGUF, KRYNU4- Jeremy** ZHSJL4 \- **Jesica** 8YFL8T, YYSEV5 \- **Jessica 4DTUW6 \- Jesua** XH2446 \- **Jeshua**  LCGMTK, WKT9XN, UFEUD2 \- **Jesús** ZEDTNW, ZQRPGW \- **Jimena** ATVRUU \- **Joan** VZ4TY9 \- **Joana** 7U3R9D \- **Joanna** T9UJMP \- **Joaquín**  U9ZV92 \- **Job**  J5HYY2 \- **Jocelyn** CU6X4E, BP4BSQ \- **Joel** MMTHB4, H4LK2K \- **Johan**  ASGK4F \- **Johanna**  V4LUEE \- **Johenna** MKH4HC, 4NGH85, QXVWPA \- **Jonatan** 8T9YUR \- **Jonathan JUDSPC- Jhonathan (sí, con dos h)** X3TE7F, BK3FVG \- **Jorge** D8VY2V \- **Josceline** JNUXUA, ZE3R39, X4BZBK, RKUDH3, K7AFKF, JN42QP \- **José**  74KTUS \- **Joselyn** KRN9CS, LKAE3D \- **Josh tuua** 8QFQER **Joshua** G2SQMG \- **Josué** FL5998 \- **Jothan** HQX32E \- **Jovany** MJLUUU, H3DW2S, B54D8Z \-B63GTY **Juan** R9DENV, CSZCKD \- **Judith** SSGL8J, M3SNLV \- **Julia** QE4UEL, 99YS7A \- **Julian**  9DT7WG \- **Juliana** UN34WK \- **Julieta 7GW9UE \- Julieta** CA469K \- **Julio** |
 | **K** |
 | C4CR5W \- **Kai** S6FD5B, VV4X6H, 79LV2Z \- **Karen** V8NSTH \- **Karina** BE5FU9, PYDJVG, VQW8C2, QXN8JQ, 4GVFW , FFWLPX, 8EJFYT,GTMTH9, CEB2F7, YTGL83, 2KC976 \- **Karla** DL95TY \- **Karlo** ZLK3YB \- **Karol**  J4MQAK- **Katerine**  CF4UBR, DAWV3T \- **Katherine** JPLRZG \- **Katerinee**  XAYS2Y \- **Kathya** WMRUKV \- **Katia**  XB4HM4,  E92887 \- **Katya** 8DVDZC \- **Kenai**  7XRR7D \- **Kelly** JV4M3U, FNEAB4, JLCAW9 \- **Kevin**  FB5CLB \- **Kimberly** ZR8YJF \- **Kim** 24K8R8 \- **Kitzia** HVZSUK \- **Kevin 8GHZQ5 \- Karime AUB6XJ \- Kendra**  |
 | **L** |
@@ -1617,7 +1745,7 @@ UU6VPQ \- Barrena
 
 M2P8C9 \-    Barrera
 
-UGW46F \- Barrientos
+UGW46F , QH7ZMB \- Barrientos
 T9UJMP \- Barriga
 UEW98C \- Barrios
 V8NHYS  \-  Barron
@@ -1897,7 +2025,7 @@ XJ65S3- LEZAMA
 EF38ST, BFFU5Q \- Lira
 3EMQCQ \- Lizardi
 62CSXD  \-  Longino
-5WL3J2, 62MWGU, G24KEY, MXA4B9, HPGXDE, BHXKZL, NWANYF,ER4UV5, CY6ATS \- López
+5WL3J2, 62MWGU, G24KEY, MXA4B9, HPGXDE, BHXKZL, NWANYF,ER4UV5, CY6ATS, 3C5MX2 \- López
 8GHZQ5 \- Lopez (sin acento)
 H6ET8G, T5ARSK  \-  Lozano
 MTB58U \- Luciano
@@ -2108,7 +2236,7 @@ LBK24D \- Roa
 24NPWG \- Robles
 EKYJFX \- Robelo
 METDCV \- Ronquillo
-74KTUS, 27XX4P, 5KQ9YZ, L92K5P, 3C9YXF, PXH6BE, KBH4QN \- Rodríguez
+74KTUS, 27XX4P, 5KQ9YZ, L92K5P, 3C9YXF, PXH6BE, KBH4QN, YY4XRF  \- Rodríguez
 QXN8JQ, FZTJCT, KMKJZT  \-  Rojas
 4QSM4X, M2A9L3  \-  Romero
 38N5MF  \-  Roque
@@ -2133,7 +2261,7 @@ BE5FU9 \- Sanabria
 JUBN3N, R4GH96, ETW2ZZ, FL5998, SQMUC6, HDYHEQ, DBY6Z4 \-  Sánchez
 8ERZAR \- Sandoval
 N3MF6K \- Santana
-9RDDKY  \-  Santiago
+9RDDKY, 7GW9UE \-  Santiago
 AR9SK7 \- Santillán
 E6FYLQ  \-  Santos
 H9L5AJ \- Santoyo
@@ -2266,7 +2394,7 @@ SSD55C \- Zunun
 
 ## **DISCLAIMER:** Solo pongan el código en su mes, no pongan más datos por favor. Y separen igual con coma **(CASI GEMELOS SE ENCUENTRA EN OTRA SECCIÓN ).** {#disclaimer:-solo-pongan-el-código-en-su-mes,-no-pongan-más-datos-por-favor.-y-separen-igual-con-coma-(casi-gemelos-se-encuentra-en-otra-sección-).}
 
-| ENERO G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL |
+| ENERO G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF |
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR |
 | **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3  |
@@ -2276,9 +2404,9 @@ SSD55C \- Zunun
 | **JULIO** KVJNQD, H6U52K, JUBN3N, HGGMCD, E92887 ,DFTXBL,ZZ6AE3, JUBN3N,99MYX7, VFYFQQ, YE83KR, FDR434, 5KX44U, DS7SU5, 3TGEAC, A28B7B, SYGFBM, 6DXUFC, 47X28G, KQTXQ3,BP23LR, Y6JME9, ZEDTNW, GC6HKG, KBCGJE, NBDGLB, X4XHYB, TNHMSN, M28V7D, E7MD3K, QW57KK, JQEG3U, V7QEMW, G8ZWJ9, V8NSTH, 8CYDV9, XTEKTV, 4G7JK7, WFK9M9, JQEG3U, XTEKTV, N7RKPL, QW57KK, C2E6DR, FUEQZD, SKNEPP, 5KDYK6, Z7V2DL, 95Y7HN |
 | **AGOSTO** FBTPB7, M8PN5M**,** TP7G2U, BLL2CA , 374S23, 96DD2T, M33DPN, 4TG2S7, S5G28G, E22JQT, 8Y89R9, CSYUZN, KNFKMV, EX43MU AK6ZWR, D5GYZY, YURFCE, ZVD8Z4, 8N24Z3 , KNWN28, N3MF6K, S4S24L, V6ZKQ8, PZBGYV, 4THUMF, AC6R6Z, FTJ9YB, TUBLX3, 3C9YXF, 7HQ8FR, 76J4U9, PGPXPL, P94HEN, TVGL8J, 7Q64Z9, M8PN5M, DZ239X, QC4WVW, ZT76GT, U9FRDX, XJE3HZ, SPMU3V, M7B54S |
 | **SEPTIEMBRE** HZ6A9Z, RZ6XRU**,** GLWNDS, BYF2UV, X87RX3, RUR545, 9MVBUH, BVWBB6, USVWAX, FMBLNQ, FL5998, LEH2JS', JPLRZG, U44QDA, DUP9YP, HMZ3AD, UUN8K5, UH9C9E. QMDEAM, YK9XG3, 82H488,9RE3VP, Z7BAJP, 74MYW8, X4BZBK, W3AQ9D, HERGCA, CRWXDZ, CXZGG6, CBHD9N, BK3FVG, NKMK4D**,** 6LV4PL, WPWR7B, ZTQ9QP, EGRGG2, UAW9AA |
-| **OCTUBRE** VNMPZ9, ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W |
+| **OCTUBRE** VNMPZ9, ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W, 7GW9UE |
 | **NOVIEMBRE** 2K9FK5, CBU3CE, JL85MQ**,** C77D29**,**, VPRKQA**,** 74KTUS, 6WM8QZ, , K4P832, F698MD, QY3VQ9, NEKJCK, FHQXMQ, 9RDDKY, W3FLD6, VZ36RJ, 2M56EN, W8LHZL, HFAAS9, UN34WK, RWSHM3, 33DBC2, UMZHHH, L3CJV6, 4CYKPC, PW5KSH, CY6ATS , CJXGS2, ALKPT3, GTMTH9, K7AFKF, Y2SM92, NQPMGB, 6DT6SY, CJXGS2, HC2CCM, UJ4PZC, M3XBS3, 8JH9PL, VG39JT, 6MURMS, 3EADS3 |
-| **DICIEMBRE** NQYJ5W,Y6352H,UU6VPQ, XJWH5V, MNM229,T9UJMP, P8E4PW, TAZL6P, MGQ845,  9DT7WG, VU4EAW, M8MRDM, RMNQ7T, QR4PLZ, 27YHVB, MP7Y6M, ZWLYNY, 4CDW4N, 9TSJ9S, RWKVVL, JCDSEA, MHLNQF,NWG754, QGLTRC, EE55CC,B3FPGG, ACZ97F, 4VP5BY, M7PS49, XLWSAA, F5Z27H, 39GFZJ, 9HHDZS ALVDTP, DRVR87, BPY827, KB5FFD, HLTR92, DRVR87,BTJWYA, GSWGUF, SQVJ7P, KEPNNC, PQX8FT, DRVR87, ZWLYNY, ZT5TXN, 79LV2Z, ACZ97F, YGTGPZ, G9HCLW, W25A2E, QAN9U2, 634MZ6, LHPSC9 |
+| **DICIEMBRE** NQYJ5W,Y6352H,UU6VPQ, XJWH5V, MNM229,T9UJMP, P8E4PW, TAZL6P, MGQ845,  9DT7WG, VU4EAW, M8MRDM, RMNQ7T, QR4PLZ, 27YHVB, MP7Y6M, ZWLYNY, 4CDW4N, 9TSJ9S, RWKVVL, JCDSEA, MHLNQF,NWG754, QGLTRC, EE55CC,B3FPGG, ACZ97F, 4VP5BY, M7PS49, XLWSAA, F5Z27H, 39GFZJ, 9HHDZS ALVDTP, DRVR87, BPY827, KB5FFD, HLTR92, DRVR87,BTJWYA, GSWGUF, SQVJ7P, KEPNNC, PQX8FT, DRVR87, ZWLYNY, ZT5TXN, 79LV2Z, ACZ97F, YGTGPZ, G9HCLW, W25A2E, QAN9U2, 634MZ6, LHPSC9, 3C5MX2 |
 
 K334YB
 
@@ -2387,7 +2515,7 @@ K334YB
 ***23***  EMXTCA
 ***24***    **HE4X2K, GTTYS2, 8R5W24**
 ***25\.    3YCYBM***
-***26***    **KLVKPA**
+***26***    **KLVKPA, VLM6JA**
 ***27***
 ***28***
 ***29***    **F3WH5B**
@@ -2603,7 +2731,7 @@ K334YB
 ***17 6LV4PL***
 ***18 BBUZSK***
 ***19***   **LH4MD7**
-***20*** **LADR7U, UAW9AA**
+***20*** **LADR7U, UAW9AA, KKYHAT**
 ***21 HZ6A9Z***
 ***22 Z8V7GJ***
 ***23 82H488***
@@ -2615,7 +2743,7 @@ K334YB
 ***29${}$*****Z7BAJP**
 ***30 X5NADC***
 **Octubre**
-***1***
+***1 7GW9UE***
 ***2***
 ***3 XUY2U6***
 ***4***
@@ -2629,7 +2757,7 @@ K334YB
 ***12 JNFJKW***
 ***13 MUME6D,*** SDPBTV
 ***14 YE9YNV***
-***15 KXQAX2***
+***15*** **TVPG8X**
 ***16 BP4BSQ***
 ***17 4XAJYP***
 ***18 92B2W3***
@@ -2640,10 +2768,10 @@ K334YB
 ***23 FFWLPX***
 ***24 UU7ANV***
 ***25***
-***26***
+***26 MFCF6H***
 ***27 GHSX27,*** **P7PAUD**
 ***28 PYR8SK***
-***29 EZLREM***
+***29 YDQP49***
 ***30 XFX8U7***
 ***31 HUA7PR***
 **Noviembre**
@@ -2719,6 +2847,8 @@ V6ZKQ8
 ##  **APARTADO A COMPA DE BANCA 🪑** {#apartado-a-compa-de-banca-🪑}
 
 **Misma carrera, mismo plantel, misma generación: han sufrido los mismos exámenes.**
+
+**Ciencias de la Tierra ENCiT / gen 2025: 7GW9UE**
 
 **Geografía aplicada ENCIT:**
 
@@ -2937,7 +3067,7 @@ RELACIONES INTERNACIONALES. FCPYS. : VD522A
 
 2023: 9ZP2AZ
 
-2022:
+2022: VLM6JA
 
 2021:
 
@@ -3031,14 +3161,9 @@ Gracias al admin por tener confianza en la comunidad, los tqm y confíen que ya 
 
 Que se aparezcan los de música y teatro🫰 (alch si) mejor salen los de las enes que esos xd (ya nadie quiere ser un puchamon musical :( ) YA LLEGUE
 Escuchense JAMIE PAIGE 🗣️🗣️🗣️
- **Viva Maluma, viva sanntiagod, viva iza tkm, viva Latin Mafia \<- mejor mrd amiga**
 Quien para unos tacos al pastor **yooo**
 Regresaaaa Abril, regresaaaa\!🗣️🗣️🗣️
 Te extraño Mia Alexa Aguilar Esparza de fes Aragón, ingeniería industrial, regresa 😔😫la voy a ir a buscar w, estoy cerca de industrial
-Te amo Fato Feliz, por ti sigo en la carrera UFFFFFF. 😍💋
-Vuelve Iwi Awa :((((
-Eres el amor de mi vida Sofia Medrano de FESC, núnca me dejes 😭🙏🏼
-regresa rosa te extraño mucho
 Regresaaaa Aurora, regresaa 😔
 Te extraño un chingo Yuyu, regresa por favor  😭😭😭
 Extraño a Alanis de economía en je CU, si la ven diganle que es perfecta
@@ -3127,9 +3252,6 @@ Etmis, no sé si te llegó mi correo, el problema de las versiones se puede reso
 
 **Secundario:**
 
-Hagan un grupo pa andar platicando o algo
-para que me  ayuden con unas reseñas, se podra?? porfaa
-
 [[enlace de WhatsApp omitido]
 
 Ahí está 😮‍💨
@@ -3141,37 +3263,39 @@ chupamela
 
 # **No borren ni sustituyan los códigos, cada quien haga su propio anuncio nmmn, si quieren usen uno de base y copien el texto. NO HAGAN SPAM DE UN SOLO CÓDIGO O HARÁN QUE NO SE PUEDA EDITAR EL DOCUMENTO OTRA VEZ (ya pasó 2 veces y no quieren una tercera).**
 
-Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia. También de Bachillerato a Distancia. Agréguenme porfa: 6WSK45
+**Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia. También de Bachillerato a Distancia. Agréguenme porfa: 6WSK45**
 
-Hola Compañeros de Bachillerato a Distancia e Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia), ¿Podrían agregarme por favor? Graciaaas \<3
-4C7WHL
-AGREGAME POR FAVOR BACHILLERATO A DISTANCIA
- ZGKH37
+**Hola Compañeros de Bachillerato a Distancia e Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia), ¿Podrían agregarme por favor? Graciaaas \<3**
+**4C7WHL**
+**AGREGAME POR FAVOR BACHILLERATO A DISTANCIA**
+ **ZGKH37**
 
-PORFAVOR AGREGAME BACHILLERATO A DISTANCIA  9ZULZT (aun no me agregan 28/10/26)
-**porfa agrengueme bachillerato en línea , porfissss\!\!\!\!**
-**634MZ6**
+**Porfi agregueme alguien de bachillerato a distancia, aún nadie :( 634MZ6   (29/10/2016)**
+
+**PORFAVOR AGREGAME BACHILLERATO A DISTANCIA  9ZULZT (aun no me agregan 28/10/26)**
+
+**E7MD3K**
 
 # **4JBFDU**
 
-Apiádate de nosotros bachillerato a distancia 🙏🏼 JUDSPC y U44QDA
-Agreguen porfa XC56EV
+**Apiádate de nosotros bachillerato a distancia 🙏🏼 JUDSPC y U44QDA**
+**Agreguen porfa XC56EV**
 
-Pasen código de Startup, Sistema Abierto y Bachillerato a Distancia pleaseee, soy ENES Oaxaca: VU4EAW
+**Pasen código de Startup, Sistema Abierto y Bachillerato a Distancia pleaseee, soy ENES Oaxaca: VU4EAW**
 
-Agreguen amigos de bachillerato en línea 😭
-BJLWBE
+**Agreguen amigos de bachillerato en línea 😭**
+**BJLWBE**
 
-Agréguenme bachillerato en línea plssss 😞😞 76P6V4
+**Agréguenme bachillerato en línea plssss 😞😞 76P6V4**
 
-Agreguen porfa 2KC976
+**Agreguen porfa 2KC976**
 
-Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla HGGMCD plis
+**Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla HGGMCD plis**
 
-Paro JW9PBR xfa
+**Paro JW9PBR xfa**
 **hola, agregame pls personitx de bachillerato a distancia ER4UV5**
 **🩷 agréguenme please por el amor de mymelody 5NT3GR**
-Por favor agregame compañerit@ de Bachillerato a Distancia  96DD2T
+**Por favor agregame compañerit@ de Bachillerato a Distancia  96DD2T**
 
 **Agreguenme bachillerato en línea por favor\!\! G9HCLW**
 
@@ -3194,8 +3318,8 @@ Por favor agregame compañerit@ de Bachillerato a Distancia  96DD2T
 
 **Amix de bachillerato en línea me agregan plz BBUZSK**
 **🙏🙏**
-agréguenme Bachillerato en línea paro 25/oct/26
-**5VFXAG,  SUAW4X, Z2PFT2**
+**agréguenme Bachillerato en línea paro 25/oct/26**
+**5VFXAG,  SUAW4X, Z2PFT2 TVPG8X**
 **Agrégame bachillerato en línea por favor**
 **EGJGMB**
 **Agrégame bachillerato en línea por favor**
@@ -3214,33 +3338,33 @@ agréguenme Bachillerato en línea paro 25/oct/26
 **Agrégame bachillerato en línea por favor 😔**
 **XEJ383**
 
-Agrégame bachillerato en línea por favor
+**Agrégame bachillerato en línea por favor**
 **33RUTW**
 
-QX65G6  Ciencias de la Comunicación
+**QX65G6  Ciencias de la Comunicación**
 
-FSZLZC
-YATFRA
+**FSZLZC**
+**YATFRA**
 **GVNBDS**
 **Porfis bachillerato en línea, agrégame**
 
-2KLXRX
+**2KLXRX**
 
 **Tiren paro porfa X4CUPQ y les regalo un pollo rostizado con una coca de 3 litros como no**
 
-H423V6
- tiren paro sech 🙏🏿🙏🏿🥹🥹
-ayuden a un chaval nicho
-ALVDTP
+**H423V6**
+ **tiren paro sech 🙏🏿🙏🏿🥹🥹**
+**ayuden a un chaval nicho**
+**ALVDTP**
 	**6VMRJF**
-oye tú, si tú… apiadate de mi compañerit@ y te irá de lo mejor en ésta fkin vida 🙏🏻
+**oye tú, si tú… apiadate de mi compañerit@ y te irá de lo mejor en ésta fkin vida 🙏🏻**
 
-Agreguenme los de bachillerato a distancia 😭: 9JUAP7
-Lo mismo que el de arriba ;( JMDE8U
-Lo de arriba: BH45YR
+**Agreguenme los de bachillerato a distancia 😭: 9JUAP7**
+**Lo mismo que el de arriba ;( JMDE8U**
+**Lo de arriba: BH45YR**
 
-Tiren paro 🗣️9VVQ6V
-persona de bachillerato a distancia plis agregame, solo me falta esa medalla (y la de fin de semana) HGGMCD plis acabo de agregarme 23/10/26
+**Tiren paro 🗣️9VVQ6V**
+**persona de bachillerato a distancia plis agregame, solo me falta esa medalla (y la de fin de semana) HGGMCD plis acabo de agregarme 23/10/26**
 
 **Por favor ayudaaaa, agregarme por favor compañeros de bachillerato a distancia, solo puedo ofrecer  una amistad de adevis (en verdad me considero buena amiga), les dejo mi código VUMWSG y mi correo: [danarotcejacobo@gmail.com](mailto:danarotcejacobo@gmail.com) 23/10/26 \<3**
 **7Y9LVV**
@@ -3264,564 +3388,337 @@ persona de bachillerato a distancia plis agregame, solo me falta esa medalla (y 
  **HL67XM  *\- AYUDA A ESTE JAJAJA:C***
 ***A mi también porfa 4NGH85***
 
- 		agreguenme pofavoooo, ATQRXX, Tecnología ENESJ, tqm 🙂
+ 		**agreguenme pofavoooo, ATQRXX, Tecnología ENESJ, tqm 🙂**
 **Por favor agreguenme, mi code es 9MSMMY 😔**
-
 **Agregue plis de bachillerato a distancia 😭**
-
 **LGM3NE**
-
 **SI ME AGREGAN LES DEPOSITO 10 PESOS, AYUDAAAAA ES LA UNICA QUE ME FALTA BACHILLERATO UNAM, MI CODE ES ZWB5GG**
-
-Que onda yo faltó para que me den mi medalla de bachillerato a distancia jeje 7PMBMA Les dejo mi código ahí muchas tenkius, cuando me la den quito anuncio
-
+**Que onda yo faltó para que me den mi medalla de bachillerato a distancia jeje 7PMBMA Les dejo mi código ahí muchas tenkius, cuando me la den quito anuncio**
 **Si eres de bachillerato a distancia porfa agregame 😔🫰🏻  YXLJ6H**
-
 ***Agrega bachillerato en línea porfa:*** **V8NHYS**
-
 **ALVDTP**
-**x2**  EUF8A3
-
-X3 DJUVN4
-X4 NGP3Q4
-
-X5  5DE3MV
-
-X6     **M7B54S**
-
-7L4ZRY
-
-x8 U4SXG7
-
+**x2  EUF8A3**
+**X3 DJUVN4**
+**X4 NGP3Q4**
+**X5  5DE3MV**
+**X6     M7B54S**
+**7L4ZRY**
+**x8 U4SXG7**
 **BBVWWW**
+**Encuentrenme los de bachillerato en Línea**
+**Y si tengo algún tocayo de apellido, soy Jácome 🥹**
+**AFV9RM  porfi ayuda**
 
-Encuentrenme los de bachillerato en Línea
+**SN6AHU por favoor**
 
-Y si tengo algún tocayo de apellido, soy Jácome 🥹
-
-**AFV9RM**  porfi ayuda
-
-SN6AHU por favoor
-
-A
-
+**A**
 **Posdata: les dejo otro código secreto T3NAZ7**
-
 ****
-
 **Ayudenme :(**
-
 **DJ7WBM**
-
 **7M3MNC agregen porfa y les doy un riko pollo 🍗**
-
 ***ACZ97F \- AYUDA A ESTE FORANEO GUERRERENSE JAJAJA:C***
-
 ***Cha no borren mi codigo X4CUPQ ahi les compro una torta cubana con un jarrito del sabor qué quieran***
 
 **Bachillerato en línea ayuden a esta pobre alma 🙏🙏 ELUYC2**
 
 **Agreguen porfas y les compro una pizza**
-
 ****
-
 ****
-
 **XMKRM8 agrega soy el edmin del grupo  de FB.💂**
-
 **AMIGOS DE BACHILLERATO AYUDEN A ESTA ALMA A CONSEGUIR SU ÚLTIMA PLS  VF68YX**
-
 **BYF2UV PORFAA BACHILLERATO A DISTANCIA :C**
-
 **MP7Y6M**
 **B2MWT8**
 
 **WHRPQ7 TIREEEN PAROOO BACHILLERATO A DISTANCIA**
-
 **Lo mismo que el compa de arriba UZBPSL  🍻**
-
 **Lo mismo que los de arriba 7232Q7 🙂**
-
 **Lo mismo que los de arriba MKH4HC xd**
-
 **Lo mismo pa: ALVDTP**
-
 **Tiren paro porfa X4CUPQ y les regalo un pollo rostizado con una coca de 3 litros como no**
 
 ****
-
 **:3 ya nadamas me faltan estos ♥️**
-
 **Bachillerato a distancia ayudame**
-
 **BVX339 alguien de bachillerato a distancia porfa ayúdenme 🙏🫂**
-
 **Bachillerato a distancia, agreguen\!\!\! 😭😭:**
-
 **RMAY9F**
-
 **Bachillerato a distancia, porfa agrégame  👌🏽 533L3Q**
-
  **NYSCU3 Agrégame Porfa RRB4ZF🥹**
-
 **Este es mi código bachillerato RRB4ZF**
-
 **Gente de *Bachillerato a distancia, CEPHCIS Mérida, IIES Morelia, Enseñanza de Italiano y Aleman como lengua extranjera, Ingeniería Topográfica y geodésica , Química Cosmética Industrial y Iniciación Univesitaria*:**
-
 ***Bachillerato a distancia ayudame RRB4ZF***
-
 **Añadanme porfa :c**
-
 ***Les regalo una paleta 🍭***
-
 **Agregenme  bachillerato a distancia;  🫶🏽 agregame 533L3Q**
-
 **Amiguit@ de  bachillerato a distancia; agregame X3DZYF 😭🙏**
-
 **agregame bachillerato a distancia por faaaaaa**
-
 **68JFRL , por favor 8 h 59 pm**
-
 **DH5LMV Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agr c:**
-
  **agregueeeeen :C**
 **Agreguen: H44364VDPLUPii**
-
 **VK486N,DJUVN4 BACHILLERATOO Y COSMETICA POR FIII**
-
 ***Agrega bachillerato en línea porfa:*** **V8NHYS**
-
 **Porfis amistad  de química cosmética agrégame:**
-
 **Busco de bachillerato a distancia please:**
-
 **VU4EAW**
-
 **Personita de Bachillerato a Distancia, agrégame por favor 𖹭**
 
 **QUIMICA COSMETICA INDUSTRIAL Y ESTUDIOS SOCIALES AGREGUENMEEEE**
 **\-\> XVETTP, TFX6ZG , ZAT8R9**
 
 **AGREGUEN:**
-
 **Bachillerato y CEPHCIS AGREGAA: QXYCDC**
-
 **Agrega bachillerato en línea porfa:    V8NHYS, ZAT8R9**
-
 **alguien de Bachillerato xfis usa mi código LC3Y4J, ZAT8R9, 9VVQ6V**
-
  **Amigos de CEPHCIS y Bachillerato a distancia pls**
-
 **Pueden agregarme 🙏🏼🥺  porfaaa**
-
 **VE5YLA agregarme chabales**
-
 **UZBPSL**
-
 **JQZR96**
-
 **2ZE44K porfavooooor**
-
 **999SY7 agregame por fis bachillerato\!\!\!\!**
-
 **SYULLG bachillerato a DISTANCIA PORFA AGREGA**
-
 **MTUVQH**
-
 **CHAVALES DE BACHILLERATO A DISTANCIA, AYUDAAAA\!\!: NEARSC. ZAT8R9**
-
 **Y4SECU agagreréame**
-
 **CTGSXN agregen porfa es la ultima que me falta 😭**
-
 **ZAT8R9. Agréguenme anenenen es mi adicción 😭😭😭😭😭😭😭😭**
-
 ***XH8ZZE porfa 🫂***
-
 **Agréguenme, yo no he puesto mi código en casi ningún grupo 😭 : PA5GMR**
-
  **Bachillerato, Cosme,CEPHSI y cualquier carrera  falte, ya agrégame porfa: U4S826**
-
 **MB8M3H porfavor compañeritos de cosmética y bachillerato 🙏**
-
 **MEB379 por faaaa Cirujano Dentino**
-
 **Bachilleratoooo agregaaaaa: DL7ZKB**
 **BQMXZT, DJUVN4**
-
 **AGREGAME POR FA U4SC6Q (soy de odonto, te hago una resina gratis)**
-
 **Agreguenme bachillerato: MMTHB4**
-
 **Me podrían agregar a estos plis 🙏🏻CEPHCIS Merida e Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia. También  de Bachillerato a Distancia, Estudios Sociales y Gestión Local, Ingeniería Agrícola, Ingeniería Topográfica y Geodésica, Química Cosmética Industrial, comunicación gráfica e Iniciación universitaria. KGJJJN**
-
 **como q 215, si llevo menos y ninguna de esas salen aca :(**
-
 **Nnmn, Los de bachillerato a distancia sí existen, pero ellos te encuentran; apenas la conseguí, pero no sé ni cómo.**
-
 **Bachillerato a distancia por fa agregame 7TCTV3 7TCTV3**
-
 **JQZR96**
-
 **Alguien de bachillerato agregue :c:  LAUR4G**
-
 **Carreras de Enseñanzas, Comunicación Gráfica, Ciencias Agroforestales e Ingeniera Topográfica y Geodésica agréguenme chicos, X3DZYFl**
-
 **Buscan**
-
 **agregame bachillerato a distancia por faaaaaa YATFRA**
-
 **agreguen bachillerato: 5T9VMQ**
 
 **agregenme Bachillerato a distancia soy (EUZWSM)**
-
 **Agregenme no sean malos :( Q78WJ7**
-
 **Agreguen porfi QAN9U2**
-
 **Agreguen bacho a distancia PMXRXP**
-
 **Alguien de bachillerato a  distancia,  QW57KK**
-
 **agreguen bachillerato a distancia xfavor C32MAZ  xfavor y gracias**
-
 **533L3Q**
-
 **Añadenme los de química cosmética, bachillerato a distancia y el Cephcis xfa 🙏🙏🙏😔**
-
 **Agreguen MEYJA9**
-
-Alguien de bachillerato a distancia plis**, MAT54P**
+**Alguien de bachillerato a distancia plis, MAT54P**
 
 **A mi también porfis  EC2MCG**
 
 **Agrégame bachillerato a distancia7TCTV3**
-
 **7TCTV3**
-
 **Alguien de Bachillerato a Distancia,**
-
 **SMC4YU agreguen a Bachillerato a distancia 😭**
-
 **agréguenme, por favor\! L7BQ6N**
-
 **Agregenme carreras Raras QMVLT8**
-
 **A mi tmb porfi EQ6X25**
-
 **A mi tambien 8N24Z3**
-
 **Agregenme a mi K5DBPP**
-
 **Agregenme a mi tmb plis 8A8WGM**
-
 **Agregrame a mi por favor, bachillerato a distancia 5WK7AX**
-
 **UALS83 porfis a mi iguaaal**
-
 **FNEAB4 también ha gregame 🙏🙏**
-
 **Go añadan pls 8YGU6C**
-
 **Agreguo**
-
 **(Para los de distancia, agreguenme porfis. Alguien de bachillerato: 7UGZTJ)**
-
 **Agregrenme porfaaaa, alguien de**
-
 **bachillerato: EGGBNP**
-
 **Agreguenme porfa bachillerato a distancia 3UT77H**
-
 **A mí también agréguenme:( 9BRDEG**
-
 **A mi tmb plis 7Y2S4J, K5DBPP**
-
-Agreguenme en Bachillerato a distancia y a Química cosmética por favor SMC4YU
-
+**Agreguenme en Bachillerato a distancia y a Química cosmética por favor SMC4YU**
 **Mi**
-
 **JQZR96**
-
 **Yo de comunicación en cu B6PXK6 soy de polakas y voy para producción audiovisual**
-
 **Chavos de bachillerato agréguenme porfii KNK7Y4**
-
 **Agrega bachillerato en línea porfa: V8NHYS**
-
 **Agregarme plis chavos de Bachillerato en linea: QMVLT8**
-
 **Agregenme alguien de bachillerato a distancia, por favorr: SE28C2**
-
-Amigos de Bachillerato a Distancia y Agroforestales, agregame porfis y te llevo de Tour a Ciencias ![❤][image8]gr
+**Amigos de Bachillerato a Distancia y Agroforestales, agregame porfis y te llevo de Tour a Ciencias ![❤][image9]gr**
 **Tmb a mi porfa agregameee Y4SECU**
 
 **KY43YW**
 **533L3Q**
-
-H6RDXQ
-
-K5DBPP
-
-DJUVN4
-
-NWG754
-
-FNEAB4 también porfa🙏🙏
-
-Ciencias de la Computación \- Facultad de Ciencias
+**H6RDXQ**
+**K5DBPP**
+**DJUVN4**
+**NWG754**
+**FNEAB4 también porfa🙏🙏**
+**Ciencias de la Computación \- Facultad de Ciencias**
 **A mi también porfaaaaa ci G5VSUZ**
-
 ***Agrega bachillerato en línea porfa:*** **V8NHYS**
-
 **A mi tambien por favooor G2SQMG**
-
 **Agreguenmeeee ELUYC2**
-
 **Agréguenme por favor GC6HKG**
-
 **Agréguenme a mi tmb chicos, xfavoooor GKT9PN**
-
 **Agréguenme porfi 😭 HYAGR4**
-
 **Agréguenme plss AWTK5Y 🙏🏼**
-
 **Agregenme alguien de bachillerato a distancia, por favorr: TUKWSQ**
-
 **Alguien d bachillerato agreguemeee 😿 : 2965RS**
-
 **Ándale personita de bachillerato en línea: U4S826**
-
 **WW7T4K si es verdad porfis ayúdenos :3**
-
 **a mi tmb porfi EQ6X25**
-
 **JUF5W6 no se olviden de mi 😞**
-
 **JMDE8U yo igual ;)**
-
 **TQFRKA AGREGUENME POR FAVOR**
-
 **A mi también porfa 4JQBNS**
-
 **Agreguen chavos de bachillerato en línea: 9JUAP7**
-
 **Agreguen el de cosmetica: YXKYBV**
-
 **Aayyy. A mi también agréguenme chavos de bachillerato en línea XHL8BP soy de Química Cosmética , NO ES CIERTO ESO NO ES. NO SIRVE ES DE OTRA CARRERA QUIEN SABE CUAL**
-
 **Porfis chicos**
-
 **EC2MCG**
-
 **K5DBPP**
-
 **DUQTLH**
-
 **JQZR96**
-
 **533L3Q**
-
 **Alguien de bachillerato a distancia porfi? 4QSM4X, soy de Vet en CU**
-
 ***KGJJJN porfis chicos***
-
 **Si puedes agrégame compañero :\< XKTJ63.**
-
 **6ZQ2SX a mi también porfaaa**
-
 **Agreguenme bachillerato a distancia PLISSS.  Soy HCV48Q A**
-
 **Compañero de bachillerato podrías agregarme por favor? H3DW2S**
-
 **o. N7QNDK**
-
  **ayuda 5JL5SA y VWVYT3**
-
 **CHAVALES DE BACHILLERATO A DISTANCIA, AYUDAAAA\!\!: NEARSC**
-
 **K5DBPP**
-
 **AYUDAAAAAA, Agréguenme porfiiii DUKA2D**
-
 **BC769Z Holi ;) agreguen porfi**
-
 **N7QNDK**
-
 **Yo también quiero bachillerato a distanciiiia pliiiis: GA7BM5**
-
 **68JFRL , por favor 8 h 59 pm**
-
 **XH8ZZE Economía \- Fesa**
-
 **CEPHCIS, Bachillerato a distancia pls agréguenme 🥺 ZNFGAC**
-
 **Bachillerato a distancia y cosme xfaaa CS6WBV 😭**
-
 **N7QNDK**
-
 **VPLEVJ Agréguenme bachillerato a distancia**
-
 **DH5LMV Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agregaras c: Bachillerato a Distancia**
-
 **F9TZFU: gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia), Enseñanza de Alemán e Italiano como Lengua Extranjera y Alguien que estudie Estudios Sociales y Gestión Local agregenme ayxfa**
-
 **4ULDZZ 🙏🏻🙏🏻**
-
 **X3TE7F Porfi agregame amix de bachillerato a distancia, ya solo me faltas tu d(u.u)b soy de Pedagogía SUA FFyL**
 
 **gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia), Enseñanza de Alemán e Italiano como Lengua Extranjera , HISTORIA DEL ARTE (SYCLSN \- historia del arte), INGENIERÍA TOPOGRAFICA Y GEODÉSICA, MUSICA Y CANTO AGREGENME PLISSSS PWGZE8**
 
 **YR3TKQ**
-
 **Añadenme los de química cosmética, bachillerato a distancia y el Cephcis xfa 🙏🙏🙏😔**
 
 **Dioses de Bachillerato a distancia, química cosmética, y cephcis, ayúdenme por favor \!**
-
 **K3DVAH**
-
 **Me faltan estos, rompehielos, casi familia y compañero de banca, busco alguien que se apellide celis, bachillerato a distancia, cephcis merida, instituto de investigaciones en ecosistemas, enseñanza de aleman e italiano, geodeaica, quimica cosmética industrial e**
 
 **iniciación universitaria, soy biologa de ciencias generación 2022, mi código es 8Z733**
-
 **Ayúdenme gente de bachillerato a distancia, CEPHCIS e instituto de investigación en ecosistemas**
-
-**Tiren paroo:** ALVDTP 🫂 533L3Q
-
-Bachillerato a distancia, CEPHICIS, Química cosmetica agréguenme porfis :’) PFMXND
-
-Tiren paroo con estos pokemones que faltan :((
+**Tiren paroo: ALVDTP 🫂 533L3Q**
+**Bachillerato a distancia, CEPHICIS, Química cosmetica agréguenme porfis :’) PFMXND**
+**Tiren paroo con estos pokemones que faltan :((**
 
 **We**
-
 **Bachillerato a distancia me puedes agregar\!\!\!\!\!\!\!, C44NTV, por favor\!\!\!\!\!**
-
 **LHVZE2, agreguen PORFAS bachillerato a distancia y demás rarezas UNAM\!\!\!**
-
 **Holaaaaa, los de Bachillerato a Distancia me pueden agregar plis??? DBUTNQ soy de FESZ**
-
 **N7QNDK**
-
 **✨✨Hola amigalletas de bachillerato a distancia, me agregan por fa? VD522A soy de RI sua wuuuu ✨✨✨**
 
 **por favor amigazo a distancia, soy Biología, FES Iztacala: A9U467**
-
- **SHYLDR**  **agreguen por favor amigos de  bachillerato a distancia y demás rarezas UNAM\!\!\! 😀**
+ **SHYLDR  agreguen por favor amigos de  bachillerato a distancia y demás rarezas UNAM\!\!\! 😀**
 
 **AGREGENME 🥺 S4S24L SOLO ME FALTA ESTE 😭😭😭😭😭😭😭**
-
 **HOLA BACHIAMIGOS, AGREGENME PORFAVOR. :) 5P477Q**
-
 **Amigos de bachillerato a distancia, agreguenme x100 por favor 4BJN6Q 🥺🥺🥺**
-
 **Amigos top de bachillerato a distancia agréguenme porfi💌💌💌 QZ35PS**
-
 **porfa amiguitos de bachillerato a distancia DUQTLH \<3 :,)**
-
 **FAMILIA DE BACHILLERATO A DISTANCIA SON LOS UNICOS QUE FALTAN ¡TIREN PAROOOO 🥹🥹🥹\! 8CYDV9 (VET CU)**
-
 **AMISTAD DE BACHILLERATO A DISTANCIA PODRIAS AGREGAR A ESTA PERSONA:  MEB379**
-
 **HOLII AYUDAME PORFISSS N3MF6K SOY QUIMICA, TE HARE FENTANILO U.U**
-
 **Porfi amistad de bachillerato agregame:  YT6GMJ🙏**
-
 **AMIGUITOSSSS PORFI AGREGUNME A MI Y A MI CHAVALITAAA ÁNDENLE**
-
 **C7NXLY, RS8A3X**
-
 **Porfiiii, no me lo borren🥺🥺**
-
 **échenme paro con su medalla de bachillerato a distancia amiguibis 💔: RVY6UF**
-
 	**Hola amikos de bachillerato a distancia, ayuden a esta pobre economista a obtener el sello, mi codigo es UZJXUG no sean gachoooos, los amooooo infinitamente y recuerden que Apu volvió a los sinso**
-
 ***Hola, los de bachillerato a distancia, agreguenme*** **JYEF89  *, por fisss, soy de RI***
-
 **Agréguenme bachillerato en línea WSS65K**
-
 **N7QNDK**
-
 **Agreguen de bachillerato en línea pls LNY5TG, DJUVN4**
-
 **DWLHUF  Por fi, te invito un pollito rostizado en CU**
-
 **DQ5KTT PORFAVORRR te picho una miche**
-
 **PZBGYV dale bro de bachillerato a distância, se que hay uno que me va a adoptar y nos vamos al Shine**
-
 **TFM6L8 PORFAVOR AMIG@ DE BACH A DISTANCIA SI GUSTAS TE SIGO Y ME SIGUES EN INSTA O SOLO TE SIGO HAZ PARO Y TE INVITO UN CHOCOLATE CALIENTE DE CABAÑA**
-
 ***Agrega bachillerato en línea porfa:*** **V8NHYS**
 
 **BACHILLERATO A DISTANCIA, AGRÉGUENME, POR FAVORSISISISISISISISIMO**
-
 **MI VIDA DEPENDE DE ESTO**
-
  **XTEKTV**
 
 **Bachillerato a distancia, porfavor agreguen E8QL98**
 
 **NKDR4F \- bachillerato a distancia 🙏**
-
 ***COMPAÑERX DE BACHILLERATO A DISTANCIA XFIS AGG SOLO ME FALTA ESA MEDALLA :( tenme piedad ggg***
-
-\[¿Te gustaría conseguir medallas de Pasaporte UNAM? ¿Completar tus Poképumas? ¿Desbloquear todos los logros? ¿Te gustaría tener todos los lazos? Yo guiaré tu mano… 🐐🖤\]
-Solo necesito que alguien de Bachillerato a Distancia me agregue, tiren paro…. Mi código es LFBBEX
-
+**\[¿Te gustaría conseguir medallas de Pasaporte UNAM? ¿Completar tus Poképumas? ¿Desbloquear todos los logros? ¿Te gustaría tener todos los lazos? Yo guiaré tu mano… 🐐🖤\]**
+**Solo necesito que alguien de Bachillerato a Distancia me agregue, tiren paro…. Mi código es LFBBEX**
 ******
 
 ***UPWQ74 Tiren paro bachillerato a distancia*** **🙏**
-
 **Tiren paro bachito a distancia (me la quitaron alv)**
-
 ****
 
 **8EJFYT agregenme plis ya es la ultima que me falta y termino 🥲**
-
 ***Agrega bachillerato en línea porfa:*** **V8NHYS**
-
 **Agrégame compañer@ de bachillerato y te hago tus tareas de español/inglés, investigaciones o ensayos, o te puedo editar videos y fotos🫰 4QQA2Z**
 
 **agréguenme pls🥹 y si entran a vet les paso mis apuntes HC2CCM**
 
-PW5KSH
-porfis °^°
+**PW5KSH**
+**porfis °^°**
 
-J8LGHK
-PORFAVOOOOOOOOOOOOOOOOR
+**J8LGHK**
+**PORFAVOOOOOOOOOOOOOOOOR**
 
-ALKPT3 xfis tqm
+**ALKPT3 xfis tqm**
 
-Tira paro amig@ por favor te regalo un@ de 1500
-GTTYS2  IEE FES Aragon
+**Tira paro amig@ por favor te regalo un@ de 1500**
+**GTTYS2  IEE FES Aragon**
+****
 
-Hola personita de bachillerato\! Si no es mucha molestia agregarme, por fis me harías un parote, muchas gracias\! \<3
-EC4755
+**Hola personita de bachillerato\! Si no es mucha molestia agregarme, por fis me harías un parote, muchas gracias\! \<3**
+**EC4755**
+****
 
-Estimada amiga o amigo de Bachillerato, te agradecería muchísimo si me agregarás
+**Estimada amiga o amigo de Bachillerato, te agradecería muchísimo si me agregarás**
 
-**JVURUC**  sin nada más que agregar, ten buen día 🫶🏽
+**JVURUC  sin nada más que agregar, ten buen día 🫶🏽**
+**E7MD3K**
+**SHYLDR me podrías agregar amigo a distancia por favor y si no es tanta molestiay te invito una tutsipop🫂**
 
-SHYLDR me podrías agregar amigo a distancia por favor y si no es tanta molestiay te invito una tutsipop🫂
-
-EHJ3Q2 :)
+**EHJ3Q2 :)**
 
 **JQAF7Q, tmb este tiren paro bachillerato a distancia , te invito un pulque de mazapan, daría la vida por ti mi bro**
 
 **HVZSUK, amigo de Bachillerato en línea, ayúdame por favor, y te digo que tamal eres. Ofrezco una bonita amistad, soy Kevin y estudio en CU Derecho, hoy por mi mañana por ti**
+**E7MD3K**
 
 **¿HASTA ACÁ VA LA FILA? ALGUIEN DE BACHILLERATO EN LÍNEA QUE ME PUEDA AYUDAR PORFA: Z7BAJP**
-
 **PLS AYUDA BACHILLERATO EN LINEA: WRVUAF**
-
 **AYUDA POR FAVOR\! BACHILLERATO A DISTANCIA MEYJA9**
+**E7MD3K**
 
 **BACHILLERATO A DISTANCIA TE LO RUEGOOO  G73Z9E**
 
-G5SHBK DALEEE Bachillerato en Linea :,b
+**G5SHBK DALEEE Bachillerato en Linea :,b**
 
-ayuden a esta pobre alma: WXSRLT
+**ayuden a esta pobre alma: WXSRLT**
 
 **QUQ7A4 POR FAVOR BARILLERATO EN LINEA :\]**
 
@@ -3834,28 +3731,28 @@ ayuden a esta pobre alma: WXSRLT
 
 ***Ayudenme por favor. Les transfiero 20 pesos o algo. (si me ayudan, mandenme mensaje en ig para  transferirles su recompensa: annchimchimsale)***
 ***Mi código: U8C9G3***
+***E7MD3K***
 
-# Me ayudaría mucho bachillerato en Línea… solo me falta ese  5WL3J2
+# **Me ayudaría mucho bachillerato en Línea… solo me falta ese  5WL3J2**
 
-AYUDA: Busco ser el primer lazo de alguien y que me agregue alguien de bachillerato en linea:  FKWYFZ
+**AYUDA: Busco ser el primer lazo de alguien y que me agregue alguien de bachillerato en linea:  FKWYFZ**
 
-Ayuda, yo también necesito el de romper el hielo: **4HU2PV**
+**Ayuda, yo también necesito el de romper el hielo: 4HU2PV**
 
-Para rompehielos porfis: **SEDAKG**
+**Para rompehielos porfis: SEDAKG**
 
-OIGAN DONDE PUEDO PONER MI CÓDIGO PARA EL ROMPEHIELOS? :(((( (“Fuiste el primer lazo de alguien.”) porque me falta completar ese T-T—- TAMBIEN ME FALTA ESE, TE PASO EL MIO
-Pásame tu código amistad c:--- VA **BHXKZL** — según yo, ya te debió de aparecer 🤞🏼– pues a mi nada, 🙁
-Alguien sin lazos en Espacio Unam que me ayude a romper el hielo soy este: V569QT
-Alguien puede ayudarme con romper El hielo pls S37KHD.
-A mí también porfi 2KBVYQ
-A mi tambiiiiiiien RJ863T
+**OIGAN DONDE PUEDO PONER MI CÓDIGO PARA EL ROMPEHIELOS? :(((( (“Fuiste el primer lazo de alguien.”) porque me falta completar ese T-T—- TAMBIEN ME FALTA ESE, TE PASO EL MIO**
+**Pásame tu código amistad c:--- VA BHXKZL — según yo, ya te debió de aparecer 🤞🏼– pues a mi nada, 🙁**
+**Alguien sin lazos en Espacio Unam que me ayude a romper el hielo soy este: V569QT**
+**Alguien puede ayudarme con romper El hielo pls S37KHD.**
+**A mí también porfi 2KBVYQ**
+**A mi tambiiiiiiien RJ863T**
 
 **Me encanta que hasta invitación pusieron, neta los amo pinches niños pumas**
 
-- Gracias por hacer que la comunidad tanto Suayed como escolarizada se unieran de esta manera, haciendo que conozcamos gente nueva y que nos alienten a conocer las instalaciones de esta institución… De igual manera el código P3ZRE5 y 4G7JK7 los invitamos a seguir nuestra página de facebook “El Hamster Investigador” :3 si nos encuentran comenten *“Pasa código UNAMon”*
+- **Gracias por hacer que la comunidad tanto Suayed como escolarizada se unieran de esta manera, haciendo que conozcamos gente nueva y que nos alienten a conocer las instalaciones de esta institución… De igual manera el código P3ZRE5 y 4G7JK7 los invitamos a seguir nuestra página de facebook “El Hamster Investigador” :3 si nos encuentran comenten *“Pasa código UNAMon”***
 
 ***Agrega bachillerato en línea porfa: 9MSMMY***
-
 **Bachillerato en Linea por favor: XHUQEC**
 ***M74K7K AGREGUENMEEEE, Es la última que me faltaaaa***
 
@@ -3869,7 +3766,7 @@ A mi tambiiiiiiien RJ863T
 
 ## **CHIQULLOS DEL BACHILLERATO EN LÍNEA AYÚDENME ES LA ÚNICA MEDALLA QUE ME FALTA. 🙏💙💛**
 
-#                                     4JBFDU
+#                                     **4JBFDU**
 
 **6DT6SY bachillerato en linea, amistad apiadate 😔🙏**
 
@@ -3878,190 +3775,109 @@ A mi tambiiiiiiien RJ863T
 ***Agrega bachillerato en línea porfa: GNPVXS***
 
 ***Agrega bachillerato en línea porfa:9VVQ6V***
-
 ***Agrega por fas bachillerato en linea: 7TCTV345KGQP***
-
 ***Agrega bachillerato en línea porfa:Q25JJU***
-
 ***Agrega bachillerato en línea porfa:CC2JVA***
-
 ***Agrega bachillerato en línea porfa:PFVZWY***
-
 ***Agrega bachillerato en línea porfa:VF68YX***
-
        ***Agrega bachillerato en línea porfa: H4CMXL***
 
 ***Agrega bachillerato en línea porfa:*** **F783Q6**
-
 ***Agrega bachillerato en línea porfa:*** **PA7FWF**
-
 **Agrega bachillerato en línea porfa: 6A755S**
-
 ***Agrega bachillerato en línea porfa: 2G5REG 🙏🏻***
-
 ***Agrega bachillerato en línea porfa:*** **XFX8U7**
-
 ***Agrega bachillerato en línea porfa: KECG5J***
-
 ***PGPXPL***
-
 ***Agrega bachillerato en línea porfa:*** **DRVR87**
-
 **4Y96Q5**
-
 **6A755S**
-
 **FTJ9YB**
-
 **B2MWT8**
-
 **6A6RSY**
-
 **VF68YX**
-
 **D984G3**
-
 **NPU5WJ**
-
 **F783Q6**
-
 **5WL3J2**
-
 **Z3CBJ5**
-
 **634MZ6**
-
 **Z7V2DL**
 
 **4HU2PVBACHILLERATO A DISTANCIA PORFIIISS T9L84A🙏🙏🙏🙏🫶🫶**
-
 **Ayuda bachillerato a distancia porfa**
-
 **S8FQY4**
-
 **DPSK54**
-
 **296PCT porfaaaa**
-
 **SQMUC6 Porfavorrr**
-
-**L576TC** AGG BACHILLERATO A DISTANCIA POR FAVOR 😭💜
-
-YGTGPZ también te busco bachillerato 😭
-
-BACHO EN LINEA PORFAAAAA, 🥹🙏U243SW
-
+**E7MD3K**
+**L576TC AGG BACHILLERATO A DISTANCIA POR FAVOR 😭💜**
+**YGTGPZ también te busco bachillerato 😭**
+**BACHO EN LINEA PORFAAAAA, 🥹🙏U243SW**
 **Agrega bachillerato en línea porfa:CSYUZN**
-
-Vuelve Iwi Awa
-
-Ahí cuando pueda un bachillerato a distancia 9H3P9M
-
-**F783Q6** me agregan los de bachillerato a distancia, porfa
-
-E3ADVA a mi también agréguenme por fiiiii😭
-
-CCQBM9 porfa agreguenme bachillerato a distancia
-
-**8EJFYT** me agregan bachillerato a distancia y para romper el hielo pliss \<3
-
-***8C9ST8*** **Por favor, bachillerato a distancia** 👏😣
-
-Bachillerato en línea porfaa ESS4US
-
-9ZP2AZ
-
-KECG5J
-
-68DWUL por fas igual, bachillerato a distancia 🥹
-
-**GVALGQ** agregame por fa bachillerato a distancia
-
+**Vuelve Iwi Awa**
+**Ahí cuando pueda un bachillerato a distancia 9H3P9M**
+**F783Q6 me agregan los de bachillerato a distancia, porfa**
+**E3ADVA a mi también agréguenme por fiiiii😭**
+**CCQBM9 porfa agreguenme bachillerato a distancia**
+**8EJFYT me agregan bachillerato a distancia y para romper el hielo pliss \<3**
+***8C9ST8*** **Por favor, bachillerato a distancia 👏😣**
+**Bachillerato en línea porfaa ESS4US**
+**9ZP2AZ**
+**KECG5J**
+**68DWUL por fas igual, bachillerato a distancia 🥹**
+**GVALGQ agregame por fa bachillerato a distancia**
 **Bachillerato a distancia psor favor solo me faltas esa  LHGUMH**
-
-regame bachillerato a distancia y te ira bien en la vida PVGAYC
-
+**regame bachillerato a distancia y te ira bien en la vida PVGAYC**
 **G4G9C6 por favooooor, si no me ayudas un hada muere😭**
-
 **Z6HQVD ayuda porfavor bachillerato en linea y te invito una chelaaa🙏🏻**
-
 **4BJ4EV OLI 😀**
-
 **ND2L9D por favor bachiller a distancia**
-
 **Primera vez que digo esto, pero migajeo que un bachillerato en linea me agregue por favorrrr😭😭😭😭:   ZQ7D4T**
-
 **4Y96Q5**
-
-${}$H6RRFW **por favor bachillerato a distancia 😭🙏**
-
+**${}$H6RRFW por favor bachillerato a distancia 😭🙏**
 **7V69QX-(ing, geologica ,te picho unas papas bachillerato en linea )**
 
 **SHYLDR por favor a abachillerato en línea agrega amigo, te invito una tutsipop🙏**
 
 **Bachillerato porfa agrega 2UZB9F 🥺**
-
 ***Agrega bachillerato en línea porfa: F783Q6***
 
 ***Bachillerato porfa agrega Y7FGE3 🥺***
 
 **Bachillerato en línea porfa: RWKVVL**
-
 **BACHILLERATO EN LÍNEA, XFA : BTJWYA**
-
 **Bachillerato en linea**
-
 **LHGUMH por favor**
-
-Bachillerato en linea pls 😔🙏 JQEG3U
-
+**Bachillerato en linea pls 😔🙏 JQEG3U**
 ***Me pueden ayudar con el rompehielos y también el código para investigación biomedica básica por favor? :((  (  47X28G  )***
-
-me podrian ayudar con el de rompehielo porfavor (CCQBM9)
-
-AYUDA BACHILLERATO EN LÍNEA 😭😭 AQQ37Y
-
-Alguien de bachillerato a distancia ayúdeme   SKNEPP
-
-Apiádare de mí Bachillerato en línea ;-; G73Z9E
-
-ESTOY CONTAGIADO DE UN EXTRAÑO VIRUS 👾: V569QT
-
-Ayuda bachillerato a distancia porfa DPSK54
-
-Oigan, y sí les ha funcionado poner sus códigos aquí para lo d Bachillerato en Línea?
-
+**me podrian ayudar con el de rompehielo porfavor (CCQBM9)**
+**AYUDA BACHILLERATO EN LÍNEA 😭😭 AQQ37Y**
+**Alguien de bachillerato a distancia ayúdeme   SKNEPP**
+**Apiádare de mí Bachillerato en línea ;-; G73Z9E**
+**ESTOY CONTAGIADO DE UN EXTRAÑO VIRUS 👾: V569QT**
+**Ayuda bachillerato a distancia porfa DPSK54**
+**Oigan, y sí les ha funcionado poner sus códigos aquí para lo d Bachillerato en Línea?**
 **LHPSC9 porfa bachillerato en línea**
-
-**XNFFUS** ayuda pls
-
-8GHZQ5 Ayuda pls (y algo maravilloso te pasará mañana)
+**XNFFUS ayuda pls**
+**8GHZQ5 Ayuda pls (y algo maravilloso te pasará mañana)**
 
 **D5GYZY por favor mis bachiquillos a distancia \<3**
-
 **QLDMEH PARA LOS DE A DISTANCIA PLS**
-
 **5RF8YB por favoooor, solo me falta bachillerato a distancia**
-
+**E7MD3K**
 **Ayudaaaaa bachillerato a distancia**
-
 **WSSGKM por favor**
-
 **W8QZZV porfis jeje**
-
 **W3AQ9D**
-
 **Bachillerato en línea porfavoooor**
-
 **SEDAKG**
+**Agreguen los de bachillerato a distancia porfaaaa y les regalo una picafresa va? DL95TY \- ITSE FESC**
+**persona de bachillerato a distancia plis agregame, solo me falta esa medalla HGGMCD plis**
 
-Agreguen los de bachillerato a distancia porfaaaa y les regalo una picafresa va? DL95TY \- ITSE FESC
+**Agregenme por faaa RLTSWT**
 
-persona de bachillerato a distancia plis agregame, solo me falta esa medalla HGGMCD plis
-
-Agregenme por faaa RLTSWT
-
-Agregame plis 7LZ5TF
+**Agregame plis 7LZ5TF**
 
 **BACHILLERATO EN LÍNEA, XFA : P5TDP6**
 
@@ -4076,10 +3892,9 @@ Agregame plis 7LZ5TF
 
 **AGRÉGUENME BACHILLERATO EN LÍNEA POR FAVOR QV68T9 🙏🏻🙏🏻😭**
 
-S6YQL2 porfaaaaa bachillerato en línea
-
+**S6YQL2 porfaaaaa bachillerato en línea**
 **Agreguenme bachillerato en línea por favor\!\! JEYZRQ \- PLISSS**
-
+**E7MD3K**
 **Agreguenme Bachillerato a Distancia, tiren paro**
 **5EQXAK**
 
@@ -4092,12 +3907,15 @@ S6YQL2 porfaaaaa bachillerato en línea
 
 **6NDDAC gente de bachillerato a distancia agreguen porfavor, soy de teatro**
 
-# ¿Llegaste hasta el final?
+# **¿Llegaste hasta el final?**
 
-# Holiiiiii :)
+# **Holiiiiii :)**
 
-# Por favor Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia. Ayudaaaaaaaaa
+# **Por favor Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia. Ayudaaaaaaaaa**
 
 # **SPMU3V**
 
-(Tengo virus y soy de FMVZ)
+**(Tengo virus y soy de FMVZ)**
+**E7MD3K**
+
+**HOLA, NECESITO EL CÓDIGO DE ALGUIEN DE BACHILLERATO A DISTANCIA. 7GW9UE gracias :)**

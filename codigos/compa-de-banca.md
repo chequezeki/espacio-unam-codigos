@@ -4,6 +4,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `7GW9UE` | Ciencias de la Tierra ENCiT / gen 2025 | doc |
 | `8R5W24` | Gen 2026 | doc |
 | `8FWQFZ` | ACTUARIA / FES ACATLAN / GEN 2023 | doc |
 | `ZNFGAC` | ACTUARIA / FES ACATLAN / GEN 2023 | doc |
@@ -139,6 +140,7 @@
 | `V7QEMW` | 2025 | doc |
 | `FBTPB7` | 2024 | doc |
 | `9ZP2AZ` | 2023 | doc |
+| `VLM6JA` | 2022 | doc |
 | `PGPXPL` | 2020 | doc |
 | `HR5TVK` | INGENIERIA EN ALIMENTOS / FESC / 2023 | doc |
 | `TUQWSQ` | Ingeniería Civil CU 2021 | doc |

@@ -6,8 +6,6 @@ TL4CU4,Medallas secretas,,Medalla de tlacuache. Medalla propuesta por Ximena Val
 HU3LG4,Medallas secretas,,H4YP4R0 /
 JUG4D4,Medallas secretas,,Para esa movida maestra que nadie vio venir: hasta un peón puede llegar al otro lado del t
 4T3N34,Medallas secretas,,"Para Atenea, la diosa de la sabiduría que es el emblema de la Facultad de Filosofía y Letr"
-GNPVXS,Medallas secretas,,Para quienes quieren todas las medallas secretas y las cuidan como un anillo: mi precioso.
-GNPVXS,Medallas secretas,,Empezaste a llenar tu Pasaporte porque todo mundo lo estaba llenando y no te lo ibas a per
 N3APR4,Carreras que ya no existen o cambiaron de nombre,,Ciencias Agroforestales / ENES Morelia
 ZGKH37,Carreras que ya no existen o cambiaron de nombre,,Ciencias Agroforestales / ENES Morelia
 9UXLAZ,Carreras que ya no existen o cambiaron de nombre,,Enseñanza de Francés como Lengua Extranjera / FES ACATLÁN
@@ -16,7 +14,6 @@ JE8MNE,Carreras que ya no existen o cambiaron de nombre,,Enseñanza de Inglés c
 SXFJVK,Carreras que ya no existen o cambiaron de nombre,,Enseñanza de italiano como Lengua Extranjera / FES ACATLÁ y N
 G5ZJ2S,Carreras que ya no existen o cambiaron de nombre,,Estudios Sociales y Gestión Local /ENES Morelia
 GKBNW8,Carreras que ya no existen o cambiaron de nombre,,Comunicación Gráfica
-ZGKH37,Carreras que ya no existen o cambiaron de nombre,,Comunicación Gráfica
 5VSKLQ,Carreras que ya no existen o cambiaron de nombre,,Música y tecnología artística
 DNX7NY,Carreras que ya no existen o cambiaron de nombre,,Teatro y Actuación / CUT
 8T2H42,Carreras que ya no existen o cambiaron de nombre,,Ingeniería Topográfica y geodesica!!!
@@ -61,10 +58,9 @@ NQQBE5,Prepas,,Prepa 9
 6GNP6P,Prepas,,Prepa 9
 KB5FFD,Prepas,,Prepa 9
 ZGKH37,ENES,ENES León,Fisioterapia
+ARWJMZ,ENES,ENES León,Odontología
 Z7V2DL,ENES,ENES León,Optometría
-ARWJMZ,ENES,ENES León,Administración Agropecuária
 ZGKH37,ENES,ENES León,Administración Agropecuária
-ZGKH37,ENES,ENES León,Comunicación
 SYGFBM,ENES,ENES León,Desarrollo territorial
 ZGKH37,ENES,ENES León,Desarrollo territorial
 XT3Z2W,ENES,ENES León,Economía Industrial
@@ -85,11 +81,10 @@ V32CE5,ENES,ENES León,Etnomusicologia
 ZGKH37,ENES,ENES León,Etnomusicologia
 GTTYS2,ENES,ENES León,Ingeniería Eléctrica y Electrónica
 F783Q6,ENES,ENES León,Ingeniería Eléctrica y Electrónica
-E5YKZ7,ENES,ENES León,Ingeniería Eléctrica y Electrónica
-LKAE3D,ENES,ENES León,Ingeniería Eléctrica y Electrónica
-4THUMF,ENES,ENES León,Ingeniería Eléctrica y Electrónica
-8ZEKK9,ENES,ENES León,Ingeniería Eléctrica y Electrónica
-V569QT,ENES,ENES León,Ingeniería Eléctrica y Electrónica
+LKAE3D,ENES,ENES León,5
+4THUMF,ENES,ENES León,5
+8ZEKK9,ENES,ENES León,5
+V569QT,ENES,ENES León,5
 NQYJ5W,ENES,ENES León,Ingeniería en Computación
 UDHBH3,ENES,ENES León,Ingeniería en Computación
 V8VEEB,ENES,ENES León,Ingeniería en Computación
@@ -176,7 +171,6 @@ W7PL3L,ENES,ENES Juriquilla,Negocios Internacionales
 ZGKH37,ENES,ENES Juriquilla,Negocios Internacionales
 2YCHDH,ENES,ENES Morelia,Geociencias
 PMATBR,ENES,ENES Morelia,Geociencias
-NQYJ5W,ENES,ENES Morelia,Geociencias
 V32CE5,ENES,ENES Morelia,Etnomusicología
 ZGKH37,ENES,ENES Morelia,Etnomusicología
 6TABQR,ENES,ENES Morelia,Tecnologías para la Información en ciencias
@@ -216,7 +210,6 @@ T53TWT,ENES,ENES Mérida,Ciencias de la Tierra
 ZGKH37,ENES,ENES Mérida,Ciencias de la Tierra
 YLA386,ENES,ENES Mérida,Ingeniería en Computación
 Q2KLU8,ENES,ENES Mérida,Biología
-ZGKH37,ENES,ENES Mérida,Biología
 58ZH4F,ENES,ENES Mérida,Ciencias ambientales
 RGVNRQ,ENES,ENES Mérida,Manejo Sustentable de Zonas Costeras
 2CPSVN,ENES,ENES Mérida,Geografía Aplicada
@@ -272,6 +265,7 @@ Q8294S,FES,FES Acatlán,Derecho
 METDCV,FES,FES Acatlán,Derecho
 CY5CX8,FES,FES Acatlán,Derecho
 E92887,FES,FES Acatlán,Derecho
+XHYP6B,FES,FES Acatlán,Derecho
 MP7Y6M,FES,FES Acatlán,Derecho sua
 6S9FH3,FES,FES Acatlán,Derecho sua
 PTHAMJ,FES,FES Acatlán,Economía
@@ -284,6 +278,7 @@ EFJWGK,FES,FES Acatlán,Relaciones Internacionales
 VD522A,FES,FES Acatlán,Relaciones Internacionales
 AJ8KGJ,FES,FES Acatlán,Relaciones Internacionales
 BASB5W,FES,FES Acatlán,Relaciones Internacionales SUAYED
+VD522A,FES,FES Acatlán,Relaciones Internacionales SUAYED
 46Q2KK,FES,FES Acatlán,Sociología
 7UHFHJ,FES,FES Acatlán,Sociología
 XT3Z2W,FES,FES Acatlán,Sociología
@@ -296,15 +291,13 @@ SJHBNY,FES,FES Acatlán,Diseño Gráfico
 NC53MT,FES,FES Acatlán,Diseño Gráfico
 Z9D3BT,FES,FES Acatlán,Diseño Gráfico
 JE8MNE,FES,FES Acatlán,Enseñanza de Inglés ‘como Lengua Extranjera
-ZGKH37,FES,FES Acatlán,Enseñanza de Inglés ‘como Lengua Extranjera
-ZGKH37,FES,FES Acatlán,Enseñanza de Francés como Lengua Extranjera
+TVPG8X,FES,FES Acatlán,Enseñanza de Francés como Lengua Extranjera
 G45DBK,FES,FES Acatlán,Enseñanza de Español como Lengua Extranjera
 T7EEMY,FES,FES Acatlán,Enseñanza de Español como Lengua Extranjera
 EDWUCZ,FES,FES Acatlán,Enseñanza de Español como Lengua Extranjera
 4QQA2Z,FES,FES Acatlán,Enseñanza de Español como Lengua Extranjera
 SXFJVK,FES,FES Acatlán,Enseñanza de Italiano
 ZGKH37,FES,FES Acatlán,Enseñanza de Italiano
-WTUU9H,FES,FES Acatlán,Enseñanza de ingles
 3FWPDJ,FES,FES Acatlán,Enseñanza de ingles
 GM2S6V,FES,FES Acatlán,Enseñanza de ingles
 LGRZ65,FES,FES Acatlán,Enseñanza de ingles
@@ -348,12 +341,12 @@ SB3S58,FES,FES Aragón,Derecho
 7NSF65,FES,FES Aragón,Derecho
 8GHZQ5,FES,FES Aragón,Derecho
 AWLR5V,FES,FES Aragón,Derecho
+YY4XRF,FES,FES Aragón,Derecho
 X87RX3,FES,FES Aragón,Economía
 B6N39M,FES,FES Aragón,Economía
 QV8YWM,FES,FES Aragón,Economía
 84HDNQ,FES,FES Aragón,Economía
 4E5D5N,FES,FES Aragón,Economía SUAyED
-ZGKH37,FES,FES Aragón,Economía SUAyED
 BZJX2A,FES,FES Aragón,Ingeniería Civil
 UEYKGM,FES,FES Aragón,Ingeniería Civil
 GAVUGY,FES,FES Aragón,Ingeniería Civil
@@ -520,6 +513,7 @@ EL5ESZ,FES,FES Iztacala,Biología
 WCSRV9,FES,FES Iztacala,Biología
 34EDFF,FES,FES Iztacala,Biología
 CJ4TXS,FES,FES Iztacala,Biología
+E7MD3K,FES,FES Iztacala,Biología
 RAUM9Z,FES,FES Iztacala,Enfermería
 X7BTUA,FES,FES Iztacala,Enfermería
 HXYHZQ,FES,FES Iztacala,Enfermería
@@ -558,7 +552,6 @@ QXYCDC,FES,FES Iztacala,Psicología SUAyED
 2G5REG,FES,FES Iztacala,Psicología SUAyED
 URT7XH,FES,FES Iztacala,Psicología SUAyED
 KWAFZM,FES,FES Zaragoza,Biología
-UGVEHD,FES,FES Zaragoza,Biología
 NZS26K,FES,FES Zaragoza,Biología
 ATFDWR,FES,FES Zaragoza,Biología
 UZK9Z4,FES,FES Zaragoza,Biología
@@ -595,7 +588,6 @@ T7EPF6,FES,FES Zaragoza,Desarrollo Comunitario para el Envejecimiento
 EUSGCL,FES,FES Zaragoza,Enfermería
 EBY6TR,FES,FES Zaragoza,Enfermería
 G5GKTE,FES,FES Zaragoza,Enfermería y Obstetricia
-ZGKH37,FES,FES Zaragoza,Enfermería y Obstetricia
 4BJ4EV,FES,FES Zaragoza,Ingeniería Química
 S5G28G,FES,FES Zaragoza,Ingeniería Química
 ZUAMAT,FES,FES Zaragoza,Ingeniería Química
@@ -655,8 +647,9 @@ DBFAJH,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
 NWG754,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
 QFJ94L,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
 EGJGMB,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
-5C9MQ9,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra
-D6ZCHZ,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra
+5C9MQ9,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS)
+D6ZCHZ,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS)
+7GW9UE,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS)
 5WL3J2,Facultades de CU,Facultad de Ciencias,Física
 JZC46F,Facultades de CU,Facultad de Ciencias,Física
 NYSCU3,Facultades de CU,Facultad de Ciencias,Física
@@ -713,6 +706,7 @@ F783Q6,Facultades de CU,Facultad de Ingeniería,Ingeniería Eléctrica y Electr�
 DWWWCX,Facultades de CU,Facultad de Ingeniería,Ingeniería Eléctrica y Electrónica
 V569QT,Facultades de CU,Facultad de Ingeniería,Ingeniería Eléctrica y Electrónica
 WEP2HC,Facultades de CU,Facultad de Ingeniería,Ingeniería Eléctrica y Electrónica
+3GML34,Facultades de CU,Facultad de Ingeniería,Ingeniería Eléctrica y Electrónica
 9ZULZT,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
 V3HNZA,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
 TFX6ZG,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
@@ -782,13 +776,11 @@ CGEFS2,Facultades de CU,Facultad de Ingeniería,Ingeniería Petrolera
 55VVA9,Facultades de CU,Facultad de Ingeniería,Ingeniería Petrolera
 8T2H42,Facultades de CU,Facultad de Ingeniería,## Ingeniería topográfica y geodésica
 ZGKH37,Facultades de CU,Facultad de Ingeniería,## Ingeniería topográfica y geodésica
-UQDRBZ,Facultades de CU,Facultad de Arquitectura,Arquitectura
-37RXPE,Facultades de CU,Facultad de Arquitectura,Arquitectura
-TAD88R,Facultades de CU,Facultad de Arquitectura,Arquitectura
 Z2PFT2,Facultades de CU,Facultad de Arquitectura,Arquitectura
 6PL54P,Facultades de CU,Facultad de Arquitectura,Arquitectura
 S4S24L,Facultades de CU,Facultad de Arquitectura,Arquitectura
 4T9W9R,Facultades de CU,Facultad de Arquitectura,Arquitectura
+TAD88R,Facultades de CU,Facultad de Arquitectura,Arquitectura
 Y7J263,Facultades de CU,Facultad de Arquitectura,Arquitectura
 FDDWLX,Facultades de CU,Facultad de Arquitectura,Arquitectura
 7FDNDL,Facultades de CU,Facultad de Arquitectura,Arquitectura
@@ -797,6 +789,8 @@ X4BZBK,Facultades de CU,Facultad de Arquitectura,Arquitectura
 J8S4ZS,Facultades de CU,Facultad de Arquitectura,Arquitectura
 HAAYEY,Facultades de CU,Facultad de Arquitectura,Arquitectura
 634MZ6,Facultades de CU,Facultad de Arquitectura,Arquitectura
+UQDRBZ,Facultades de CU,Facultad de Arquitectura,Arquitectura
+37RXPE,Facultades de CU,Facultad de Arquitectura,Arquitectura
 4PXEED,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
 96EUFJ,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
 27NGUN,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
@@ -813,7 +807,6 @@ S6FD5B,Facultades de CU,Facultad de Arquitectura,Urbanismo
 5YLFA4,Facultades de CU,Facultad de Arquitectura,Urbanismo
 WZ6CAL,Facultades de CU,Facultad de Arquitectura,Urbanismo
 KB2U7B,Facultades de CU,Facultad de Medicina,Ciencia de la Nutrición Humana
-ZGKH37,Facultades de CU,Facultad de Medicina,Ciencia de la Nutrición Humana
 LRYEUK,Facultades de CU,Facultad de Medicina,Fisioterapia
 3TGEAC,Facultades de CU,Facultad de Medicina,Fisioterapia
 H388MB,Facultades de CU,Facultad de Medicina,Fisioterapia
@@ -850,6 +843,7 @@ GTMTH9,Facultades de CU,Facultad de Medicina,Médico Cirujano
 HLTR92,Facultades de CU,Facultad de Medicina,Médico Cirujano
 BTJWYA,Facultades de CU,Facultad de Medicina,Médico Cirujano
 37SGX9,Facultades de CU,Facultad de Medicina,Médico Cirujano
+S6YQL2,Facultades de CU,Facultad de Medicina,Médico Cirujano
 S6K38H,Facultades de CU,Facultad de Medicina,Neuro
 U7FQVT,Facultades de CU,Facultad de Medicina,Neuro
 CSSVLE,Facultades de CU,Facultad de Medicina,Neuro
@@ -955,7 +949,6 @@ X4XHYB,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 V8NSTH,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 2AVJJ6,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 G5ZJ2S,Facultades de CU,Facultad de Química,Estudios sociales y gestión local
-ZGKH37,Facultades de CU,Facultad de Química,Estudios sociales y gestión local
 9R55ZS,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
 A7YU5R,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
 ZG5ZBZ,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
@@ -1056,20 +1049,20 @@ KMKJZT,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de l
 MW3B8F,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de la Comunicación (Periodismo)
 XZBWUT,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de la Comunicación (Periodismo)
 TW75Y9,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de la Comunicación (Periodismo)
-U2LRPH,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-4QRXH7,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-PTRGRY,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-UEYXQY,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-R9DENV,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-XH2446,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-U7D5JF,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-Q2KS8F,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-B6PXK6,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-D4SJJL,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-KJY9A8,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-CRGQXT,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-5X5NKZ,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
-HHBKQS,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPN${}$KGB"
+U2LRPH,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+4QRXH7,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+PTRGRY,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+UEYXQY,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+R9DENV,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+XH2446,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+U7D5JF,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+Q2KS8F,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+B6PXK6,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+D4SJJL,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+KJY9A8,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+CRGQXT,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+5X5NKZ,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
+HHBKQS,Facultades de CU,Facultad de Ciencias Políticas y Sociales,"(SUA), QPNKGB"
 EBAGVV,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Políticas y Administración Pública
 UWTZBJ,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Políticas y Administración Pública
 XH2446,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Políticas y Administración Pública
@@ -1102,10 +1095,12 @@ BHJJJA,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de l
 DFTXBL,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de la Comunicación (SUAyED)
 BFFU5Q,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de la Comunicación (SUAyED)
 P3ZRE5,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de la Comunicación (SUAyED)
+9ZP2AZ,Facultades de CU,Facultad de Contaduría y Administración,Administración
 VBDF4E,Facultades de CU,Facultad de Contaduría y Administración,Administración
 FFWLPX,Facultades de CU,Facultad de Contaduría y Administración,Administración
 HL67XM,Facultades de CU,Facultad de Contaduría y Administración,Administración
 UVJ83P,Facultades de CU,Facultad de Contaduría y Administración,Administración SUAYED a distancia
+3C5MX2,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 4TB6ZC,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 N54J7V,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 ZMY6X9,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
@@ -1136,7 +1131,6 @@ H3WUX3,Facultades de CU,Facultad de Contaduría y Administración,Informática
 KGTXD3,Facultades de CU,Facultad de Contaduría y Administración,Negocios Internacionales
 9RE3VP,Facultades de CU,Facultad de Contaduría y Administración,Negocios Internacionales
 NPCGN7,Facultades de CU,Facultad de Artes y Diseño,Arte y Diseño
-ZGKH37,Facultades de CU,Facultad de Artes y Diseño,Arte y Diseño
 W3FLD6,Facultades de CU,Facultad de Artes y Diseño,Artes Visuales
 SZEXJ3,Facultades de CU,Facultad de Artes y Diseño,Artes Visuales
 ZEX4TV,Facultades de CU,Facultad de Artes y Diseño,Artes Visuales
@@ -1174,6 +1168,7 @@ AGLLPJ,Facultades de CU,Facultad de Economía,Economia SUAyED
 4G7JK7,Facultades de CU,Facultad de Economía,Economia SUAyED
 CF4UBR,Facultades de CU,Facultad de Derecho,Derecho
 UU6VPQ,Facultades de CU,Facultad de Derecho,Derecho
+MFCF6H,Facultades de CU,Facultad de Derecho,Derecho
 5NT3GR,Facultades de CU,Facultad de Derecho,Derecho
 UFELAH,Facultades de CU,Facultad de Derecho,Derecho
 JQZR96,Facultades de CU,Facultad de Derecho,Derecho
@@ -1210,6 +1205,8 @@ T952XQ,Facultades de CU,Facultad de Derecho,Derecho
 HVZSUK,Facultades de CU,Facultad de Derecho,Derecho
 79LV2Z,Facultades de CU,Facultad de Derecho,Derecho
 VYGM4N,Facultades de CU,Facultad de Derecho,Derecho
+TUBLX3,Facultades de CU,Facultad de Derecho,Derecho
+JPJXQW,Facultades de CU,Facultad de Derecho,Derecho
 RVT6RY,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 47BH5C,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 MJLUUU,Facultades de CU,Facultad de Derecho,Derecho SUAYED
@@ -1257,10 +1254,10 @@ VZD8Z4,Facultades de CU,Facultad de Odontología,QQN4JVYSS7JK
 TZ3CU6,Facultades de CU,Facultad de Odontología,QQN4JVYSS7JK
 74JVX7,Facultades de CU,Facultad de Odontología,QQN4JVYSS7JK
 H36HPZ,Facultades de CU,Facultad de Odontología,QQN4JVYSS7JK
+GL8ETS,Facultades de CU,Facultad de Odontología,QQN4JVYSS7JK
 C73DE3,Facultades de CU,Facultad de Odontología,Odontologia
 9R45UR,Facultades de CU,Facultad de Odontología,Odontologia
 ZGPKFJ,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Ciencia de la Tierra: v
-ZGKH37,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Ciencia de la Tierra: v
 7GW9UE,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Ciencia de la Tierra: v
 QWC8VS,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Geografía Aplicada
 WNU5V3,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Geografía Aplicada
@@ -1572,6 +1569,7 @@ ZBV554,Tocayo,,Donovan
 HNXP56,Tocayo,,Dorian
 RDFGD3,Tocayo,,Dulce
 7RKM4V,Tocayo,,Dulce
+YY4XRF,Tocayo,,Dulce
 7XMBB9,Tocayo,,Eder
 DH5LMV,Tocayo,,Eder
 HR5TVK,Tocayo,,Edgar
@@ -1844,6 +1842,7 @@ QE4UEL,Tocayo,,Julian
 99YS7A,Tocayo,,Julian
 9DT7WG,Tocayo,,Juliana
 UN34WK,Tocayo,,Julieta
+7GW9UE,Tocayo,,Julieta
 CA469K,Tocayo,,Julio
 C4CR5W,Tocayo,,Kai
 S6FD5B,Tocayo,,Karen
@@ -2375,6 +2374,7 @@ QW57KK,Casi familia,,Bárcenas
 UU6VPQ,Casi familia,,Barrena
 M2P8C9,Casi familia,,Barrera
 UGW46F,Casi familia,,Barrientos
+QH7ZMB,Casi familia,,Barrientos
 T9UJMP,Casi familia,,Barriga
 UEW98C,Casi familia,,Barrios
 V8NHYS,Casi familia,,Barron
@@ -2744,6 +2744,7 @@ BHXKZL,Casi familia,,López
 NWANYF,Casi familia,,López
 ER4UV5,Casi familia,,López
 CY6ATS,Casi familia,,López
+3C5MX2,Casi familia,,López
 8GHZQ5,Casi familia,,Lopez (sin acento)
 H6ET8G,Casi familia,,Lozano
 T5ARSK,Casi familia,,Lozano
@@ -3037,6 +3038,7 @@ L92K5P,Casi familia,,Rodríguez
 3C9YXF,Casi familia,,Rodríguez
 PXH6BE,Casi familia,,Rodríguez
 KBH4QN,Casi familia,,Rodríguez
+YY4XRF,Casi familia,,Rodríguez
 QXN8JQ,Casi familia,,Rojas
 FZTJCT,Casi familia,,Rojas
 KMKJZT,Casi familia,,Rojas
@@ -3079,6 +3081,7 @@ DBY6Z4,Casi familia,,Sánchez
 8ERZAR,Casi familia,,Sandoval
 N3MF6K,Casi familia,,Santana
 9RDDKY,Casi familia,,Santiago
+7GW9UE,Casi familia,,Santiago
 AR9SK7,Casi familia,,Santillán
 E6FYLQ,Casi familia,,Santos
 H9L5AJ,Casi familia,,Santoyo
@@ -3269,6 +3272,7 @@ W57TBG,Pastel compartido,,ENERO
 VVZKGP,Pastel compartido,,ENERO
 ZTAQVJ,Pastel compartido,,ENERO
 8NZHFL,Pastel compartido,,ENERO
+YY4XRF,Pastel compartido,,ENERO
 6CRCR2,Pastel compartido,,FEBRERO
 GTTYS2,Pastel compartido,,FEBRERO
 GFE3DQ,Pastel compartido,,FEBRERO
@@ -3594,6 +3598,7 @@ T6DEYV,Pastel compartido,,OCTUBRE
 SDPBTV,Pastel compartido,,OCTUBRE
 ZAX4D8,Pastel compartido,,OCTUBRE
 LH9W8W,Pastel compartido,,OCTUBRE
+7GW9UE,Pastel compartido,,OCTUBRE
 2K9FK5,Pastel compartido,,NOVIEMBRE
 CBU3CE,Pastel compartido,,NOVIEMBRE
 JL85MQ,Pastel compartido,,NOVIEMBRE
@@ -3685,6 +3690,7 @@ W25A2E,Pastel compartido,,DICIEMBRE
 QAN9U2,Pastel compartido,,DICIEMBRE
 634MZ6,Pastel compartido,,DICIEMBRE
 LHPSC9,Pastel compartido,,DICIEMBRE
+3C5MX2,Pastel compartido,,DICIEMBRE
 K334YB,Pastel compartido,,LOGRO DE TODA LA REPÚBLICA 🗺️
 TPZWY9,Pastel compartido,,Aguascalientes
 UEW98C,Pastel compartido,,Baja California Sur
@@ -3919,6 +3925,7 @@ GTTYS2,Casi gemelos,Febrero,24
 8R5W24,Casi gemelos,Febrero,24
 3YCYBM,Casi gemelos,Febrero,25
 KLVKPA,Casi gemelos,Febrero,26
+VLM6JA,Casi gemelos,Febrero,26
 F3WH5B,Casi gemelos,Febrero,29
 JEYZRQ,Casi gemelos,Marzo,1
 MAT54P,Casi gemelos,Marzo,3
@@ -4135,6 +4142,7 @@ BBUZSK,Casi gemelos,Marzo,18
 LH4MD7,Casi gemelos,Marzo,19
 LADR7U,Casi gemelos,Marzo,20
 UAW9AA,Casi gemelos,Marzo,20
+KKYHAT,Casi gemelos,Marzo,20
 HZ6A9Z,Casi gemelos,Marzo,21
 Z8V7GJ,Casi gemelos,Marzo,22
 82H488,Casi gemelos,Marzo,23
@@ -4144,6 +4152,7 @@ HRQHZL,Casi gemelos,Marzo,27
 E9PR4H,Casi gemelos,Marzo,28
 Z7BAJP,Casi gemelos,Marzo,29${}$
 X5NADC,Casi gemelos,Marzo,30
+7GW9UE,Casi gemelos,Marzo,1
 XUY2U6,Casi gemelos,Marzo,3
 ESN8G3,Casi gemelos,Marzo,5
 8C9ST8,Casi gemelos,Marzo,6
@@ -4158,7 +4167,7 @@ JNFJKW,Casi gemelos,Marzo,12
 MUME6D,Casi gemelos,Marzo,13
 SDPBTV,Casi gemelos,Marzo,13
 YE9YNV,Casi gemelos,Marzo,14
-KXQAX2,Casi gemelos,Marzo,15
+TVPG8X,Casi gemelos,Marzo,15
 BP4BSQ,Casi gemelos,Marzo,16
 4XAJYP,Casi gemelos,Marzo,17
 92B2W3,Casi gemelos,Marzo,18
@@ -4170,10 +4179,11 @@ LH9W8W,Casi gemelos,Marzo,21
 UQQGXT,Casi gemelos,Marzo,22
 FFWLPX,Casi gemelos,Marzo,23
 UU7ANV,Casi gemelos,Marzo,24
+MFCF6H,Casi gemelos,Marzo,26
 GHSX27,Casi gemelos,Marzo,27
 P7PAUD,Casi gemelos,Marzo,27
 PYR8SK,Casi gemelos,Marzo,28
-EZLREM,Casi gemelos,Marzo,29
+YDQP49,Casi gemelos,Marzo,29
 XFX8U7,Casi gemelos,Marzo,30
 HUA7PR,Casi gemelos,Marzo,31
 Y2SM92,Casi gemelos,Marzo,1
@@ -4268,6 +4278,7 @@ FTJ9YB,Cazadora de mitos,,
 6WCB38,Cazadora de mitos,,
 5UQAMY,Cazadora de mitos,,(da medalla de virus al ser agregado)
 V6ZKQ8,Cazadora de mitos,,
+7GW9UE,Compa de banca,,Ciencias de la Tierra ENCiT / gen 2025
 8R5W24,Compa de banca,,Gen 2026
 8FWQFZ,Compa de banca,,ACTUARIA / FES ACATLAN / GEN 2023
 ZNFGAC,Compa de banca,,ACTUARIA / FES ACATLAN / GEN 2023
@@ -4403,6 +4414,7 @@ BFFU5Q,Compa de banca,,2026 SUAyED
 V7QEMW,Compa de banca,,2025
 FBTPB7,Compa de banca,,2024
 9ZP2AZ,Compa de banca,,2023
+VLM6JA,Compa de banca,,2022
 PGPXPL,Compa de banca,,2020
 HR5TVK,Compa de banca,,INGENIERIA EN ALIMENTOS / FESC / 2023
 TUQWSQ,Compa de banca,,Ingeniería Civil CU 2021
@@ -4445,8 +4457,9 @@ NSGN8U,Otros,,
 6WSK45,Anuncios de la comunidad,,Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E
 4C7WHL,Anuncios de la comunidad,,AGREGAME POR FAVOR BACHILLERATO A DISTANCIA
 ZGKH37,Anuncios de la comunidad,,
+634MZ6,Anuncios de la comunidad,,"Porfi agregueme alguien de bachillerato a distancia, aún nadie :("
 9ZULZT,Anuncios de la comunidad,,PORFAVOR AGREGAME BACHILLERATO A DISTANCIA
-634MZ6,Anuncios de la comunidad,,
+E7MD3K,Anuncios de la comunidad,,
 4JBFDU,Anuncios de la comunidad,,#
 JUDSPC,Anuncios de la comunidad,,Apiádate de nosotros bachillerato a distancia 🙏🏼
 U44QDA,Anuncios de la comunidad,,y
@@ -4472,9 +4485,11 @@ BBUZSK,Anuncios de la comunidad,,Amix de bachillerato en línea me agregan plz
 5VFXAG,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
 SUAW4X,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
 Z2PFT2,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
+TVPG8X,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
 EGJGMB,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
 8FXSPJ,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
 JQZR96,Anuncios de la comunidad,,"porfa agrengueme bachillerato en línea , porfissss!!!!"
+634MZ6,Anuncios de la comunidad,,
 QAN9U2,Anuncios de la comunidad,,"Porfis bachillerato en linea agregame, te transfiero 50 pesotes :("
 CCQBM9,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor 😔
 XEJ383,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
@@ -4711,7 +4726,7 @@ PW5KSH,Anuncios de la comunidad,,porfis °^°
 J8LGHK,Anuncios de la comunidad,,PORFAVOOOOOOOOOOOOOOOOR
 ALKPT3,Anuncios de la comunidad,,xfis tqm
 GTTYS2,Anuncios de la comunidad,,IEE FES Aragon
-EC4755,Anuncios de la comunidad,,"Estimada amiga o amigo de Bachillerato, te agradecería muchísimo si me agregarás"
+EC4755,Anuncios de la comunidad,,
 JVURUC,Anuncios de la comunidad,,"sin nada más que agregar, ten buen día 🫶🏽"
 SHYLDR,Anuncios de la comunidad,,me podrías agregar amigo a distancia por favor y si no es tanta molestiay te invito una tu
 JQAF7Q,Anuncios de la comunidad,,"tmb este tiren paro bachillerato a distancia , te invito un pulque de mazapan, daría la vi"
@@ -4817,6 +4832,7 @@ XNFFUS,Anuncios de la comunidad,,ayuda pls
 8GHZQ5,Anuncios de la comunidad,,Ayuda pls (y algo maravilloso te pasará mañana)
 D5GYZY,Anuncios de la comunidad,,por favor mis bachiquillos a distancia <3
 5RF8YB,Anuncios de la comunidad,,"por favoooor, solo me falta bachillerato a distancia"
+E7MD3K,Anuncios de la comunidad,,Ayudaaaaa bachillerato a distancia
 WSSGKM,Anuncios de la comunidad,,por favor
 W8QZZV,Anuncios de la comunidad,,porfis jeje
 W3AQ9D,Anuncios de la comunidad,,Bachillerato en línea porfavoooor
@@ -4831,9 +4847,12 @@ FPN8E4,Anuncios de la comunidad,,Agreguen porfaaa
 JEYZRQ,Anuncios de la comunidad,,Agreguenme bachillerato en línea por favor!!
 QV68T9,Anuncios de la comunidad,,AGRÉGUENME BACHILLERATO EN LÍNEA POR FAVOR
 S6YQL2,Anuncios de la comunidad,,porfaaaaa bachillerato en línea
+E7MD3K,Anuncios de la comunidad,,"Agreguenme Bachillerato a Distancia, tiren paro"
 5EQXAK,Anuncios de la comunidad,,
 5KDYK6,Anuncios de la comunidad,,Tiren paro bachillerato en linea plis :(
 7BSNQB,Anuncios de la comunidad,,
 V8SF6Z,Anuncios de la comunidad,,Porfa agregame bro
 6NDDAC,Anuncios de la comunidad,,"gente de bachillerato a distancia agreguen porfavor, soy de teatro"
 SPMU3V,Por favor Instituto de Investigaciones en Ecosistemas y Sustentabilida,,#
+E7MD3K,Por favor Instituto de Investigaciones en Ecosistemas y Sustentabilida,,
+7GW9UE,Por favor Instituto de Investigaciones en Ecosistemas y Sustentabilida,,"HOLA, NECESITO EL CÓDIGO DE ALGUIEN DE BACHILLERATO A DISTANCIA"

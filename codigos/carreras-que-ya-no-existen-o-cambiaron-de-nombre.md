@@ -12,7 +12,6 @@
 | `SXFJVK` | Enseñanza de italiano como Lengua Extranjera / FES ACATLÁ y N | doc |
 | `G5ZJ2S` | Estudios Sociales y Gestión Local /ENES Morelia | doc |
 | `GKBNW8` | Comunicación Gráfica | doc |
-| `ZGKH37` | Comunicación Gráfica | doc |
 | `5VSKLQ` | Música y tecnología artística | doc |
 | `DNX7NY` | Teatro y Actuación / CUT | doc |
 | `8T2H42` | Ingeniería Topográfica y geodesica!!! | doc |

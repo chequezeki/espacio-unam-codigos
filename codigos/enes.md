@@ -7,10 +7,9 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `ZGKH37` | Fisioterapia | doc |
+| `ARWJMZ` | Odontología | doc |
 | `Z7V2DL` | Optometría | doc |
-| `ARWJMZ` | Administración Agropecuária | doc |
 | `ZGKH37` | Administración Agropecuária | doc |
-| `ZGKH37` | Comunicación | doc |
 | `SYGFBM` | Desarrollo territorial | doc |
 | `ZGKH37` | Desarrollo territorial | doc |
 | `XT3Z2W` | Economía Industrial | doc |
@@ -31,11 +30,10 @@
 | `ZGKH37` | Etnomusicologia | doc |
 | `GTTYS2` | Ingeniería Eléctrica y Electrónica | doc |
 | `F783Q6` | Ingeniería Eléctrica y Electrónica | doc |
-| `E5YKZ7` | Ingeniería Eléctrica y Electrónica | doc |
-| `LKAE3D` | Ingeniería Eléctrica y Electrónica | doc |
-| `4THUMF` | Ingeniería Eléctrica y Electrónica | doc |
-| `8ZEKK9` | Ingeniería Eléctrica y Electrónica | doc |
-| `V569QT` | Ingeniería Eléctrica y Electrónica | doc |
+| `LKAE3D` | 5 | doc |
+| `4THUMF` | 5 | doc |
+| `8ZEKK9` | 5 | doc |
+| `V569QT` | 5 | doc |
 | `NQYJ5W` | Ingeniería en Computación | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
 | `V8VEEB` | Ingeniería en Computación | doc |
@@ -132,7 +130,6 @@
 |---|---|---|
 | `2YCHDH` | Geociencias | doc |
 | `PMATBR` | Geociencias | doc |
-| `NQYJ5W` | Geociencias | doc |
 | `V32CE5` | Etnomusicología | doc |
 | `ZGKH37` | Etnomusicología | doc |
 | `6TABQR` | Tecnologías para la Información en ciencias | doc |
@@ -182,7 +179,6 @@
 | `ZGKH37` | Ciencias de la Tierra | doc |
 | `YLA386` | Ingeniería en Computación | doc |
 | `Q2KLU8` | Biología | doc |
-| `ZGKH37` | Biología | doc |
 | `58ZH4F` | Ciencias ambientales | doc |
 | `RGVNRQ` | Manejo Sustentable de Zonas Costeras | doc |
 | `2CPSVN` | Geografía Aplicada | doc |

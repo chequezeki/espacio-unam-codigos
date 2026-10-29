@@ -7,7 +7,6 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `ZGPKFJ` | Ciencia de la Tierra: v | doc |
-| `ZGKH37` | Ciencia de la Tierra: v | doc |
 | `7GW9UE` | Ciencia de la Tierra: v | doc |
 | `QWC8VS` | Geografía Aplicada | doc |
 | `WNU5V3` | Geografía Aplicada | doc |

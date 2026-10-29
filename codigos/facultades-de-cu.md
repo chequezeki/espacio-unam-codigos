@@ -42,8 +42,9 @@
 | `NWG754` | Ciencias de la Computación | doc |
 | `QFJ94L` | Ciencias de la Computación | doc |
 | `EGJGMB` | Ciencias de la Computación | doc |
-| `5C9MQ9` | Ciencias de la Tierra | doc |
-| `D6ZCHZ` | Ciencias de la Tierra | doc |
+| `5C9MQ9` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
+| `D6ZCHZ` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
+| `7GW9UE` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
 | `5WL3J2` | Física | doc |
 | `JZC46F` | Física | doc |
 | `NYSCU3` | Física | doc |
@@ -105,6 +106,7 @@
 | `DWWWCX` | Ingeniería Eléctrica y Electrónica | doc |
 | `V569QT` | Ingeniería Eléctrica y Electrónica | doc |
 | `WEP2HC` | Ingeniería Eléctrica y Electrónica | doc |
+| `3GML34` | Ingeniería Eléctrica y Electrónica | doc |
 | `9ZULZT` | Ingeniería en Computación | doc |
 | `V3HNZA` | Ingeniería en Computación | doc |
 | `TFX6ZG` | Ingeniería en Computación | doc |
@@ -180,13 +182,11 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `UQDRBZ` | Arquitectura | doc |
-| `37RXPE` | Arquitectura | doc |
-| `TAD88R` | Arquitectura | doc |
 | `Z2PFT2` | Arquitectura | doc |
 | `6PL54P` | Arquitectura | doc |
 | `S4S24L` | Arquitectura | doc |
 | `4T9W9R` | Arquitectura | doc |
+| `TAD88R` | Arquitectura | doc |
 | `Y7J263` | Arquitectura | doc |
 | `FDDWLX` | Arquitectura | doc |
 | `7FDNDL` | Arquitectura | doc |
@@ -195,6 +195,8 @@
 | `J8S4ZS` | Arquitectura | doc |
 | `HAAYEY` | Arquitectura | doc |
 | `634MZ6` | Arquitectura | doc |
+| `UQDRBZ` | Arquitectura | doc |
+| `37RXPE` | Arquitectura | doc |
 | `4PXEED` | Arquitectura de Paisaje | doc |
 | `96EUFJ` | Arquitectura de Paisaje | doc |
 | `27NGUN` | Arquitectura de Paisaje | doc |
@@ -216,7 +218,6 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `KB2U7B` | Ciencia de la Nutrición Humana | doc |
-| `ZGKH37` | Ciencia de la Nutrición Humana | doc |
 | `LRYEUK` | Fisioterapia | doc |
 | `3TGEAC` | Fisioterapia | doc |
 | `H388MB` | Fisioterapia | doc |
@@ -253,6 +254,7 @@
 | `HLTR92` | Médico Cirujano | doc |
 | `BTJWYA` | Médico Cirujano | doc |
 | `37SGX9` | Médico Cirujano | doc |
+| `S6YQL2` | Médico Cirujano | doc |
 | `S6K38H` | Neuro | doc |
 | `U7FQVT` | Neuro | doc |
 | `CSSVLE` | Neuro | doc |
@@ -373,7 +375,6 @@
 | `V8NSTH` | Trabajo Social SUAyED | doc |
 | `2AVJJ6` | Trabajo Social SUAyED | doc |
 | `G5ZJ2S` | Estudios sociales y gestión local | doc |
-| `ZGKH37` | Estudios sociales y gestión local | doc |
 
 ## Facultad de Filosofía y Letras
 
@@ -484,20 +485,20 @@
 | `MW3B8F` | Ciencias de la Comunicación (Periodismo) | doc |
 | `XZBWUT` | Ciencias de la Comunicación (Periodismo) | doc |
 | `TW75Y9` | Ciencias de la Comunicación (Periodismo) | doc |
-| `U2LRPH` | (SUA), QPN${}$KGB | doc |
-| `4QRXH7` | (SUA), QPN${}$KGB | doc |
-| `PTRGRY` | (SUA), QPN${}$KGB | doc |
-| `UEYXQY` | (SUA), QPN${}$KGB | doc |
-| `R9DENV` | (SUA), QPN${}$KGB | doc |
-| `XH2446` | (SUA), QPN${}$KGB | doc |
-| `U7D5JF` | (SUA), QPN${}$KGB | doc |
-| `Q2KS8F` | (SUA), QPN${}$KGB | doc |
-| `B6PXK6` | (SUA), QPN${}$KGB | doc |
-| `D4SJJL` | (SUA), QPN${}$KGB | doc |
-| `KJY9A8` | (SUA), QPN${}$KGB | doc |
-| `CRGQXT` | (SUA), QPN${}$KGB | doc |
-| `5X5NKZ` | (SUA), QPN${}$KGB | doc |
-| `HHBKQS` | (SUA), QPN${}$KGB | doc |
+| `U2LRPH` | (SUA), QPNKGB | doc |
+| `4QRXH7` | (SUA), QPNKGB | doc |
+| `PTRGRY` | (SUA), QPNKGB | doc |
+| `UEYXQY` | (SUA), QPNKGB | doc |
+| `R9DENV` | (SUA), QPNKGB | doc |
+| `XH2446` | (SUA), QPNKGB | doc |
+| `U7D5JF` | (SUA), QPNKGB | doc |
+| `Q2KS8F` | (SUA), QPNKGB | doc |
+| `B6PXK6` | (SUA), QPNKGB | doc |
+| `D4SJJL` | (SUA), QPNKGB | doc |
+| `KJY9A8` | (SUA), QPNKGB | doc |
+| `CRGQXT` | (SUA), QPNKGB | doc |
+| `5X5NKZ` | (SUA), QPNKGB | doc |
+| `HHBKQS` | (SUA), QPNKGB | doc |
 | `EBAGVV` | Políticas y Administración Pública | doc |
 | `UWTZBJ` | Políticas y Administración Pública | doc |
 | `XH2446` | Políticas y Administración Pública | doc |
@@ -535,10 +536,12 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `9ZP2AZ` | Administración | doc |
 | `VBDF4E` | Administración | doc |
 | `FFWLPX` | Administración | doc |
 | `HL67XM` | Administración | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
+| `3C5MX2` | Contaduría | doc |
 | `4TB6ZC` | Contaduría | doc |
 | `N54J7V` | Contaduría | doc |
 | `ZMY6X9` | Contaduría | doc |
@@ -574,7 +577,6 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `NPCGN7` | Arte y Diseño | doc |
-| `ZGKH37` | Arte y Diseño | doc |
 | `W3FLD6` | Artes Visuales | doc |
 | `SZEXJ3` | Artes Visuales | doc |
 | `ZEX4TV` | Artes Visuales | doc |
@@ -622,6 +624,7 @@
 |---|---|---|
 | `CF4UBR` | Derecho | doc |
 | `UU6VPQ` | Derecho | doc |
+| `MFCF6H` | Derecho | doc |
 | `5NT3GR` | Derecho | doc |
 | `UFELAH` | Derecho | doc |
 | `JQZR96` | Derecho | doc |
@@ -658,6 +661,8 @@
 | `HVZSUK` | Derecho | doc |
 | `79LV2Z` | Derecho | doc |
 | `VYGM4N` | Derecho | doc |
+| `TUBLX3` | Derecho | doc |
+| `JPJXQW` | Derecho | doc |
 | `RVT6RY` | Derecho SUAYED | doc |
 | `47BH5C` | Derecho SUAYED | doc |
 | `MJLUUU` | Derecho SUAYED | doc |
@@ -715,6 +720,7 @@
 | `TZ3CU6` | QQN4JVYSS7JK | doc |
 | `74JVX7` | QQN4JVYSS7JK | doc |
 | `H36HPZ` | QQN4JVYSS7JK | doc |
+| `GL8ETS` | QQN4JVYSS7JK | doc |
 | `C73DE3` | Odontologia | doc |
 | `9R45UR` | Odontologia | doc |
 

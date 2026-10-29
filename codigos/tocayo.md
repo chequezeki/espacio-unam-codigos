@@ -284,6 +284,7 @@
 | `HNXP56` | Dorian | doc |
 | `RDFGD3` | Dulce | doc |
 | `7RKM4V` | Dulce | doc |
+| `YY4XRF` | Dulce | doc |
 | `7XMBB9` | Eder | doc |
 | `DH5LMV` | Eder | doc |
 | `HR5TVK` | Edgar | doc |
@@ -556,6 +557,7 @@
 | `99YS7A` | Julian | doc |
 | `9DT7WG` | Juliana | doc |
 | `UN34WK` | Julieta | doc |
+| `7GW9UE` | Julieta | doc |
 | `CA469K` | Julio | doc |
 | `C4CR5W` | Kai | doc |
 | `S6FD5B` | Karen | doc |

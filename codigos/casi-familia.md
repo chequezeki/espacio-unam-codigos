@@ -99,6 +99,7 @@
 | `UU6VPQ` | Barrena | doc |
 | `M2P8C9` | Barrera | doc |
 | `UGW46F` | Barrientos | doc |
+| `QH7ZMB` | Barrientos | doc |
 | `T9UJMP` | Barriga | doc |
 | `UEW98C` | Barrios | doc |
 | `V8NHYS` | Barron | doc |
@@ -468,6 +469,7 @@
 | `NWANYF` | López | doc |
 | `ER4UV5` | López | doc |
 | `CY6ATS` | López | doc |
+| `3C5MX2` | López | doc |
 | `8GHZQ5` | Lopez (sin acento) | doc |
 | `H6ET8G` | Lozano | doc |
 | `T5ARSK` | Lozano | doc |
@@ -761,6 +763,7 @@
 | `3C9YXF` | Rodríguez | doc |
 | `PXH6BE` | Rodríguez | doc |
 | `KBH4QN` | Rodríguez | doc |
+| `YY4XRF` | Rodríguez | doc |
 | `QXN8JQ` | Rojas | doc |
 | `FZTJCT` | Rojas | doc |
 | `KMKJZT` | Rojas | doc |
@@ -803,6 +806,7 @@
 | `8ERZAR` | Sandoval | doc |
 | `N3MF6K` | Santana | doc |
 | `9RDDKY` | Santiago | doc |
+| `7GW9UE` | Santiago | doc |
 | `AR9SK7` | Santillán | doc |
 | `E6FYLQ` | Santos | doc |
 | `H9L5AJ` | Santoyo | doc |

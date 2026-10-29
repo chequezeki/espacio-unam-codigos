@@ -53,6 +53,7 @@
 | `METDCV` | Derecho | doc |
 | `CY5CX8` | Derecho | doc |
 | `E92887` | Derecho | doc |
+| `XHYP6B` | Derecho | doc |
 | `MP7Y6M` | Derecho sua | doc |
 | `6S9FH3` | Derecho sua | doc |
 | `PTHAMJ` | Economía | doc |
@@ -65,6 +66,7 @@
 | `VD522A` | Relaciones Internacionales | doc |
 | `AJ8KGJ` | Relaciones Internacionales | doc |
 | `BASB5W` | Relaciones Internacionales SUAYED | doc |
+| `VD522A` | Relaciones Internacionales SUAYED | doc |
 | `46Q2KK` | Sociología | doc |
 | `7UHFHJ` | Sociología | doc |
 | `XT3Z2W` | Sociología | doc |
@@ -77,15 +79,13 @@
 | `NC53MT` | Diseño Gráfico | doc |
 | `Z9D3BT` | Diseño Gráfico | doc |
 | `JE8MNE` | Enseñanza de Inglés ‘como Lengua Extranjera | doc |
-| `ZGKH37` | Enseñanza de Inglés ‘como Lengua Extranjera | doc |
-| `ZGKH37` | Enseñanza de Francés como Lengua Extranjera | doc |
+| `TVPG8X` | Enseñanza de Francés como Lengua Extranjera | doc |
 | `G45DBK` | Enseñanza de Español como Lengua Extranjera | doc |
 | `T7EEMY` | Enseñanza de Español como Lengua Extranjera | doc |
 | `EDWUCZ` | Enseñanza de Español como Lengua Extranjera | doc |
 | `4QQA2Z` | Enseñanza de Español como Lengua Extranjera | doc |
 | `SXFJVK` | Enseñanza de Italiano | doc |
 | `ZGKH37` | Enseñanza de Italiano | doc |
-| `WTUU9H` | Enseñanza de ingles | doc |
 | `3FWPDJ` | Enseñanza de ingles | doc |
 | `GM2S6V` | Enseñanza de ingles | doc |
 | `LGRZ65` | Enseñanza de ingles | doc |
@@ -134,12 +134,12 @@
 | `7NSF65` | Derecho | doc |
 | `8GHZQ5` | Derecho | doc |
 | `AWLR5V` | Derecho | doc |
+| `YY4XRF` | Derecho | doc |
 | `X87RX3` | Economía | doc |
 | `B6N39M` | Economía | doc |
 | `QV8YWM` | Economía | doc |
 | `84HDNQ` | Economía | doc |
 | `4E5D5N` | Economía SUAyED | doc |
-| `ZGKH37` | Economía SUAyED | doc |
 | `BZJX2A` | Ingeniería Civil | doc |
 | `UEYKGM` | Ingeniería Civil | doc |
 | `GAVUGY` | Ingeniería Civil | doc |
@@ -316,6 +316,7 @@
 | `WCSRV9` | Biología | doc |
 | `34EDFF` | Biología | doc |
 | `CJ4TXS` | Biología | doc |
+| `E7MD3K` | Biología | doc |
 | `RAUM9Z` | Enfermería | doc |
 | `X7BTUA` | Enfermería | doc |
 | `HXYHZQ` | Enfermería | doc |
@@ -359,7 +360,6 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `KWAFZM` | Biología | doc |
-| `UGVEHD` | Biología | doc |
 | `NZS26K` | Biología | doc |
 | `ATFDWR` | Biología | doc |
 | `UZK9Z4` | Biología | doc |
@@ -396,7 +396,6 @@
 | `EUSGCL` | Enfermería | doc |
 | `EBY6TR` | Enfermería | doc |
 | `G5GKTE` | Enfermería y Obstetricia | doc |
-| `ZGKH37` | Enfermería y Obstetricia | doc |
 | `4BJ4EV` | Ingeniería Química | doc |
 | `S5G28G` | Ingeniería Química | doc |
 | `ZUAMAT` | Ingeniería Química | doc |

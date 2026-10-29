@@ -7,8 +7,9 @@
 | `6WSK45` | Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E | doc |
 | `4C7WHL` | AGREGAME POR FAVOR BACHILLERATO A DISTANCIA | doc |
 | `ZGKH37` | — | doc |
+| `634MZ6` | Porfi agregueme alguien de bachillerato a distancia, aún nadie :( | doc |
 | `9ZULZT` | PORFAVOR AGREGAME BACHILLERATO A DISTANCIA | doc |
-| `634MZ6` | — | doc |
+| `E7MD3K` | — | doc |
 | `4JBFDU` | # | doc |
 | `JUDSPC` | Apiádate de nosotros bachillerato a distancia 🙏🏼 | doc |
 | `U44QDA` | y | doc |
@@ -34,9 +35,11 @@
 | `5VFXAG` | Agrégame bachillerato en línea por favor | doc |
 | `SUAW4X` | Agrégame bachillerato en línea por favor | doc |
 | `Z2PFT2` | Agrégame bachillerato en línea por favor | doc |
+| `TVPG8X` | Agrégame bachillerato en línea por favor | doc |
 | `EGJGMB` | Agrégame bachillerato en línea por favor | doc |
 | `8FXSPJ` | Agrégame bachillerato en línea por favor | doc |
 | `JQZR96` | porfa agrengueme bachillerato en línea , porfissss!!!! | doc |
+| `634MZ6` | — | doc |
 | `QAN9U2` | Porfis bachillerato en linea agregame, te transfiero 50 pesotes :( | doc |
 | `CCQBM9` | Agrégame bachillerato en línea por favor 😔 | doc |
 | `XEJ383` | Agrégame bachillerato en línea por favor | doc |
@@ -273,7 +276,7 @@
 | `J8LGHK` | PORFAVOOOOOOOOOOOOOOOOR | doc |
 | `ALKPT3` | xfis tqm | doc |
 | `GTTYS2` | IEE FES Aragon | doc |
-| `EC4755` | Estimada amiga o amigo de Bachillerato, te agradecería muchísimo si me agregarás | doc |
+| `EC4755` | — | doc |
 | `JVURUC` | sin nada más que agregar, ten buen día 🫶🏽 | doc |
 | `SHYLDR` | me podrías agregar amigo a distancia por favor y si no es tanta molestiay te invito una tu | doc |
 | `JQAF7Q` | tmb este tiren paro bachillerato a distancia , te invito un pulque de mazapan, daría la vi | doc |
@@ -379,6 +382,7 @@
 | `8GHZQ5` | Ayuda pls (y algo maravilloso te pasará mañana) | doc |
 | `D5GYZY` | por favor mis bachiquillos a distancia <3 | doc |
 | `5RF8YB` | por favoooor, solo me falta bachillerato a distancia | doc |
+| `E7MD3K` | Ayudaaaaa bachillerato a distancia | doc |
 | `WSSGKM` | por favor | doc |
 | `W8QZZV` | porfis jeje | doc |
 | `W3AQ9D` | Bachillerato en línea porfavoooor | doc |
@@ -393,6 +397,7 @@
 | `JEYZRQ` | Agreguenme bachillerato en línea por favor!! | doc |
 | `QV68T9` | AGRÉGUENME BACHILLERATO EN LÍNEA POR FAVOR | doc |
 | `S6YQL2` | porfaaaaa bachillerato en línea | doc |
+| `E7MD3K` | Agreguenme Bachillerato a Distancia, tiren paro | doc |
 | `5EQXAK` | — | doc |
 | `5KDYK6` | Tiren paro bachillerato en linea plis :( | doc |
 | `7BSNQB` | — | doc |

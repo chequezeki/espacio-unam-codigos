@@ -53,6 +53,7 @@
 | `VVZKGP` | ENERO | doc |
 | `ZTAQVJ` | ENERO | doc |
 | `8NZHFL` | ENERO | doc |
+| `YY4XRF` | ENERO | doc |
 | `6CRCR2` | FEBRERO | doc |
 | `GTTYS2` | FEBRERO | doc |
 | `GFE3DQ` | FEBRERO | doc |
@@ -378,6 +379,7 @@
 | `SDPBTV` | OCTUBRE | doc |
 | `ZAX4D8` | OCTUBRE | doc |
 | `LH9W8W` | OCTUBRE | doc |
+| `7GW9UE` | OCTUBRE | doc |
 | `2K9FK5` | NOVIEMBRE | doc |
 | `CBU3CE` | NOVIEMBRE | doc |
 | `JL85MQ` | NOVIEMBRE | doc |
@@ -469,6 +471,7 @@
 | `QAN9U2` | DICIEMBRE | doc |
 | `634MZ6` | DICIEMBRE | doc |
 | `LHPSC9` | DICIEMBRE | doc |
+| `3C5MX2` | DICIEMBRE | doc |
 | `K334YB` | LOGRO DE TODA LA REPÚBLICA 🗺️ | doc |
 | `TPZWY9` | Aguascalientes | doc |
 | `UEW98C` | Baja California Sur | doc |
