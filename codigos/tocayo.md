@@ -87,6 +87,7 @@
 | `ZJJYZU` | Amayrani | doc |
 | `WLW4WT` | Amir | doc |
 | `NBDGLB` | Amos | doc |
+| `VNMPZ9` | Ana | doc |
 | `6GT9PH` | Ana | doc |
 | `UMZHHH` | Ana | doc |
 | `RP824B` | Ana | doc |
@@ -253,6 +254,7 @@
 | `AXFFAE` | Dasha | doc |
 | `9GE77M` | Dante | doc |
 | `YBN3XW` | David | doc |
+| `9ZULZT` | DAYNA ( No Dayana) | doc |
 | `JUJB7X` | Dayana | doc |
 | `L29XDT` | Dayane | doc |
 | `YK9XG3` | Dayra | doc |
@@ -498,6 +500,7 @@
 | `BELPYW` | Jennifer | doc |
 | `G9HCLW` | Jenny | doc |
 | `GSWGUF` | Jeremy | doc |
+| `KRYNU4` | Jeremy | doc |
 | `ZHSJL4` | Jesica | doc |
 | `8YFL8T` | Jessica | doc |
 | `YYSEV5` | Jessica | doc |
@@ -763,7 +766,6 @@
 | `U9FRDX` | Nidia | doc |
 | `R7ZS2S` | Noé | doc |
 | `MTUVQH` | Noel | doc |
-| `CF4UBR` | Noemy | doc |
 | `NVA94H` | Noemy | doc |
 | `8NZHFL` | Noemí | doc |
 | `AWTK5Y` | Nora | doc |

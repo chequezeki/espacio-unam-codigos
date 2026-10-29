@@ -18,6 +18,7 @@
 | `5DE3MV` | Arquitectura | doc |
 | `DEPQX9` | Arquitectura | doc |
 | `L4RHWU` | Ciencia de Datos | doc |
+| `ZGKH37` | Ciencia de Datos | doc |
 | `GAVUGY` | Ingeniería Civil | doc |
 | `7BATH7` | Ingeniería Civil | doc |
 | `9X7TGT` | Ingeniería Civil | doc |
@@ -76,6 +77,7 @@
 | `NC53MT` | Diseño Gráfico | doc |
 | `Z9D3BT` | Diseño Gráfico | doc |
 | `JE8MNE` | Enseñanza de Inglés ‘como Lengua Extranjera | doc |
+| `ZGKH37` | Enseñanza de Inglés ‘como Lengua Extranjera | doc |
 | `ZGKH37` | Enseñanza de Francés como Lengua Extranjera | doc |
 | `G45DBK` | Enseñanza de Español como Lengua Extranjera | doc |
 | `T7EEMY` | Enseñanza de Español como Lengua Extranjera | doc |
@@ -143,7 +145,7 @@
 | `GAVUGY` | Ingeniería Civil | doc |
 | `GR5YLN` | Ingeniería Civil | doc |
 | `QLNMF5` | Ingeniería Civil | doc |
-| `F783Q6` | Ingeniería Eléctrica y Electrónica | doc |
+| `ZGKH37` | Ingeniería Eléctrica y Electrónica | doc |
 | `2ST249` | Ingeniería en Computación | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
 | `V8VEEB` | Ingeniería en Computación | doc |
@@ -195,6 +197,7 @@
 | `2UAYY2` | Relaciones Internacionales | doc |
 | `3PPWQ5` | Relaciones Internacionales | doc |
 | `B32HHM` | Sociología | doc |
+| `ZGKH37` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |
 | `27YHVB` | Derecho Sua | doc |
 | `7V7782` | Derecho Sua | doc |
@@ -211,6 +214,7 @@
 | `4DB2PC` | Administración | doc |
 | `C24B7W` | Conta | doc |
 | `W3FLD6` | Artes Visuales | doc |
+| `ZGKH37` | Artes Visuales | doc |
 | `NZV72B` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `W2CA3T` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `GTYWRN` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
@@ -219,6 +223,7 @@
 | `M8PN5M` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `9QDPTW` | — | doc |
 | `K4RNJH` | Ingeniería Industrial | doc |
+| `ZGKH37` | Ingeniería Industrial | doc |
 | `VPRKQA` | Diseño y Visual | doc |
 | `3W5HLK` | Diseño y Visual | doc |
 | `AV5UAQ` | Diseño y Visual | doc |
@@ -272,6 +277,7 @@
 | `N3MF6K` | Química Industrial | doc |
 | `FTJ9YB` | Química Industrial | doc |
 | `HFAAS9` | Ingeniería En Alimentos | doc |
+| `ZGKH37` | Ingeniería En Alimentos | doc |
 | `47JVS9` | Ingeniería Agrícola 🌽 | doc |
 | `6U3VWW` | Ingeniería Agrícola 🌽 | doc |
 | `PYADLG` | Ingeniería Agrícola 🌽 | doc |
@@ -283,6 +289,7 @@
 | `E7REA4` | Informática | doc |
 | `CQ4TYX` | Informática | doc |
 | `GKBNW8` | Comunicación gráfica | doc |
+| `ZGKH37` | Comunicación gráfica | doc |
 
 ## FES Iztacala
 
@@ -294,6 +301,7 @@
 | `8VA22G` | Medicina | doc |
 | `Y6352H` | Medicina | doc |
 | `YU7DW5` | Ecología | doc |
+| `ZGKH37` | Ecología | doc |
 | `Q2KLU8` | Biología | doc |
 | `A28B7B` | Biología | doc |
 | `49ACHB` | Biología | doc |
@@ -388,6 +396,7 @@
 | `EUSGCL` | Enfermería | doc |
 | `EBY6TR` | Enfermería | doc |
 | `G5GKTE` | Enfermería y Obstetricia | doc |
+| `ZGKH37` | Enfermería y Obstetricia | doc |
 | `4BJ4EV` | Ingeniería Química | doc |
 | `S5G28G` | Ingeniería Química | doc |
 | `ZUAMAT` | Ingeniería Química | doc |

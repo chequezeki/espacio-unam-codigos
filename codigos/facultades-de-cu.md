@@ -48,6 +48,7 @@
 | `JZC46F` | Física | doc |
 | `NYSCU3` | Física | doc |
 | `3BQQCQ` | Física | doc |
+| `367Y2Q` | Física | doc |
 | `4EVPB3` | Física Biomédica | doc |
 | `6JPQ4R` | Física Biomédica | doc |
 | `GC6HKG` | Física Biomédica | doc |
@@ -69,6 +70,7 @@
 | `4A4LJJ` | Matemáticas Aplicadas | doc |
 | `KDTKR8` | Matemáticas Aplicadas | doc |
 | `UU7ANV` | Matemáticas para el desarrollo | doc |
+| `ZGKH37` | Matemáticas para el desarrollo | doc |
 
 ## Facultad de Ingeniería
 
@@ -83,6 +85,7 @@
 | `ZQ7D4T` | Ingeniería Aeroespacial | doc |
 | `CBEPWS` | Ingeniería Aeroespacial | doc |
 | `HR5TVK` | Ingeniería En Alimentos | doc |
+| `ZGKH37` | Ingeniería En Alimentos | doc |
 | `QZ35PS` | Ingeniería Ambiental | doc |
 | `4RTEPW` | Ingeniería Ambiental | doc |
 | `7QYUTX` | Ingeniería Ambiental | doc |
@@ -102,6 +105,7 @@
 | `DWWWCX` | Ingeniería Eléctrica y Electrónica | doc |
 | `V569QT` | Ingeniería Eléctrica y Electrónica | doc |
 | `WEP2HC` | Ingeniería Eléctrica y Electrónica | doc |
+| `9ZULZT` | Ingeniería en Computación | doc |
 | `V3HNZA` | Ingeniería en Computación | doc |
 | `TFX6ZG` | Ingeniería en Computación | doc |
 | `5EFYQV` | Ingeniería en Computación | doc |
@@ -169,6 +173,7 @@
 | `CGEFS2` | Ingeniería Petrolera | doc |
 | `55VVA9` | Ingeniería Petrolera | doc |
 | `8T2H42` | ## Ingeniería topográfica y geodésica | doc |
+| `ZGKH37` | ## Ingeniería topográfica y geodésica | doc |
 | `9BCKYJ` | Ingeniería eléctrica y electrónica; Marco Tulio; Torres; 25; 2020 | comunidad |
 
 ## Facultad de Arquitectura
@@ -297,12 +302,14 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `DY74DM` | Educación Musical | doc |
+| `ZGKH37` | Educación Musical | doc |
 | `V32CE5` | Etnomusicología | doc |
 | `EBTE6Q` | Musica - instrumentista | doc |
 | `VPDHVT` | Musica - instrumentista | doc |
 | `E5JSKA` | Música - composición | doc |
 | `F7CFRK` | Música - canto | doc |
 | `YBN3XW` | Música - piano | doc |
+| `ZGKH37` | Música - piano | doc |
 | `5VSKLQ` | Música · Música y Tecnología Artistica | doc |
 
 ## Facultad de Química
@@ -321,6 +328,7 @@
 | `28TBBT` | Ingeniería Química | doc |
 | `AK6ZWR` | Ingeniería Química | doc |
 | `RSJUH3` | Ingeniería Química | doc |
+| `LHN8GW` | Ingeniería Química | doc |
 | `XZ5H3V` | Ingeniería Química Metalúrgica | doc |
 | `6JGSCT` | Ingeniería Química Metalúrgica | doc |
 | `QUQKEZ` | Ingeniería Química Metalúrgica | doc |
@@ -351,6 +359,7 @@
 | `S8LNQW` | Química Farmacéutico Biológica | doc |
 | `P5TDP6` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
+| `ZGKH37` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
 | `VTPBQ4` | Trabajo Social | doc |
@@ -364,6 +373,7 @@
 | `V8NSTH` | Trabajo Social SUAyED | doc |
 | `2AVJJ6` | Trabajo Social SUAyED | doc |
 | `G5ZJ2S` | Estudios sociales y gestión local | doc |
+| `ZGKH37` | Estudios sociales y gestión local | doc |
 
 ## Facultad de Filosofía y Letras
 
@@ -377,6 +387,7 @@
 | `FRTNXJ` | Bibliotecología y Estudios de la Información | doc |
 | `57EYLG` | Bibliotecología y Estudios de la Información | doc |
 | `M33DPN` | Administración de Archivos y Gestión Documental | doc |
+| `ZGKH37` | Administración de Archivos y Gestión Documental | doc |
 | `DL7ZKB` | Filosofía | doc |
 | `5DV4P9` | Filosofía | doc |
 | `9JURAL` | Filosofía | doc |
@@ -403,6 +414,7 @@
 | `XEMANH` | Lengua y Literaturas Modernas Francesas | doc |
 | `H47GVV` | Lengua y Literaturas Modernas Francesas | doc |
 | `DBT5GV` | Lengua y Literaturas Modernas Alemanas | doc |
+| `ZGKH37` | Lengua y Literaturas Modernas Alemanas | doc |
 | `MZZQ3K` | Lengua y Literaturas Modernas Inglesas | doc |
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |
 | `5GBMQ7` | Lengua y Literaturas Modernas Italianas | doc |
@@ -447,7 +459,7 @@
 | `MRAV79` | Letras Clásicas | doc |
 | `SYCLSN` | Historia del arte | doc |
 
-## Facultad de Políticas y Sociales
+## Facultad de Ciencias Políticas y Sociales
 
 | Código | Etiqueta | Origen |
 |---|---|---|
@@ -486,12 +498,14 @@
 | `CRGQXT` | (SUA), QPN${}$KGB | doc |
 | `5X5NKZ` | (SUA), QPN${}$KGB | doc |
 | `HHBKQS` | (SUA), QPN${}$KGB | doc |
+| `EBAGVV` | Políticas y Administración Pública | doc |
 | `UWTZBJ` | Políticas y Administración Pública | doc |
 | `XH2446` | Políticas y Administración Pública | doc |
 | `ZTKJWR` | Políticas y Administración Pública | doc |
 | `JHCABD` | Políticas y Administración Pública | doc |
 | `YK4BPW` | Políticas y Administración Pública | doc |
 | `V7QEMW` | Políticas y Administración Pública | doc |
+| `PGPXPL` | Políticas y Administración Pública | doc |
 | `6DULNS` | Relaciones Internacionales | doc |
 | `NK254K` | Relaciones Internacionales | doc |
 | `S7HWRK` | Relaciones Internacionales | doc |
@@ -505,9 +519,10 @@
 | `BJ4SN6` | Sociología | doc |
 | `S5Y4U2` | Sociología | doc |
 | `SPN24H` | Sociología | doc |
-| `UJZHQQ` | UH9[^1]C9E | doc |
-| `2Q2JR9` | UH9[^1]C9E | doc |
-| `78WFBX` | UH9[^1]C9E | doc |
+| `UH9C9E` | Sociología | doc |
+| `UJZHQQ` | Sociología | doc |
+| `2Q2JR9` | Sociología | doc |
+| `78WFBX` | Sociología | doc |
 | `V7QEMW` | Ciencias Políticas y AP A DISTANCIA NUEVO INGRESO | doc |
 | `75CQF3` | Ciencias de la Comunicación (SUAyED) | doc |
 | `VFL56D` | Ciencias de la Comunicación (SUAyED) | doc |
@@ -524,6 +539,7 @@
 | `FFWLPX` | Administración | doc |
 | `HL67XM` | Administración | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
+| `4TB6ZC` | Contaduría | doc |
 | `N54J7V` | Contaduría | doc |
 | `ZMY6X9` | Contaduría | doc |
 | `ZG27YE` | Contaduría | doc |
@@ -697,6 +713,7 @@
 | `9ZHNXC` | QQN4JVYSS7JK | doc |
 | `TZ3CU6` | QQN4JVYSS7JK | doc |
 | `74JVX7` | QQN4JVYSS7JK | doc |
+| `H36HPZ` | QQN4JVYSS7JK | doc |
 | `C73DE3` | Odontologia | doc |
 | `9R45UR` | Odontologia | doc |
 

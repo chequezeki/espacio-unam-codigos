@@ -57,6 +57,7 @@
 | `ZGABW3` | Arredondo | doc |
 | `3UA93V` | Arreola | doc |
 | `D8VY2V` | Arrieta | doc |
+| `ECBFSC` | Arteaga | doc |
 | `WVBJN2` | Aparicio | doc |
 | `49ACHB` | Avalos | doc |
 | `ZAX7PL` | Avila | doc |
@@ -142,6 +143,7 @@
 | `6YLFPN` | Carballo | doc |
 | `CXFVXV` | Cabrera | doc |
 | `ZR8YJF` | Cabañas | doc |
+| `ECBFSC` | Cerrillos | doc |
 | `27NGUN` | Caballero | doc |
 | `YX23L5` | Caballero | doc |
 | `AX92JQ` | Cabello | doc |
@@ -773,6 +775,7 @@
 | `T4VFRQ` | Rubio | doc |
 | `JN42QP` | Rubio | doc |
 | `AXBZDR` | Rubio | doc |
+| `VNMPZ9` | Ruiz | doc |
 | `RUR545` | Ruiz | doc |
 | `BL2SEC` | Ruiz | doc |
 | `VU4EAW` | Ruiz | doc |

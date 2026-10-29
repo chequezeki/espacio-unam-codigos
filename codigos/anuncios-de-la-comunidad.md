@@ -5,7 +5,9 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `6WSK45` | Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E | doc |
-| `ZGKH37` | porfa agrengueme bachillerato en línea , porfissss!!!! | doc |
+| `4C7WHL` | AGREGAME POR FAVOR BACHILLERATO A DISTANCIA | doc |
+| `ZGKH37` | — | doc |
+| `9ZULZT` | PORFAVOR AGREGAME BACHILLERATO A DISTANCIA | doc |
 | `634MZ6` | — | doc |
 | `4JBFDU` | # | doc |
 | `JUDSPC` | Apiádate de nosotros bachillerato a distancia 🙏🏼 | doc |
