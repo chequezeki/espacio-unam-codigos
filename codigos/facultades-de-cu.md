@@ -68,6 +68,7 @@
 | `HTMSLJ` | Matemáticas | doc |
 | `QQ9PAN` | Matemáticas | doc |
 | `Z23AAN` | Matemáticas | doc |
+| `NYKVFQ` | Matemáticas | doc |
 | `B3HHNQ` | Matemáticas Aplicadas | doc |
 | `9K99R3` | Matemáticas Aplicadas | doc |
 | `4A4LJJ` | Matemáticas Aplicadas | doc |
@@ -119,11 +120,12 @@
 | `JN42QP` | Ingeniería en Computación | doc |
 | `QXN8JQ` | Ingeniería en Computación | doc |
 | `ZH8RDP` | Ingeniería en Computación | doc |
-| `BPGFSP` | Ingeniería en Computación | doc |
-| `ELUYC2` | Ingeniería en Computación | doc |
-| `95Y7HN` | Ingeniería en Computación | doc |
-| `EGJGMB` | Ingeniería en Computación | doc |
-| `7Y4N48` | Ingeniería en Computación | doc |
+| `BPGFSP` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
+| `ELUYC2` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
+| `95Y7HN` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
+| `EGJGMB` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
+| `7Y4N48` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
+| `WWTRWU` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
 | `BLL2CA` | Ingeniería en Sistemas Biomédicos | doc |
 | `QBHNZB` | Ingeniería en Sistemas Biomédicos | doc |
 | `8H46ZM` | Ingeniería en Sistemas Biomédicos | doc |
@@ -398,6 +400,7 @@
 | `5DV4P9` | Filosofía | doc |
 | `9JURAL` | Filosofía | doc |
 | `KJFPHV` | Filosofía | doc |
+| `AFV9RM` | Filosofía | doc |
 | `6YLFPN` | Geografía | doc |
 | `3SCR3U` | Geografía | doc |
 | `3W637B` | Geografía | doc |
@@ -424,6 +427,7 @@
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |
 | `5GBMQ7` | Lengua y Literaturas Modernas Italianas | doc |
 | `JBND4D` | Lengua y Literaturas Modernas Portuguesas | doc |
+| `6NDDAC` | Literatura Dramática y Teatro | doc |
 | `ZUACTS` | Literatura Dramática y Teatro | doc |
 | `5VSKLQ` | Literatura Dramática y Teatro | doc |
 | `P447L7` | Literatura Dramática y Teatro | doc |
@@ -454,6 +458,7 @@
 | `42GEXU` | Historia | doc |
 | `RAUU69` | Historia | doc |
 | `Z729FV` | Historia | doc |
+| `FELBKL` | Historia | doc |
 | `F38M8G` | Desarrollo y Gestión Intercultural | doc |
 | `Z7BAJP` | Desarrollo y Gestión Intercultural | doc |
 | `EJ7H9W` | Letras Clásicas | doc |

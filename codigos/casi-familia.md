@@ -12,6 +12,7 @@
 | `G5GKTE` | Alejaldre | doc |
 | `C378RQ` | Alejandre | doc |
 | `FHG5GS` | Acosta | doc |
+| `WWTRWU` | Acosta | doc |
 | `9JUXJP` | Alberto | doc |
 | `JUPMS4` | Adrian | doc |
 | `4QQA2Z` | Aguayo | doc |
@@ -493,6 +494,7 @@
 | `LQ6RFU` | Macias | doc |
 | `S8FQY4` | Macín | doc |
 | `JV7YAU` | Magadan | doc |
+| `XCWUT3` | Magaña | doc |
 | `V2XP99` | Magos | doc |
 | `QV8YWM` | Maldonado | doc |
 | `RWSHM3` | Maldonado | doc |
@@ -688,6 +690,7 @@
 | `ZKCCMK` | Pérez | doc |
 | `V569QT` | Pérez | doc |
 | `G9HCLW` | Pérez | doc |
+| `RGUKR3` | Pérez | doc |
 | `JLCAW9` | Perfecto | doc |
 | `44UQUR` | Pedro | doc |
 | `BGY7UX` | Peña | doc |

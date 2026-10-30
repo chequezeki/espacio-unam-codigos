@@ -92,6 +92,7 @@
 | `L55SRC` | FEBRERO | doc |
 | `8R5W24` | FEBRERO | doc |
 | `CF4UBR` | FEBRERO | doc |
+| `WWTRWU` | FEBRERO | doc |
 | `T9L84A` | MARZO | doc |
 | `K7HSZT` | MARZO | doc |
 | `YYSEV5` | MARZO | doc |
@@ -428,7 +429,7 @@
 | `6MURMS` | NOVIEMBRE | doc |
 | `3EADS3` | NOVIEMBRE | doc |
 | `T7XCPM` | NOVIEMBRE | doc |
-| `NQYJ5W` | DICIEMBRE | doc |
+| `RGUKR3` | DICIEMBRE | doc |
 | `Y6352H` | DICIEMBRE | doc |
 | `UU6VPQ` | DICIEMBRE | doc |
 | `XJWH5V` | DICIEMBRE | doc |

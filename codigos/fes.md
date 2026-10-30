@@ -10,6 +10,7 @@
 | `99S7TP` | Actuaría | doc |
 | `NSBZJK` | Actuaría | doc |
 | `VG39JT` | Actuaría | doc |
+| `ZGKH37` | Actuaría | doc |
 | `BKY3KF` | Arquitectura | doc |
 | `Z2PFT2` | Arquitectura | doc |
 | `73VSTT` | Arquitectura | doc |
@@ -90,7 +91,6 @@
 | `GM2S6V` | Enseñanza de ingles | doc |
 | `LGRZ65` | Enseñanza de ingles | doc |
 | `NZQBK9` | Filosofía | doc |
-| `ZGKH37` | Filosofía | doc |
 | `AQDZJ4` | Historia | doc |
 | `99YS7A` | Historia | doc |
 | `DW3N8A` | Lengua y Literaturas Hispánicas | doc |
@@ -147,6 +147,7 @@
 | `GAVUGY` | Ingeniería Civil | doc |
 | `GR5YLN` | Ingeniería Civil | doc |
 | `QLNMF5` | Ingeniería Civil | doc |
+| `GTTYS2` | Ingeniería Eléctrica y Electrónica | doc |
 | `XTGNQB` | Ingeniería Eléctrica y Electrónica | doc |
 | `LKAE3D` | Ingeniería Eléctrica y Electrónica | doc |
 | `2ST249` | Ingeniería en Computación | doc |

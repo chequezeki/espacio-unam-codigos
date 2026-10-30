@@ -36,6 +36,7 @@
 | `9K99R3` | Matemáticas Aplicadas | doc |
 | `ZGKH37` | Matemáticas Aplicadas | doc |
 | `JFFLLG` | Cinematografía | doc |
+| `XCWUT3` | Cinematografía | doc |
 
 ## ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)
 

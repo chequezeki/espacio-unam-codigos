@@ -225,6 +225,7 @@ ZGKH37,ENES,ENES Mérida,Ecología
 99S7TP,FES,FES Acatlán,Actuaría
 NSBZJK,FES,FES Acatlán,Actuaría
 VG39JT,FES,FES Acatlán,Actuaría
+ZGKH37,FES,FES Acatlán,Actuaría
 BKY3KF,FES,FES Acatlán,Arquitectura
 Z2PFT2,FES,FES Acatlán,Arquitectura
 73VSTT,FES,FES Acatlán,Arquitectura
@@ -305,7 +306,6 @@ ZGKH37,FES,FES Acatlán,Enseñanza de Italiano
 GM2S6V,FES,FES Acatlán,Enseñanza de ingles
 LGRZ65,FES,FES Acatlán,Enseñanza de ingles
 NZQBK9,FES,FES Acatlán,Filosofía
-ZGKH37,FES,FES Acatlán,Filosofía
 AQDZJ4,FES,FES Acatlán,Historia
 99YS7A,FES,FES Acatlán,Historia
 DW3N8A,FES,FES Acatlán,Lengua y Literaturas Hispánicas
@@ -357,6 +357,7 @@ UEYKGM,FES,FES Aragón,Ingeniería Civil
 GAVUGY,FES,FES Aragón,Ingeniería Civil
 GR5YLN,FES,FES Aragón,Ingeniería Civil
 QLNMF5,FES,FES Aragón,Ingeniería Civil
+GTTYS2,FES,FES Aragón,Ingeniería Eléctrica y Electrónica
 XTGNQB,FES,FES Aragón,Ingeniería Eléctrica y Electrónica
 LKAE3D,FES,FES Aragón,Ingeniería Eléctrica y Electrónica
 2ST249,FES,FES Aragón,Ingeniería en Computación
@@ -686,6 +687,7 @@ JJGQ6X,Facultades de CU,Facultad de Ciencias,Matemáticas
 HTMSLJ,Facultades de CU,Facultad de Ciencias,Matemáticas
 QQ9PAN,Facultades de CU,Facultad de Ciencias,Matemáticas
 Z23AAN,Facultades de CU,Facultad de Ciencias,Matemáticas
+NYKVFQ,Facultades de CU,Facultad de Ciencias,Matemáticas
 B3HHNQ,Facultades de CU,Facultad de Ciencias,Matemáticas Aplicadas
 9K99R3,Facultades de CU,Facultad de Ciencias,Matemáticas Aplicadas
 4A4LJJ,Facultades de CU,Facultad de Ciencias,Matemáticas Aplicadas
@@ -732,11 +734,12 @@ T2UL6E,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
 JN42QP,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
 QXN8JQ,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
 ZH8RDP,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
-BPGFSP,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
-ELUYC2,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
-95Y7HN,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
-EGJGMB,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
-7Y4N48,Facultades de CU,Facultad de Ingeniería,Ingeniería en Computación
+BPGFSP,Facultades de CU,Facultad de Ingeniería,(¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple
+ELUYC2,Facultades de CU,Facultad de Ingeniería,(¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple
+95Y7HN,Facultades de CU,Facultad de Ingeniería,(¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple
+EGJGMB,Facultades de CU,Facultad de Ingeniería,(¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple
+7Y4N48,Facultades de CU,Facultad de Ingeniería,(¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple
+WWTRWU,Facultades de CU,Facultad de Ingeniería,(¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple
 BLL2CA,Facultades de CU,Facultad de Ingeniería,Ingeniería en Sistemas Biomédicos
 QBHNZB,Facultades de CU,Facultad de Ingeniería,Ingeniería en Sistemas Biomédicos
 8H46ZM,Facultades de CU,Facultad de Ingeniería,Ingeniería en Sistemas Biomédicos
@@ -979,6 +982,7 @@ M33DPN,Facultades de CU,Facultad de Filosofía y Letras,Administración de Archi
 5DV4P9,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
 9JURAL,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
 KJFPHV,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
+AFV9RM,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
 6YLFPN,Facultades de CU,Facultad de Filosofía y Letras,Geografía
 3SCR3U,Facultades de CU,Facultad de Filosofía y Letras,Geografía
 3W637B,Facultades de CU,Facultad de Filosofía y Letras,Geografía
@@ -1005,6 +1009,7 @@ MZZQ3K,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Mod
 VECKTJ,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Inglesas
 5GBMQ7,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Italianas
 JBND4D,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Portuguesas
+6NDDAC,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
 ZUACTS,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
 5VSKLQ,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
 P447L7,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
@@ -1035,6 +1040,7 @@ FENCHJ,Facultades de CU,Facultad de Filosofía y Letras,Pedagogía SUAyED
 42GEXU,Facultades de CU,Facultad de Filosofía y Letras,Historia
 RAUU69,Facultades de CU,Facultad de Filosofía y Letras,Historia
 Z729FV,Facultades de CU,Facultad de Filosofía y Letras,Historia
+FELBKL,Facultades de CU,Facultad de Filosofía y Letras,Historia
 F38M8G,Facultades de CU,Facultad de Filosofía y Letras,Desarrollo y Gestión Intercultural
 Z7BAJP,Facultades de CU,Facultad de Filosofía y Letras,Desarrollo y Gestión Intercultural
 EJ7H9W,Facultades de CU,Facultad de Filosofía y Letras,Letras Clásicas
@@ -1299,6 +1305,7 @@ L4RHWU,Escuelas nacionales y otras entidades,IIMAS (Instituto de Investigaciones
 9K99R3,Escuelas nacionales y otras entidades,IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sist,Matemáticas Aplicadas
 ZGKH37,Escuelas nacionales y otras entidades,IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sist,Matemáticas Aplicadas
 JFFLLG,Escuelas nacionales y otras entidades,IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sist,Cinematografía
+XCWUT3,Escuelas nacionales y otras entidades,IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sist,Cinematografía
 TF5R49,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Traducción
 7JA7UX,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Lingüística Aplicada
 KSQA7Y,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Lingüística Aplicada
@@ -1319,6 +1326,7 @@ R7WR2E,Casi familia,,Alegre
 G5GKTE,Casi familia,,Alejaldre
 C378RQ,Casi familia,,Alejandre
 FHG5GS,Casi familia,,Acosta
+WWTRWU,Casi familia,,Acosta
 9JUXJP,Casi familia,,Alberto
 JUPMS4,Casi familia,,Adrian
 4QQA2Z,Casi familia,,Aguayo
@@ -1800,6 +1808,7 @@ AMUKVV,Casi familia,,Macedo
 LQ6RFU,Casi familia,,Macias
 S8FQY4,Casi familia,,Macín
 JV7YAU,Casi familia,,Magadan
+XCWUT3,Casi familia,,Magaña
 V2XP99,Casi familia,,Magos
 QV8YWM,Casi familia,,Maldonado
 RWSHM3,Casi familia,,Maldonado
@@ -1995,6 +2004,7 @@ K7HSZT,Casi familia,,Pérez
 ZKCCMK,Casi familia,,Pérez
 V569QT,Casi familia,,Pérez
 G9HCLW,Casi familia,,Pérez
+RGUKR3,Casi familia,,Pérez
 JLCAW9,Casi familia,,Perfecto
 44UQUR,Casi familia,,Pedro
 BGY7UX,Casi familia,,Peña
@@ -2352,6 +2362,7 @@ EMXTCA,Pastel compartido,,FEBRERO
 L55SRC,Pastel compartido,,FEBRERO
 8R5W24,Pastel compartido,,FEBRERO
 CF4UBR,Pastel compartido,,FEBRERO
+WWTRWU,Pastel compartido,,FEBRERO
 T9L84A,Pastel compartido,,MARZO
 K7HSZT,Pastel compartido,,MARZO
 YYSEV5,Pastel compartido,,MARZO
@@ -2688,7 +2699,7 @@ VG39JT,Pastel compartido,,NOVIEMBRE
 6MURMS,Pastel compartido,,NOVIEMBRE
 3EADS3,Pastel compartido,,NOVIEMBRE
 T7XCPM,Pastel compartido,,NOVIEMBRE
-NQYJ5W,Pastel compartido,,DICIEMBRE
+RGUKR3,Pastel compartido,,DICIEMBRE
 Y6352H,Pastel compartido,,DICIEMBRE
 UU6VPQ,Pastel compartido,,DICIEMBRE
 XJWH5V,Pastel compartido,,DICIEMBRE
@@ -2969,6 +2980,7 @@ EBAGVV,Casi gemelos,Febrero,14
 2TAERY,Casi gemelos,Febrero,15
 J8S4ZS,Casi gemelos,Febrero,15
 4JBFDU,Casi gemelos,Febrero,16
+WWTRWU,Casi gemelos,Febrero,16
 5T9VMQ,Casi gemelos,Febrero,17
 6WCB38,Casi gemelos,Febrero,18
 4Y96Q5,Casi gemelos,Febrero,19
@@ -3026,6 +3038,7 @@ P79ZDH,Casi gemelos,Marzo,4
 3UA93V,Casi gemelos,Marzo,5
 43MNSA,Casi gemelos,Marzo,6
 KEGKRZ,Casi gemelos,Marzo,7
+FELBKL,Casi gemelos,Marzo,8
 BKY7PY,Casi gemelos,Marzo,10
 Z2PFT2,Casi gemelos,Marzo,11
 TJBK73,Casi gemelos,Marzo,11
@@ -3317,6 +3330,7 @@ CYSVAV,Casi gemelos,Marzo,20
 9KPM49,Casi gemelos,Marzo,20
 RWKVVL,Casi gemelos,Marzo,20
 VU4EAW,Casi gemelos,Marzo,20
+RGUKR3,Casi gemelos,Marzo,20
 4VP5BY,Casi gemelos,Marzo,21
 F5Z27H,Casi gemelos,Marzo,21
 BPY827,Casi gemelos,Marzo,21
