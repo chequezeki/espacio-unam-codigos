@@ -137,6 +137,7 @@
 | `75CQF3` | 2021 | doc |
 | `P3ZRE5` | 2023 | doc |
 | `VFL56D` | 2024 | doc |
+| `XSLEPM` | 2025 | doc |
 | `BFFU5Q` | 2026 SUAyED | doc |
 | `V7QEMW` | 2025 | doc |
 | `FBTPB7` | 2024 | doc |
@@ -177,5 +178,6 @@
 | `XTEKTV` | Geografía (escolarizado, generación 2024) | doc |
 | `Z9D3BT` | 2023 | doc |
 | `ZGKH37` | 2023 | doc |
+| `T7XCPM` | 2026 | doc |
 | `5KDYK6` | PEDAGOGÍA/ GEN 2026 | doc |
 | `YJ3MH8` | che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi | doc |

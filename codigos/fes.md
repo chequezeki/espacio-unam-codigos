@@ -77,6 +77,7 @@
 | `SJHBNY` | Diseño Gráfico | doc |
 | `NC53MT` | Diseño Gráfico | doc |
 | `Z9D3BT` | Diseño Gráfico | doc |
+| `T7XCPM` | Diseño Gráfico | doc |
 | `JE8MNE` | Enseñanza de Inglés ‘como Lengua Extranjera | doc |
 | `TVPG8X` | Enseñanza de Francés como Lengua Extranjera | doc |
 | `G45DBK` | Enseñanza de Español como Lengua Extranjera | doc |
@@ -135,6 +136,7 @@
 | `AWLR5V` | Derecho | doc |
 | `YY4XRF` | Derecho | doc |
 | `2KNNQY` | Derecho | doc |
+| `HQX32E` | Derecho | doc |
 | `X87RX3` | Economía | doc |
 | `B6N39M` | Economía | doc |
 | `QV8YWM` | Economía | doc |
@@ -145,7 +147,7 @@
 | `GAVUGY` | Ingeniería Civil | doc |
 | `GR5YLN` | Ingeniería Civil | doc |
 | `QLNMF5` | Ingeniería Civil | doc |
-| `ZGKH37` | Ingeniería Eléctrica y Electrónica | doc |
+| `XTGNQB` | Ingeniería Eléctrica y Electrónica | doc |
 | `2ST249` | Ingeniería en Computación | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
 | `V8VEEB` | Ingeniería en Computación | doc |

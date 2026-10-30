@@ -163,6 +163,7 @@
 | `DGTEB4` | 2 | doc |
 | `HTZ424` | 3 | doc |
 | `2G5REG` | 4 | doc |
+| `XSLEPM` | 4 | doc |
 | `V569QT` | 6 | doc |
 | `GVALGQ` | 7 | doc |
 | `GNPVXS` | 7 | doc |
@@ -308,6 +309,7 @@
 | `UFEUD2` | 16 | doc |
 | `U44QDA` | 16 | doc |
 | `6LV4PL` | 17 | doc |
+| `CY5CX8` | 17 | doc |
 | `BBUZSK` | 18 | doc |
 | `LH4MD7` | 19 | doc |
 | `LADR7U` | 20 | doc |
@@ -359,6 +361,7 @@
 | `XFX8U7` | 30 | doc |
 | `HUA7PR` | 31 | doc |
 | `Y2SM92` | 1 | doc |
+| `T7XCPM` | 3 | doc |
 | `WNYKCD` | 4 | doc |
 | `CBU3CE` | 4 | doc |
 | `6DT6SY` | 5 | doc |

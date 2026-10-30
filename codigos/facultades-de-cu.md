@@ -67,6 +67,7 @@
 | `JJGQ6X` | Matemáticas | doc |
 | `HTMSLJ` | Matemáticas | doc |
 | `QQ9PAN` | Matemáticas | doc |
+| `Z23AAN` | Matemáticas | doc |
 | `B3HHNQ` | Matemáticas Aplicadas | doc |
 | `9K99R3` | Matemáticas Aplicadas | doc |
 | `4A4LJJ` | Matemáticas Aplicadas | doc |
@@ -472,18 +473,18 @@
 | `MGHG7B` | Antropología | doc |
 | `75CQF3` | Ciencias de la Comunicación (Periodismo) | doc |
 | `L6KQTK` | Ciencias de la Comunicación (Periodismo) | doc |
-| `YXLJ6H` | Ciencias de la Comunicación (Periodismo) | doc |
-| `KJY9A8` | Ciencias de la Comunicación (Periodismo) | doc |
-| `4C7WHL` | Ciencias de la Comunicación (Periodismo) | doc |
-| `UJ6HJA` | Ciencias de la Comunicación (Periodismo) | doc |
-| `FDSTL4` | Ciencias de la Comunicación (Periodismo) | doc |
-| `Z85GPC` | Ciencias de la Comunicación (Periodismo) | doc |
-| `YAMC7X` | Ciencias de la Comunicación (Periodismo) | doc |
-| `3H7QTD` | Ciencias de la Comunicación (Periodismo) | doc |
-| `KMKJZT` | Ciencias de la Comunicación (Periodismo) | doc |
-| `MW3B8F` | Ciencias de la Comunicación (Periodismo) | doc |
-| `XZBWUT` | Ciencias de la Comunicación (Periodismo) | doc |
-| `TW75Y9` | Ciencias de la Comunicación (Periodismo) | doc |
+| `YXLJ6H` | XSLEPM (SUA) | doc |
+| `KJY9A8` | XSLEPM (SUA) | doc |
+| `4C7WHL` | XSLEPM (SUA) | doc |
+| `UJ6HJA` | XSLEPM (SUA) | doc |
+| `FDSTL4` | XSLEPM (SUA) | doc |
+| `Z85GPC` | XSLEPM (SUA) | doc |
+| `YAMC7X` | XSLEPM (SUA) | doc |
+| `3H7QTD` | XSLEPM (SUA) | doc |
+| `KMKJZT` | XSLEPM (SUA) | doc |
+| `MW3B8F` | XSLEPM (SUA) | doc |
+| `XZBWUT` | XSLEPM (SUA) | doc |
+| `TW75Y9` | XSLEPM (SUA) | doc |
 | `U2LRPH` | (SUA), QPNKGB | doc |
 | `4QRXH7` | (SUA), QPNKGB | doc |
 | `PTRGRY` | (SUA), QPNKGB | doc |
@@ -525,6 +526,7 @@
 | `78WFBX` | Sociología | doc |
 | `V7QEMW` | Ciencias Políticas y AP A DISTANCIA NUEVO INGRESO | doc |
 | `75CQF3` | Ciencias de la Comunicación (SUAyED) | doc |
+| `XSLEPM` | Ciencias de la Comunicación (SUAyED) | doc |
 | `VFL56D` | Ciencias de la Comunicación (SUAyED) | doc |
 | `BHJJJA` | Ciencias de la Comunicación (SUAyED) | doc |
 | `DFTXBL` | Ciencias de la Comunicación (SUAyED) | doc |
