@@ -297,6 +297,7 @@
 | `VW5TB8` | Informática | doc |
 | `GKBNW8` | Comunicación gráfica | doc |
 | `ZGKH37` | Comunicación gráfica | doc |
+| `3BYYCV` | Medicina Veterinaria Y Zootecnia. Gonzalez. Salma. 3 diciembre | comunidad |
 
 ## FES Iztacala
 
