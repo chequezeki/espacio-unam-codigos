@@ -6,10 +6,12 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `JN9LZY` | Agrogenómicas | doc |
 | `ZGKH37` | Fisioterapia | doc |
 | `ARWJMZ` | Odontología | doc |
 | `Z7V2DL` | Optometría | doc |
 | `ZGKH37` | Administración Agropecuária | doc |
+| `ARWJMZ` | Administración Agropecuária | doc |
 | `SYGFBM` | Desarrollo territorial | doc |
 | `ZGKH37` | Desarrollo territorial | doc |
 | `XT3Z2W` | Economía Industrial | doc |
@@ -141,8 +143,6 @@
 | `G5ZJ2S` | Estudios Sociales y Gestión Local | doc |
 | `HL67XM` | Administración | doc |
 | `2C99TJ` | Administración | doc |
-| `T952XQ` | Derecho | doc |
-| `BQ9KD3` | Derecho | doc |
 | `WA2DEC` | Administración de Archivos y Gestión Documental | doc |
 | `M33DPN` | Administración de Archivos y Gestión Documental | doc |
 | `R5QWA8` | Arte y Diseño | doc |
@@ -151,6 +151,7 @@
 | `RNQ5GZ` | Geohistoria | doc |
 | `ZGKH37` | Geohistoria | doc |
 | `SYCLSN` | Historia del Arte | doc |
+| `5NT3GR` | Historia del Arte | doc |
 | `U58UYF` | Literatura Intercultural | doc |
 | `5VSKLQ` | Música y Artística | doc |
 | `N3APR4` | Ciencias Agroforestales | doc |

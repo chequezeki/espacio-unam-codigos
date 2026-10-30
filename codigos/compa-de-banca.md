@@ -118,7 +118,8 @@
 | `NWX4TN` | CONTADURÍA / Facultad de Contaduría y Administración / Escolarizado / 2021 / | doc |
 | `U8C9G3` | / | doc |
 | `B3FPGG` | CONTADURÍA/FCA/Escolarizado/ 2024 | doc |
-| `CM8RT8` | ADINISTRACIÓN/FCA/SUA/2025 | doc |
+| `M8RMH9` | ADMINISTRACIÓN/FCA/SUA/2025 | doc |
+| `CM8RT8` | ADMINISTRACIÓN/FCA/SUA/2025 | doc |
 | `P8E4PW` | Administracion/ FCA / 2024/ | doc |
 | `YPHDQH` | Administracion/ FCA / 2024/ | doc |
 | `HL67XM` | Administracion/ FCA / 2024/ | doc |

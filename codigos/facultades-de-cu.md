@@ -45,6 +45,7 @@
 | `5C9MQ9` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
 | `D6ZCHZ` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
 | `7GW9UE` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
+| `XNFFUS` | Física | doc |
 | `5WL3J2` | Física | doc |
 | `JZC46F` | Física | doc |
 | `NYSCU3` | Física | doc |
@@ -138,12 +139,12 @@
 | `5WJBJF` | Ingeniería Geofísica | doc |
 | `EHKDLJ` | Ingeniería Geofísica | doc |
 | `6YPU7Z` | Ingeniería Geofísica | doc |
+| `EZ55XC` | Ingeniería Geofísica | doc |
 | `TVSXD8` | Ingeniería Geológica | doc |
-| `MKKV83` | Ingeniería Geológica | doc |
-| `7V69QX` | Ingeniería Geológica | doc |
 | `YG7BHR` | Ingeniería Geológica | doc |
 | `ETW2ZZ` | Ingeniería Geomática | doc |
 | `3A7PQZ` | Ingeniería Geomática | doc |
+| `CTPGJB` | Ingeniería Geomática | doc |
 | `U243SW` | Ingeniería Industrial | doc |
 | `X4WFYP` | Ingeniería Industrial | doc |
 | `6EH4SX` | Ingeniería Industrial | doc |
@@ -223,9 +224,11 @@
 | `3TGEAC` | Fisioterapia | doc |
 | `H388MB` | Fisioterapia | doc |
 | `G9HCLW` | Fisioterapia | doc |
+| `UB6DHX` | Fisioterapia | doc |
 | `YB7DRB` | Investigación Biomédica Básica | doc |
 | `QKQC8H` | Investigación Biomédica Básica | doc |
 | `S7H7BF` | Investigación Biomédica Básica | doc |
+| `DH5LMV` | Médico Cirujano | doc |
 | `KVJNQD` | Médico Cirujano | doc |
 | `NU9ED2` | Médico Cirujano | doc |
 | `NN2BAN` | Médico Cirujano | doc |
@@ -245,7 +248,6 @@
 | `DBY6Z4` | Médico Cirujano | doc |
 | `NMMG83` | Médico Cirujano | doc |
 | `8RYZLX` | Médico Cirujano | doc |
-| `DH5LMV` | Médico Cirujano | doc |
 | `ZWB5GG` | Médico Cirujano | doc |
 | `BVX339` | Médico Cirujano | doc |
 | `SHYLDR` | Médico Cirujano | doc |
@@ -256,6 +258,8 @@
 | `BTJWYA` | Médico Cirujano | doc |
 | `37SGX9` | Médico Cirujano | doc |
 | `S6YQL2` | Médico Cirujano | doc |
+| `6GKXF9` | Médico Cirujano | doc |
+| `BBHUBB` | Médico Cirujano | doc |
 | `S6K38H` | Neuro | doc |
 | `U7FQVT` | Neuro | doc |
 | `CSSVLE` | Neuro | doc |
@@ -286,7 +290,7 @@
 | `8ALFYC` | Medicina Veterinaria y Zootecnia | doc |
 | `R5UKGS` | Medicina Veterinaria y Zootecnia | doc |
 | `QVVXC4` | Medicina Veterinaria y Zootecnia | doc |
-| `2KC976` | Medicina Veterinaria y Zootecnia | doc |
+| `YJTX7G` | Medicina Veterinaria y Zootecnia | doc |
 | `JXMAQR` | Enfermería | doc |
 | `G5M54T` | Enfermería | doc |
 | `SFS8D8` | Enfermería | doc |
@@ -351,6 +355,7 @@
 | `WQPRJZ` | Química de Alimentos | doc |
 | `WUJYVC` | Química de Alimentos | doc |
 | `XP7XAD` | Química de Alimentos | doc |
+| `4R4MNQ` | Química de Alimentos | doc |
 | `AWFUWK` | Química e Ingeniería en Materiales | doc |
 | `QE4UEL` | Química e Ingeniería en Materiales | doc |
 | `PA7FWF` | Química Farmacéutico Biológica | doc |
@@ -381,17 +386,12 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `9R55ZS` | Bibliotecología y Estudios de la Información | doc |
 | `A7YU5R` | Bibliotecología y Estudios de la Información | doc |
 | `ZG5ZBZ` | Bibliotecología y Estudios de la Información | doc |
 | `C44NTV` | Bibliotecología y Estudios de la Información | doc |
-| `Y2SM92` | Bibliotecología y Estudios de la Información | doc |
-| `FRTNXJ` | Bibliotecología y Estudios de la Información | doc |
 | `57EYLG` | Bibliotecología y Estudios de la Información | doc |
-| `77S9EC` | Bibliotecología y Estudios de la Información | doc |
 | `M33DPN` | Administración de Archivos y Gestión Documental | doc |
 | `ZGKH37` | Administración de Archivos y Gestión Documental | doc |
-| `DL7ZKB` | Filosofía | doc |
 | `5DV4P9` | Filosofía | doc |
 | `9JURAL` | Filosofía | doc |
 | `KJFPHV` | Filosofía | doc |
@@ -401,7 +401,6 @@
 | `XTEKTV` | Geografía | doc |
 | `H6F4BA` | Geografía | doc |
 | `G4K6JE` | Geografía | doc |
-| `L55SRC` | Geografía | doc |
 | `VNMPZ9` | Lengua y Literaturas Hispánicas | doc |
 | `EHX8WQ` | Lengua y Literaturas Hispánicas | doc |
 | `2B9BEB` | Lengua y Literaturas Hispánicas | doc |
@@ -422,9 +421,7 @@
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |
 | `5GBMQ7` | Lengua y Literaturas Modernas Italianas | doc |
 | `JBND4D` | Lengua y Literaturas Modernas Portuguesas | doc |
-| `6NDDAC` | Literatura Dramática y Teatro | doc |
 | `ZUACTS` | Literatura Dramática y Teatro | doc |
-| `8XQTQW` | Literatura Dramática y Teatro | doc |
 | `5VSKLQ` | Literatura Dramática y Teatro | doc |
 | `P447L7` | Literatura Dramática y Teatro | doc |
 | `FUEQZD` | Literatura Dramática y Teatro | doc |
@@ -585,6 +582,7 @@
 | `L8GE4V` | Artes Visuales | doc |
 | `W3ZPUK` | Artes Visuales | doc |
 | `RANETR` | Artes Visuales | doc |
+| `J8LGHK` | Diseño y Comunicación Visual | doc |
 | `BFJ5ZB` | Diseño y Comunicación Visual | doc |
 | `XJWH5V` | Diseño y Comunicación Visual | doc |
 | `AFJHRE` | Diseño y Comunicación Visual | doc |
@@ -625,7 +623,6 @@
 |---|---|---|
 | `QMDEAM` | Derecho | doc |
 | `CF4UBR` | Derecho | doc |
-| `5NT3GR` | Derecho | doc |
 | `UU6VPQ` | Derecho | doc |
 | `MFCF6H` | Derecho | doc |
 | `UFELAH` | Derecho | doc |
@@ -728,6 +725,7 @@
 | `H36HPZ` | Cirujano Dentista | doc |
 | `GL8ETS` | Cirujano Dentista | doc |
 | `7VPCWT` | Cirujano Dentista | doc |
+| `QV68T9` | Cirujano Dentista | doc |
 | `C73DE3` | Odontologia | doc |
 | `9R45UR` | Odontologia | doc |
 

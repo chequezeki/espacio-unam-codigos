@@ -27,9 +27,7 @@
 | `SMC4YU` | Matemáticas Aplicadas y Computación | doc |
 | `D4RXRA` | Matemáticas Aplicadas y Computación | doc |
 | `EEVT74` | Matemáticas Aplicadas y Computación | doc |
-| `DRSMPR` | Matemáticas Aplicadas y Computación | doc |
-| `HF95VA` | Matemáticas Aplicadas y Computación | doc |
-| `GUT5DE` | Matemáticas Aplicadas y Computación | doc |
+| `GUT5DE` | DRSMPR, HF 95VA | doc |
 | `ALVDTP` | Políticas y Administración Pública | doc |
 | `R9DENV` | Políticas y Administración Pública | doc |
 | `T827MU` | Políticas y Administración Pública | doc |
@@ -43,6 +41,7 @@
 | `BTV8F2` | Comunicación | doc |
 | `X8HHE5` | Comunicación | doc |
 | `DAYASH` | Comunicación | doc |
+| `N7AA4Q` | Comunicación | doc |
 | `ACZ97F` | Derecho | doc |
 | `6PHCHQ` | Derecho | doc |
 | `7Z9MNW` | Derecho | doc |
@@ -135,6 +134,7 @@
 | `8GHZQ5` | Derecho | doc |
 | `AWLR5V` | Derecho | doc |
 | `YY4XRF` | Derecho | doc |
+| `2KNNQY` | Derecho | doc |
 | `X87RX3` | Economía | doc |
 | `B6N39M` | Economía | doc |
 | `QV8YWM` | Economía | doc |
@@ -164,6 +164,7 @@
 | `NSZWUK` | Ingeniería Industrial | doc |
 | `JF5XLG` | Ingeniería Industrial | doc |
 | `Y9TEP9` | Ingeniería Industrial | doc |
+| `M2UHSN` | Ingeniería Industrial | doc |
 | `HBZN3T` | Pedagogía | doc |
 | `XTEJ8P` | Pedagogía | doc |
 | `GLWNDS` | Pedagogía | doc |
@@ -240,6 +241,7 @@
 | `A33PGG` | Ingeniería Mecánica Eléctrica | doc |
 | `TSG2P2` | Ingeniería Mecánica Eléctrica | doc |
 | `YY2YU6` | Ingeniería Mecánica Eléctrica | doc |
+| `DJPT7S` | Medicina Veterinaria y Zootecnia | doc |
 | `45KGQP` | Medicina Veterinaria y Zootecnia | doc |
 | `4NHT3T` | Medicina Veterinaria y Zootecnia | doc |
 | `BNMEKR` | Medicina Veterinaria y Zootecnia | doc |
@@ -288,6 +290,7 @@
 | `2AAE5B` | Informática | doc |
 | `E7REA4` | Informática | doc |
 | `CQ4TYX` | Informática | doc |
+| `VW5TB8` | Informática | doc |
 | `GKBNW8` | Comunicación gráfica | doc |
 | `ZGKH37` | Comunicación gráfica | doc |
 
@@ -324,14 +327,17 @@
 | `M6Q9JV` | Médico Cirujano | doc |
 | `92B2W3` | Médico Cirujano | doc |
 | `6A6RSY` | Médico Cirujano | doc |
+| `2M7NP7` | Médico Cirujano | doc |
 | `HENQS4` | Cirujano Dentista | doc |
 | `74JVX7` | Cirujano Dentista | doc |
 | `JKTGSW` | Optometría | doc |
 | `H8CZP8` | Optometría | doc |
 | `PZ3X8E` | Optometría | doc |
+| `9AHF9R` | Psicología | doc |
+| `JAJAFK` | Psicología | doc |
+| `MY5REG` | Psicología | doc |
 | `EGRGG2` | Psicología | doc |
 | `AQ3GS6` | Psicología | doc |
-| `MY5REG` | Psicología | doc |
 | `R2H89V` | Psicología | doc |
 | `668YW9` | Psicología | doc |
 | `7WX85K` | Psicología | doc |

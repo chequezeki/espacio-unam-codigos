@@ -11,9 +11,7 @@
 | `4JBFDU` | CCH Azcapotzalco | doc |
 | `RC3V95` | CCH Naucalpan | doc |
 | `AMJL9T` | CCH Naucalpan | doc |
-| `JFYTD9` | CCH Vallejo | doc |
-| `ER4YW3` | CCH Vallejo | doc |
-| `JNFJKW` | CCH Vallejo | doc |
+| `RGUKR3` | CCH Vallejo | doc |
 | `G5SHBK` | CCH Oriente | doc |
 | `U5EJBZ` | CCH Oriente | doc |
 | `MVXDPM` | CCH Oriente | doc |

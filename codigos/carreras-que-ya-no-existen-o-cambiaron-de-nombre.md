@@ -4,6 +4,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `CFLQMC` | Bachillerato a distancia | doc |
 | `N3APR4` | Ciencias Agroforestales / ENES Morelia | doc |
 | `ZGKH37` | Ciencias Agroforestales / ENES Morelia | doc |
 | `9UXLAZ` | Enseñanza de Francés como Lengua Extranjera / FES ACATLÁN | doc |
@@ -15,4 +16,3 @@
 | `5VSKLQ` | Música y tecnología artística | doc |
 | `DNX7NY` | Teatro y Actuación / CUT | doc |
 | `8T2H42` | Ingeniería Topográfica y geodesica!!! | doc |
-| `ZGKH37` | Ingeniería Topográfica y geodesica!!! | doc |

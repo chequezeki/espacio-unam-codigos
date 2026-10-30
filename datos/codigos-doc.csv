@@ -1,4 +1,5 @@
 codigo,seccion,subseccion,etiqueta
+ZGKH37,Inicio,,"¡Esta persona está copiando su código en prácticamente todas las carreras poco comunes, ag"
 3AKJEE,Medallas secretas,,"Este código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secre"
 T3NAZ7,Medallas secretas,,"Otro código secreto, se premia nuestra perseverancia"
 3Y3E34,Medallas secretas,,Otro código secreto: la UNAMball
@@ -6,6 +7,8 @@ TL4CU4,Medallas secretas,,Medalla de tlacuache. Medalla propuesta por Ximena Val
 HU3LG4,Medallas secretas,,H4YP4R0 /
 JUG4D4,Medallas secretas,,Para esa movida maestra que nadie vio venir: hasta un peón puede llegar al otro lado del t
 4T3N34,Medallas secretas,,"Para Atenea, la diosa de la sabiduría que es el emblema de la Facultad de Filosofía y Letr"
+Z2PFT2,Medallas secretas,,"Para los creadores más importantes de Espacio UNAM, llevas más de 100 medallas y aún no id"
+CFLQMC,Carreras que ya no existen o cambiaron de nombre,,Bachillerato a distancia
 N3APR4,Carreras que ya no existen o cambiaron de nombre,,Ciencias Agroforestales / ENES Morelia
 ZGKH37,Carreras que ya no existen o cambiaron de nombre,,Ciencias Agroforestales / ENES Morelia
 9UXLAZ,Carreras que ya no existen o cambiaron de nombre,,Enseñanza de Francés como Lengua Extranjera / FES ACATLÁN
@@ -17,10 +20,6 @@ GKBNW8,Carreras que ya no existen o cambiaron de nombre,,Comunicación Gráfica
 5VSKLQ,Carreras que ya no existen o cambiaron de nombre,,Música y tecnología artística
 DNX7NY,Carreras que ya no existen o cambiaron de nombre,,Teatro y Actuación / CUT
 8T2H42,Carreras que ya no existen o cambiaron de nombre,,Ingeniería Topográfica y geodesica!!!
-ZGKH37,Carreras que ya no existen o cambiaron de nombre,,Ingeniería Topográfica y geodesica!!!
-ZGKH37,Sedes,,CEPHCIS Mérida / Lic en Desarrollo y Gestión Interculturales
-HE4X2K,Sedes,,Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia / ecología y SI CONS
-ZGKH37,Sedes,,
 8Q7DKQ,CCH,,CCH Azcapotzalco
 5A9APH,CCH,,CCH Azcapotzalco
 BBUZSK,CCH,,CCH Azcapotzalco
@@ -28,9 +27,7 @@ BBUZSK,CCH,,CCH Azcapotzalco
 4JBFDU,CCH,,CCH Azcapotzalco
 RC3V95,CCH,,CCH Naucalpan
 AMJL9T,CCH,,CCH Naucalpan
-JFYTD9,CCH,,CCH Vallejo
-ER4YW3,CCH,,CCH Vallejo
-JNFJKW,CCH,,CCH Vallejo
+RGUKR3,CCH,,CCH Vallejo
 G5SHBK,CCH,,CCH Oriente
 U5EJBZ,CCH,,CCH Oriente
 MVXDPM,CCH,,CCH Oriente
@@ -44,12 +41,12 @@ KU6394,Prepas,,Iniciacion Universitaria
 H4E7FE,Prepas,,Iniciacion Universitaria
 2VFHHS,Prepas,,Prepa 1
 2EYZ62,Prepas,,Prepa 1
+Q78WJ7,Prepas,,Prepa 1
 FJLYZW,Prepas,,Prepa 2
 UFEUD2,Prepas,,Prepa 2
 HXMFZH,Prepas,,Prepa 3
 KZKXYV,Prepas,,Prepa 4
 AR9HSX,Prepas,,Prepa 5
-ZGKH37,Prepas,,Prepa 5
 T9UJMP,Prepas,,Prepa 6
 JG276B,Prepas,,Prepa 7
 9TBEQ9,Prepas,,Prepa 7
@@ -59,10 +56,13 @@ F7E3UH,Prepas,,Prepa 8
 NQQBE5,Prepas,,Prepa 9
 6GNP6P,Prepas,,Prepa 9
 KB5FFD,Prepas,,Prepa 9
+CFLQMC,Prepas,,Bachillerato a Distancia
+JN9LZY,ENES,ENES León,Agrogenómicas
 ZGKH37,ENES,ENES León,Fisioterapia
 ARWJMZ,ENES,ENES León,Odontología
 Z7V2DL,ENES,ENES León,Optometría
 ZGKH37,ENES,ENES León,Administración Agropecuária
+ARWJMZ,ENES,ENES León,Administración Agropecuária
 SYGFBM,ENES,ENES León,Desarrollo territorial
 ZGKH37,ENES,ENES León,Desarrollo territorial
 XT3Z2W,ENES,ENES León,Economía Industrial
@@ -184,8 +184,6 @@ ZGKH37,ENES,ENES Morelia,Ecología
 G5ZJ2S,ENES,ENES Morelia,Estudios Sociales y Gestión Local
 HL67XM,ENES,ENES Morelia,Administración
 2C99TJ,ENES,ENES Morelia,Administración
-T952XQ,ENES,ENES Morelia,Derecho
-BQ9KD3,ENES,ENES Morelia,Derecho
 WA2DEC,ENES,ENES Morelia,Administración de Archivos y Gestión Documental
 M33DPN,ENES,ENES Morelia,Administración de Archivos y Gestión Documental
 R5QWA8,ENES,ENES Morelia,Arte y Diseño
@@ -194,6 +192,7 @@ PW5KSH,ENES,ENES Morelia,Arte y Diseño
 RNQ5GZ,ENES,ENES Morelia,Geohistoria
 ZGKH37,ENES,ENES Morelia,Geohistoria
 SYCLSN,ENES,ENES Morelia,Historia del Arte
+5NT3GR,ENES,ENES Morelia,Historia del Arte
 U58UYF,ENES,ENES Morelia,Literatura Intercultural
 5VSKLQ,ENES,ENES Morelia,Música y Artística
 N3APR4,ENES,ENES Morelia,Ciencias Agroforestales
@@ -243,9 +242,7 @@ SYULLG,FES,FES Acatlán,Matemáticas Aplicadas y Computación
 SMC4YU,FES,FES Acatlán,Matemáticas Aplicadas y Computación
 D4RXRA,FES,FES Acatlán,Matemáticas Aplicadas y Computación
 EEVT74,FES,FES Acatlán,Matemáticas Aplicadas y Computación
-DRSMPR,FES,FES Acatlán,Matemáticas Aplicadas y Computación
-HF95VA,FES,FES Acatlán,Matemáticas Aplicadas y Computación
-GUT5DE,FES,FES Acatlán,Matemáticas Aplicadas y Computación
+GUT5DE,FES,FES Acatlán,"DRSMPR, HF 95VA"
 ALVDTP,FES,FES Acatlán,Políticas y Administración Pública
 R9DENV,FES,FES Acatlán,Políticas y Administración Pública
 T827MU,FES,FES Acatlán,Políticas y Administración Pública
@@ -259,6 +256,7 @@ KMHUFX,FES,FES Acatlán,Comunicación
 BTV8F2,FES,FES Acatlán,Comunicación
 X8HHE5,FES,FES Acatlán,Comunicación
 DAYASH,FES,FES Acatlán,Comunicación
+N7AA4Q,FES,FES Acatlán,Comunicación
 ACZ97F,FES,FES Acatlán,Derecho
 6PHCHQ,FES,FES Acatlán,Derecho
 7Z9MNW,FES,FES Acatlán,Derecho
@@ -346,6 +344,7 @@ SB3S58,FES,FES Aragón,Derecho
 8GHZQ5,FES,FES Aragón,Derecho
 AWLR5V,FES,FES Aragón,Derecho
 YY4XRF,FES,FES Aragón,Derecho
+2KNNQY,FES,FES Aragón,Derecho
 X87RX3,FES,FES Aragón,Economía
 B6N39M,FES,FES Aragón,Economía
 QV8YWM,FES,FES Aragón,Economía
@@ -375,6 +374,7 @@ Z6NQMM,FES,FES Aragón,Ingeniería Industrial
 NSZWUK,FES,FES Aragón,Ingeniería Industrial
 JF5XLG,FES,FES Aragón,Ingeniería Industrial
 Y9TEP9,FES,FES Aragón,Ingeniería Industrial
+M2UHSN,FES,FES Aragón,Ingeniería Industrial
 HBZN3T,FES,FES Aragón,Pedagogía
 XTEJ8P,FES,FES Aragón,Pedagogía
 GLWNDS,FES,FES Aragón,Pedagogía
@@ -446,6 +446,7 @@ CBU3CE,FES,FES Cuautitlán,Ingeniería Mecánica Eléctrica
 A33PGG,FES,FES Cuautitlán,Ingeniería Mecánica Eléctrica
 TSG2P2,FES,FES Cuautitlán,Ingeniería Mecánica Eléctrica
 YY2YU6,FES,FES Cuautitlán,Ingeniería Mecánica Eléctrica
+DJPT7S,FES,FES Cuautitlán,Medicina Veterinaria y Zootecnia
 45KGQP,FES,FES Cuautitlán,Medicina Veterinaria y Zootecnia
 4NHT3T,FES,FES Cuautitlán,Medicina Veterinaria y Zootecnia
 BNMEKR,FES,FES Cuautitlán,Medicina Veterinaria y Zootecnia
@@ -494,6 +495,7 @@ TXR9C2,FES,FES Cuautitlán,Contaduría
 2AAE5B,FES,FES Cuautitlán,Informática
 E7REA4,FES,FES Cuautitlán,Informática
 CQ4TYX,FES,FES Cuautitlán,Informática
+VW5TB8,FES,FES Cuautitlán,Informática
 GKBNW8,FES,FES Cuautitlán,Comunicación gráfica
 ZGKH37,FES,FES Cuautitlán,Comunicación gráfica
 AY2E6M,FES,FES Iztacala,Medicina
@@ -525,14 +527,17 @@ HXYHZQ,FES,FES Iztacala,Enfermería
 M6Q9JV,FES,FES Iztacala,Médico Cirujano
 92B2W3,FES,FES Iztacala,Médico Cirujano
 6A6RSY,FES,FES Iztacala,Médico Cirujano
+2M7NP7,FES,FES Iztacala,Médico Cirujano
 HENQS4,FES,FES Iztacala,Cirujano Dentista
 74JVX7,FES,FES Iztacala,Cirujano Dentista
 JKTGSW,FES,FES Iztacala,Optometría
 H8CZP8,FES,FES Iztacala,Optometría
 PZ3X8E,FES,FES Iztacala,Optometría
+9AHF9R,FES,FES Iztacala,Psicología
+JAJAFK,FES,FES Iztacala,Psicología
+MY5REG,FES,FES Iztacala,Psicología
 EGRGG2,FES,FES Iztacala,Psicología
 AQ3GS6,FES,FES Iztacala,Psicología
-MY5REG,FES,FES Iztacala,Psicología
 R2H89V,FES,FES Iztacala,Psicología
 668YW9,FES,FES Iztacala,Psicología
 7WX85K,FES,FES Iztacala,Psicología
@@ -655,6 +660,7 @@ EGJGMB,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
 5C9MQ9,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS)
 D6ZCHZ,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS)
 7GW9UE,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS)
+XNFFUS,Facultades de CU,Facultad de Ciencias,Física
 5WL3J2,Facultades de CU,Facultad de Ciencias,Física
 JZC46F,Facultades de CU,Facultad de Ciencias,Física
 NYSCU3,Facultades de CU,Facultad de Ciencias,Física
@@ -743,12 +749,12 @@ XH49V6,Facultades de CU,Facultad de Ingeniería,Ingeniería Geofísica
 5WJBJF,Facultades de CU,Facultad de Ingeniería,Ingeniería Geofísica
 EHKDLJ,Facultades de CU,Facultad de Ingeniería,Ingeniería Geofísica
 6YPU7Z,Facultades de CU,Facultad de Ingeniería,Ingeniería Geofísica
+EZ55XC,Facultades de CU,Facultad de Ingeniería,Ingeniería Geofísica
 TVSXD8,Facultades de CU,Facultad de Ingeniería,Ingeniería Geológica
-MKKV83,Facultades de CU,Facultad de Ingeniería,Ingeniería Geológica
-7V69QX,Facultades de CU,Facultad de Ingeniería,Ingeniería Geológica
 YG7BHR,Facultades de CU,Facultad de Ingeniería,Ingeniería Geológica
 ETW2ZZ,Facultades de CU,Facultad de Ingeniería,Ingeniería Geomática
 3A7PQZ,Facultades de CU,Facultad de Ingeniería,Ingeniería Geomática
+CTPGJB,Facultades de CU,Facultad de Ingeniería,Ingeniería Geomática
 U243SW,Facultades de CU,Facultad de Ingeniería,Ingeniería Industrial
 X4WFYP,Facultades de CU,Facultad de Ingeniería,Ingeniería Industrial
 6EH4SX,Facultades de CU,Facultad de Ingeniería,Ingeniería Industrial
@@ -817,9 +823,11 @@ LRYEUK,Facultades de CU,Facultad de Medicina,Fisioterapia
 3TGEAC,Facultades de CU,Facultad de Medicina,Fisioterapia
 H388MB,Facultades de CU,Facultad de Medicina,Fisioterapia
 G9HCLW,Facultades de CU,Facultad de Medicina,Fisioterapia
+UB6DHX,Facultades de CU,Facultad de Medicina,Fisioterapia
 YB7DRB,Facultades de CU,Facultad de Medicina,Investigación Biomédica Básica
 QKQC8H,Facultades de CU,Facultad de Medicina,Investigación Biomédica Básica
 S7H7BF,Facultades de CU,Facultad de Medicina,Investigación Biomédica Básica
+DH5LMV,Facultades de CU,Facultad de Medicina,Médico Cirujano
 KVJNQD,Facultades de CU,Facultad de Medicina,Médico Cirujano
 NU9ED2,Facultades de CU,Facultad de Medicina,Médico Cirujano
 NN2BAN,Facultades de CU,Facultad de Medicina,Médico Cirujano
@@ -839,7 +847,6 @@ FHTEF8,Facultades de CU,Facultad de Medicina,Médico Cirujano
 DBY6Z4,Facultades de CU,Facultad de Medicina,Médico Cirujano
 NMMG83,Facultades de CU,Facultad de Medicina,Médico Cirujano
 8RYZLX,Facultades de CU,Facultad de Medicina,Médico Cirujano
-DH5LMV,Facultades de CU,Facultad de Medicina,Médico Cirujano
 ZWB5GG,Facultades de CU,Facultad de Medicina,Médico Cirujano
 BVX339,Facultades de CU,Facultad de Medicina,Médico Cirujano
 SHYLDR,Facultades de CU,Facultad de Medicina,Médico Cirujano
@@ -850,6 +857,8 @@ HLTR92,Facultades de CU,Facultad de Medicina,Médico Cirujano
 BTJWYA,Facultades de CU,Facultad de Medicina,Médico Cirujano
 37SGX9,Facultades de CU,Facultad de Medicina,Médico Cirujano
 S6YQL2,Facultades de CU,Facultad de Medicina,Médico Cirujano
+6GKXF9,Facultades de CU,Facultad de Medicina,Médico Cirujano
+BBHUBB,Facultades de CU,Facultad de Medicina,Médico Cirujano
 S6K38H,Facultades de CU,Facultad de Medicina,Neuro
 U7FQVT,Facultades de CU,Facultad de Medicina,Neuro
 CSSVLE,Facultades de CU,Facultad de Medicina,Neuro
@@ -875,7 +884,7 @@ H6RRFW,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Medicina Ve
 8ALFYC,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Medicina Veterinaria y Zootecnia
 R5UKGS,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Medicina Veterinaria y Zootecnia
 QVVXC4,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Medicina Veterinaria y Zootecnia
-2KC976,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Medicina Veterinaria y Zootecnia
+YJTX7G,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Medicina Veterinaria y Zootecnia
 JXMAQR,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Enfermería
 G5M54T,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Enfermería
 SFS8D8,Facultades de CU,Facultad de Medicina Veterinaria y Zootecnia,Enfermería
@@ -930,6 +939,7 @@ U6P443,Facultades de CU,Facultad de Química,Química de Alimentos
 WQPRJZ,Facultades de CU,Facultad de Química,Química de Alimentos
 WUJYVC,Facultades de CU,Facultad de Química,Química de Alimentos
 XP7XAD,Facultades de CU,Facultad de Química,Química de Alimentos
+4R4MNQ,Facultades de CU,Facultad de Química,Química de Alimentos
 AWFUWK,Facultades de CU,Facultad de Química,Química e Ingeniería en Materiales
 QE4UEL,Facultades de CU,Facultad de Química,Química e Ingeniería en Materiales
 PA7FWF,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
@@ -955,17 +965,12 @@ X4XHYB,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 V8NSTH,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 2AVJJ6,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 G5ZJ2S,Facultades de CU,Facultad de Química,Estudios sociales y gestión local
-9R55ZS,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
 A7YU5R,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
 ZG5ZBZ,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
 C44NTV,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
-Y2SM92,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
-FRTNXJ,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
 57EYLG,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
-77S9EC,Facultades de CU,Facultad de Filosofía y Letras,Bibliotecología y Estudios de la Información
 M33DPN,Facultades de CU,Facultad de Filosofía y Letras,Administración de Archivos y Gestión Documental
 ZGKH37,Facultades de CU,Facultad de Filosofía y Letras,Administración de Archivos y Gestión Documental
-DL7ZKB,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
 5DV4P9,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
 9JURAL,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
 KJFPHV,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
@@ -975,7 +980,6 @@ KJFPHV,Facultades de CU,Facultad de Filosofía y Letras,Filosofía
 XTEKTV,Facultades de CU,Facultad de Filosofía y Letras,Geografía
 H6F4BA,Facultades de CU,Facultad de Filosofía y Letras,Geografía
 G4K6JE,Facultades de CU,Facultad de Filosofía y Letras,Geografía
-L55SRC,Facultades de CU,Facultad de Filosofía y Letras,Geografía
 VNMPZ9,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Hispánicas
 EHX8WQ,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Hispánicas
 2B9BEB,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Hispánicas
@@ -996,9 +1000,7 @@ MZZQ3K,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Mod
 VECKTJ,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Inglesas
 5GBMQ7,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Italianas
 JBND4D,Facultades de CU,Facultad de Filosofía y Letras,Lengua y Literaturas Modernas Portuguesas
-6NDDAC,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
 ZUACTS,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
-8XQTQW,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
 5VSKLQ,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
 P447L7,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
 FUEQZD,Facultades de CU,Facultad de Filosofía y Letras,Literatura Dramática y Teatro
@@ -1144,6 +1146,7 @@ ZASTKX,Facultades de CU,Facultad de Artes y Diseño,Artes Visuales
 L8GE4V,Facultades de CU,Facultad de Artes y Diseño,Artes Visuales
 W3ZPUK,Facultades de CU,Facultad de Artes y Diseño,Artes Visuales
 RANETR,Facultades de CU,Facultad de Artes y Diseño,Artes Visuales
+J8LGHK,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visual
 BFJ5ZB,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visual
 XJWH5V,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visual
 AFJHRE,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visual
@@ -1174,7 +1177,6 @@ AGLLPJ,Facultades de CU,Facultad de Economía,Economia SUAyED
 4G7JK7,Facultades de CU,Facultad de Economía,Economia SUAyED
 QMDEAM,Facultades de CU,Facultad de Derecho,Derecho
 CF4UBR,Facultades de CU,Facultad de Derecho,Derecho
-5NT3GR,Facultades de CU,Facultad de Derecho,Derecho
 UU6VPQ,Facultades de CU,Facultad de Derecho,Derecho
 MFCF6H,Facultades de CU,Facultad de Derecho,Derecho
 UFELAH,Facultades de CU,Facultad de Derecho,Derecho
@@ -1267,6 +1269,7 @@ TZ3CU6,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 H36HPZ,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 GL8ETS,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 7VPCWT,Facultades de CU,Facultad de Odontología,Cirujano Dentista
+QV68T9,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 C73DE3,Facultades de CU,Facultad de Odontología,Odontologia
 9R45UR,Facultades de CU,Facultad de Odontología,Odontologia
 ZGPKFJ,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Ciencia de la Tierra: v
@@ -1295,1005 +1298,11 @@ LH2NV7,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lengua
 DNX7NY,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Teatro y actuación
 DLFZY8,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Nanotecnología
 BXCKLK,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Nanotecnología
-CH2DGW,Escuelas nacionales y otras entidades,Centro de Física Aplicada y Avanzada (Juriquilla) -PASENLOOOOOOO,↑
+CH2DGW,Escuelas nacionales y otras entidades,Centro de Física Aplicada y Avanzada (Juriquilla),Tecnología
+N3APR4,Escuelas nacionales y otras entidades,Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia,Ciencias Agroforestales
 6SRU4Q,Escuelas nacionales y otras entidades,Instituto de Energías Renovables (Temixco),Ingeniería en Energías Renovables
 BK3FVG,Escuelas nacionales y otras entidades,Instituto de Energías Renovables (Temixco),Ingeniería en Energías Renovables
 5KX44U,Escuelas nacionales y otras entidades,Centro de Genómicas (Cuernavaca),Genómicas
-BXAMZP,Tocayo,,Aaron
-MJLUUU,Tocayo,,Aaron
-ALVDTP,Tocayo,,Aaron
-K4Z8HD,Tocayo,,Abigail
-89JNM3,Tocayo,,Abigail
-UGVD3C,Tocayo,,Abraham
-VSVE5R,Tocayo,,Abraham
-4LDPLD,Tocayo,,Abril
-TT6442,Tocayo,,Abril
-26MW2U,Tocayo,,Absalón
-E6FYLQ,Tocayo,,Ada
-354CMX,Tocayo,,Adamari
-M33WL2,Tocayo,,Adolfo
-UDHBH3,Tocayo,,Adonay
-F783Q6,Tocayo,,Adrian
-SB3S58,Tocayo,,Adrian
-7UHFHJ,Tocayo,,Adriana
-EZLREM,Tocayo,,Adriana
-X5S4VQ,Tocayo,,Agnes
-HYADUU,Tocayo,,Ailed
-W88YLX,Tocayo,,Aidé
-TZ3CU6,Tocayo,,Aideé
-R7WR2E,Tocayo,,Aileen
-FDR434,Tocayo,,Ailin
-3RX6LZ,Tocayo,,Ailin
-XLB7Z2,Tocayo,,Ailin
-G5VSUZ,Tocayo,,Aislin
-LHVZE2,Tocayo,,Ainar
-55VVA9,Tocayo,,Akin
-PYADLG,Tocayo,,Alan
-SLYBSD,Tocayo,,Alberto
-MAVRJ9,Tocayo,,Aldair
-MHLNQF,Tocayo,,Aldo
-4QSM4X,Tocayo,,Alejandra
-RMNQ7T,Tocayo,,Alejandra
-PV9QBS,Tocayo,,Alejandra
-SQP3HF,Tocayo,,Alejandro
-H6U52K,Tocayo,,Alejandro
-XZBWUT,Tocayo,,Alejandro
-E7U7YA,Tocayo,,Alejandro
-J4QES4,Tocayo,,Alessandra
-ETYJEM,Tocayo,,Alexa
-TC2RHZ,Tocayo,,Alexa
-TL83CB,Tocayo,,Alexa
-H8MKFQ,Tocayo,,Alexa
-34EDFF,Tocayo,,Alexa
-FTWZED,Tocayo,,Alexander
-FHQXMQ,Tocayo,,Alexandra
-W9THGT,Tocayo,,Alexandra
-9X7TGT,Tocayo,,Alexandro
-K4RNJH,Tocayo,,Alexia
-ZEWEKJ,Tocayo,,Alexis
-AB6RWP,Tocayo,,Alfredo
-5VFXAG,Tocayo,,Alfredo
-XH8ZZE,Tocayo,,Alfonso
-LM2U7L,Tocayo,,Alicia
-GSKBMJ,Tocayo,,Alin
-M2A9L3,Tocayo,,Aline
-8N24Z3,Tocayo,,Alinne
-VAQYCV,Tocayo,,Alison
-G73Z9E,Tocayo,,Allison
-RMXZ4E,Tocayo,,Alisson
-B4P9YP,Tocayo,,Alma
-TEQN9R,Tocayo,,Alondra
-XSLEPM,Tocayo,,Alonso
-DTL4P5,Tocayo,,Alvaro
-W25A2E,Tocayo,,Alyzon
-N7RKPL,Tocayo,,Amanda
-LYZ5CF,Tocayo,,Amauri
-U6QC39,Tocayo,,Ambar
-WNMKU5,Tocayo,,Ambar
-QMDEAM,Tocayo,,Amelie
-9U3QWM,Tocayo,,America
-F5Z27H,Tocayo,,America
-SSD55C,Tocayo,,Ameyal
-BGY7UX,Tocayo,,Ameyala
-3EGY3N,Tocayo,,Ameyali
-LH2NV7,Tocayo,,Ameyalli
-Z5K8S9,Tocayo,,Amalinalli
-F688S8,Tocayo,,Amairani
-ZJJYZU,Tocayo,,Amayrani
-WLW4WT,Tocayo,,Amir
-NBDGLB,Tocayo,,Amos
-VNMPZ9,Tocayo,,Ana
-6GT9PH,Tocayo,,Ana
-UMZHHH,Tocayo,,Ana
-RP824B,Tocayo,,Ana
-56XQJ8,Tocayo,,Ana
-QHQFZB,Tocayo,,Anna
-XQST48,Tocayo,,Anahí
-M7B54S,Tocayo,,Anahí
-MP7Y6M,Tocayo,,Anaid
-YK4BPW,Tocayo,,Anaremi
-HB9TUV,Tocayo,,Anael
-44UQUR,Tocayo,,Andre
-6WM8QZ,Tocayo,,Andrea
-WGM2KG,Tocayo,,Andrea
-MY5REG,Tocayo,,Andrea
-EMXTCA,Tocayo,,Andrea
-QKQC8H,Tocayo,,Andrés
-XTEJ8P,Tocayo,,Andrés
-UAW9AA,Tocayo,,Andrey
-Y2SM92,Tocayo,,Angel
-KJY9A8,Tocayo,,Angel
-WW36CR,Tocayo,,Angel
-JEYZRQ,Tocayo,,Angel
-6PHDHX,Tocayo,,Angélica
-H6RRFW,Tocayo,,Angélica
-SN6AHU,Tocayo,,Ángela
-AXBZDR,Tocayo,,Angelli
-SS4VPK,Tocayo,,Angie
-CSSVLE,Tocayo,,Anel
-4PXEED,Tocayo,,Anneli
-RCNKSB,Tocayo,,Annie
-UGVEHD,Tocayo,,Antonio
-MJLUUU,Tocayo,,Antonio
-XJE3HZ,Tocayo,,Antonio
-YULUPY,Tocayo,,Aquetzalli
-ZVD8Z4,Tocayo,,Arantxa
-C2E6DR,Tocayo,,Aranza
-CXZGG6,Tocayo,,Arath
-N54J7V,Tocayo,,Areli
-3ZH8AS,Tocayo,,Arely
-Y7J263,Tocayo,,Ari
-HFAAS9,Tocayo,,Aridani
-GXZ73A,Tocayo,,Ariel
-LZ7ETX,Tocayo,,Arlet
-F5JCTS,Tocayo,,Arleth
-9DFZVJ,Tocayo,,Arcelia
-Q6QP7H,Tocayo,,Argenis
-XV6KAN,Tocayo,,Arelys
-MVNWXC,Tocayo,,Ariana
-FKWYFZ,Tocayo,,Armando
-7Z9MNW,Tocayo,,Arturo
-JQEG3U,Tocayo,,Ashley
-AL6N8L,Tocayo,,Ashly
-MDW9W3,Tocayo,,Atenea
-49ACHB,Tocayo,,Audrey
-FSZLZC,Tocayo,,Audrie
-WPAY3K,Tocayo,,Aura
-XRRLDC,Tocayo,,Aurea
-75DVYC,Tocayo,,Aurora
-Y7ZM9H,Tocayo,,Aury
-RWKVVL,Tocayo,,Avril
-YURFCE,Tocayo,,Axel
-QVC32M,Tocayo,,Axel
-PPYFAU,Tocayo,,Ayari
-UALS83,Tocayo,,Ayelen
-ZUAMAT,Tocayo,,Ayerim
-KEPNNC,Tocayo,,Aylin
-9GNVRV,Tocayo,,Azael
-5WZDUP,Tocayo,,Azucena
-P7PAUD,Tocayo,,Azul
-L576TC,Tocayo,,Araceli
-5M92E6,Tocayo,,Alitzel
-HG6QQX,Tocayo,,Barbara
-M8MRDM,Tocayo,,Bárbara
-XKYNQ8,Tocayo,,Beatriz
-8MT3SY,Tocayo,,Belem
-LDJN7P,Tocayo,,Belén
-42GEXU,Tocayo,,Betzabeth
-DGHY32,Tocayo,,Berenice
-AWLR5V,Tocayo,,Berenice
-73VSTT,Tocayo,,Bersheva
-E76VKM,Tocayo,,Blanca
-CYSVAV,Tocayo,,Brandon
-D3NJY3,Tocayo,,Braulio
-JTWXGC,Tocayo,,Braulio
-SLYBSD,Tocayo,,Brayan
-VZ36RJ,Tocayo,,Brenda
-UU6VPQ,Tocayo,,Brenda
-WW7T4K,Tocayo,,Brenda
-7FDNDL,Tocayo,,Brenda
-TVPG8X,Tocayo,,Brenda
-GKZCFU,Tocayo,,Brian
-7BSNQB,Tocayo,,Brian
-XFX8U7,Tocayo,,Briana
-UALS83,Tocayo,,Brigitte
-KNM6SQ,Tocayo,,Briseida
-2PFVA4,Tocayo,,Bruno
-JNFJKW,Tocayo,,Bruno
-668YW9,Tocayo,,Bryan
-BP23LR,Tocayo,,Camila
-EE55CC,Tocayo,,Camila
-3MXTEL,Tocayo,,Camila
-QP8C79,Tocayo,,Catherine
-2K9FK5,Tocayo,,CALEB FNXSDNNEKJCK - Carla
-XVNKKN,Tocayo,,Carlo
-JHCABD,Tocayo,,Carlos
-ACZ97F,Tocayo,,Carlos
-5WZDUP,Tocayo,,Carmen
-78K5AB,Tocayo,,Carmen
-KB5FFD,Tocayo,,Carmen
-GC6HKG,Tocayo,,Carol
-46Q2KK,Tocayo,,Carol
-KQTXQ3,Tocayo,,Carolina
-6UQTGW,Tocayo,,Casandra
-DBUTNQ,Tocayo,,Cassandra
-K6APFR,Tocayo,,Cecilia
-Z7BAJP,Tocayo,,Celic
-SBP82Q,Tocayo,,César
-5P477Q,Tocayo,,Christian
-XJWH5V,Tocayo,,Christian
-METDCV,Tocayo,,Christofer
-ZCZAKQ,Tocayo,,Christopher - Cielo
-HYSHQ5,Tocayo,,Cindy
-LEH2JS,Tocayo,,Citlali
-NYHVEN,Tocayo,,Citlalli
-4C7WHL,Tocayo,,Citlalmina
-PQ2FWE,Tocayo,,Claudia
-NWG754,Tocayo,,Claudia
-HU9HCY,Tocayo,,Constanza
-KFWUSC,Tocayo,,Constanza
-GHCDJB,Tocayo,,Cristal
-X5S4VQ,Tocayo,,Cristal
-TRAGDN,Tocayo,,Cristal
-SQMUC6,Tocayo,,Cristian
-GRFFUL,Tocayo,,Cristina
-7TUCT5,Tocayo,,Cristina
-YTVD9L,Tocayo,,Crista
-F5JCTS,Tocayo,,Cynthia
-RJ863T,Tocayo,,Citlaly
-VVG2NM,Tocayo,,Dafne
-3PPWQ5,Tocayo,,Daphne
-ESNV5Y,Tocayo,,Dalí
-RWSHM3,Tocayo,,Dalia
-KLVKPA,Tocayo,,Dalia
-36562B,Tocayo,,Damaris
-AQQ37Y,Tocayo,,Damian
-VVXVRV,Tocayo,,Dana
-JWZJ9R,Tocayo,,Danae
-VKVDLU,Tocayo,,Danna
-D34KZG,Tocayo,,Daniel
-DBFAJH,Tocayo,,Daniel
-ZE3R39,Tocayo,,Daniel
-J7WBD7,Tocayo,,Daniel
-YXVL5Z,Tocayo,,Daniela
-PWGZE8,Tocayo,,Daniela
-S5VEZU,Tocayo,,Daniela
-EBKB4C,Tocayo,,Daniela
-JCDSEA,Tocayo,,Daniela
-5FT2AY,Tocayo,,Daira
-NWX4TN,Tocayo,,Daira
-F7E3UH,Tocayo,,Dara
-L3CJV6,Tocayo,,Darien
-NEARSC,Tocayo,,Darik
-DBJCGD,Tocayo,,Darinka
-JUBN3N,Tocayo,,Darío
-AXFFAE,Tocayo,,Dasha
-9GE77M,Tocayo,,Dante
-YBN3XW,Tocayo,,David
-9ZULZT,Tocayo,,DAYNA ( No Dayana)
-JUJB7X,Tocayo,,Dayana
-L29XDT,Tocayo,,Dayane
-YK9XG3,Tocayo,,Dayra
-FNXSDN,Tocayo,,Delia
-WUJYVC,Tocayo,,Demián
-ETW2ZZ,Tocayo,,Denis
-6WGN6F,Tocayo,,Denisse
-6RQUDB,Tocayo,,Dennis
-E8QL98,Tocayo,,Derek
-JSDWQM,Tocayo,,Desireé
-CBMN94,Tocayo,,Diana
-XRE63S,Tocayo,,Diana
-VEXQQZ,Tocayo,,Diana
-ESZSG5,Tocayo,,Diana
-8AH8Y9,Tocayo,,Diana
-7FJGHH,Tocayo,,Diane
-4T9W9R,Tocayo,,Diego
-HPGXDE,Tocayo,,Diego
-FZTJCT,Tocayo,,Diego
-AV5UAQ,Tocayo,,Diego
-APSHVP,Tocayo,,Diego
-J8S4ZS,Tocayo,,Diego
-NWB7JG,Tocayo,,Diego
-9DT2GX,Tocayo,,Dinorah
-G8ZWJ9,Tocayo,,Donají
-ZBV554,Tocayo,,Donovan
-HNXP56,Tocayo,,Dorian
-RDFGD3,Tocayo,,Dulce
-7RKM4V,Tocayo,,Dulce
-YY4XRF,Tocayo,,Dulce
-7XMBB9,Tocayo,,Eder
-DH5LMV,Tocayo,,Eder
-HR5TVK,Tocayo,,Edgar
-C4S5F9,Tocayo,,Edgar
-VPDHVT,Tocayo,,Edgardo
-Q3Q9LU,Tocayo,,Edahi
-9MS2MK,Tocayo,,Edmundo
-48WMEU,Tocayo,,Edna
-MJLUUU,Tocayo,,Edna
-5WL3J2,Tocayo,,Eduardo
-H6ET8G,Tocayo,,Eduardo
-HLTR92,Tocayo,,Eduardo
-DVX6Y3,Tocayo,,Edwin
-E44DJW,Tocayo,,Efrén
-RRB4ZF,Tocayo,,Efrén
-J4C52P,Tocayo,,Eibraham
-7XMBB9,Tocayo,,Eithan
-UTNDXQ,Tocayo,,Elena
-PXH6BE,Tocayo,,Elí
-7C33QL,Tocayo,,Eliam
-XEYR24,Tocayo,,Elian
-AARUZQ,Tocayo,,Elías
-V4LUEE,Tocayo,,Elideth
-4M6RG7,Tocayo,,Elisa
-45KGQP,Tocayo,,Elizabeth
-3ZQQKP,Tocayo,,Elizabeth
-GTYWRN,Tocayo,,Elizabeth
-BPY827,Tocayo,,Elvira
-HE4X2K,Tocayo,,Elsy
-4NGH85,Tocayo,,Emanuel
-6TBAMV,Tocayo,,Emma
-5RF2MC,Tocayo,,Emmanuel
-BUJP37,Tocayo,,Emmanuel
-KW9UF5,Tocayo,,Emilia
-UJ6HJA,Tocayo,,Emiliano
-BL2SEC,Tocayo,,Emiliano
-DRVR87,Tocayo,,Emiliano
-LJ3UDT,Tocayo,,Emilio
-VFYFQQ,Tocayo,,Emilio
-CZFK4A,Tocayo,,Emilio
-JF5XLG,Tocayo,,Emilio
-M7ABXK,Tocayo,,Emily
-CY6ATS,Tocayo,,Emily
-Q92CDU,Tocayo,,Emily
-G8ZWJ9,Tocayo,,Ennovi
-47AFVH,Tocayo,,Enrique
-6DERTR,Tocayo,,Enzi
-RSJUH3,Tocayo,,Erandi
-SSY4TG,Tocayo,,Erandy
-DPL3TW,Tocayo,,Eric
-JUF5W6,Tocayo,,Erick
-85XQ5L,Tocayo,,Erik
-S8LNQW,Tocayo,,Erik
-X4WFYP,Tocayo,,Erika
-ZCDEZZ,Tocayo,,Erika
-R5UKGS,Tocayo,,Erika
-YJ3MH8,Tocayo,,Esperanza
-A39J8V,Tocayo,,Esmeralda
-AQDZJ4,Tocayo,,Estefania
-8468UT,Tocayo,,Estefanya
-E76VKM,Tocayo,,Estela
-BHXKZL,Tocayo,,Esther
-33DBC2,Tocayo,,Estrella
-WQPRJZ,Tocayo,,Ethan
-VUGKWY,Tocayo,,Ethel
-DL95TY,Tocayo,,Etienne
-RRB4ZF,Tocayo,,Eumir
-9K99R3,Tocayo,,Eva
-QC4WVW,Tocayo,,Eva
-WNYKCD,Tocayo,,Evelin
-QCDXFG,Tocayo,,Evelin
-JPJXQW,Tocayo,,Evelyn
-742NB2,Tocayo,,Evelyn
-UPWQ74,Tocayo,,Ever
-27XX4P,Tocayo,,Ezequiel
-79U7RY,Tocayo,,Efrain
-87WWAG,Tocayo,,Fabián
-MCJU5D,Tocayo,,Fabio
-5K4A9V,Tocayo,,Fabiola
-FTJ9YB,Tocayo,,Fabiola
-6A43KN,Tocayo,,Fabiola
-UM2YKB,Tocayo,,Fabricio
-CCQBM9,Tocayo,,Farrah
-QLXHKW,Tocayo,,Farid
-7L4QKK,Tocayo,,Fatima
-46ZU4M,Tocayo,,Fausto
-H47GVV,Tocayo,,Federico
-VZDJGS,Tocayo,,Felix
-ZKCCMK,Tocayo,,Fernanda
-YK9XG3,Tocayo,,Fernanda
-MTXZ58,Tocayo,,Fernanda
-8EJFYT,Tocayo,,Fernanda
-7V69QX,Tocayo,,Fernanda
-EBAGVV,Tocayo,,Fernando
-8R5W24,Tocayo,,Fernando
-Y6352H,Tocayo,,Francisco
-9JUXJP,Tocayo,,Francisco
-74MYW8,Tocayo,,Francisco
-7STSNM,Tocayo,,Frida
-Z9D3BT,Tocayo,,Frida
-QV8YWM,Tocayo,,Gabriel
-H6RDXQ,Tocayo,,Gabriel
-AFJHRE,Tocayo,,Gabriela
-2G5REG,Tocayo,,Gabriela
-NU9ED2,Tocayo,,Gael
-6GNP6P,Tocayo,,Gamaliel
-T4MZ7S,Tocayo,,Genesis
-LJ3UDT,Tocayo,,Gerardo
-ELYMMJ,Tocayo,,Gerardo
-UU7ANV,Tocayo,,Gerónimo
-5D4C6P,Tocayo,,= Giancarlo
-AQK9HC,Tocayo,,Gibran
-SWCUS3,Tocayo,,Gibran
-MJLUUU,Tocayo,,Gibran
-PYWASS,Tocayo,,Gilberto
-ZB3X47,Tocayo,,Giovanni
-3C9YXF,Tocayo,,GiovannA
-ULS7F3,Tocayo,,Giovanny
-L6KQTK,Tocayo,,Giselle
-H5G886,Tocayo,,Gonzalo
-XFLRJV,Tocayo,,Grace
-UJCX2D,Tocayo,,Grecia
-KWRTRY,Tocayo,,Gregorio
-JA9ZR3,Tocayo,,Guadalupe
-CJXGS2,Tocayo,,Guadalupe
-ZL5WRA,Tocayo,,Gustavo
-3WLQSH,Tocayo,,Gustavo
-PQ5YP6,Tocayo,,Gustavo
-GCAGCG,Tocayo,,Hanadi
-YK4BYU,Tocayo,,Hanna
-ZAT8R9,Tocayo,,Hannah
-RG2KM7,Tocayo,,Hannia
-V3HNZA,Tocayo,,Hanniel
-QAN9U2,Tocayo,,Harumi
-BFAJSX,Tocayo,,Hayat
-4V8XK3,Tocayo,,Héctor
-4NMXPM,Tocayo,,Heidy
-ZQ7D4T,Tocayo,,Heydi
-HXEZSH,Tocayo,,Helen
-Q2SZ3B,Tocayo,,Helena
-BNMEKR,Tocayo,,Helena
-KWAFZM,Tocayo,,Hernan
-SGHGQT,Tocayo,,Hiram
-T4CVFZ,Tocayo,,Hugo
-6DULNS,Tocayo,,Hugo
-L9A6EJ,Tocayo,,Humberto
-6A755S,Tocayo,,Hansel
-CP69HF,Tocayo,,Ian
-EGRGG2,Tocayo,,Ian
-ZH8RDP,Tocayo,,Iann
-JQZR96,Tocayo,,Idalia
-M7J8JU,Tocayo,,Ihsahn
-UP638M,Tocayo,,Iker
-R3Y27V,Tocayo,,Ikki
-U54DJC,Tocayo,,Ilse
-QUQ7A4,Tocayo,,Imanol
-PW5KSH,Tocayo,,Indra
-NQQBE5,Tocayo,,Ingrid
-UEYXQY,Tocayo,,Ingrid
-XAYS2Y,Tocayo,,Irais
-M2P8C9,Tocayo,,Irán
-8C9ST8,Tocayo,,Irene
-7Y9LVV,Tocayo,,Irene
-NDB5AU,Tocayo,,Iris
-FF9N3A,Tocayo,,Irvin
-X2UKCH,Tocayo,,Irving
-EGGBNP,Tocayo,,Isaac
-LV6ACX,Tocayo,,Isaac
-JBSBZL,Tocayo,,Isabel
-KBL9AS,Tocayo,,Isabel
-XLWSAA,Tocayo,,Isabel
-NZCWBW,Tocayo,,Isabella
-NN2BAN,Tocayo,,Isis
-5NP88H,Tocayo,,Isis
-EC2MCG,Tocayo,,Ismael
-PQ8SMT,Tocayo,,Ismerai
-XMKRM8,Tocayo,,Israel
-AQK9HC,Tocayo,,Istvan
-ZCAWGA,Tocayo,,Italy
-6ZBET4,Tocayo,,Itsani
-7GADBP,Tocayo,,Itza
-8JH9PL,Tocayo,,Itzel
-BDJ43Q,Tocayo,,Itzel
-DHXMPS,Tocayo,,Ivan
-2VLF4M,Tocayo,,Ivan
-T827MU,Tocayo,,Ivan
-82H488,Tocayo,,Ivonne
-URT7XH,Tocayo,,Ivonne
-4TYNFK,Tocayo,,Ivonne
-YR3TKQ,Tocayo,,Ixchel
-WARSUJ,Tocayo,,Inés
-DX388V,Tocayo,,Iliana
-UVJ83P,Tocayo,,Izébel
-FA7FL7,Tocayo,,Jacqueline
-MG9MBE,Tocayo,,Jacqueline
-VQT3ZX,Tocayo,,Jacqueline
-BPY827,Tocayo,,Jaqueline
-ZAZBK8,Tocayo,,Jade
-6S9FH3,Tocayo,,Jael
-BXAMZP,Tocayo,,Jair
-QERZ9Y,Tocayo,,Jair
-G5VSUZ,Tocayo,,Janet
-BV6XE8,Tocayo,,Janette
-ASFT6Z,Tocayo,,Jared
-XCDN8J,Tocayo,,Jasiel
-3AHQQ8,Tocayo,,Jatziri
-9JUXJP,Tocayo,,Javier
-8CYDV9,Tocayo,,Javier
-V7QEMW,Tocayo,,Jazmin
-VD522A,Tocayo,,Jazmin
-89G6U2,Tocayo,,Jean
-BHJJJA,Tocayo,,Jeison
-4WKRNM,Tocayo,,Jenifer
-ZV7JT3,Tocayo,,Jennifer
-BELPYW,Tocayo,,Jennifer
-G9HCLW,Tocayo,,Jenny
-GSWGUF,Tocayo,,Jeremy
-KRYNU4,Tocayo,,Jeremy
-ZHSJL4,Tocayo,,Jesica
-8YFL8T,Tocayo,,Jessica
-YYSEV5,Tocayo,,Jessica
-4DTUW6,Tocayo,,Jesua
-XH2446,Tocayo,,Jeshua
-LCGMTK,Tocayo,,Jesús
-WKT9XN,Tocayo,,Jesús
-UFEUD2,Tocayo,,Jesús
-ZEDTNW,Tocayo,,Jimena
-ZQRPGW,Tocayo,,Jimena
-ATVRUU,Tocayo,,Joan
-VZ4TY9,Tocayo,,Joana
-7U3R9D,Tocayo,,Joanna
-T9UJMP,Tocayo,,Joaquín
-U9ZV92,Tocayo,,Job
-J5HYY2,Tocayo,,Jocelyn
-CU6X4E,Tocayo,,Joel
-BP4BSQ,Tocayo,,Joel
-MMTHB4,Tocayo,,Johan
-H4LK2K,Tocayo,,Johan
-ASGK4F,Tocayo,,Johanna
-V4LUEE,Tocayo,,Johenna
-MKH4HC,Tocayo,,Jonatan
-4NGH85,Tocayo,,Jonatan
-QXVWPA,Tocayo,,Jonatan
-8T9YUR,Tocayo,,Jonathan
-JUDSPC,Tocayo,,"Jhonathan (sí, con dos h)"
-X3TE7F,Tocayo,,Jorge
-BK3FVG,Tocayo,,Jorge
-D8VY2V,Tocayo,,Josceline
-JNUXUA,Tocayo,,José
-ZE3R39,Tocayo,,José
-X4BZBK,Tocayo,,José
-RKUDH3,Tocayo,,José
-K7AFKF,Tocayo,,José
-JN42QP,Tocayo,,José
-74KTUS,Tocayo,,Joselyn
-KRN9CS,Tocayo,,Josh tuua
-LKAE3D,Tocayo,,Josh tuua
-8QFQER,Tocayo,,Joshua
-G2SQMG,Tocayo,,Josué
-FL5998,Tocayo,,Jothan
-HQX32E,Tocayo,,Jovany
-MJLUUU,Tocayo,,Juan
-H3DW2S,Tocayo,,Juan
-B54D8Z,Tocayo,,Juan
-B63GTY,Tocayo,,Juan
-R9DENV,Tocayo,,Judith
-CSZCKD,Tocayo,,Judith
-SSGL8J,Tocayo,,Julia
-M3SNLV,Tocayo,,Julia
-QE4UEL,Tocayo,,Julian
-99YS7A,Tocayo,,Julian
-9DT7WG,Tocayo,,Juliana
-UN34WK,Tocayo,,Julieta
-7GW9UE,Tocayo,,Julieta
-CA469K,Tocayo,,Julio
-C4CR5W,Tocayo,,Kai
-S6FD5B,Tocayo,,Karen
-VV4X6H,Tocayo,,Karen
-79LV2Z,Tocayo,,Karen
-V8NSTH,Tocayo,,Karina
-BE5FU9,Tocayo,,4GVFW
-PYDJVG,Tocayo,,4GVFW
-VQW8C2,Tocayo,,4GVFW
-QXN8JQ,Tocayo,,4GVFW
-FFWLPX,Tocayo,,Karla
-8EJFYT,Tocayo,,Karla
-GTMTH9,Tocayo,,Karla
-CEB2F7,Tocayo,,Karla
-YTGL83,Tocayo,,Karla
-2KC976,Tocayo,,Karla
-DL95TY,Tocayo,,Karlo
-ZLK3YB,Tocayo,,Karol
-J4MQAK,Tocayo,,Katerine
-CF4UBR,Tocayo,,Katherine
-DAWV3T,Tocayo,,Katherine
-JPLRZG,Tocayo,,Katerinee
-XAYS2Y,Tocayo,,Kathya
-WMRUKV,Tocayo,,Katia
-XB4HM4,Tocayo,,Katya
-E92887,Tocayo,,Katya
-8DVDZC,Tocayo,,Kenai
-7XRR7D,Tocayo,,Kelly
-JV4M3U,Tocayo,,Kevin
-FNEAB4,Tocayo,,Kevin
-JLCAW9,Tocayo,,Kevin
-FB5CLB,Tocayo,,Kimberly
-ZR8YJF,Tocayo,,Kim
-24K8R8,Tocayo,,Kitzia
-HVZSUK,Tocayo,,Kevin
-8GHZQ5,Tocayo,,Karime
-AUB6XJ,Tocayo,,Kendra
-EBC862,Tocayo,,Laila
-2WFKWY,Tocayo,,Lainy
-6HAJFC,Tocayo,,Laura
-MTW6EY,Tocayo,,Laura
-3JSZ6E,Tocayo,,Laura
-XRE63S,Tocayo,,Laura
-FTHR87,Tocayo,,Laura
-GDEP4Z,Tocayo,,Laura
-N3MF6K,Tocayo,,Laura
-Q6UC7G,Tocayo,,Laura
-HTZ424,Tocayo,,Laura
-FED72D,Tocayo,,Legna
-ENP68N,Tocayo,,Leilany
-NGP3Q4,Tocayo,,Lenin
-9GNVRV,Tocayo,,Leon
-55QGR6,Tocayo,,Leonardo
-CBHD9N,Tocayo,,Leonardo
-M7PS49,Tocayo,,Leonor
-TE4967,Tocayo,,Lesli
-Y6JME9,Tocayo,,Leslie
-E22JQT,Tocayo,,Leslie
-X8VAHT,Tocayo,,Leslie
-ZG5ZBZ,Tocayo,,Lesly
-BTXU6S,Tocayo,,Lesly
-ZAX7PL,Tocayo,,Letizia
-MTB58U,Tocayo,,Leticia
-RANETR,Tocayo,,Leyla
-CRWXDZ,Tocayo,,Lian
-W5HKDQ,Tocayo,,Lidia
-W3YVLV,Tocayo,,Lilian
-SNXU8D,Tocayo,,Lilian
-XZ5A7P,Tocayo,,Liliana
-TRAGDN,Tocayo,,Linda
-W3ZPUK,Tocayo,,Linette
-9W8ZSS,Tocayo,,Lisbet
-J7PAEG,Tocayo,,Lisette
-9BRDEG,Tocayo,,Lisset
-95ZBRN,Tocayo,,Lissette
-VPRKQA,Tocayo,,Lizbeth
-7BNX7W,Tocayo,,Lizeth
-M6XECA,Tocayo,,Lizeth
-JJ3L4Z,Tocayo,,Lizzet
-DSN67E,Tocayo,,Lizzete
-JVN4MW,Tocayo,,Logan
-YF2ENX,Tocayo,,Louis
-2FB5UB,Tocayo,,Lourdes
-AN4FG8,Tocayo,,Luan
-GXQDEJ,Tocayo,,Lucero (NO ES LUCERO)
-XL8RSK,Tocayo,,Lucero
-ZFM8W6,Tocayo,,Lucia
-F5Z27H,Tocayo,,Lucia
-KN7BSP,Tocayo,,Luis
-B9ELGM,Tocayo,,Luis
-UH9C9E,Tocayo,,Luis
-8CYDV9,Tocayo,,Luis
-UWTZBJ,Tocayo,,Luz
-DQ7HBE,Tocayo,,Luz
-JYEF89,Tocayo,,Magali
-BFFU5Q,Tocayo,,Magdalena
-A33PGG,Tocayo,,Maira
-GM5UZ6,Tocayo,,Maite
-HMZ3AD,Tocayo,,Manuel
-75CQF3,Tocayo,,Manuel
-XXYX8U,Tocayo,,Marcelo
-4YDJ8D,Tocayo,,Marco
-FVYJ2H,Tocayo,,Marco
-W3AQ9D,Tocayo,,Marco
-A9U467,Tocayo,,Marcos
-HCGEZ2,Tocayo,,Marcos
-U3VAVW,Tocayo,,Mareli
-FGJEJV,Tocayo,,Marely
-LTU3JQ,Tocayo,,María
-RUYFGM,Tocayo,,María
-DBY6Z4,Tocayo,,María
-PFMXND,Tocayo,,Marian
-3LX4CZ,Tocayo,,Marian
-JUPMS4,Tocayo,,Mariana
-JBSBZL,Tocayo,,Mariana
-SPMU3V,Tocayo,,Mariana
-P79ZDH,Tocayo,,Mariana
-TUBLX3,Tocayo,,Maricela
-23RYUG,Tocayo,,Maricruz
-T8VYDC,Tocayo,,Mariela
-5EEBMP,Tocayo,,Marina
-LV3YJU,Tocayo,,Mario
-6B348Q,Tocayo,,Mario
-WLCJGV,Tocayo,,Mario
-6G2Y54,Tocayo,,Marisol
-7WZ6CU,Tocayo,,Marlen
-CF4UBR,Tocayo,,Marlen
-UPVKFL,Tocayo,,Marlene
-SSMW9C,Tocayo,,Marlon
-Y6GLBD,Tocayo,,Martha
-HXR9QK,Tocayo,,Mary
-Z2PFT2,Tocayo,,Martín ​
-54CXKN,Tocayo,,Martín ​
-PZBGYV,Tocayo,,Martín ​
-TKWWTU,Tocayo,,Mauricio
-7M3MNC,Tocayo,,Mauricio
-24NPWG,Tocayo,,Mauro
-BHKWUA,Tocayo,,Maximiliano
-TKJ7GY,Tocayo,,Máximo
-BHEFGR,Tocayo,,Maya
-QJV2T6,Tocayo,,Mayra
-2KBVYQ,Tocayo,,Mayte
-WESCS2,Tocayo,,Megan
-7UGZTJ,Tocayo,,Melani
-W2CA3T,Tocayo,,Melanie
-JWZJ9R,Tocayo,,Melanie
-CM8RT8,Tocayo,,Melanie
-EEDHP3,Tocayo,,Melisa
-3UA93V,Tocayo,,Meredith
-5NKZKL,Tocayo,,Melissa
-PVGZW9,Tocayo,,Melissa
-95Y7HN,Tocayo,,Melissa
-MCNAW6,Tocayo,,Metzi
-VZCC45,Tocayo,,Metzli
-LVD3EW,Tocayo,,Metzli
-DSN67E,Tocayo,,Mia
-FED72D,Tocayo,,Michell
-RPX2XG,Tocayo,,Michelle
-KXXUEB,Tocayo,,Midori
-XQWQS7,Tocayo,,Miguel
-4G7JK7,Tocayo,,Miguel
-92B2W3,Tocayo,,Miguel
-77S9EC,Tocayo,,Miguel
-7WX85K,Tocayo,,Milay
-296PCT,Tocayo,,Milton
-UZK9Z4,Tocayo,,Miranda
-9BLSUT,Tocayo,,Miriam
-QY3VQ9,Tocayo,,Miroslava
-E7MD3K,Tocayo,,Mirna
-8HY6EJ,Tocayo,,Misael
-4TG2S7,Tocayo,,Mónica
-QGLTRC,Tocayo,,Mónica
-MAT54P,Tocayo,,Monserrat
-KDTKR8,Tocayo,,Monserrat
-F9TZFU,Tocayo,,Montserrat
-57EYLG,Tocayo,,Monzerrat
-UFELAH,Tocayo,,Monserrath
-4CYKPC,Tocayo,,Naara
-3BAUAL,Tocayo,,Nadia
-Y4SECU,Tocayo,,Nahomi
-LKNHSS,Tocayo,,Naim
-7RSZST,Tocayo,,Nancy
-KNK7Y4,Tocayo,,Naomi
-RZ6XRU,Tocayo,,Naomi
-HC2CCM,Tocayo,,Naomi
-WRVRM4,Tocayo,,Narumi
-USCSEG,Tocayo,,Nasya
-QV68T9,Tocayo,,Natalya (pls si alguien se llama igual pongan su código)
-FHTEF8,Tocayo,,Natalia
-6FTMDZ,Tocayo,,Natalia
-KN6UYX,Tocayo,,Natalie
-SSMW9C,Tocayo,,Natanael
-UGVEHD,Tocayo,,Natanael
-YT6GMJ,Tocayo,,Nathalia
-AC6R6Z,Tocayo,,Nayeli
-A6KFLN,Tocayo,,Nayeli
-FZ33SX,Tocayo,,Nayelly
-KCVYLX,Tocayo,,Nallely
-QCDXFG,Tocayo,,Nayely
-FX9WHN,Tocayo,,Nayla
-G5M54T,Tocayo,,Nelly
-L92K5P,Tocayo,,Nelly
-UUNN5X,Tocayo,,Nestor
-NEARSC,Tocayo,,Neydan
-NBRR47,Tocayo,,Neylan
-SHYLDR,Tocayo,,Nicolas
-R4GH96,Tocayo,,Nicole
-H6F4BA,Tocayo,,Nicoletta
-RRB4ZF,Tocayo,,Niels
-U9FRDX,Tocayo,,Nidia
-R7ZS2S,Tocayo,,Noé
-MTUVQH,Tocayo,,Noel
-NVA94H,Tocayo,,Noemy
-8NZHFL,Tocayo,,Noemí
-AWTK5Y,Tocayo,,Nora
-JQHGUQ,Tocayo,,Norma
-8MTVNS,Tocayo,,Nydya
-5WE598,Tocayo,,Nailen
-FTJ9YB,Tocayo,,Oana
-SYULLG,Tocayo,,Obed
-8B7XR6,Tocayo,,Odaliz
-4DB2PC,Tocayo,,Odry
-VBDF4E,Tocayo,,Olga
-ZUACTS,Tocayo,,Oliver
-HVH8HB,Tocayo,,Oliver
-JLVQVW,Tocayo,,Ollin
-ZY78VD,Tocayo,,Omar
-YATFRA,Tocayo,,Oscar
-MXA4B9,Tocayo,,Oscar
-J7WBD7,Tocayo,,Oscar
-5KX44U,Tocayo,,Oscar
-VU4EAW,Tocayo,,Oscar
-2AVJJ6,Tocayo,,Oscar
-QUQKEZ,Tocayo,,Osmar
-9ULQ75,Tocayo,,Osvaldo
-WZ6CAL,Tocayo,,Oswald
-TSG2P2,Tocayo,,Oswaldo
-9MEAAP,Tocayo,,Owen
-4Y96Q5,Tocayo,,OZIEL
-5WE598,Tocayo,,Osiris
-DJUVN4,Tocayo,,Pablo
-9TSJ9S,Tocayo,,Pamela
-JMR2JU,Tocayo,,Paloma
-47X28G,Tocayo,,Paola
-ZZ6AE3,Tocayo,,Paola
-C77D29,Tocayo,,Paris
-96DD2T,Tocayo,,Patricia
-HUM9FU,Tocayo,,Patricia
-9MQNWS,Tocayo,,Patricia
-U243SW,Tocayo,,Patricio
-F2AYJ4,Tocayo,,Patrick
-8UFMYP,Tocayo,,Paula
-UZJXUG,Tocayo,,Paula
-9R45UR,Tocayo,,Paula
-BTHEFM,Tocayo,,Paulina
-9QDPTW,Tocayo,,Paulina
-VR3N9H,Tocayo,,Paulina
-MEYJA9,Tocayo,,Paulo
-GXQDEJ,Tocayo,,Paz
-LPC2K4,Tocayo,,Pedro
-FS9FAU,Tocayo,,Pedro
-EDWUCZ,Tocayo,,Penélope
-7LX92Y,Tocayo,,Perla
-E3ADVA,Tocayo,,Perla
-ZR8YJF,Tocayo,,Priscilla
-CF4UBR,Tocayo,,Priscilla
-9Z7HUK,Tocayo,,Quetzal
-4R4MNQ,Tocayo,,Quetzali
-BSU7JW,Tocayo,,Quetzalli
-SZEXJ3,Tocayo,,Rachel
-YEGKL2,Tocayo,,Rafael
-5D62KA,Tocayo,,Rafael
-V569QT,Tocayo,,Raman
-RVY6UF,Tocayo,,Ramiro
-99MYX7,Tocayo,,Raquel
-PGQ43A,Tocayo,,Raúl
-Q978AJ,Tocayo,,Rebeca
-WRVUAF,Tocayo,,Rebeca
-6TBAMV,Tocayo,,Regina
-Z5KZQ5,Tocayo,,Renata
-XEJ383,Tocayo,,Renata
-D5GYZY,Tocayo,,Ricardo
-GAVUGY,Tocayo,,Roberto
-ALKPT3,Tocayo,,Rocio
-T5ARSK,Tocayo,,Rodolfo
-EUF8A3,Tocayo,,Rodrigo
-HGGMCD,Tocayo,,Rodrigo
-GNPVXS,Tocayo,,Rodrigo
-EQAW8X,Tocayo,,Rolando
-XYRRTS,Tocayo,,Romina
-HUUGQ5,Tocayo,,Rommel
-WLWZ6P,Tocayo,,Rosa
-3UNCXG,Tocayo,,Rosa
-ADBZNZ,Tocayo,,Rosalba
-4QRXH7,Tocayo,,Rosendo
-YM9HJ3,Tocayo,,Rosaura
-BXQMZX,Tocayo,,Rigoberto
-L5GPBK,Tocayo,,Safir
-Q2432U,Tocayo,,Said
-PYADLG,Tocayo,,Salvador
-P7PAUD,Tocayo,,Samantha
-K7KBUF,Tocayo,,Samantha
-AAABHU,Tocayo,,Samantha
-BASB5W,Tocayo,,Samantha
-7Y4N48,Tocayo,,Samantha
-634MZ6,Tocayo,,Samanta
-YNPKGP,Tocayo,,Sandra
-Z6NQMM,Tocayo,,Santiago
-GLWNDS,Tocayo,,Santiago
-6DT6SY,Tocayo,,Santiago
-TVGL8J,Tocayo,,Santiago
-7NSF65,Tocayo,,Sara
-KNFKMV,Tocayo,,Sarahi
-2UZB9F,Tocayo,,Sarai
-PMXRXP,Tocayo,,Saul
-93H9J9,Tocayo,,Sayid
-SKBZDL,Tocayo,,Sayra
-XTEKTV,Tocayo,,Scarlett
-CC2JVA,Tocayo,,Sebastián
-VMXG5A,Tocayo,,Sebastián
-FDSTL4,Tocayo,,Sebastián
-SAKNLC,Tocayo,,Selene
-MAVVEW,Tocayo,,Sergio
-Z2PFT2,Tocayo,,Sergio
-V2XP99,Tocayo,,Sergio
-Q25JJU,Tocayo,,Sergio
-XPQ7SN,Tocayo,,Sergio
-8RYZLX,Tocayo,,Shania
-P8AEN8,Tocayo,,Sharon
-F5TN2H,Tocayo,,Sharon
-BYF2UV,Tocayo,,Sheccid
-R6YX47,Tocayo,,Sheyla
-WMWPYR,Tocayo,,Seth
-4HU2PV,Tocayo,,Silvia
-9ZHNXC,Tocayo,,Sofía
-MTXZ58,Tocayo,,Sofía
-EF38ST,Tocayo,,Spencer
-9MVBUH,Tocayo,,Stephanie
-LGB2ZV,Tocayo,,Stefany
-CF4UBR,Tocayo,,Stefany
-27YHVB,Tocayo,,Sunmy
-X3DZYF,Tocayo,,Suzanne
-JVURUC,Tocayo,,Tadeo
-XR5KLQ,Tocayo,,Tania
-EL5ESZ,Tocayo,,Tania
-6Z52ZA,Tocayo,,Tanya
-S7H7BF,Tocayo,,Tomás
-NYSCU3,Tocayo,,Ulises
-VFDZLL,Tocayo,,Uriel
-W3AQ9D,Tocayo,,Uriel
-3VYPYG,Tocayo,,Uriel
-QUQ7A4,Tocayo,,Usiel
-JSDWQM,Tocayo,,Ursula
-XM2G45,Tocayo,,Uziel
-4YXJX4,Tocayo,,Valeria
-R5QWA8,Tocayo,,Valeria
-HXNPTW,Tocayo,,Valeria
-2C99TJ,Tocayo,,Valeria
-FENCHJ,Tocayo,,Valeria
-FUEQZD,Tocayo,,Valentina
-BGBH9J,Tocayo,,Vanessa
-T2MUUG,Tocayo,,Vanesa
-9G29YH,Tocayo,,Vania
-W3YVLV,Tocayo,,Velvet
-8PAUA9,Tocayo,,Vianey
-ENEY5Z,Tocayo,,Vicky
-HY8Y6M,Tocayo,,Víctor
-7JQ9UG,Tocayo,,Víctor
-5WQ587,Tocayo,,Victoria
-XH4JFV,Tocayo,,Vielka
-KLLK4N,Tocayo,,Viridiana
-QDXBQ9,Tocayo,,Viviana
-QLDMEH,Tocayo,,Verónica
-6MURMS,Tocayo,,Wendy - Williams
-M74RPM,Tocayo,,Wendy - Williams
-RPJXBK,Tocayo,,Wendy - Williams
-QW57KK,Tocayo,,Wendy - Williams
-CJ4TXS,Tocayo,,Winni
-2LFB55,Tocayo,,Xareni
-HW7HFN,Tocayo,,Xavier
-BKY7PY,Tocayo,,Ximena
-Y6JME9,Tocayo,,Ximena
-ER4UV5,Tocayo,,Ximena
-UMZHHH,Tocayo,,Ximena
-4SPRWY,Tocayo,,Ximena
-76P6V4,Tocayo,,Ximena
-VUGKWY,Tocayo,,Ximena
-39GFZJ,Tocayo,,Ximena
-A6QH5Y,Tocayo,,Ximena
-SMNMJW,Tocayo,,Ximena
-HAAYEY,Tocayo,,Ximena
-7NBCL7,Tocayo,,Xochitl
-GUT5DE,Tocayo,,Yael
-Y7J263,Tocayo,,Yael
-LGRZ65,Tocayo,,Yaelih
-HKDG94,Tocayo,,Yahel
-8DVQXG,Tocayo,,Yahir
-BU3BHP,Tocayo,,Yamil
-AUB6XJ,Tocayo,,Yamile
-RSJUH3,Tocayo,,Yaneli
-73VSTT,Tocayo,,Yanine
-QXC39N,Tocayo,,Yaotli
-7HQ8FR,Tocayo,,Yara
-2RBCJ8,Tocayo,,Yareli
-C5YRWU,Tocayo,,Yaretzi
-6YLFPN,Tocayo,,Yaretzi
-P3ZRE5,Tocayo,,Yaritzi
-XCDN8J,Tocayo,,Yasari
-68DWUL,Tocayo,,Yazaray
-FDDWLX,Tocayo,,Yeimi
-R2H89V,Tocayo,,Yesenia
-DRA7FR,Tocayo,,Yesica
-FNBTDD,Tocayo,,Yessenia
-ZWB5GG,Tocayo,,Yeshua
-AEXBFW,Tocayo,,Yetzie
-KNLS2K,Tocayo,,Yoalli
-3W637B,Tocayo,,Yoatl
-J7QZJW,Tocayo,,Yoari
-PXH6BE,Tocayo,,Yosahary
-6G6XMW,Tocayo,,Yojhan
-LF4ZAE,Tocayo,,Yoletzi
-485WSG,Tocayo,,Yolotzin
-Z42WRW,Tocayo,,Yolotzin
-WWZ8MG,Tocayo,,Yoltic
-C6B3KA,Tocayo,,Yostyn
-YSS7JK,Tocayo,,Yosune
-8WF3VJ,Tocayo,,Yuliana
-9VTMSR,Tocayo,,Yuri
-X4XZKY,Tocayo,,Zabdy
-FWNJL3,Tocayo,,Zafiro
-6GNP6P,Tocayo,,Zahid
-TJDYH2,Tocayo,,Zaid
-DEPQX9,Tocayo,,Zaira
-325FC5,Tocayo,,Zara
-LFBBEX,Tocayo,,Zeltzin
-BTJWYA,Tocayo,,Zuleica
-QMDEAM,Tocayo,,Zyanya
-ATAT6C,Tocayo,,Zyanya
-RVDYNM,Tocayo,,Zyanya
 S8LNQW,Casi familia,,Acevedo
 3BQQCQ,Casi familia,,Alcaraz
 JWZJ9R,Casi familia,,Agreda
@@ -2324,6 +1333,7 @@ GTRB3R,Casi familia,,Alvarez
 HERGCA,Casi familia,,Alvaro
 8ALFYC,Casi familia,,Amador
 F783Q6,Casi familia,,Ambrocio
+T5VVKR,Casi familia,,Antonio
 FWAU7T,Casi familia,,Amezquita
 YG3PZF,Casi familia,,Angel
 K4ARRF,Casi familia,,Andrade
@@ -2877,6 +1887,7 @@ UGVD3C,Casi familia,,Mora
 2ST249,Casi familia,,Morado
 ZJJYZU,Casi familia,,Moras
 8T9YUR,Casi familia,,Moran
+YJTX7G,Casi familia,,Moral
 8GUZQ5,Casi familia,,Moreno
 K7AFKF,Casi familia,,Moreno
 V6ZKQ8,Casi familia,,Moreno
@@ -3058,6 +2069,7 @@ YY4XRF,Casi familia,,Rodríguez
 QXN8JQ,Casi familia,,Rojas
 FZTJCT,Casi familia,,Rojas
 KMKJZT,Casi familia,,Rojas
+KHMXB9,Casi familia,,Román
 4QSM4X,Casi familia,,Romero
 M2A9L3,Casi familia,,Romero
 38N5MF,Casi familia,,Roque
@@ -3210,6 +2222,7 @@ Z8YBVP,Casi familia,,Vilchis
 D9GXLV,Casi familia,,Villalobos
 7V69QX,Casi familia,,Villalobos
 MB8M3H,Casi familia,,Villalon
+M8RMH9,Casi familia,,Villanueva
 KFWUSC,Casi familia,,Villanueva
 MDTK49,Casi familia,,Villaseñor
 Q92CDU,Casi familia,,Villaseñor
@@ -3369,6 +2382,7 @@ JEYZRQ,Pastel compartido,,2CSXD
 3UA93V,Pastel compartido,,2CSXD
 2AVJJ6,Pastel compartido,,2CSXD
 MDW9W3,Pastel compartido,,2CSXD
+N7AA4Q,Pastel compartido,,2CSXD
 Z2PFT2,Pastel compartido,,ABRIL
 QVC32M,Pastel compartido,,ABRIL
 HR5TVK,Pastel compartido,,ABRIL
@@ -3399,40 +2413,41 @@ H47GVV,Pastel compartido,,ABRIL
 QP8C79,Pastel compartido,,ABRIL
 9G29YH,Pastel compartido,,ABRIL
 Q3Q9LU,Pastel compartido,,ABRIL
-YG7BHR,Pastel compartido,,MAYO GVALGQ
-LBK24D,Pastel compartido,,MAYO GVALGQ
-ZUACTS,Pastel compartido,,MAYO GVALGQ
-DL7ZKB,Pastel compartido,,MAYO GVALGQ
-F9TZFU,Pastel compartido,,MAYO GVALGQ
-APSHVP,Pastel compartido,,MAYO GVALGQ
-T2UL6E,Pastel compartido,,MAYO GVALGQ
-TE86WP,Pastel compartido,,MAYO GVALGQ
-TT6442,Pastel compartido,,MAYO GVALGQ
-WHRPQ7,Pastel compartido,,MAYO GVALGQ
-X3DZYF,Pastel compartido,,MAYO GVALGQ
-FB5CLB,Pastel compartido,,MAYO GVALGQ
-T3L5C5,Pastel compartido,,MAYO GVALGQ
-XMKRM8,Pastel compartido,,MAYO GVALGQ
-E5VNTW,Pastel compartido,,MAYO GVALGQ
-EL5ESZ,Pastel compartido,,MAYO GVALGQ
-EGGBNP,Pastel compartido,,MAYO GVALGQ
-R3Y27V,Pastel compartido,,MAYO GVALGQ
-6HAJFC,Pastel compartido,,MAYO GVALGQ
-2G5REG,Pastel compartido,,MAYO GVALGQ
-8EJFYT,Pastel compartido,,MAYO GVALGQ
-GTYWRN,Pastel compartido,,MAYO GVALGQ
-V569QT,Pastel compartido,,MAYO GVALGQ
-GVALGQ,Pastel compartido,,MAYO GVALGQ
-GNPVXS,Pastel compartido,,MAYO GVALGQ
-X4XZKY,Pastel compartido,,MAYO GVALGQ
-HB9TUV,Pastel compartido,,MAYO GVALGQ
-GFES9K,Pastel compartido,,MAYO GVALGQ
-8GHZQ5,Pastel compartido,,MAYO GVALGQ
-YTGL83,Pastel compartido,,MAYO GVALGQ
-MRAV79,Pastel compartido,,MAYO GVALGQ
-WJH8ME,Pastel compartido,,MAYO GVALGQ
-57EYLG,Pastel compartido,,MAYO GVALGQ
-KBH4QN,Pastel compartido,,MAYO GVALGQ
+M8RMH9,Pastel compartido,,MAYO
+GVALGQ,Pastel compartido,,MAYO
+YG7BHR,Pastel compartido,,MAYO
+LBK24D,Pastel compartido,,MAYO
+ZUACTS,Pastel compartido,,MAYO
+DL7ZKB,Pastel compartido,,MAYO
+F9TZFU,Pastel compartido,,MAYO
+APSHVP,Pastel compartido,,MAYO
+T2UL6E,Pastel compartido,,MAYO
+TE86WP,Pastel compartido,,MAYO
+TT6442,Pastel compartido,,MAYO
+WHRPQ7,Pastel compartido,,MAYO
+X3DZYF,Pastel compartido,,MAYO
+FB5CLB,Pastel compartido,,MAYO
+T3L5C5,Pastel compartido,,MAYO
+XMKRM8,Pastel compartido,,MAYO
+E5VNTW,Pastel compartido,,MAYO
+EL5ESZ,Pastel compartido,,MAYO
+EGGBNP,Pastel compartido,,MAYO
+R3Y27V,Pastel compartido,,MAYO
+6HAJFC,Pastel compartido,,MAYO
+2G5REG,Pastel compartido,,MAYO
+8EJFYT,Pastel compartido,,MAYO
+GTYWRN,Pastel compartido,,MAYO
+V569QT,Pastel compartido,,MAYO
+GNPVXS,Pastel compartido,,MAYO
+X4XZKY,Pastel compartido,,MAYO
+HB9TUV,Pastel compartido,,MAYO
+GFES9K,Pastel compartido,,MAYO
+8GHZQ5,Pastel compartido,,MAYO
+YTGL83,Pastel compartido,,MAYO
+MRAV79,Pastel compartido,,MAYO
+WJH8ME,Pastel compartido,,MAYO
+57EYLG,Pastel compartido,,MAYO
+KBH4QN,Pastel compartido,,MAYO
 6NDDAC,Pastel compartido,,JUNIO
 CEB2F7,Pastel compartido,,JUNIO
 4QSM4X,Pastel compartido,,JUNIO
@@ -3709,6 +2724,7 @@ QAN9U2,Pastel compartido,,DICIEMBRE
 634MZ6,Pastel compartido,,DICIEMBRE
 LHPSC9,Pastel compartido,,DICIEMBRE
 3C5MX2,Pastel compartido,,DICIEMBRE
+KWRTRY,Pastel compartido,,DICIEMBRE
 TPZWY9,Pastel compartido,,Aguascalientes
 UEW98C,Pastel compartido,,Baja California Sur
 KVMVNM,Pastel compartido,,Baja California Sur
@@ -3770,6 +2786,7 @@ KBH4QN,Pastel compartido,,Ciudad de México
 MJPW9K,Pastel compartido,,Ciudad de México
 Y2S7KV,Pastel compartido,,Coahuila
 79U7RY,Pastel compartido,,Colima
+9ASR8W,Pastel compartido,,Durango
 VUELXG,Pastel compartido,,Durango
 VG39JT,Pastel compartido,,RJ863WSSGKMT
 E7MD3K,Pastel compartido,,Estado de México
@@ -3812,6 +2829,7 @@ ZAX4D8,Pastel compartido,,Estado de México
 VYGM4N,Pastel compartido,,Estado de México
 MDW9W3,Pastel compartido,,Estado de México
 UZJXUG,Pastel compartido,,Estado de México
+4R4MNQ,Pastel compartido,,Estado de México
 ZFHZNJ,Pastel compartido,,Guanajuato
 4QQA2Z,Pastel compartido,,Guanajuato
 CYSVAV,Pastel compartido,,Guanajuato
@@ -3862,6 +2880,7 @@ N8UE5V,Pastel compartido,,Veracruz
 NTQFMQ,Pastel compartido,,Veracruz
 MTXZ58,Pastel compartido,,Veracruz
 UBQJR5,Pastel compartido,,Yucatán
+KWRTRY,Pastel compartido,,Zacatecas
 X2SV2Y,Pastel compartido,,Zacatecas
 FHG5GS,Pastel compartido,,
 8TQ47J,Pastel compartido,,
@@ -4009,6 +3028,7 @@ Q25JJU,Casi gemelos,Marzo,25
 D9AFJL,Casi gemelos,Marzo,26
 Q3Q9LU,Casi gemelos,Marzo,26
 ZQ7D4T,Casi gemelos,Marzo,27
+KHMXB9,Casi gemelos,Marzo,27
 HL67XM,Casi gemelos,Marzo,30
 ARFY59,Casi gemelos,Marzo,30
 JMR2JU,Casi gemelos,Marzo,2
@@ -4024,6 +3044,7 @@ X4XZKY,Casi gemelos,Marzo,9
 FWAU7T,Casi gemelos,Marzo,9
 RLTSWT,Casi gemelos,Marzo,11
 HB9TUV,Casi gemelos,Marzo,12
+M8RMH9,Casi gemelos,Marzo,13
 GFES9K,Casi gemelos,Marzo,13
 ZK2VQW,Casi gemelos,Marzo,13
 Y56JTV,Casi gemelos,Marzo,15
@@ -4051,6 +3072,7 @@ U243SW,Casi gemelos,Marzo,7
 BHEFGR,Casi gemelos,Marzo,7
 HVH8HB,Casi gemelos,Marzo,8
 RVDYNM,Casi gemelos,Marzo,8
+YJTX7G,Casi gemelos,Marzo,8
 7NSF65,Casi gemelos,Marzo,9
 S8LNQW,Casi gemelos,Marzo,9
 JXMAQR,Casi gemelos,Marzo,10
@@ -4059,6 +3081,7 @@ B32HHM,Casi gemelos,Marzo,12
 E3ADVA,Casi gemelos,Marzo,13
 9MSMMY,Casi gemelos,Marzo,13
 5WL3J2,Casi gemelos,Marzo,15
+YMX9E2,Casi gemelos,Marzo,15
 KJSMF5,Casi gemelos,Marzo,16
 2MJZ3Q,Casi gemelos,Marzo,16
 4QSM4X,Casi gemelos,Marzo,18
@@ -4068,7 +3091,6 @@ YATFRA,Casi gemelos,Marzo,21
 CEB2F7,Casi gemelos,Marzo,21
 9VVQ6V,Casi gemelos,Marzo,21
 FTE4UJ,Casi gemelos,Marzo,23
-5NT3GR,Casi gemelos,Marzo,24
 NSZV7K,Casi gemelos,Marzo,26
 4DB2PC,Casi gemelos,Marzo,26
 4QQA2Z,Casi gemelos,Marzo,27
@@ -4148,6 +3170,7 @@ SPMU3V,Casi gemelos,Marzo,30
 DWWWCX,Casi gemelos,Marzo,31
 U9FRDX,Casi gemelos,Marzo,31
 CRWXDZ,Casi gemelos,Marzo,1
+4R4MNQ,Casi gemelos,Marzo,1
 4BJN6Q,Casi gemelos,Marzo,3
 CXZGG6,Casi gemelos,Marzo,4
 CBHD9N,Casi gemelos,Marzo,9
@@ -4275,6 +3298,7 @@ VU4EAW,Casi gemelos,Marzo,20
 F5Z27H,Casi gemelos,Marzo,21
 BPY827,Casi gemelos,Marzo,21
 ACZ97F,Casi gemelos,Marzo,21
+KWRTRY,Casi gemelos,Marzo,24
 F688S8,Casi gemelos,Marzo,25
 EJ7H9W,Casi gemelos,Marzo,26
 YGTGPZ,Casi gemelos,Marzo,26
@@ -4415,7 +3439,8 @@ ZPFAQP,Compa de banca,,/
 NWX4TN,Compa de banca,,CONTADURÍA / Facultad de Contaduría y Administración / Escolarizado / 2021 /
 U8C9G3,Compa de banca,,/
 B3FPGG,Compa de banca,,CONTADURÍA/FCA/Escolarizado/ 2024
-CM8RT8,Compa de banca,,ADINISTRACIÓN/FCA/SUA/2025
+M8RMH9,Compa de banca,,ADMINISTRACIÓN/FCA/SUA/2025
+CM8RT8,Compa de banca,,ADMINISTRACIÓN/FCA/SUA/2025
 P8E4PW,Compa de banca,,Administracion/ FCA / 2024/
 YPHDQH,Compa de banca,,Administracion/ FCA / 2024/
 HL67XM,Compa de banca,,Administracion/ FCA / 2024/
@@ -4477,310 +3502,311 @@ ZGKH37,Compa de banca,,2023
 YJ3MH8,Compa de banca,,che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi
 MJLUUU,Otros,,
 NSGN8U,Otros,,
-6WSK45,Anuncios de la comunidad,,Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E
-4C7WHL,Anuncios de la comunidad,,AGREGAME POR FAVOR BACHILLERATO A DISTANCIA
-ZGKH37,Anuncios de la comunidad,,
-634MZ6,Anuncios de la comunidad,,"Porfi agregueme alguien de bachillerato a distancia, aún nadie :("
-9ZULZT,Anuncios de la comunidad,,PORFAVOR AGREGAME BACHILLERATO A DISTANCIA
-E7MD3K,Anuncios de la comunidad,,
+CFLQMC,Grupo de WhatsApp,,# CÓDIGO CORRECTO
+6WSK45,Grupo de WhatsApp,,Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E
+4C7WHL,Grupo de WhatsApp,,AGREGAME POR FAVOR BACHILLERATO A DISTANCIA
+ZGKH37,Grupo de WhatsApp,,
+634MZ6,Grupo de WhatsApp,,"Porfi agregueme alguien de bachillerato a distancia, aún nadie :("
+9ZULZT,Grupo de WhatsApp,,PORFAVOR AGREGAME BACHILLERATO A DISTANCIA
+E7MD3K,Grupo de WhatsApp,,
+4JBFDU,Grupo de WhatsApp,,#
+JUDSPC,Grupo de WhatsApp,,Apiádate de nosotros bachillerato a distancia 🙏🏼
+U44QDA,Grupo de WhatsApp,,y
+XC56EV,Grupo de WhatsApp,,Agreguen porfa
+VU4EAW,Grupo de WhatsApp,,"Pasen código de Startup, Sistema Abierto y Bachillerato a Distancia pleaseee, soy ENES Oax"
+BJLWBE,Grupo de WhatsApp,,
+76P6V4,Grupo de WhatsApp,,Agréguenme bachillerato en línea plssss 😞😞
+2KC976,Grupo de WhatsApp,,Agreguen porfa
+HGGMCD,Grupo de WhatsApp,,"Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla"
+JW9PBR,Grupo de WhatsApp,,Paro
+ER4UV5,Grupo de WhatsApp,,"hola, agregame pls personitx de bachillerato a distancia"
+96DD2T,Grupo de WhatsApp,,Por favor agregame compañerit@ de Bachillerato a Distancia
+G9HCLW,Grupo de WhatsApp,,Agreguenme bachillerato en línea por favor!!
+3UA93V,Grupo de WhatsApp,,Yo también quiero amigos de bachillerato en línea
+3UNCXG,Grupo de WhatsApp,,PORFIIIII AMIG@
+QV68T9,Grupo de WhatsApp,,Agreguenme bachillerato en línea por favor!!
+75CQF3,Grupo de WhatsApp,,"Agreguenmeeeeee bachillerato en línea, paro"
+UEYKGM,Grupo de WhatsApp,,Agregame persona de bachillerato por fa :(
+WZ73LP,Grupo de WhatsApp,,
+TJBK73,Grupo de WhatsApp,,Solo m faltas tu bachillerato a distanciaaa
+BBUZSK,Grupo de WhatsApp,,Amix de bachillerato en línea me agregan plz
+5VFXAG,Grupo de WhatsApp,,Agrégame bachillerato en línea por favor
+SUAW4X,Grupo de WhatsApp,,Agrégame bachillerato en línea por favor
+Z2PFT2,Grupo de WhatsApp,,Agrégame bachillerato en línea por favor
+TVPG8X,Grupo de WhatsApp,,Agrégame bachillerato en línea por favor
+EGJGMB,Grupo de WhatsApp,,Agrégame bachillerato en línea por favor
+8FXSPJ,Grupo de WhatsApp,,Agrégame bachillerato en línea por favor
+JQZR96,Grupo de WhatsApp,,
+77S9EC,Grupo de WhatsApp,,"porfa agrengueme bachillerato en línea , porfissss!!!!"
+634MZ6,Grupo de WhatsApp,,
+QAN9U2,Grupo de WhatsApp,,"Porfis bachillerato en linea agregame, te transfiero 50 pesotes :("
+CCQBM9,Grupo de WhatsApp,,Agrégame bachillerato en línea por favor 😔
+XEJ383,Grupo de WhatsApp,,Agrégame bachillerato en línea por favor
+33RUTW,Grupo de WhatsApp,,
+QX65G6,Grupo de WhatsApp,,Ciencias de la Comunicación
+FSZLZC,Grupo de WhatsApp,,
+YATFRA,Grupo de WhatsApp,,
+GVNBDS,Grupo de WhatsApp,,"Porfis bachillerato en línea, agrégame"
+2KLXRX,Grupo de WhatsApp,,
+X4CUPQ,Grupo de WhatsApp,,Tiren paro porfa
+H423V6,Grupo de WhatsApp,,tiren paro sech 🙏🏿🙏🏿🥹🥹
+ALVDTP,Grupo de WhatsApp,,
+6VMRJF,Grupo de WhatsApp,,"oye tú, si tú… apiadate de mi compañerit@ y te irá de lo mejor en ésta fkin vida 🙏🏻"
+9JUAP7,Grupo de WhatsApp,,Agreguenme los de bachillerato a distancia 😭
+JMDE8U,Grupo de WhatsApp,,Lo mismo que el de arriba ;(
+BH45YR,Grupo de WhatsApp,,Lo de arriba
+9VVQ6V,Grupo de WhatsApp,,Tiren paro 🗣️
+HGGMCD,Grupo de WhatsApp,,"persona de bachillerato a distancia plis agregame, solo me falta esa medalla (y la de fin "
+VUMWSG,Grupo de WhatsApp,,"Por favor ayudaaaa, agregarme por favor compañeros de bachillerato a distancia, solo puedo"
+7Y9LVV,Grupo de WhatsApp,,
+MJLUUU,Grupo de WhatsApp,,
+8N24Z3,Grupo de WhatsApp,,
+CJXNZG,Grupo de WhatsApp,,
+KECG5J,Grupo de WhatsApp,,
+EHJ3Q2,Grupo de WhatsApp,,)
+YGTGPZ,Grupo de WhatsApp,,Ofertón para Bachillerato a distancia
+PGPXPL,Grupo de WhatsApp,,Y LLÉVATE la gran experiencia de ayudar a este pobre adicto a la dopamina de las medallita
+HL67XM,Grupo de WhatsApp,,AYUDA A ESTE JAJAJA:C
+4NGH85,Grupo de WhatsApp,,A mi también porfa
+ATQRXX,Grupo de WhatsApp,,agreguenme pofavoooo
+9MSMMY,Grupo de WhatsApp,,"Por favor agreguenme, mi code es"
+LGM3NE,Grupo de WhatsApp,,
+ZWB5GG,Grupo de WhatsApp,,"SI ME AGREGAN LES DEPOSITO 10 PESOS, AYUDAAAAA ES LA UNICA QUE ME FALTA BACHILLERATO UNAM,"
+7PMBMA,Grupo de WhatsApp,,Que onda yo faltó para que me den mi medalla de bachillerato a distancia jeje
+YXLJ6H,Grupo de WhatsApp,,Si eres de bachillerato a distancia porfa agregame 😔🫰🏻
+V8NHYS,Grupo de WhatsApp,,Agrega bachillerato en línea porfa
+EUF8A3,Grupo de WhatsApp,,x2
+DJUVN4,Grupo de WhatsApp,,X3
+NGP3Q4,Grupo de WhatsApp,,X4
+5DE3MV,Grupo de WhatsApp,,X5
+M7B54S,Grupo de WhatsApp,,X6
+7L4ZRY,Grupo de WhatsApp,,
+U4SXG7,Grupo de WhatsApp,,x8
+BBVWWW,Grupo de WhatsApp,,Encuentrenme los de bachillerato en Línea
+AFV9RM,Grupo de WhatsApp,,porfi ayuda
+SN6AHU,Grupo de WhatsApp,,por favoor
+T3NAZ7,Grupo de WhatsApp,,Posdata: les dejo otro código secreto
+DJ7WBM,Grupo de WhatsApp,,
+7M3MNC,Grupo de WhatsApp,,agregen porfa y les doy un riko pollo 🍗
+ACZ97F,Grupo de WhatsApp,,AYUDA A ESTE FORANEO GUERRERENSE JAJAJA:C
+X4CUPQ,Grupo de WhatsApp,,Cha no borren mi codigo
+ELUYC2,Grupo de WhatsApp,,Bachillerato en línea ayuden a esta pobre alma 🙏🙏
+XMKRM8,Grupo de WhatsApp,,agrega soy el edmin del grupo de FB.💂
+VF68YX,Grupo de WhatsApp,,AMIGOS DE BACHILLERATO AYUDEN A ESTA ALMA A CONSEGUIR SU ÚLTIMA PLS
+BYF2UV,Grupo de WhatsApp,,PORFAA BACHILLERATO A DISTANCIA :C
+MP7Y6M,Grupo de WhatsApp,,
+B2MWT8,Grupo de WhatsApp,,
+WHRPQ7,Grupo de WhatsApp,,TIREEEN PAROOO BACHILLERATO A DISTANCIA
+UZBPSL,Grupo de WhatsApp,,Lo mismo que el compa de arriba
+7232Q7,Grupo de WhatsApp,,Lo mismo que los de arriba
+MKH4HC,Grupo de WhatsApp,,Lo mismo que los de arriba
+ALVDTP,Grupo de WhatsApp,,Lo mismo pa
+BVX339,Grupo de WhatsApp,,alguien de bachillerato a distancia porfa ayúdenme 🙏🫂
+RMAY9F,Grupo de WhatsApp,,
+533L3Q,Grupo de WhatsApp,,"Bachillerato a distancia, porfa agrégame 👌🏽"
+NYSCU3,Grupo de WhatsApp,,Agrégame Porfa
+RRB4ZF,Grupo de WhatsApp,,🥹
+RRB4ZF,Grupo de WhatsApp,,Este es mi código bachillerato
+RRB4ZF,Grupo de WhatsApp,,Bachillerato a distancia ayudame
+533L3Q,Grupo de WhatsApp,,Agregenme bachillerato a distancia; 🫶🏽 agregame
+X3DZYF,Grupo de WhatsApp,,Amiguit@ de bachillerato a distancia; agregame
+68JFRL,Grupo de WhatsApp,,por favor 8 h 59 pm
+DH5LMV,Grupo de WhatsApp,,"Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agr c"
+VK486N,Grupo de WhatsApp,,BACHILLERATOO Y COSMETICA POR FIII
+DJUVN4,Grupo de WhatsApp,,BACHILLERATOO Y COSMETICA POR FIII
+VU4EAW,Grupo de WhatsApp,,"Personita de Bachillerato a Distancia, agrégame por favor 𖹭"
+XVETTP,Grupo de WhatsApp,,>
+TFX6ZG,Grupo de WhatsApp,,>
+ZAT8R9,Grupo de WhatsApp,,>
+ZAT8R9,Grupo de WhatsApp,,Agrega bachillerato en línea porfa
+LC3Y4J,Grupo de WhatsApp,,alguien de Bachillerato xfis usa mi código
+ZAT8R9,Grupo de WhatsApp,,alguien de Bachillerato xfis usa mi código
+9VVQ6V,Grupo de WhatsApp,,alguien de Bachillerato xfis usa mi código
+VE5YLA,Grupo de WhatsApp,,agregarme chabales
+UZBPSL,Grupo de WhatsApp,,
+2ZE44K,Grupo de WhatsApp,,porfavooooor
+999SY7,Grupo de WhatsApp,,agregame por fis bachillerato!!!!
+SYULLG,Grupo de WhatsApp,,bachillerato a DISTANCIA PORFA AGREGA
+MTUVQH,Grupo de WhatsApp,,
+NEARSC,Grupo de WhatsApp,,"CHAVALES DE BACHILLERATO A DISTANCIA, AYUDAAAA!!"
+ZAT8R9,Grupo de WhatsApp,,"CHAVALES DE BACHILLERATO A DISTANCIA, AYUDAAAA!!"
+Y4SECU,Grupo de WhatsApp,,agagreréame
+CTGSXN,Grupo de WhatsApp,,agregen porfa es la ultima que me falta 😭
+ZAT8R9,Grupo de WhatsApp,,Agréguenme anenenen es mi adicción 😭😭😭😭😭😭😭😭
+XH8ZZE,Grupo de WhatsApp,,porfa 🫂
+PA5GMR,Grupo de WhatsApp,,"Agréguenme, yo no he puesto mi código en casi ningún grupo 😭"
+U4S826,Grupo de WhatsApp,,"Bachillerato, Cosme,CEPHSI y cualquier carrera falte, ya agrégame porfa"
+MB8M3H,Grupo de WhatsApp,,porfavor compañeritos de cosmética y bachillerato 🙏
+MEB379,Grupo de WhatsApp,,por faaaa Cirujano Dentino
+DL7ZKB,Grupo de WhatsApp,,Bachilleratoooo agregaaaaa
+BQMXZT,Grupo de WhatsApp,,
+DJUVN4,Grupo de WhatsApp,,
+U4SC6Q,Grupo de WhatsApp,,AGREGAME POR FA
+MMTHB4,Grupo de WhatsApp,,Agreguenme bachillerato
+KGJJJN,Grupo de WhatsApp,,Me podrían agregar a estos plis 🙏🏻CEPHCIS Merida e Instituto de Investigaciones en Ecosist
+7TCTV3,Grupo de WhatsApp,,Bachillerato a distancia por fa agregame
+LAUR4G,Grupo de WhatsApp,,Alguien de bachillerato agregue :c
+YATFRA,Grupo de WhatsApp,,agregame bachillerato a distancia por faaaaaa
+5T9VMQ,Grupo de WhatsApp,,agreguen bachillerato
+EUZWSM,Grupo de WhatsApp,,agregenme Bachillerato a distancia soy (
+Q78WJ7,Grupo de WhatsApp,,Agregenme no sean malos :(
+QAN9U2,Grupo de WhatsApp,,Agreguen porfi
+PMXRXP,Grupo de WhatsApp,,Agreguen bacho a distancia
+QW57KK,Grupo de WhatsApp,,Alguien de bachillerato a distancia
+C32MAZ,Grupo de WhatsApp,,agreguen bachillerato a distancia xfavor
+533L3Q,Grupo de WhatsApp,,"Añadenme los de química cosmética, bachillerato a distancia y el Cephcis xfa 🙏🙏🙏😔"
+MEYJA9,Grupo de WhatsApp,,Agreguen
+MAT54P,Grupo de WhatsApp,,Alguien de bachillerato a distancia plis
+EC2MCG,Grupo de WhatsApp,,A mi también porfis
+7TCTV3,Grupo de WhatsApp,,Alguien de Bachillerato a Distancia
+SMC4YU,Grupo de WhatsApp,,agreguen a Bachillerato a distancia 😭
+L7BQ6N,Grupo de WhatsApp,,"agréguenme, por favor!"
+QMVLT8,Grupo de WhatsApp,,Agregenme carreras Raras
+EQ6X25,Grupo de WhatsApp,,A mi tmb porfi
+8N24Z3,Grupo de WhatsApp,,A mi tambien
+K5DBPP,Grupo de WhatsApp,,Agregenme a mi
+8A8WGM,Grupo de WhatsApp,,Agregenme a mi tmb plis
+5WK7AX,Grupo de WhatsApp,,"Agregrame a mi por favor, bachillerato a distancia"
+UALS83,Grupo de WhatsApp,,porfis a mi iguaaal
+FNEAB4,Grupo de WhatsApp,,también ha gregame 🙏🙏
+8YGU6C,Grupo de WhatsApp,,Go añadan pls
+7UGZTJ,Grupo de WhatsApp,,"(Para los de distancia, agreguenme porfis. Alguien de bachillerato"
+EGGBNP,Grupo de WhatsApp,,bachillerato
+3UT77H,Grupo de WhatsApp,,Agreguenme porfa bachillerato a distancia
+9BRDEG,Grupo de WhatsApp,,A mí también agréguenme:(
+7Y2S4J,Grupo de WhatsApp,,A mi tmb plis
+K5DBPP,Grupo de WhatsApp,,A mi tmb plis
+SMC4YU,Grupo de WhatsApp,,Agreguenme en Bachillerato a distancia y a Química cosmética por favor
+B6PXK6,Grupo de WhatsApp,,Yo de comunicación en cu
+KNK7Y4,Grupo de WhatsApp,,Chavos de bachillerato agréguenme porfii
+QMVLT8,Grupo de WhatsApp,,Agregarme plis chavos de Bachillerato en linea
+SE28C2,Grupo de WhatsApp,,"Agregenme alguien de bachillerato a distancia, por favorr"
+Y4SECU,Grupo de WhatsApp,,Tmb a mi porfa agregameee
+KY43YW,Grupo de WhatsApp,,
+533L3Q,Grupo de WhatsApp,,
+H6RDXQ,Grupo de WhatsApp,,
+K5DBPP,Grupo de WhatsApp,,
+NWG754,Grupo de WhatsApp,,
+FNEAB4,Grupo de WhatsApp,,también porfa🙏🙏
+G5VSUZ,Grupo de WhatsApp,,A mi también porfaaaaa ci
+G2SQMG,Grupo de WhatsApp,,A mi tambien por favooor
+ELUYC2,Grupo de WhatsApp,,Agreguenmeeee
+GC6HKG,Grupo de WhatsApp,,Agréguenme por favor
+GKT9PN,Grupo de WhatsApp,,"Agréguenme a mi tmb chicos, xfavoooor"
+HYAGR4,Grupo de WhatsApp,,Agréguenme porfi 😭
+AWTK5Y,Grupo de WhatsApp,,Agréguenme plss
+TUKWSQ,Grupo de WhatsApp,,"Agregenme alguien de bachillerato a distancia, por favorr"
+2965RS,Grupo de WhatsApp,,Alguien d bachillerato agreguemeee 😿
+U4S826,Grupo de WhatsApp,,Ándale personita de bachillerato en línea
+WW7T4K,Grupo de WhatsApp,,si es verdad porfis ayúdenos :3
+EQ6X25,Grupo de WhatsApp,,a mi tmb porfi
+JUF5W6,Grupo de WhatsApp,,no se olviden de mi 😞
+JMDE8U,Grupo de WhatsApp,,yo igual ;)
+4JQBNS,Grupo de WhatsApp,,A mi también porfa
+9JUAP7,Grupo de WhatsApp,,Agreguen chavos de bachillerato en línea
+YXKYBV,Grupo de WhatsApp,,Agreguen el de cosmetica
+XHL8BP,Grupo de WhatsApp,,Aayyy. A mi también agréguenme chavos de bachillerato en línea
+EC2MCG,Grupo de WhatsApp,,
+DUQTLH,Grupo de WhatsApp,,
+4QSM4X,Grupo de WhatsApp,,Alguien de bachillerato a distancia porfi?
+KGJJJN,Grupo de WhatsApp,,porfis chicos
+XKTJ63,Grupo de WhatsApp,,Si puedes agrégame compañero :<
+6ZQ2SX,Grupo de WhatsApp,,a mi también porfaaa
+HCV48Q,Grupo de WhatsApp,,Agreguenme bachillerato a distancia PLISSS. Soy
+H3DW2S,Grupo de WhatsApp,,Compañero de bachillerato podrías agregarme por favor?
+N7QNDK,Grupo de WhatsApp,,o
+5JL5SA,Grupo de WhatsApp,,ayuda
+VWVYT3,Grupo de WhatsApp,,y
+DUKA2D,Grupo de WhatsApp,,"AYUDAAAAAA, Agréguenme porfiiii"
+BC769Z,Grupo de WhatsApp,,Holi ;) agreguen porfi
+N7QNDK,Grupo de WhatsApp,,
+GA7BM5,Grupo de WhatsApp,,Yo también quiero bachillerato a distanciiiia pliiiis
+XH8ZZE,Grupo de WhatsApp,,Economía - Fesa
+ZNFGAC,Grupo de WhatsApp,,"CEPHCIS, Bachillerato a distancia pls agréguenme 🥺"
+CS6WBV,Grupo de WhatsApp,,Bachillerato a distancia y cosme xfaaa
+VPLEVJ,Grupo de WhatsApp,,Agréguenme bachillerato a distancia
+DH5LMV,Grupo de WhatsApp,,"Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agregaras c: Bachill"
+F9TZFU,Grupo de WhatsApp,,"gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y S"
+4ULDZZ,Grupo de WhatsApp,,🙏🏻🙏🏻
+X3TE7F,Grupo de WhatsApp,,"Porfi agregame amix de bachillerato a distancia, ya solo me faltas tu d(u.u)b soy de Pedag"
+PWGZE8,Grupo de WhatsApp,,"gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y S"
+YR3TKQ,Grupo de WhatsApp,,"Añadenme los de química cosmética, bachillerato a distancia y el Cephcis xfa 🙏🙏🙏😔"
+K3DVAH,Grupo de WhatsApp,,"Me faltan estos, rompehielos, casi familia y compañero de banca, busco alguien que se apel"
+ALVDTP,Grupo de WhatsApp,,Tiren paroo
+533L3Q,Grupo de WhatsApp,,🫂
+PFMXND,Grupo de WhatsApp,,"Bachillerato a distancia, CEPHICIS, Química cosmetica agréguenme porfis :’)"
+C44NTV,Grupo de WhatsApp,,Bachillerato a distancia me puedes agregar!!!!!!!
+LHVZE2,Grupo de WhatsApp,,agreguen PORFAS bachillerato a distancia y demás rarezas UNAM!!!
+DBUTNQ,Grupo de WhatsApp,,"Holaaaaa, los de Bachillerato a Distancia me pueden agregar plis???"
+VD522A,Grupo de WhatsApp,,"✨✨Hola amigalletas de bachillerato a distancia, me agregan por fa?"
+A9U467,Grupo de WhatsApp,,"por favor amigazo a distancia, soy Biología, FES Iztacala"
+SHYLDR,Grupo de WhatsApp,,agreguen por favor amigos de bachillerato a distancia y demás rarezas UNAM!!! 😀
+S4S24L,Grupo de WhatsApp,,AGREGENME 🥺
+5P477Q,Grupo de WhatsApp,,"HOLA BACHIAMIGOS, AGREGENME PORFAVOR. :)"
+4BJN6Q,Grupo de WhatsApp,,"Amigos de bachillerato a distancia, agreguenme x100 por favor"
+QZ35PS,Grupo de WhatsApp,,Amigos top de bachillerato a distancia agréguenme porfi💌💌💌
+DUQTLH,Grupo de WhatsApp,,porfa amiguitos de bachillerato a distancia
+8CYDV9,Grupo de WhatsApp,,FAMILIA DE BACHILLERATO A DISTANCIA SON LOS UNICOS QUE FALTAN ¡TIREN PAROOOO 🥹🥹🥹!
+MEB379,Grupo de WhatsApp,,AMISTAD DE BACHILLERATO A DISTANCIA PODRIAS AGREGAR A ESTA PERSONA
+N3MF6K,Grupo de WhatsApp,,HOLII AYUDAME PORFISSS
+YT6GMJ,Grupo de WhatsApp,,Porfi amistad de bachillerato agregame
+C7NXLY,Grupo de WhatsApp,,"Porfiiii, no me lo borren🥺🥺"
+RS8A3X,Grupo de WhatsApp,,"Porfiiii, no me lo borren🥺🥺"
+RVY6UF,Grupo de WhatsApp,,échenme paro con su medalla de bachillerato a distancia amiguibis 💔
+UZJXUG,Grupo de WhatsApp,,"Hola amikos de bachillerato a distancia, ayuden a esta pobre economista a obtener el sello"
+JYEF89,Grupo de WhatsApp,,"Hola, los de bachillerato a distancia, agreguenme"
+WSS65K,Grupo de WhatsApp,,Agréguenme bachillerato en línea
+LNY5TG,Grupo de WhatsApp,,Agreguen de bachillerato en línea pls
+DJUVN4,Grupo de WhatsApp,,Agreguen de bachillerato en línea pls
+DWLHUF,Grupo de WhatsApp,,"Por fi, te invito un pollito rostizado en CU"
+DQ5KTT,Grupo de WhatsApp,,PORFAVORRR te picho una miche
+PZBGYV,Grupo de WhatsApp,,"dale bro de bachillerato a distância, se que hay uno que me va a adoptar y nos vamos al Sh"
+TFM6L8,Grupo de WhatsApp,,PORFAVOR AMIG@ DE BACH A DISTANCIA SI GUSTAS TE SIGO Y ME SIGUES EN INSTA O SOLO TE SIGO H
+XTEKTV,Grupo de WhatsApp,,
+E8QL98,Grupo de WhatsApp,,"Bachillerato a distancia, porfavor agreguen"
+NKDR4F,Grupo de WhatsApp,,bachillerato a distancia 🙏
+LFBBEX,Grupo de WhatsApp,,"Solo necesito que alguien de Bachillerato a Distancia me agregue, tiren paro…. Mi código e"
+UPWQ74,Grupo de WhatsApp,,Tiren paro bachillerato a distancia 🙏
+8EJFYT,Grupo de WhatsApp,,agregenme plis ya es la ultima que me falta y termino 🥲
+4QQA2Z,Grupo de WhatsApp,,"Agrégame compañer@ de bachillerato y te hago tus tareas de español/inglés, investigaciones"
+HC2CCM,Grupo de WhatsApp,,agréguenme pls🥹 y si entran a vet les paso mis apuntes
+PW5KSH,Grupo de WhatsApp,,porfis °^°
+J8LGHK,Grupo de WhatsApp,,PORFAVOOOOOOOOOOOOOOOOR
+ALKPT3,Grupo de WhatsApp,,xfis tqm
+GTTYS2,Grupo de WhatsApp,,IEE FES Aragon
+EC4755,Grupo de WhatsApp,,
+JVURUC,Grupo de WhatsApp,,"sin nada más que agregar, ten buen día 🫶🏽"
+SHYLDR,Grupo de WhatsApp,,me podrías agregar amigo a distancia por favor y si no es tanta molestiay te invito una tu
+JQAF7Q,Grupo de WhatsApp,,"tmb este tiren paro bachillerato a distancia , te invito un pulque de mazapan, daría la vi"
+HVZSUK,Grupo de WhatsApp,,"amigo de Bachillerato en línea, ayúdame por favor, y te digo que tamal eres. Ofrezco una b"
+Z7BAJP,Grupo de WhatsApp,,¿HASTA ACÁ VA LA FILA? ALGUIEN DE BACHILLERATO EN LÍNEA QUE ME PUEDA AYUDAR PORFA
+MEYJA9,Grupo de WhatsApp,,AYUDA POR FAVOR! BACHILLERATO A DISTANCIA
+G73Z9E,Grupo de WhatsApp,,BACHILLERATO A DISTANCIA TE LO RUEGOOO
+G5SHBK,Grupo de WhatsApp,,"DALEEE Bachillerato en Linea :,b"
+WXSRLT,Grupo de WhatsApp,,ayuden a esta pobre alma
+QUQ7A4,Grupo de WhatsApp,,POR FAVOR BARILLERATO EN LINEA :]
+LHPSC9,Grupo de WhatsApp,,agreguen los de bachillerato en línea porfa
+EGJGMB,Grupo de WhatsApp,,
+7SVT9D,Grupo de WhatsApp,,"Agrégenme porfa, mi codigo es"
+U8C9G3,Grupo de WhatsApp,,Mi código
+5WL3J2,Grupo de WhatsApp,,# Me ayudaría mucho bachillerato en Línea… solo me falta ese
+FKWYFZ,Grupo de WhatsApp,,AYUDA: Busco ser el primer lazo de alguien y que me agregue alguien de bachillerato en lin
+4HU2PV,Grupo de WhatsApp,,"Ayuda, yo también necesito el de romper el hielo"
+SEDAKG,Grupo de WhatsApp,,Para rompehielos porfis
+V569QT,Grupo de WhatsApp,,Alguien sin lazos en Espacio Unam que me ayude a romper el hielo soy este
+S37KHD,Grupo de WhatsApp,,Alguien puede ayudarme con romper El hielo pls
+2KBVYQ,Grupo de WhatsApp,,A mí también porfi
+RJ863T,Grupo de WhatsApp,,A mi tambiiiiiiien
+P3ZRE5,Grupo de WhatsApp,,Gracias por hacer que la comunidad tanto Suayed como escolarizada se unieran de esta maner
+4G7JK7,Grupo de WhatsApp,,y
+9MSMMY,Grupo de WhatsApp,,Agrega bachillerato en línea porfa
+XHUQEC,Grupo de WhatsApp,,Bachillerato en Linea por favor
+M74K7K,Grupo de WhatsApp,,"AGREGUENMEEEE, Es la última que me faltaaaa"
+F783Q6,Grupo de WhatsApp,,AYUDA BACHILLERATO EN LINEA
+RMXZ4E,Grupo de WhatsApp,,porfis
+AARUZQ,Grupo de WhatsApp,,
+QV6PRZ,Grupo de WhatsApp,,bachillerato en línea porfaaa
 4JBFDU,Anuncios de la comunidad,,#
-JUDSPC,Anuncios de la comunidad,,Apiádate de nosotros bachillerato a distancia 🙏🏼
-U44QDA,Anuncios de la comunidad,,y
-XC56EV,Anuncios de la comunidad,,Agreguen porfa
-VU4EAW,Anuncios de la comunidad,,"Pasen código de Startup, Sistema Abierto y Bachillerato a Distancia pleaseee, soy ENES Oax"
-BJLWBE,Anuncios de la comunidad,,
-76P6V4,Anuncios de la comunidad,,Agréguenme bachillerato en línea plssss 😞😞
-2KC976,Anuncios de la comunidad,,Agreguen porfa
-HGGMCD,Anuncios de la comunidad,,"Se persona de bachillerato a distancia plis agregame, solo me falta esa medalla"
-JW9PBR,Anuncios de la comunidad,,Paro
-ER4UV5,Anuncios de la comunidad,,"hola, agregame pls personitx de bachillerato a distancia"
-5NT3GR,Anuncios de la comunidad,,🩷 agréguenme please por el amor de mymelody
-96DD2T,Anuncios de la comunidad,,Por favor agregame compañerit@ de Bachillerato a Distancia
-G9HCLW,Anuncios de la comunidad,,Agreguenme bachillerato en línea por favor!!
-3UA93V,Anuncios de la comunidad,,Yo también quiero amigos de bachillerato en línea
-3UNCXG,Anuncios de la comunidad,,PORFIIIII AMIG@
-QV68T9,Anuncios de la comunidad,,Agreguenme bachillerato en línea por favor!!
-75CQF3,Anuncios de la comunidad,,"Agreguenmeeeeee bachillerato en línea, paro"
-UEYKGM,Anuncios de la comunidad,,Agregame persona de bachillerato por fa :(
-WZ73LP,Anuncios de la comunidad,,
-TJBK73,Anuncios de la comunidad,,Solo m faltas tu bachillerato a distanciaaa
-BBUZSK,Anuncios de la comunidad,,Amix de bachillerato en línea me agregan plz
-5VFXAG,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
-SUAW4X,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
-Z2PFT2,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
-TVPG8X,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
-EGJGMB,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
-8FXSPJ,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
-JQZR96,Anuncios de la comunidad,,
-77S9EC,Anuncios de la comunidad,,"porfa agrengueme bachillerato en línea , porfissss!!!!"
-634MZ6,Anuncios de la comunidad,,
-QAN9U2,Anuncios de la comunidad,,"Porfis bachillerato en linea agregame, te transfiero 50 pesotes :("
-CCQBM9,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor 😔
-XEJ383,Anuncios de la comunidad,,Agrégame bachillerato en línea por favor
-33RUTW,Anuncios de la comunidad,,
-QX65G6,Anuncios de la comunidad,,Ciencias de la Comunicación
-FSZLZC,Anuncios de la comunidad,,
-YATFRA,Anuncios de la comunidad,,
-GVNBDS,Anuncios de la comunidad,,"Porfis bachillerato en línea, agrégame"
-2KLXRX,Anuncios de la comunidad,,
-X4CUPQ,Anuncios de la comunidad,,Tiren paro porfa
-H423V6,Anuncios de la comunidad,,tiren paro sech 🙏🏿🙏🏿🥹🥹
-ALVDTP,Anuncios de la comunidad,,
-6VMRJF,Anuncios de la comunidad,,"oye tú, si tú… apiadate de mi compañerit@ y te irá de lo mejor en ésta fkin vida 🙏🏻"
-9JUAP7,Anuncios de la comunidad,,Agreguenme los de bachillerato a distancia 😭
-JMDE8U,Anuncios de la comunidad,,Lo mismo que el de arriba ;(
-BH45YR,Anuncios de la comunidad,,Lo de arriba
-9VVQ6V,Anuncios de la comunidad,,Tiren paro 🗣️
-HGGMCD,Anuncios de la comunidad,,"persona de bachillerato a distancia plis agregame, solo me falta esa medalla (y la de fin "
-VUMWSG,Anuncios de la comunidad,,"Por favor ayudaaaa, agregarme por favor compañeros de bachillerato a distancia, solo puedo"
-7Y9LVV,Anuncios de la comunidad,,
-MJLUUU,Anuncios de la comunidad,,
-8N24Z3,Anuncios de la comunidad,,
-CJXNZG,Anuncios de la comunidad,,
-KECG5J,Anuncios de la comunidad,,
-EHJ3Q2,Anuncios de la comunidad,,)
-YGTGPZ,Anuncios de la comunidad,,Ofertón para Bachillerato a distancia
-PGPXPL,Anuncios de la comunidad,,Y LLÉVATE la gran experiencia de ayudar a este pobre adicto a la dopamina de las medallita
-HL67XM,Anuncios de la comunidad,,AYUDA A ESTE JAJAJA:C
-4NGH85,Anuncios de la comunidad,,A mi también porfa
-ATQRXX,Anuncios de la comunidad,,agreguenme pofavoooo
-9MSMMY,Anuncios de la comunidad,,"Por favor agreguenme, mi code es"
-LGM3NE,Anuncios de la comunidad,,
-ZWB5GG,Anuncios de la comunidad,,"SI ME AGREGAN LES DEPOSITO 10 PESOS, AYUDAAAAA ES LA UNICA QUE ME FALTA BACHILLERATO UNAM,"
-7PMBMA,Anuncios de la comunidad,,Que onda yo faltó para que me den mi medalla de bachillerato a distancia jeje
-YXLJ6H,Anuncios de la comunidad,,Si eres de bachillerato a distancia porfa agregame 😔🫰🏻
-V8NHYS,Anuncios de la comunidad,,Agrega bachillerato en línea porfa
-EUF8A3,Anuncios de la comunidad,,x2
-DJUVN4,Anuncios de la comunidad,,X3
-NGP3Q4,Anuncios de la comunidad,,X4
-5DE3MV,Anuncios de la comunidad,,X5
-M7B54S,Anuncios de la comunidad,,X6
-7L4ZRY,Anuncios de la comunidad,,
-U4SXG7,Anuncios de la comunidad,,x8
-BBVWWW,Anuncios de la comunidad,,Encuentrenme los de bachillerato en Línea
-AFV9RM,Anuncios de la comunidad,,porfi ayuda
-SN6AHU,Anuncios de la comunidad,,por favoor
-T3NAZ7,Anuncios de la comunidad,,Posdata: les dejo otro código secreto
-DJ7WBM,Anuncios de la comunidad,,
-7M3MNC,Anuncios de la comunidad,,agregen porfa y les doy un riko pollo 🍗
-ACZ97F,Anuncios de la comunidad,,AYUDA A ESTE FORANEO GUERRERENSE JAJAJA:C
-X4CUPQ,Anuncios de la comunidad,,Cha no borren mi codigo
-ELUYC2,Anuncios de la comunidad,,Bachillerato en línea ayuden a esta pobre alma 🙏🙏
-XMKRM8,Anuncios de la comunidad,,agrega soy el edmin del grupo de FB.💂
-VF68YX,Anuncios de la comunidad,,AMIGOS DE BACHILLERATO AYUDEN A ESTA ALMA A CONSEGUIR SU ÚLTIMA PLS
-BYF2UV,Anuncios de la comunidad,,PORFAA BACHILLERATO A DISTANCIA :C
-MP7Y6M,Anuncios de la comunidad,,
-B2MWT8,Anuncios de la comunidad,,
-WHRPQ7,Anuncios de la comunidad,,TIREEEN PAROOO BACHILLERATO A DISTANCIA
-UZBPSL,Anuncios de la comunidad,,Lo mismo que el compa de arriba
-7232Q7,Anuncios de la comunidad,,Lo mismo que los de arriba
-MKH4HC,Anuncios de la comunidad,,Lo mismo que los de arriba
-ALVDTP,Anuncios de la comunidad,,Lo mismo pa
-BVX339,Anuncios de la comunidad,,alguien de bachillerato a distancia porfa ayúdenme 🙏🫂
-RMAY9F,Anuncios de la comunidad,,
-533L3Q,Anuncios de la comunidad,,"Bachillerato a distancia, porfa agrégame 👌🏽"
-NYSCU3,Anuncios de la comunidad,,Agrégame Porfa
-RRB4ZF,Anuncios de la comunidad,,🥹
-RRB4ZF,Anuncios de la comunidad,,Este es mi código bachillerato
-RRB4ZF,Anuncios de la comunidad,,Bachillerato a distancia ayudame
-533L3Q,Anuncios de la comunidad,,Agregenme bachillerato a distancia; 🫶🏽 agregame
-X3DZYF,Anuncios de la comunidad,,Amiguit@ de bachillerato a distancia; agregame
-68JFRL,Anuncios de la comunidad,,por favor 8 h 59 pm
-DH5LMV,Anuncios de la comunidad,,"Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agr c"
-VK486N,Anuncios de la comunidad,,BACHILLERATOO Y COSMETICA POR FIII
-DJUVN4,Anuncios de la comunidad,,BACHILLERATOO Y COSMETICA POR FIII
-VU4EAW,Anuncios de la comunidad,,"Personita de Bachillerato a Distancia, agrégame por favor 𖹭"
-XVETTP,Anuncios de la comunidad,,>
-TFX6ZG,Anuncios de la comunidad,,>
-ZAT8R9,Anuncios de la comunidad,,>
-ZAT8R9,Anuncios de la comunidad,,Agrega bachillerato en línea porfa
-LC3Y4J,Anuncios de la comunidad,,alguien de Bachillerato xfis usa mi código
-ZAT8R9,Anuncios de la comunidad,,alguien de Bachillerato xfis usa mi código
-9VVQ6V,Anuncios de la comunidad,,alguien de Bachillerato xfis usa mi código
-VE5YLA,Anuncios de la comunidad,,agregarme chabales
-UZBPSL,Anuncios de la comunidad,,
-2ZE44K,Anuncios de la comunidad,,porfavooooor
-999SY7,Anuncios de la comunidad,,agregame por fis bachillerato!!!!
-SYULLG,Anuncios de la comunidad,,bachillerato a DISTANCIA PORFA AGREGA
-MTUVQH,Anuncios de la comunidad,,
-NEARSC,Anuncios de la comunidad,,"CHAVALES DE BACHILLERATO A DISTANCIA, AYUDAAAA!!"
-ZAT8R9,Anuncios de la comunidad,,"CHAVALES DE BACHILLERATO A DISTANCIA, AYUDAAAA!!"
-Y4SECU,Anuncios de la comunidad,,agagreréame
-CTGSXN,Anuncios de la comunidad,,agregen porfa es la ultima que me falta 😭
-ZAT8R9,Anuncios de la comunidad,,Agréguenme anenenen es mi adicción 😭😭😭😭😭😭😭😭
-XH8ZZE,Anuncios de la comunidad,,porfa 🫂
-PA5GMR,Anuncios de la comunidad,,"Agréguenme, yo no he puesto mi código en casi ningún grupo 😭"
-U4S826,Anuncios de la comunidad,,"Bachillerato, Cosme,CEPHSI y cualquier carrera falte, ya agrégame porfa"
-MB8M3H,Anuncios de la comunidad,,porfavor compañeritos de cosmética y bachillerato 🙏
-MEB379,Anuncios de la comunidad,,por faaaa Cirujano Dentino
-DL7ZKB,Anuncios de la comunidad,,Bachilleratoooo agregaaaaa
-BQMXZT,Anuncios de la comunidad,,
-DJUVN4,Anuncios de la comunidad,,
-U4SC6Q,Anuncios de la comunidad,,AGREGAME POR FA
-MMTHB4,Anuncios de la comunidad,,Agreguenme bachillerato
-KGJJJN,Anuncios de la comunidad,,Me podrían agregar a estos plis 🙏🏻CEPHCIS Merida e Instituto de Investigaciones en Ecosist
-7TCTV3,Anuncios de la comunidad,,Bachillerato a distancia por fa agregame
-LAUR4G,Anuncios de la comunidad,,Alguien de bachillerato agregue :c
-YATFRA,Anuncios de la comunidad,,agregame bachillerato a distancia por faaaaaa
-5T9VMQ,Anuncios de la comunidad,,agreguen bachillerato
-EUZWSM,Anuncios de la comunidad,,agregenme Bachillerato a distancia soy (
-Q78WJ7,Anuncios de la comunidad,,Agregenme no sean malos :(
-QAN9U2,Anuncios de la comunidad,,Agreguen porfi
-PMXRXP,Anuncios de la comunidad,,Agreguen bacho a distancia
-QW57KK,Anuncios de la comunidad,,Alguien de bachillerato a distancia
-C32MAZ,Anuncios de la comunidad,,agreguen bachillerato a distancia xfavor
-533L3Q,Anuncios de la comunidad,,"Añadenme los de química cosmética, bachillerato a distancia y el Cephcis xfa 🙏🙏🙏😔"
-MEYJA9,Anuncios de la comunidad,,Agreguen
-MAT54P,Anuncios de la comunidad,,Alguien de bachillerato a distancia plis
-EC2MCG,Anuncios de la comunidad,,A mi también porfis
-7TCTV3,Anuncios de la comunidad,,Alguien de Bachillerato a Distancia
-SMC4YU,Anuncios de la comunidad,,agreguen a Bachillerato a distancia 😭
-L7BQ6N,Anuncios de la comunidad,,"agréguenme, por favor!"
-QMVLT8,Anuncios de la comunidad,,Agregenme carreras Raras
-EQ6X25,Anuncios de la comunidad,,A mi tmb porfi
-8N24Z3,Anuncios de la comunidad,,A mi tambien
-K5DBPP,Anuncios de la comunidad,,Agregenme a mi
-8A8WGM,Anuncios de la comunidad,,Agregenme a mi tmb plis
-5WK7AX,Anuncios de la comunidad,,"Agregrame a mi por favor, bachillerato a distancia"
-UALS83,Anuncios de la comunidad,,porfis a mi iguaaal
-FNEAB4,Anuncios de la comunidad,,también ha gregame 🙏🙏
-8YGU6C,Anuncios de la comunidad,,Go añadan pls
-7UGZTJ,Anuncios de la comunidad,,"(Para los de distancia, agreguenme porfis. Alguien de bachillerato"
-EGGBNP,Anuncios de la comunidad,,bachillerato
-3UT77H,Anuncios de la comunidad,,Agreguenme porfa bachillerato a distancia
-9BRDEG,Anuncios de la comunidad,,A mí también agréguenme:(
-7Y2S4J,Anuncios de la comunidad,,A mi tmb plis
-K5DBPP,Anuncios de la comunidad,,A mi tmb plis
-SMC4YU,Anuncios de la comunidad,,Agreguenme en Bachillerato a distancia y a Química cosmética por favor
-B6PXK6,Anuncios de la comunidad,,Yo de comunicación en cu
-KNK7Y4,Anuncios de la comunidad,,Chavos de bachillerato agréguenme porfii
-QMVLT8,Anuncios de la comunidad,,Agregarme plis chavos de Bachillerato en linea
-SE28C2,Anuncios de la comunidad,,"Agregenme alguien de bachillerato a distancia, por favorr"
-Y4SECU,Anuncios de la comunidad,,Tmb a mi porfa agregameee
-KY43YW,Anuncios de la comunidad,,
-533L3Q,Anuncios de la comunidad,,
-H6RDXQ,Anuncios de la comunidad,,
-K5DBPP,Anuncios de la comunidad,,
-NWG754,Anuncios de la comunidad,,
-FNEAB4,Anuncios de la comunidad,,también porfa🙏🙏
-G5VSUZ,Anuncios de la comunidad,,A mi también porfaaaaa ci
-G2SQMG,Anuncios de la comunidad,,A mi tambien por favooor
-ELUYC2,Anuncios de la comunidad,,Agreguenmeeee
-GC6HKG,Anuncios de la comunidad,,Agréguenme por favor
-GKT9PN,Anuncios de la comunidad,,"Agréguenme a mi tmb chicos, xfavoooor"
-HYAGR4,Anuncios de la comunidad,,Agréguenme porfi 😭
-AWTK5Y,Anuncios de la comunidad,,Agréguenme plss
-TUKWSQ,Anuncios de la comunidad,,"Agregenme alguien de bachillerato a distancia, por favorr"
-2965RS,Anuncios de la comunidad,,Alguien d bachillerato agreguemeee 😿
-U4S826,Anuncios de la comunidad,,Ándale personita de bachillerato en línea
-WW7T4K,Anuncios de la comunidad,,si es verdad porfis ayúdenos :3
-EQ6X25,Anuncios de la comunidad,,a mi tmb porfi
-JUF5W6,Anuncios de la comunidad,,no se olviden de mi 😞
-JMDE8U,Anuncios de la comunidad,,yo igual ;)
-4JQBNS,Anuncios de la comunidad,,A mi también porfa
-9JUAP7,Anuncios de la comunidad,,Agreguen chavos de bachillerato en línea
-YXKYBV,Anuncios de la comunidad,,Agreguen el de cosmetica
-XHL8BP,Anuncios de la comunidad,,Aayyy. A mi también agréguenme chavos de bachillerato en línea
-EC2MCG,Anuncios de la comunidad,,
-DUQTLH,Anuncios de la comunidad,,
-4QSM4X,Anuncios de la comunidad,,Alguien de bachillerato a distancia porfi?
-KGJJJN,Anuncios de la comunidad,,porfis chicos
-XKTJ63,Anuncios de la comunidad,,Si puedes agrégame compañero :<
-6ZQ2SX,Anuncios de la comunidad,,a mi también porfaaa
-HCV48Q,Anuncios de la comunidad,,Agreguenme bachillerato a distancia PLISSS. Soy
-H3DW2S,Anuncios de la comunidad,,Compañero de bachillerato podrías agregarme por favor?
-N7QNDK,Anuncios de la comunidad,,o
-5JL5SA,Anuncios de la comunidad,,ayuda
-VWVYT3,Anuncios de la comunidad,,y
-DUKA2D,Anuncios de la comunidad,,"AYUDAAAAAA, Agréguenme porfiiii"
-BC769Z,Anuncios de la comunidad,,Holi ;) agreguen porfi
-N7QNDK,Anuncios de la comunidad,,
-GA7BM5,Anuncios de la comunidad,,Yo también quiero bachillerato a distanciiiia pliiiis
-XH8ZZE,Anuncios de la comunidad,,Economía - Fesa
-ZNFGAC,Anuncios de la comunidad,,"CEPHCIS, Bachillerato a distancia pls agréguenme 🥺"
-CS6WBV,Anuncios de la comunidad,,Bachillerato a distancia y cosme xfaaa
-VPLEVJ,Anuncios de la comunidad,,Agréguenme bachillerato a distancia
-DH5LMV,Anuncios de la comunidad,,"Hola mi nombre es Eder, soy de Medicina y te agradecería mucho que me agregaras c: Bachill"
-F9TZFU,Anuncios de la comunidad,,"gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y S"
-4ULDZZ,Anuncios de la comunidad,,🙏🏻🙏🏻
-X3TE7F,Anuncios de la comunidad,,"Porfi agregame amix de bachillerato a distancia, ya solo me faltas tu d(u.u)b soy de Pedag"
-PWGZE8,Anuncios de la comunidad,,"gente d bachillerato a distancia, CEPHCIS, Instituto de Investigaciones en Ecosistemas y S"
-YR3TKQ,Anuncios de la comunidad,,"Añadenme los de química cosmética, bachillerato a distancia y el Cephcis xfa 🙏🙏🙏😔"
-K3DVAH,Anuncios de la comunidad,,"Me faltan estos, rompehielos, casi familia y compañero de banca, busco alguien que se apel"
-ALVDTP,Anuncios de la comunidad,,Tiren paroo
-533L3Q,Anuncios de la comunidad,,🫂
-PFMXND,Anuncios de la comunidad,,"Bachillerato a distancia, CEPHICIS, Química cosmetica agréguenme porfis :’)"
-C44NTV,Anuncios de la comunidad,,Bachillerato a distancia me puedes agregar!!!!!!!
-LHVZE2,Anuncios de la comunidad,,agreguen PORFAS bachillerato a distancia y demás rarezas UNAM!!!
-DBUTNQ,Anuncios de la comunidad,,"Holaaaaa, los de Bachillerato a Distancia me pueden agregar plis???"
-VD522A,Anuncios de la comunidad,,"✨✨Hola amigalletas de bachillerato a distancia, me agregan por fa?"
-A9U467,Anuncios de la comunidad,,"por favor amigazo a distancia, soy Biología, FES Iztacala"
-SHYLDR,Anuncios de la comunidad,,agreguen por favor amigos de bachillerato a distancia y demás rarezas UNAM!!! 😀
-S4S24L,Anuncios de la comunidad,,AGREGENME 🥺
-5P477Q,Anuncios de la comunidad,,"HOLA BACHIAMIGOS, AGREGENME PORFAVOR. :)"
-4BJN6Q,Anuncios de la comunidad,,"Amigos de bachillerato a distancia, agreguenme x100 por favor"
-QZ35PS,Anuncios de la comunidad,,Amigos top de bachillerato a distancia agréguenme porfi💌💌💌
-DUQTLH,Anuncios de la comunidad,,porfa amiguitos de bachillerato a distancia
-8CYDV9,Anuncios de la comunidad,,FAMILIA DE BACHILLERATO A DISTANCIA SON LOS UNICOS QUE FALTAN ¡TIREN PAROOOO 🥹🥹🥹!
-MEB379,Anuncios de la comunidad,,AMISTAD DE BACHILLERATO A DISTANCIA PODRIAS AGREGAR A ESTA PERSONA
-N3MF6K,Anuncios de la comunidad,,HOLII AYUDAME PORFISSS
-YT6GMJ,Anuncios de la comunidad,,Porfi amistad de bachillerato agregame
-C7NXLY,Anuncios de la comunidad,,"Porfiiii, no me lo borren🥺🥺"
-RS8A3X,Anuncios de la comunidad,,"Porfiiii, no me lo borren🥺🥺"
-RVY6UF,Anuncios de la comunidad,,échenme paro con su medalla de bachillerato a distancia amiguibis 💔
-UZJXUG,Anuncios de la comunidad,,"Hola amikos de bachillerato a distancia, ayuden a esta pobre economista a obtener el sello"
-JYEF89,Anuncios de la comunidad,,"Hola, los de bachillerato a distancia, agreguenme"
-WSS65K,Anuncios de la comunidad,,Agréguenme bachillerato en línea
-LNY5TG,Anuncios de la comunidad,,Agreguen de bachillerato en línea pls
-DJUVN4,Anuncios de la comunidad,,Agreguen de bachillerato en línea pls
-DWLHUF,Anuncios de la comunidad,,"Por fi, te invito un pollito rostizado en CU"
-DQ5KTT,Anuncios de la comunidad,,PORFAVORRR te picho una miche
-PZBGYV,Anuncios de la comunidad,,"dale bro de bachillerato a distância, se que hay uno que me va a adoptar y nos vamos al Sh"
-TFM6L8,Anuncios de la comunidad,,PORFAVOR AMIG@ DE BACH A DISTANCIA SI GUSTAS TE SIGO Y ME SIGUES EN INSTA O SOLO TE SIGO H
-XTEKTV,Anuncios de la comunidad,,
-E8QL98,Anuncios de la comunidad,,"Bachillerato a distancia, porfavor agreguen"
-NKDR4F,Anuncios de la comunidad,,bachillerato a distancia 🙏
-LFBBEX,Anuncios de la comunidad,,"Solo necesito que alguien de Bachillerato a Distancia me agregue, tiren paro…. Mi código e"
-UPWQ74,Anuncios de la comunidad,,Tiren paro bachillerato a distancia 🙏
-8EJFYT,Anuncios de la comunidad,,agregenme plis ya es la ultima que me falta y termino 🥲
-4QQA2Z,Anuncios de la comunidad,,"Agrégame compañer@ de bachillerato y te hago tus tareas de español/inglés, investigaciones"
-HC2CCM,Anuncios de la comunidad,,agréguenme pls🥹 y si entran a vet les paso mis apuntes
-PW5KSH,Anuncios de la comunidad,,porfis °^°
-J8LGHK,Anuncios de la comunidad,,PORFAVOOOOOOOOOOOOOOOOR
-ALKPT3,Anuncios de la comunidad,,xfis tqm
-GTTYS2,Anuncios de la comunidad,,IEE FES Aragon
-EC4755,Anuncios de la comunidad,,
-JVURUC,Anuncios de la comunidad,,"sin nada más que agregar, ten buen día 🫶🏽"
-SHYLDR,Anuncios de la comunidad,,me podrías agregar amigo a distancia por favor y si no es tanta molestiay te invito una tu
-JQAF7Q,Anuncios de la comunidad,,"tmb este tiren paro bachillerato a distancia , te invito un pulque de mazapan, daría la vi"
-HVZSUK,Anuncios de la comunidad,,"amigo de Bachillerato en línea, ayúdame por favor, y te digo que tamal eres. Ofrezco una b"
-Z7BAJP,Anuncios de la comunidad,,¿HASTA ACÁ VA LA FILA? ALGUIEN DE BACHILLERATO EN LÍNEA QUE ME PUEDA AYUDAR PORFA
-MEYJA9,Anuncios de la comunidad,,AYUDA POR FAVOR! BACHILLERATO A DISTANCIA
-G73Z9E,Anuncios de la comunidad,,BACHILLERATO A DISTANCIA TE LO RUEGOOO
-G5SHBK,Anuncios de la comunidad,,"DALEEE Bachillerato en Linea :,b"
-WXSRLT,Anuncios de la comunidad,,ayuden a esta pobre alma
-QUQ7A4,Anuncios de la comunidad,,POR FAVOR BARILLERATO EN LINEA :]
-LHPSC9,Anuncios de la comunidad,,agreguen los de bachillerato en línea porfa
-EGJGMB,Anuncios de la comunidad,,
-7SVT9D,Anuncios de la comunidad,,"Agrégenme porfa, mi codigo es"
-U8C9G3,Anuncios de la comunidad,,Mi código
-5WL3J2,Anuncios de la comunidad,,# Me ayudaría mucho bachillerato en Línea… solo me falta ese
-FKWYFZ,Anuncios de la comunidad,,AYUDA: Busco ser el primer lazo de alguien y que me agregue alguien de bachillerato en lin
-4HU2PV,Anuncios de la comunidad,,"Ayuda, yo también necesito el de romper el hielo"
-SEDAKG,Anuncios de la comunidad,,Para rompehielos porfis
-V569QT,Anuncios de la comunidad,,Alguien sin lazos en Espacio Unam que me ayude a romper el hielo soy este
-S37KHD,Anuncios de la comunidad,,Alguien puede ayudarme con romper El hielo pls
-2KBVYQ,Anuncios de la comunidad,,A mí también porfi
-RJ863T,Anuncios de la comunidad,,A mi tambiiiiiiien
-P3ZRE5,Anuncios de la comunidad,,Gracias por hacer que la comunidad tanto Suayed como escolarizada se unieran de esta maner
-4G7JK7,Anuncios de la comunidad,,y
-9MSMMY,Anuncios de la comunidad,,Agrega bachillerato en línea porfa
-XHUQEC,Anuncios de la comunidad,,Bachillerato en Linea por favor
-M74K7K,Anuncios de la comunidad,,"AGREGUENMEEEE, Es la última que me faltaaaa"
-F783Q6,Anuncios de la comunidad,,AYUDA BACHILLERATO EN LINEA
-RMXZ4E,Anuncios de la comunidad,,porfis
-AARUZQ,Anuncios de la comunidad,,
-QV6PRZ,Anuncios de la comunidad,,bachillerato en línea porfaaa
 6DT6SY,Anuncios de la comunidad,,"bachillerato en linea, amistad apiadate 😔🙏"
 8JH9PL,Anuncios de la comunidad,,Agrega bachillerato en línea porfa
 GNPVXS,Anuncios de la comunidad,,Agrega bachillerato en línea porfa
@@ -4801,6 +3827,7 @@ DRVR87,Anuncios de la comunidad,,Agrega bachillerato en línea porfa
 4Y96Q5,Anuncios de la comunidad,,
 6A755S,Anuncios de la comunidad,,
 FTJ9YB,Anuncios de la comunidad,,
+B2MWT8,Anuncios de la comunidad,,
 6A6RSY,Anuncios de la comunidad,,
 VF68YX,Anuncios de la comunidad,,
 D984G3,Anuncios de la comunidad,,
@@ -4808,12 +3835,15 @@ NPU5WJ,Anuncios de la comunidad,,
 F783Q6,Anuncios de la comunidad,,
 5WL3J2,Anuncios de la comunidad,,
 Z3CBJ5,Anuncios de la comunidad,,
+634MZ6,Anuncios de la comunidad,,
 Z7V2DL,Anuncios de la comunidad,,
+J8LGHK,Anuncios de la comunidad,,
 T9L84A,Anuncios de la comunidad,,4HU2PVBACHILLERATO A DISTANCIA PORFIIISS
 S8FQY4,Anuncios de la comunidad,,
 DPSK54,Anuncios de la comunidad,,
 296PCT,Anuncios de la comunidad,,porfaaaa
 SQMUC6,Anuncios de la comunidad,,Porfavorrr
+E7MD3K,Anuncios de la comunidad,,
 L576TC,Anuncios de la comunidad,,AGG BACHILLERATO A DISTANCIA POR FAVOR 😭💜
 YGTGPZ,Anuncios de la comunidad,,también te busco bachillerato 😭
 U243SW,Anuncios de la comunidad,,"BACHO EN LINEA PORFAAAAA, 🥹🙏"
@@ -4826,6 +3856,7 @@ CCQBM9,Anuncios de la comunidad,,porfa agreguenme bachillerato a distancia
 8C9ST8,Anuncios de la comunidad,,"Por favor, bachillerato a distancia 👏😣"
 ESS4US,Anuncios de la comunidad,,Bachillerato en línea porfaa
 9ZP2AZ,Anuncios de la comunidad,,
+KECG5J,Anuncios de la comunidad,,
 68DWUL,Anuncios de la comunidad,,"por fas igual, bachillerato a distancia 🥹"
 GVALGQ,Anuncios de la comunidad,,agregame por fa bachillerato a distancia
 LHGUMH,Anuncios de la comunidad,,Bachillerato a distancia psor favor solo me faltas esa
