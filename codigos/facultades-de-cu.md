@@ -216,6 +216,7 @@
 | `S6FD5B` | Urbanismo | doc |
 | `5YLFA4` | Urbanismo | doc |
 | `WZ6CAL` | Urbanismo | doc |
+| `NZZ4RS` | Arquitectura, Seira, Madrigal, 6 | comunidad |
 
 ## Facultad de Medicina
 
