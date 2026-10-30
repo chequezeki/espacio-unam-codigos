@@ -602,6 +602,7 @@
 | `SL5VWW` | Diseño y Comunicación Visual | doc |
 | `G8ZWJ9` | Diseño y Comunicación Visual | doc |
 | `LR4WLT` | Diseño y Comunicación Visual | doc |
+| `CTKX8D` | Diseño y Comunicación Visual | comunidad |
 
 ## Facultad de Economía
 
