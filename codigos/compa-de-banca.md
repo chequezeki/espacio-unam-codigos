@@ -98,10 +98,12 @@
 | `VV4X6H` | 2022 | doc |
 | `S37KHD` | 2021 | doc |
 | `7XMBB9` | Ingeniería Química Metalurgiaca/ Facultad de Química / 2023 | doc |
+| `7UJJVP` | — | doc |
 | `FYZLQT` | 2021 | doc |
 | `UJ4PZC` | TRABAJO SOCIAL/FACTS/2024 | doc |
 | `M7B54S` | — | doc |
 | `5RMV32` | Trabajo Social/SUAyED/2023 | doc |
+| `7UJJVP` | Trabajo Social/SUAyED/2023 | doc |
 | `2AVJJ6` | Trabajo social 2023 | doc |
 | `NYSCU3` | FÍSICA/ 2021/ | doc |
 | `B9ELGM` | QUÍMICA/ CU/ 2020 | doc |

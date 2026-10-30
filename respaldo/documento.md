@@ -64,7 +64,7 @@
 
 [ENES](#enes)
 
-[ENES León](#enes-león)
+[ENES lo León](#enes-león)
 
 [ENES Juriquilla](#enes-juriquilla)
 
@@ -716,8 +716,10 @@ Empezaste a llenar tu Pasaporte porque todo mundo lo estaba llenando y no te lo 
 
 **V4C4ESF3R4**
 Supongamos una vaca esférica en el vacío... El chiste clásico de Física, para quienes simplifican el problema hasta que sale. Idea de Metztli. Medalla secreta
+
 **C0NQU3S0**
 La pregunta más famosa de CCH azcapo. ¿Conqueso tus papas?
+
 **G4B1N1T0**
 Para Gabinito y los perritos de la Prepa 1 «Gabino Barreda». Idea de Giann Enriachetti y Marlen Nava. Serie «Mascotas de mi escuela». Medalla secreta.
 
@@ -729,6 +731,7 @@ Para La Cantera, donde se forman los Pumas. Idea de Ángela y Adrián. Medalla s
 
 **F0S1L**
 Fortaleza, Orgullo, Superación, Identidad y Lealtad. Para quienes llevan años en la UNAM y nos recuerdan que cada quien tiene sus tiempos, que la perseverancia también merece reconocimiento y que nunca es tarde para terminar lo que uno empezó. Idea de Virginia, Brenda, Jonathan, Gael, Frida y Yamil. Medalla secreta.
+
 **M4R1ASU**
 
 Serie «Mujeres que hicieron la UNAM»: María Asunción Sandoval, primera mujer abogada titulada en México (1898). Idea de Yari Natalia, Ana Esperanza y Salvador. Medalla secreta.
@@ -744,6 +747,18 @@ Para Enriqueta Basilio, la primera mujer en encender el pebetero olímpico, en M
 **3SCUD0**
 
 Para el escudo de la Universidad: el águila mexicana y el cóndor andino sobre el mapa de América Latina, que ideó José Vasconcelos en 1921\. Idea de Adrián y Diego Eduardo. Medalla secreta.
+
+**M3J14**
+
+Para Estanislao Mejía, fundador de la Escuela Nacional de Música, hoy Facultad de Música. Idea de América. Serie «\<Personajes de la UNAM».
+
+**4ZUL0R0**
+
+Para Estanislao Mejía, fundador de la Escuela Nacional de Música, hoy Facultad de Música. Idea de América. Serie «\<Personajes de la UNAM».
+
+**P13DR4**
+
+**\|**
 
 .
 
@@ -1060,7 +1075,7 @@ CCH Vallejo: RGUKR3
 
 **Ingeniería Civil:** BZJX2A, UEYKGM, GAVUGY, GR5YLN,  QLNMF5
 
-**Ingeniería Eléctrica y Electrónica:  XTGNQB**
+**Ingeniería Eléctrica y Electrónica:  XTGNQB, LKAE3D**
 
 **Ingeniería en Computación:** 2ST249, UDHBH3, V8VEEB, DUQTLH, VQ8HT4 ,GK234W, C77D4V, PKJWXH, 62MWGU, RXMWFZ, LTVR5B, U4S826, FS9FAU, 8J76TG
 
@@ -1207,7 +1222,7 @@ Ingeniería en Minas y Metalurgia:**, TZ7S35, 4VP5BY , R6YX47**
 
 Ingeniería Eléctrica y Electrónica: **F783Q6, DWWWCX, V569QT, WEP2HC, 3GML34**
 
-Ingeniería en Computación: **9ZULZT** **V3HNZA**, **TFX6ZG**, **5EFYQV**, **7HE78F**, **T2UL6E , JN42QP, QXN8JQ, ZH8RDP, BPGFSP, ELUYC2, 95Y7HN, EGJGMB, 7Y4N48**
+Ingeniería en Computación: **NZ5A8V**, **9ZULZT** **V3HNZA**, **TFX6ZG**, **5EFYQV**, **7HE78F**, **T2UL6E , JN42QP, QXN8JQ, ZH8RDP, BPGFSP, ELUYC2, 95Y7HN, EGJGMB, 7Y4N48**
 
 Ingeniería en Sistemas Biomédicos: **BLL2CA, QBHNZB, 8H46ZM,  Q79VDT, CEA9QT, WLMRPY, 8PAUA9**
 
@@ -1295,7 +1310,7 @@ Ingeniería Química:  **B6QPMU**, **9GNVRV**, **Q2JACM, 24Q4N8, Z9V8YJ,** **S5G
 
 Ingeniería Química Metalúrgica: **XZ5H3V**, **6JGSCT**, **QUQKEZ**, **59BL4M, KN7BSP, QCDXFG, 7XMBB9**
 
-Química: **C2E6DR**, **B9ELGM, 3LX4CZ, QQPBAM, HE4X2K**
+Química: **C2E6DR**, **B9ELGM, 3LX4CZ, QQPBAM, HE4X2K, DUZ6ZW**
 
 Química de Alimentos: **KLVKPA, G7J6WU**,  **U6P443**, **7ZSVSC,** **WQPRJZ**, **WUJYVC, XP7XAD, 4R4MNQ**
 
@@ -1319,7 +1334,7 @@ Estudios sociales y gestión local: **G5ZJ2S**
 
 Bibliotecología y Estudios de la Información:**, A7YU5R, ZG5ZBZ, C44NTV,,, 57EYLG,**
 
-Administración de Archivos y Gestión Documental: **M33DPN, ZGKH37**
+Administración de Archivos y Gestión Documental: **M33DPN,**
 
 Filosofía:, **5DV4P9**, **9JURAL, KJFPHV**
 
@@ -1361,7 +1376,7 @@ Antropología: **TWC27T**, **C3EXMD, P79ZDH, 8MT3SY, ARA68T, FFHFFF, MGHG7B**
 
 Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, XSLEPM (SUA), YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, **Z85GPC** , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, R9DENV, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS**
 
-Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR, JHCABD, YK4BPW, V7QEMW, PGPXPL**
+Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR,, YK4BPW, V7QEMW, PGPXPL**
 
 Relaciones Internacionales **6DULNS**,  **NK254K, S7HWRK, E8S6NE, ADBZNZ, DSWH9X, 2FB5UB, JYEF89, QAN9U2, VD522A(sua)**
 
@@ -1404,9 +1419,9 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **QMDEAM**, **CF4UBR, , UU6VPQ, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, , PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K**
+Derecho: **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K**
 
-Derecho SUAYED: **RVT6RY,, , 47BH5C, MJLUUU, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3,**
+Derecho SUAYED: **RVT6RY, 9ASR8W, 47BH5C, MJLUUU, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3,**
 
 ### ***Facultad de Psicología*** {#facultad-de-psicología}
 
@@ -1416,7 +1431,7 @@ Psicología SUA: **EMR2XF, U37TKR UMZHHH, , 82H488, SUHQ7N, 2G5REG, LVD3EW**
 
 ### ***Facultad de Odontología*** {#facultad-de-odontología}
 
-Cirujano Dentista: **KJ6ZGE**,**, QQN4JV,YSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, GL8ETS,7VPCWT, QV68T9 (pongan más para las 100 personas)**
+Cirujano Dentista: 2F4XDA, **KJ6ZGE**,**, QQN4JV,YSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, GL8ETS,7VPCWT, QV68T9 (pongan más para las 100 personas)**
 
 Odontologia: **C73DE3, 9R45UR**
 
@@ -1436,7 +1451,7 @@ Geografía Aplicada: **QWC8VS, WNU5V3, FZCENF, 8R5W24**
 
 ### ***Escuela Nacional de Ciencias Forenses***   {#escuela-nacional-de-ciencias-forenses}
 
-Forense: **G73Z9E,** **KKYHAT, PAVDZD,** **ZS32YZ**, **USQZVW, LEH2JS, 7TCYKC, BVZXZF**
+Forense: **G73Z9E,** **KKYHAT, PAVDZD,** **ZS32YZ**, **USQZVW, LEH2JS, 7TCYKC, BVZXZF, 28DXFJ**
 
 ### ***IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas)*** {#iimas-(instituto-de-investigaciones-en-matemáticas-aplicadas-y-en-sistemas)}
 
@@ -1566,7 +1581,7 @@ LGM3NE, P7PAUD  \- Ayala
 RWKVVL \- Alvarez
 HGBPLC \- Amezcua
 23RYUG, 9QDPTW \- Aldana
-2SL9G8 \- Aguirre
+2SL9G8- Aguirre
 L6KQTK- Azpitarte
 DT6XVD \- Aylin
 Z7V2DL \- Alamilla
@@ -1642,7 +1657,7 @@ JNFJKW, 89JNM3, VUGKWY, BAG289H, RZ6XRU- Camacho
 MKKV83 \- Camarillo
 7STSNM- Canseco
 ERZJXP \- Camargo
-QVC32M, ADBZNZ, 48WMEU  \-  Campos
+QVC32M, ADBZNZ, 48WMEU, LKAE3D  \-  Campos
 XTEJ8P, LHPSC9 \- Campa
 4YXJX4  \-  Campuzano
 JD5K22 \- Cambrón
@@ -2090,7 +2105,7 @@ QXN8JQ, FZTJCT, KMKJZT  \-  Rojas
 KHMXB9 \- Román
 4QSM4X, M2A9L3  \-  Romero
 38N5MF  \-  Roque
-ZQ7D4T, JEZJDK \- Rosales
+ZQ7D4T, JEZJDK, 6PHCHQ- Rosales
 LX96J7,  \-  Rosas
 72CXZY \- Rubi
 L5GPBK, T4VFRQ, JN42QP, AXBZDR \-  Rubio
@@ -2255,7 +2270,7 @@ SSD55C \- Zunun
 | **AGOSTO** FBTPB7, M8PN5M**,** TP7G2U, BLL2CA , 374S23, 96DD2T, M33DPN, 4TG2S7, S5G28G, E22JQT, 8Y89R9, CSYUZN, KNFKMV, EX43MU AK6ZWR, D5GYZY, YURFCE, ZVD8Z4, 8N24Z3 , KNWN28, N3MF6K, S4S24L, V6ZKQ8, PZBGYV, 4THUMF, AC6R6Z, FTJ9YB, TUBLX3, 3C9YXF, 7HQ8FR, 76J4U9, PGPXPL, P94HEN, TVGL8J, 7Q64Z9, M8PN5M, DZ239X, QC4WVW, ZT76GT, U9FRDX, XJE3HZ, SPMU3V, M7B54S |
 | **SEPTIEMBRE** HZ6A9Z, RZ6XRU**,** GLWNDS, BYF2UV, X87RX3, RUR545, 9MVBUH, BVWBB6, USVWAX, FMBLNQ, FL5998, LEH2JS', JPLRZG, U44QDA, DUP9YP, HMZ3AD, UUN8K5, UH9C9E. QMDEAM, YK9XG3, 82H488,9RE3VP, Z7BAJP, 74MYW8, X4BZBK, W3AQ9D, HERGCA, CRWXDZ, CXZGG6, CBHD9N, BK3FVG, NKMK4D**,** 6LV4PL, WPWR7B, ZTQ9QP, EGRGG2, UAW9AA, MJPW9K, CY5CX8 |
 | **OCTUBRE** VNMPZ9, ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W, 7GW9UE,77S9EC |
-| **NOVIEMBRE** 2K9FK5, CBU3CE, JL85MQ**,** C77D29**,**, VPRKQA**,** 74KTUS, 6WM8QZ, , K4P832, F698MD, QY3VQ9, NEKJCK, FHQXMQ, 9RDDKY, W3FLD6, VZ36RJ, 2M56EN, W8LHZL, HFAAS9, UN34WK, RWSHM3, 33DBC2, UMZHHH, L3CJV6, 4CYKPC, PW5KSH, CY6ATS , CJXGS2, ALKPT3, GTMTH9, K7AFKF, Y2SM92, NQPMGB, 6DT6SY, CJXGS2, HC2CCM, UJ4PZC, M3XBS3, 8JH9PL, VG39JT, 6MURMS, 3EADS3, T7XCPM |
+| **NOVIEMBRE** 2K9FK5, CBU3CE, JL85MQ**,** C77D29**,**, VPRKQA**,** 74KTUS, 6WM8QZ, , K4P832, F698MD, QY3VQ9, NEKJCK, FHQXMQ, 9RDDKY, W3FLD6, VZ36RJ, 2M56EN, W8LHZL, HFAAS9, UN34WK, RWSHM3, 33DBC2, UMZHHH, L3CJV6, 4CYKPC, 6PHCHQ, PW5KSH, CY6ATS , CJXGS2, ALKPT3, GTMTH9, K7AFKF, Y2SM92, NQPMGB, 6DT6SY, CJXGS2, HC2CCM, UJ4PZC, M3XBS3, 8JH9PL, VG39JT, 6MURMS, 3EADS3, T7XCPM |
 | **DICIEMBRE** NQYJ5W,Y6352H,UU6VPQ, XJWH5V, MNM229,T9UJMP, P8E4PW, TAZL6P, MGQ845,  9DT7WG, VU4EAW, M8MRDM, RMNQ7T, QR4PLZ, 27YHVB, MP7Y6M, ZWLYNY, 4CDW4N, 9TSJ9S, RWKVVL, JCDSEA, MHLNQF,NWG754, QGLTRC, EE55CC,B3FPGG, ACZ97F, 4VP5BY, M7PS49, XLWSAA, F5Z27H, 39GFZJ, 9HHDZS ALVDTP, DRVR87, BPY827, KB5FFD, HLTR92, DRVR87,BTJWYA, GSWGUF, SQVJ7P, KEPNNC, PQX8FT, DRVR87, ZWLYNY, ZT5TXN, 79LV2Z, ACZ97F, YGTGPZ, G9HCLW, W25A2E, QAN9U2, 634MZ6, LHPSC9, 3C5MX2,KWRTRY |
 
 **LOGRO DE TODA LA REPÚBLICA 🗺️**
@@ -2271,14 +2286,14 @@ SSD55C \- Zunun
 | **Coahuila:** Y2S7KV,  |
 | **Colima:**79U7RY |
 | **Durango:** 9ASR8W, VUELXG, RJ863WSSGKMT, VG39JT |
-| **Estado de México:** E7MD3K, 6CRCR2, JV4M3U, 27YHVB, SPMU3V, WNYKCD, JN42QP, FFWLPX, GVALGQ, BP8YXK, 45KGQP, T9L84A**,** BPY827, 62CSXD, MB8M3H, ZZ6AE3, G5CQWJ, T4MZ7S, E92887, M7PS49, XLWSAA, ALKPT3, ALVDTP, GTYWRN, BP4BSQ, SHYLDR, BVAQGH, QC4WVW, PYADLG, URT7XH, AARUZQ, 8GHZQ5, 92B2W3, 82H488, 2AVJJ6, WJH8ME, ZAX4D8, VYGM4N, MDW9W3, UZJXUG, 4R4MNQ, 5KDYK6 |
+| **Estado de México:** E7MD3K, 6CRCR2, JV4M3U, 27YHVB, SPMU3V, WNYKCD, JN42QP, FFWLPX, GVALGQ, BP8YXK, 45KGQP, T9L84A**,** BPY827, 62CSXD, MB8M3H, ZZ6AE3, G5CQWJ, T4MZ7S, E92887, M7PS49, XLWSAA, ALKPT3, ALVDTP, GTYWRN, BP4BSQ, 6PHCHQ, SHYLDR, BVAQGH, QC4WVW, PYADLG, URT7XH, AARUZQ, 8GHZQ5, 92B2W3, 82H488, 2AVJJ6, WJH8ME, ZAX4D8, VYGM4N, MDW9W3, UZJXUG, 4R4MNQ, 5KDYK6 |
 | **Guanajuato:** ZFHZNJ, 4QQA2Z, CYSVAV |
 | **Guerrero:** PA7FWF, M33WL2, ACZ97F, 9MSMM, Z7V2DL |
 | **Hidalgo:** 3C5MX2, FZC5EB, NWB7JG, 9JUAP7,  |
 | **Jalisco:** 5MMQ9F |
 | **Michoacán:** 7GJ83S, PW5KSH |
 | **Morelos:** DGSDUJ, 6EJ8H5,  |
-| **Nayarit:**K334YB |
+| **Nayarit:** K334YB |
 | **Nuevo León:** SCFY3G, 3C9YXF |
 | **Oaxaca:** UQQGXT, 5VFXAG, FNXSDN |
 | **Puebla:**  TVPG8X, FYZLQT, 7Y9LVV, KVJNQD, 96DD2T, CDPCQC |
@@ -2646,7 +2661,7 @@ SSD55C \- Zunun
 ***21*** ALKPT3
 ***22 CY6ATS, 4BJ4EV***
 ***23 RANETR,  8PTA9A***
-***24***
+***24\.  6PHCHQ,***
 ***25\. Y7FGE3***
 ***26\. MAC4X6, 6MURMS***
 ***27 NYKVFQ***
@@ -2828,13 +2843,15 @@ Quimica Farmaceutica Biologica / Facultad de Química / 2023 \- YURFCE, 2024 \- 
 Ingeniería Química Metalurgiaca/ Facultad de Química / 2023 \- 7XMBB9
 TRABAJO SOCIAL FACTS
 
+7UJJVP
+
  2021 FYZLQT
 
 TRABAJO SOCIAL/FACTS/2024 UJ4PZC
 
 M7B54S
 
-Trabajo Social/SUAyED/2023 5RMV32
+Trabajo Social/SUAyED/2023 5RMV32, 7UJJVP
 
 Trabajo social 2023 2AVJJ6
 

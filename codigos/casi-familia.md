@@ -159,6 +159,7 @@
 | `QVC32M` | Campos | doc |
 | `ADBZNZ` | Campos | doc |
 | `48WMEU` | Campos | doc |
+| `LKAE3D` | Campos | doc |
 | `XTEJ8P` | Campa | doc |
 | `LHPSC9` | Campa | doc |
 | `4YXJX4` | Campuzano | doc |
@@ -778,6 +779,7 @@
 | `38N5MF` | Roque | doc |
 | `ZQ7D4T` | Rosales | doc |
 | `JEZJDK` | Rosales | doc |
+| `6PHCHQ` | Rosales | doc |
 | `LX96J7` | Rosas | doc |
 | `72CXZY` | Rubi | doc |
 | `L5GPBK` | Rubio | doc |

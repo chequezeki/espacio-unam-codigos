@@ -148,6 +148,7 @@
 | `GR5YLN` | Ingeniería Civil | doc |
 | `QLNMF5` | Ingeniería Civil | doc |
 | `XTGNQB` | Ingeniería Eléctrica y Electrónica | doc |
+| `LKAE3D` | Ingeniería Eléctrica y Electrónica | doc |
 | `2ST249` | Ingeniería en Computación | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
 | `V8VEEB` | Ingeniería en Computación | doc |

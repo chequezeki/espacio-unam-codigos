@@ -109,6 +109,7 @@
 | `V569QT` | Ingeniería Eléctrica y Electrónica | doc |
 | `WEP2HC` | Ingeniería Eléctrica y Electrónica | doc |
 | `3GML34` | Ingeniería Eléctrica y Electrónica | doc |
+| `NZ5A8V` | Ingeniería en Computación | doc |
 | `9ZULZT` | Ingeniería en Computación | doc |
 | `V3HNZA` | Ingeniería en Computación | doc |
 | `TFX6ZG` | Ingeniería en Computación | doc |
@@ -349,6 +350,7 @@
 | `3LX4CZ` | Química | doc |
 | `QQPBAM` | Química | doc |
 | `HE4X2K` | Química | doc |
+| `DUZ6ZW` | Química | doc |
 | `KLVKPA` | Química de Alimentos | doc |
 | `G7J6WU` | Química de Alimentos | doc |
 | `U6P443` | Química de Alimentos | doc |
@@ -392,7 +394,6 @@
 | `C44NTV` | Bibliotecología y Estudios de la Información | doc |
 | `57EYLG` | Bibliotecología y Estudios de la Información | doc |
 | `M33DPN` | Administración de Archivos y Gestión Documental | doc |
-| `ZGKH37` | Administración de Archivos y Gestión Documental | doc |
 | `5DV4P9` | Filosofía | doc |
 | `9JURAL` | Filosofía | doc |
 | `KJFPHV` | Filosofía | doc |
@@ -503,7 +504,6 @@
 | `UWTZBJ` | Políticas y Administración Pública | doc |
 | `XH2446` | Políticas y Administración Pública | doc |
 | `ZTKJWR` | Políticas y Administración Pública | doc |
-| `JHCABD` | Políticas y Administración Pública | doc |
 | `YK4BPW` | Políticas y Administración Pública | doc |
 | `V7QEMW` | Políticas y Administración Pública | doc |
 | `PGPXPL` | Políticas y Administración Pública | doc |
@@ -625,7 +625,6 @@
 |---|---|---|
 | `QMDEAM` | Derecho | doc |
 | `CF4UBR` | Derecho | doc |
-| `UU6VPQ` | Derecho | doc |
 | `MFCF6H` | Derecho | doc |
 | `UFELAH` | Derecho | doc |
 | `JQZR96` | Derecho | doc |
@@ -641,6 +640,7 @@
 | `MJLUUU` | Derecho | doc |
 | `MTZ6TZ` | Derecho | doc |
 | `PV9QBS` | Derecho | doc |
+| `UU6VPQ` | Derecho | doc |
 | `232BCP` | Derecho | doc |
 | `GHCDJB` | Derecho | doc |
 | `CWY56V` | Derecho | doc |
@@ -666,6 +666,7 @@
 | `JPJXQW` | Derecho | doc |
 | `MJPW9K` | Derecho | doc |
 | `RVT6RY` | Derecho SUAYED | doc |
+| `9ASR8W` | Derecho SUAYED | doc |
 | `47BH5C` | Derecho SUAYED | doc |
 | `MJLUUU` | Derecho SUAYED | doc |
 | `74KTUS` | Derecho SUAYED | doc |
@@ -717,6 +718,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `2F4XDA` | Cirujano Dentista | doc |
 | `KJ6ZGE` | Cirujano Dentista | doc |
 | `QQN4JV` | Cirujano Dentista | doc |
 | `YSS7JK` | Cirujano Dentista | doc |
