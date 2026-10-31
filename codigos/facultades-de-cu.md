@@ -269,6 +269,7 @@
 | `S6K38H` | Neuro | doc |
 | `U7FQVT` | Neuro | doc |
 | `CSSVLE` | Neuro | doc |
+| `P9Q3RM` | Médico cirujano | comunidad |
 
 ## Facultad de Medicina Veterinaria y Zootecnia
 
