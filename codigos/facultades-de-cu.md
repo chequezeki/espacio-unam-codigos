@@ -91,6 +91,7 @@
 | `ZQ7D4T` | Ingeniería Aeroespacial | doc |
 | `CBEPWS` | Ingeniería Aeroespacial | doc |
 | `HR5TVK` | Ingeniería En Alimentos | doc |
+| `985XKC` | Ingeniería En Alimentos | doc |
 | `QZ35PS` | Ingeniería Ambiental | doc |
 | `4RTEPW` | Ingeniería Ambiental | doc |
 | `7QYUTX` | Ingeniería Ambiental | doc |
@@ -111,6 +112,7 @@
 | `V569QT` | Ingeniería Eléctrica y Electrónica | doc |
 | `WEP2HC` | Ingeniería Eléctrica y Electrónica | doc |
 | `3GML34` | Ingeniería Eléctrica y Electrónica | doc |
+| `VL4D8Y` | Ingeniería en Computación | doc |
 | `NZ5A8V` | Ingeniería en Computación | doc |
 | `9ZULZT` | Ingeniería en Computación | doc |
 | `V3HNZA` | Ingeniería en Computación | doc |
@@ -543,6 +545,7 @@
 | `HL67XM` | Administración | doc |
 | `FZC5EB` | Administración SUAYED a distancia | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
+| `DVW383` | Contaduría | doc |
 | `4TB6ZC` | Contaduría | doc |
 | `3C5MX2` | Contaduría | doc |
 | `N54J7V` | Contaduría | doc |
@@ -600,6 +603,7 @@
 | `G8ZWJ9` | Diseño y Comunicación Visual | doc |
 | `LR4WLT` | Diseño y Comunicación Visual | doc |
 | `CTKX8D` | Diseño y Comunicación Visual | doc |
+| `EC4755` | Diseño y Comunicación Visual | doc |
 | `CTKX8D` | Diseño y Comunicación Visual | comunidad |
 
 ## Facultad de Economía
@@ -687,6 +691,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `JSKV6D` | Psicología | doc |
 | `TJBK73` | Psicología | doc |
 | `76P6V4` | Psicología | doc |
 | `8EJFYT` | Psicología | doc |

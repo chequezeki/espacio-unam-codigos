@@ -12,6 +12,7 @@
 | `WNU5V3` | Geografía Aplicada | doc |
 | `FZCENF` | Geografía Aplicada | doc |
 | `8R5W24` | Geografía Aplicada | doc |
+| `QJ7RB6` | Geografía Aplicada | doc |
 
 ## Escuela Nacional de Ciencias Forenses
 

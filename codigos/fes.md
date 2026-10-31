@@ -276,6 +276,7 @@
 | `N3MF6K` | Química Industrial | doc |
 | `FTJ9YB` | Química Industrial | doc |
 | `HFAAS9` | Ingeniería En Alimentos | doc |
+| `985XKC` | Ingeniería En Alimentos | doc |
 | `47JVS9` | Ingeniería Agrícola 🌽 | doc |
 | `6U3VWW` | Ingeniería Agrícola 🌽 | doc |
 | `PYADLG` | Ingeniería Agrícola 🌽 | doc |

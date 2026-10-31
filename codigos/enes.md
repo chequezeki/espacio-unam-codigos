@@ -11,6 +11,7 @@
 | `ARWJMZ` | Administración Agropecuária | doc |
 | `SYGFBM` | Desarrollo territorial | doc |
 | `H8W2VQ` | Economía Industrial | doc |
+| `BASB5W` | Relaciones Internacionales SUA | doc |
 | `NLX7FH` | Turismo y Desarrollo Sostenible | doc |
 | `YG3PZF` | Turismo y Desarrollo Sostenible | doc |
 | `L92K5P` | Turismo y Desarrollo Sostenible | doc |
