@@ -25,6 +25,7 @@
 | `MTW6EY` | Alcántara | doc |
 | `J8LGHK` | Alcazar | doc |
 | `93H9J9` | Aldaz | doc |
+| `GMXC4A` | Alejo | doc |
 | `BBVWWW` | Almaguer | doc |
 | `8YFL8T` | Almaraz | doc |
 | `T952XQ` | Alonso | doc |
@@ -192,6 +193,7 @@
 | `9R45UR` | Cedeño | doc |
 | `H6RRFW` | Cedillo | doc |
 | `8Z733R` | Celis | doc |
+| `UYSLT3` | Cerón | doc |
 | `DGTEB4` | Cerón | doc |
 | `X3TE7F` | Cervantes | doc |
 | `TVPG8X` | Chantes | doc |
@@ -395,9 +397,9 @@
 | `9ZHNXC` | Guzmán6 | doc |
 | `WESCS2` | Guajardo | doc |
 | `8U98NS` | Guinto | doc |
+| `6QTNCX` | Hernandez | doc |
 | `Z42WRW` | Hernandez | doc |
 | `3LX4CZ` | Hernandez | doc |
-| `8EJFYT` | Hernandez | doc |
 | `B63GTY` | Hernandez | doc |
 | `FDSTL4` | Hernández | doc |
 | `H6U52K` | Hernández | doc |
@@ -573,6 +575,7 @@
 | `FFWLPX` | Mireles | doc |
 | `FNEAB4` | Misael | doc |
 | `YSS7JK` | Moctezuma | doc |
+| `6QTNCX` | Monroy | doc |
 | `MEYJA9` | Monroy | doc |
 | `K4Z8HD` | Montañez | doc |
 | `HW7HFN` | Montaño | doc |
@@ -891,6 +894,7 @@
 | `Q3BKGZ` | Uscanga | doc |
 | `NVA94H` | Urquiza | doc |
 | `3JSZ6E` | Urban | doc |
+| `UYSLT3` | Ureña | doc |
 | `Z85GPC` | Urzua | doc |
 | `GSKBMJ` | VÁZQUEZ | doc |
 | `QC4WVW` | Vázquez | doc |

@@ -6,8 +6,7 @@
 |---|---|---|
 | `CFLQMC` | # CÓDIGO CORRECTO | doc |
 | `6WSK45` | Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E | doc |
-| `4C7WHL` | AGREGAME POR FAVOR BACHILLERATO A DISTANCIA | doc |
-| `ZGKH37` | — | doc |
+| `4C7WHL` | — | doc |
 | `634MZ6` | Porfi agregueme alguien de bachillerato a distancia, aún nadie :( | doc |
 | `9ZULZT` | PORFAVOR AGREGAME BACHILLERATO A DISTANCIA | doc |
 | `E7MD3K` | — | doc |
@@ -62,7 +61,6 @@
 | `HGGMCD` | persona de bachillerato a distancia plis agregame, solo me falta esa medalla (y la de fin  | doc |
 | `VUMWSG` | Por favor ayudaaaa, agregarme por favor compañeros de bachillerato a distancia, solo puedo | doc |
 | `7Y9LVV` | — | doc |
-| `MJLUUU` | — | doc |
 | `8N24Z3` | — | doc |
 | `CJXNZG` | — | doc |
 | `KECG5J` | — | doc |

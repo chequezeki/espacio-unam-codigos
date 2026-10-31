@@ -19,7 +19,6 @@
 | `5DE3MV` | Arquitectura | doc |
 | `DEPQX9` | Arquitectura | doc |
 | `L4RHWU` | Ciencia de Datos | doc |
-| `ZGKH37` | Ciencia de Datos | doc |
 | `GAVUGY` | Ingeniería Civil | doc |
 | `7BATH7` | Ingeniería Civil | doc |
 | `9X7TGT` | Ingeniería Civil | doc |
@@ -54,6 +53,7 @@
 | `CY5CX8` | Derecho | doc |
 | `E92887` | Derecho | doc |
 | `XHYP6B` | Derecho | doc |
+| `62CSXD` | Derecho | doc |
 | `MP7Y6M` | Derecho sua | doc |
 | `6S9FH3` | Derecho sua | doc |
 | `PTHAMJ` | Economía | doc |
@@ -70,7 +70,6 @@
 | `46Q2KK` | Sociología | doc |
 | `7UHFHJ` | Sociología | doc |
 | `XT3Z2W` | Sociología | doc |
-| `88RTJY` | Sociología | doc |
 | `SPN24H` | Sociología | doc |
 | `WW36CR` | Sociología | doc |
 | `BAK93R` | Diseño Gráfico | doc |
@@ -86,7 +85,6 @@
 | `EDWUCZ` | Enseñanza de Español como Lengua Extranjera | doc |
 | `4QQA2Z` | Enseñanza de Español como Lengua Extranjera | doc |
 | `SXFJVK` | Enseñanza de Italiano | doc |
-| `ZGKH37` | Enseñanza de Italiano | doc |
 | `3FWPDJ` | Enseñanza de ingles | doc |
 | `GM2S6V` | Enseñanza de ingles | doc |
 | `LGRZ65` | Enseñanza de ingles | doc |
@@ -147,6 +145,7 @@
 | `GAVUGY` | Ingeniería Civil | doc |
 | `GR5YLN` | Ingeniería Civil | doc |
 | `QLNMF5` | Ingeniería Civil | doc |
+| `R7ZS2S` | Ingeniería Civil | doc |
 | `GTTYS2` | Ingeniería Eléctrica y Electrónica | doc |
 | `XTGNQB` | Ingeniería Eléctrica y Electrónica | doc |
 | `LKAE3D` | Ingeniería Eléctrica y Electrónica | doc |
@@ -203,7 +202,6 @@
 | `2UAYY2` | Relaciones Internacionales | doc |
 | `3PPWQ5` | Relaciones Internacionales | doc |
 | `B32HHM` | Sociología | doc |
-| `ZGKH37` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |
 | `27YHVB` | Derecho Sua | doc |
 | `7V7782` | Derecho Sua | doc |
@@ -219,16 +217,14 @@
 | `4DB2PC` | Administración | doc |
 | `C24B7W` | Conta | doc |
 | `W3FLD6` | Artes Visuales | doc |
-| `ZGKH37` | Artes Visuales | doc |
 | `NZV72B` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `W2CA3T` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `GTYWRN` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `DL95TY` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `M7PS49` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `M8PN5M` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
-| `9QDPTW` | — | doc |
+| `9QDPTW` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `K4RNJH` | Ingeniería Industrial | doc |
-| `ZGKH37` | Ingeniería Industrial | doc |
 | `VPRKQA` | Diseño y Visual | doc |
 | `3W5HLK` | Diseño y Visual | doc |
 | `AV5UAQ` | Diseño y Visual | doc |
@@ -267,7 +263,6 @@
 | `P8AEN8` | Bioquímica Diagnóstica | doc |
 | `WNP6JM` | Bioquímica Diagnóstica | doc |
 | `GVT6M9` | Bioquímica Diagnóstica | doc |
-| `ZGKH37` | Bioquímica Diagnóstica | doc |
 | `WNYKCD` | Ingeniería química | doc |
 | `8HVPLY` | Ingeniería química | doc |
 | `DQ5KTT` | Ingeniería química | doc |
@@ -283,7 +278,6 @@
 | `N3MF6K` | Química Industrial | doc |
 | `FTJ9YB` | Química Industrial | doc |
 | `HFAAS9` | Ingeniería En Alimentos | doc |
-| `ZGKH37` | Ingeniería En Alimentos | doc |
 | `47JVS9` | Ingeniería Agrícola 🌽 | doc |
 | `6U3VWW` | Ingeniería Agrícola 🌽 | doc |
 | `PYADLG` | Ingeniería Agrícola 🌽 | doc |
@@ -296,7 +290,6 @@
 | `CQ4TYX` | Informática | doc |
 | `VW5TB8` | Informática | doc |
 | `GKBNW8` | Comunicación gráfica | doc |
-| `ZGKH37` | Comunicación gráfica | doc |
 | `3BYYCV` | Medicina Veterinaria Y Zootecnia. Gonzalez. Salma. 3 diciembre | comunidad |
 
 ## FES Iztacala
@@ -309,7 +302,6 @@
 | `8VA22G` | Medicina | doc |
 | `Y6352H` | Medicina | doc |
 | `YU7DW5` | Ecología | doc |
-| `ZGKH37` | Ecología | doc |
 | `Q2KLU8` | Biología | doc |
 | `A28B7B` | Biología | doc |
 | `49ACHB` | Biología | doc |
@@ -335,6 +327,8 @@
 | `2M7NP7` | Médico Cirujano | doc |
 | `HENQS4` | Cirujano Dentista | doc |
 | `74JVX7` | Cirujano Dentista | doc |
+| `8KTVEE` | Cirujano Dentista | doc |
+| `MEB379` | Cirujano Dentista | doc |
 | `JKTGSW` | Optometría | doc |
 | `H8CZP8` | Optometría | doc |
 | `PZ3X8E` | Optometría | doc |

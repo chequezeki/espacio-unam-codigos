@@ -6,7 +6,6 @@
 |---|---|---|
 | `CFLQMC` | Bachillerato a distancia | doc |
 | `N3APR4` | Ciencias Agroforestales / ENES Morelia | doc |
-| `ZGKH37` | Ciencias Agroforestales / ENES Morelia | doc |
 | `9UXLAZ` | Enseñanza de Francés como Lengua Extranjera / FES ACATLÁN | doc |
 | `TVPG8X` | Enseñanza de Francés como Lengua Extranjera / FES ACATLÁN | doc |
 | `JE8MNE` | Enseñanza de Inglés como Lengua Extranjera / FES ACATLÁN | doc |

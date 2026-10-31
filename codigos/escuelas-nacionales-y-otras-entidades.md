@@ -34,7 +34,6 @@
 | `S64AYZ` | Ciencia de Datos | doc |
 | `L4RHWU` | Ciencia de Datos | doc |
 | `9K99R3` | Matemáticas Aplicadas | doc |
-| `ZGKH37` | Matemáticas Aplicadas | doc |
 | `JFFLLG` | Cinematografía | doc |
 | `XCWUT3` | Cinematografía | doc |
 
@@ -43,6 +42,8 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `TF5R49` | Traducción | doc |
+| `UBXD7M` | Traducción | doc |
+| `ABHZXJ` | Traducción | doc |
 | `7JA7UX` | Lingüística Aplicada | doc |
 | `KSQA7Y` | Lingüística Aplicada | doc |
 | `LH2NV7` | Lingüística Aplicada | doc |
@@ -56,7 +57,7 @@
 |---|---|---|
 | `CH2DGW` | Tecnología | doc |
 
-## Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia
+## x2
 
 | Código | Etiqueta | Origen |
 |---|---|---|

@@ -12,3 +12,4 @@
 | `JUG4D4` | Para esa movida maestra que nadie vio venir: hasta un peón puede llegar al otro lado del t | doc |
 | `4T3N34` | Para Atenea, la diosa de la sabiduría que es el emblema de la Facultad de Filosofía y Letr | doc |
 | `Z2PFT2` | Para los creadores más importantes de Espacio UNAM, llevas más de 100 medallas y aún no id | doc |
+| `ZH8RDP` | Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple años de verdad u | doc |

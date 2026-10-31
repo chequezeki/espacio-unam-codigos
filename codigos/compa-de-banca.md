@@ -21,6 +21,7 @@
 | `V6ZKQ8` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán SUAYED 2025 | doc |
 | `3EADS3` | DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024 | doc |
 | `AUB6XJ` | DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024 | doc |
+| `VKR49Z` | HISTORIA / FES Acatlán 2026 | doc |
 | `JAJAFK` | PSICOLOGÍA/Facultad de Estudios Superiores Iztacala / 2024 | doc |
 | `2G5REG` | PSICOLOGÍA SUAyED /Facultad de Estudios Superiores Iztacala / 2024 | doc |
 | `A9U467` | BIOLOGÍA/FACULTAD DE ESTUDIOS SUPERIORES IZTACALA/2019 | doc |
@@ -112,6 +113,7 @@
 | `HE4X2K` | Química/CU/2026 | doc |
 | `MHLNQF` | Química/ CU/ 2027 | doc |
 | `GA7BM5` | Químico Farmacológico biológico/FQ/2021 | doc |
+| `6QTNCX` | Químico Farmacológico biológico/FQ/2022 | doc |
 | `S8LNQW` | Químico Farmacológico biológico/FQ/2023 | doc |
 | `9TSJ9S` | CONTADURÍA / FES Cuautitlan / 2027 | doc |
 | `Z8V7GJ` | /Suayed a distancia 2024 | doc |
@@ -170,6 +172,7 @@
 | `NQYJ5W` | Ingeniería Mecánica FES Aragón | doc |
 | `6DT6SY` | 2027 | doc |
 | `PZBGYV` | 2024 | doc |
+| `W9THGT` | 2025 | doc |
 | `4VP5BY` | Ingeniería de Minas FI 2015 | doc |
 | `M7PS49` | Ingeniería en Telecomunicaciones, Sistemas y Electrónica FESC | doc |
 | `NZV72B` | (2019) | doc |
@@ -179,7 +182,6 @@
 | `QC4WVW` | Literatura dramática y teatro, Facultad de filosofía (2023) | doc |
 | `XTEKTV` | Geografía (escolarizado, generación 2024) | doc |
 | `Z9D3BT` | 2023 | doc |
-| `ZGKH37` | 2023 | doc |
 | `T7XCPM` | 2026 | doc |
 | `5KDYK6` | PEDAGOGÍA/ GEN 2026 | doc |
 | `YJ3MH8` | che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi | doc |

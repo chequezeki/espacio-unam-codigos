@@ -7,6 +7,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `DD8TMC` | Actuaría | doc |
+| `GMXC4A` | Actuaría | doc |
 | `A855UZ` | Actuaría | doc |
 | `7YEAR9` | Actuaría | doc |
 | `SAKNLC` | Actuaría | doc |
@@ -19,6 +20,7 @@
 | `CJXGS2` | Actuaría | doc |
 | `W3AQ9D` | Actuaría | doc |
 | `XJE3HZ` | Actuaría | doc |
+| `J7PAEG` | Actuaría | doc |
 | `G4HDC9` | Biología | doc |
 | `VUMWSG` | Biología | doc |
 | `4SPRWY` | Biología | doc |
@@ -74,7 +76,6 @@
 | `4A4LJJ` | Matemáticas Aplicadas | doc |
 | `KDTKR8` | Matemáticas Aplicadas | doc |
 | `UU7ANV` | Matemáticas para el desarrollo | doc |
-| `ZGKH37` | Matemáticas para el desarrollo | doc |
 
 ## Facultad de Ingeniería
 
@@ -89,7 +90,6 @@
 | `ZQ7D4T` | Ingeniería Aeroespacial | doc |
 | `CBEPWS` | Ingeniería Aeroespacial | doc |
 | `HR5TVK` | Ingeniería En Alimentos | doc |
-| `ZGKH37` | Ingeniería En Alimentos | doc |
 | `QZ35PS` | Ingeniería Ambiental | doc |
 | `4RTEPW` | Ingeniería Ambiental | doc |
 | `7QYUTX` | Ingeniería Ambiental | doc |
@@ -175,13 +175,13 @@
 | `SGHGQT` | Ingeniería Mecatrónica | doc |
 | `XM2G45` | Ingeniería Mecatrónica | doc |
 | `MWZVDU` | Ingeniería Mecatrónica | doc |
+| `QVC32M` | Ingeniería Petrolera | doc |
 | `T8N7E2` | Ingeniería Petrolera | doc |
 | `H5G2EY` | Ingeniería Petrolera | doc |
 | `DSN67E` | Ingeniería Petrolera | doc |
 | `CGEFS2` | Ingeniería Petrolera | doc |
 | `55VVA9` | Ingeniería Petrolera | doc |
 | `8T2H42` | ## Ingeniería topográfica y geodésica | doc |
-| `ZGKH37` | ## Ingeniería topográfica y geodésica | doc |
 | `9BCKYJ` | Ingeniería eléctrica y electrónica; Marco Tulio; Torres; 25; 2020 | comunidad |
 
 ## Facultad de Arquitectura
@@ -315,14 +315,12 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `DY74DM` | Educación Musical | doc |
-| `ZGKH37` | Educación Musical | doc |
 | `V32CE5` | Etnomusicología | doc |
 | `EBTE6Q` | Musica - instrumentista | doc |
 | `VPDHVT` | Musica - instrumentista | doc |
 | `E5JSKA` | Música - composición | doc |
 | `F7CFRK` | Música - canto | doc |
 | `YBN3XW` | Música - piano | doc |
-| `ZGKH37` | Música - piano | doc |
 | `5VSKLQ` | Música · Música y Tecnología Artistica | doc |
 
 ## Facultad de Química
@@ -365,16 +363,12 @@
 | `4R4MNQ` | Química de Alimentos | doc |
 | `AWFUWK` | Química e Ingeniería en Materiales | doc |
 | `QE4UEL` | Química e Ingeniería en Materiales | doc |
+| `6QTNCX` | Química Farmacéutico Biológica | doc |
 | `PA7FWF` | Química Farmacéutico Biológica | doc |
 | `X82MPH` | Química Farmacéutico Biológica | doc |
 | `BD452P` | Química Farmacéutico Biológica | doc |
 | `MXM4V3` | Química Farmacéutico Biológica | doc |
-| `H9L5AJ` | Química Farmacéutico Biológica | doc |
-| `FZ33SX` | Química Farmacéutico Biológica | doc |
-| `S8LNQW` | Química Farmacéutico Biológica | doc |
-| `P5TDP6` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
-| `ZGKH37` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
 | `VTPBQ4` | Trabajo Social | doc |
@@ -423,7 +417,6 @@
 | `XEMANH` | Lengua y Literaturas Modernas Francesas | doc |
 | `H47GVV` | Lengua y Literaturas Modernas Francesas | doc |
 | `DBT5GV` | Lengua y Literaturas Modernas Alemanas | doc |
-| `ZGKH37` | Lengua y Literaturas Modernas Alemanas | doc |
 | `MZZQ3K` | Lengua y Literaturas Modernas Inglesas | doc |
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |
 | `5GBMQ7` | Lengua y Literaturas Modernas Italianas | doc |
@@ -435,6 +428,7 @@
 | `FUEQZD` | Literatura Dramática y Teatro | doc |
 | `BU4DMD` | Literatura Dramática y Teatro | doc |
 | `QC4WVW` | Literatura Dramática y Teatro | doc |
+| `UYSLT3` | Literatura Dramática y Teatro | doc |
 | `AXBZDR` | Pedagogía | doc |
 | `QGZ72B` | Pedagogía | doc |
 | `6TBAMV` | Pedagogía | doc |
@@ -549,8 +543,8 @@
 | `HL67XM` | Administración | doc |
 | `FZC5EB` | Administración SUAYED a distancia | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
-| `3C5MX2` | Contaduría | doc |
 | `4TB6ZC` | Contaduría | doc |
+| `3C5MX2` | Contaduría | doc |
 | `N54J7V` | Contaduría | doc |
 | `ZMY6X9` | Contaduría | doc |
 | `ZG27YE` | Contaduría | doc |
@@ -679,7 +673,6 @@
 | `RVT6RY` | Derecho SUAYED | doc |
 | `9ASR8W` | Derecho SUAYED | doc |
 | `47BH5C` | Derecho SUAYED | doc |
-| `MJLUUU` | Derecho SUAYED | doc |
 | `74KTUS` | Derecho SUAYED | doc |
 | `7UGZTJ` | Derecho SUAYED | doc |
 | `UU6VPQ` | Derecho SUAYED | doc |

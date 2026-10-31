@@ -54,6 +54,7 @@
 | `ZTAQVJ` | ENERO | doc |
 | `8NZHFL` | ENERO | doc |
 | `YY4XRF` | ENERO | doc |
+| `6QTNCX` | ENERO | doc |
 | `6CRCR2` | FEBRERO | doc |
 | `GTTYS2` | FEBRERO | doc |
 | `GFE3DQ` | FEBRERO | doc |
@@ -207,6 +208,7 @@
 | `4QSM4X` | JUNIO | doc |
 | `7M3MNC` | JUNIO | doc |
 | `L5GPBK` | JUNIO | doc |
+| `GMXC4A` | JUNIO | doc |
 | `3LX4CZ` | JUNIO | doc |
 | `5WL3J2` | JUNIO | doc |
 | `P8AEN8` | JUNIO | doc |
@@ -440,6 +442,7 @@
 | `P8E4PW` | DICIEMBRE | doc |
 | `TAZL6P` | DICIEMBRE | doc |
 | `MGQ845` | DICIEMBRE | doc |
+| `VKR49Z` | DICIEMBRE | doc |
 | `9DT7WG` | DICIEMBRE | doc |
 | `VU4EAW` | DICIEMBRE | doc |
 | `M8MRDM` | DICIEMBRE | doc |
@@ -489,13 +492,14 @@
 | `KVMVNM` | Baja California Sur | doc |
 | `BKY7PY` | Baja California | doc |
 | `J5HYY2` | Baja California | doc |
-| `ZUH73Z` | Campeche: SMB PQF | doc |
+| `SMBPQF` | Campeche | doc |
+| `ZUH73Z` | Campeche | doc |
 | `XZXA2V` | Chiapas | doc |
 | `JUBN3N` | Chiapas | doc |
 | `W7AHQ2` | Chiapas | doc |
 | `YTGL83` | Chiapas | doc |
 | `R6TE6Q` | Chihuahua | doc |
-| `WWTRWU` | Ciudad de México | doc |
+| `4TB6ZC` | Ciudad de México | doc |
 | `4C7WHL` | Ciudad de México | doc |
 | `CF4UBR` | Ciudad de México | doc |
 | `5D4C6P` | Ciudad de México | doc |
@@ -540,6 +544,7 @@
 | `UU6VPQ` | Ciudad de México | doc |
 | `LX6WZD` | Ciudad de México | doc |
 | `57EYLG` | Ciudad de México | doc |
+| `GMXC4A` | Ciudad de México | doc |
 | `8R5W24` | Ciudad de México | doc |
 | `KBH4QN` | Ciudad de México | doc |
 | `95Y7HN` | Ciudad de México | doc |
@@ -601,7 +606,8 @@
 | `PA7FWF` | Guerrero | doc |
 | `M33WL2` | Guerrero | doc |
 | `ACZ97F` | Guerrero | doc |
-| `Z7V2DL` | 9MSMM | doc |
+| `9MS8MM` | Guerrero | doc |
+| `Z7V2DL` | Guerrero | doc |
 | `3C5MX2` | Hidalgo | doc |
 | `FZC5EB` | Hidalgo | doc |
 | `NWB7JG` | Hidalgo | doc |
