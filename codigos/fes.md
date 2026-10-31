@@ -417,10 +417,10 @@
 | `9SXR95` | Ingeniería Química | doc |
 | `742NB2` | Ingeniería Química | doc |
 | `AC6R6Z` | Ingeniería Química | doc |
-| `KQTXQ3` | Nutrióloga | doc |
-| `EQYUEB` | Nutrióloga | doc |
-| `K9BYHX` | Nutrióloga | doc |
-| `PPXSFF` | Nutrióloga | doc |
+| `KQTXQ3` | Nutriología | doc |
+| `EQYUEB` | Nutriología | doc |
+| `K9BYHX` | Nutriología | doc |
+| `PPXSFF` | Nutriología | doc |
 | `WLW4WT` | Química Farmacéutica Biológica | doc |
 | `ZY78VD` | Química Farmacéutica Biológica | doc |
 | `AL6N8L` | Química Farmacéutica Biológica | doc |

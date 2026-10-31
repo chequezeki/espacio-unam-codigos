@@ -145,6 +145,7 @@
 | `6YPU7Z` | Ingeniería Geofísica | doc |
 | `EZ55XC` | Ingeniería Geofísica | doc |
 | `TVSXD8` | Ingeniería Geológica | doc |
+| `MKKV83` | Ingeniería Geológica | doc |
 | `YG7BHR` | Ingeniería Geológica | doc |
 | `ETW2ZZ` | Ingeniería Geomática | doc |
 | `3A7PQZ` | Ingeniería Geomática | doc |
@@ -546,6 +547,7 @@
 | `VBDF4E` | Administración | doc |
 | `FFWLPX` | Administración | doc |
 | `HL67XM` | Administración | doc |
+| `FZC5EB` | Administración SUAYED a distancia | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
 | `3C5MX2` | Contaduría | doc |
 | `4TB6ZC` | Contaduría | doc |
@@ -602,6 +604,7 @@
 | `SL5VWW` | Diseño y Comunicación Visual | doc |
 | `G8ZWJ9` | Diseño y Comunicación Visual | doc |
 | `LR4WLT` | Diseño y Comunicación Visual | doc |
+| `CTKX8D` | Diseño y Comunicación Visual | doc |
 | `CTKX8D` | Diseño y Comunicación Visual | comunidad |
 
 ## Facultad de Economía
@@ -625,6 +628,7 @@
 | `42DDXA` | Economia SUAyED | doc |
 | `AGLLPJ` | Economia SUAyED | doc |
 | `4G7JK7` | Economia SUAyED | doc |
+| `J6VTDU` | Economia SUAyED | doc |
 
 ## Facultad de Derecho
 

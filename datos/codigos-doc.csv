@@ -610,10 +610,10 @@ FADDM5,FES,FES Zaragoza,Ingeniería Química
 9SXR95,FES,FES Zaragoza,Ingeniería Química
 742NB2,FES,FES Zaragoza,Ingeniería Química
 AC6R6Z,FES,FES Zaragoza,Ingeniería Química
-KQTXQ3,FES,FES Zaragoza,Nutrióloga
-EQYUEB,FES,FES Zaragoza,Nutrióloga
-K9BYHX,FES,FES Zaragoza,Nutrióloga
-PPXSFF,FES,FES Zaragoza,Nutrióloga
+KQTXQ3,FES,FES Zaragoza,Nutriología
+EQYUEB,FES,FES Zaragoza,Nutriología
+K9BYHX,FES,FES Zaragoza,Nutriología
+PPXSFF,FES,FES Zaragoza,Nutriología
 WLW4WT,FES,FES Zaragoza,Química Farmacéutica Biológica
 ZY78VD,FES,FES Zaragoza,Química Farmacéutica Biológica
 AL6N8L,FES,FES Zaragoza,Química Farmacéutica Biológica
@@ -759,6 +759,7 @@ EHKDLJ,Facultades de CU,Facultad de Ingeniería,Ingeniería Geofísica
 6YPU7Z,Facultades de CU,Facultad de Ingeniería,Ingeniería Geofísica
 EZ55XC,Facultades de CU,Facultad de Ingeniería,Ingeniería Geofísica
 TVSXD8,Facultades de CU,Facultad de Ingeniería,Ingeniería Geológica
+MKKV83,Facultades de CU,Facultad de Ingeniería,Ingeniería Geológica
 YG7BHR,Facultades de CU,Facultad de Ingeniería,Ingeniería Geológica
 ETW2ZZ,Facultades de CU,Facultad de Ingeniería,Ingeniería Geomática
 3A7PQZ,Facultades de CU,Facultad de Ingeniería,Ingeniería Geomática
@@ -1118,6 +1119,7 @@ P3ZRE5,Facultades de CU,Facultad de Ciencias Políticas y Sociales,Ciencias de l
 VBDF4E,Facultades de CU,Facultad de Contaduría y Administración,Administración
 FFWLPX,Facultades de CU,Facultad de Contaduría y Administración,Administración
 HL67XM,Facultades de CU,Facultad de Contaduría y Administración,Administración
+FZC5EB,Facultades de CU,Facultad de Contaduría y Administración,Administración SUAYED a distancia
 UVJ83P,Facultades de CU,Facultad de Contaduría y Administración,Administración SUAYED a distancia
 3C5MX2,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
 4TB6ZC,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
@@ -1169,6 +1171,7 @@ Z68CTF,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visu
 SL5VWW,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visual
 G8ZWJ9,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visual
 LR4WLT,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visual
+CTKX8D,Facultades de CU,Facultad de Artes y Diseño,Diseño y Comunicación Visual
 DRVR87,Facultades de CU,Facultad de Economía,Economía
 7M3MNC,Facultades de CU,Facultad de Economía,Economía
 JUBN3N,Facultades de CU,Facultad de Economía,Economía
@@ -1186,6 +1189,7 @@ BHXKZL,Facultades de CU,Facultad de Economía,Economia SUAyED
 42DDXA,Facultades de CU,Facultad de Economía,Economia SUAyED
 AGLLPJ,Facultades de CU,Facultad de Economía,Economia SUAyED
 4G7JK7,Facultades de CU,Facultad de Economía,Economia SUAyED
+J6VTDU,Facultades de CU,Facultad de Economía,Economia SUAyED
 QMDEAM,Facultades de CU,Facultad de Derecho,Derecho
 CF4UBR,Facultades de CU,Facultad de Derecho,Derecho
 MFCF6H,Facultades de CU,Facultad de Derecho,Derecho
@@ -1737,6 +1741,7 @@ BBVWWW,Casi familia,,Jácome
 DEUE26,Casi familia,,Jacobo
 YATFRA,Casi familia,,Jaimez
 VVXVRV,Casi familia,,Jahuey
+J6VTDU,Casi familia,,Janetzy
 HDUHXC,Casi familia,,Jarillo
 H8MKFQ,Casi familia,,Jeronim
 7NSF65,Casi familia,,Juárez
@@ -2657,6 +2662,7 @@ ZAX4D8,Pastel compartido,,OCTUBRE
 LH9W8W,Pastel compartido,,OCTUBRE
 7GW9UE,Pastel compartido,,OCTUBRE
 77S9EC,Pastel compartido,,OCTUBRE
+NZZ4RS,Pastel compartido,,OCTUBRE
 2K9FK5,Pastel compartido,,NOVIEMBRE
 CBU3CE,Pastel compartido,,NOVIEMBRE
 JL85MQ,Pastel compartido,,NOVIEMBRE
@@ -2699,6 +2705,7 @@ VG39JT,Pastel compartido,,NOVIEMBRE
 6MURMS,Pastel compartido,,NOVIEMBRE
 3EADS3,Pastel compartido,,NOVIEMBRE
 T7XCPM,Pastel compartido,,NOVIEMBRE
+J6VTDU,Pastel compartido,,NOVIEMBRE
 RGUKR3,Pastel compartido,,DICIEMBRE
 Y6352H,Pastel compartido,,DICIEMBRE
 UU6VPQ,Pastel compartido,,DICIEMBRE
@@ -2763,6 +2770,7 @@ JUBN3N,Pastel compartido,,Chiapas
 W7AHQ2,Pastel compartido,,Chiapas
 YTGL83,Pastel compartido,,Chiapas
 R6TE6Q,Pastel compartido,,Chihuahua
+WWTRWU,Pastel compartido,,Ciudad de México
 4C7WHL,Pastel compartido,,Ciudad de México
 CF4UBR,Pastel compartido,,Ciudad de México
 5D4C6P,Pastel compartido,,Ciudad de México
@@ -2812,6 +2820,7 @@ KBH4QN,Pastel compartido,,Ciudad de México
 95Y7HN,Pastel compartido,,Ciudad de México
 MJPW9K,Pastel compartido,,Ciudad de México
 T7XCPM,Pastel compartido,,Ciudad de México
+J6VTDU,Pastel compartido,,Ciudad de México
 Y2S7KV,Pastel compartido,,Coahuila
 79U7RY,Pastel compartido,,Colima
 9ASR8W,Pastel compartido,,Durango
@@ -2852,6 +2861,7 @@ AARUZQ,Pastel compartido,,Estado de México
 8GHZQ5,Pastel compartido,,Estado de México
 92B2W3,Pastel compartido,,Estado de México
 82H488,Pastel compartido,,Estado de México
+WWTRWU,Pastel compartido,,Estado de México
 2AVJJ6,Pastel compartido,,Estado de México
 WJH8ME,Pastel compartido,,Estado de México
 ZAX4D8,Pastel compartido,,Estado de México
@@ -3061,6 +3071,7 @@ D9AFJL,Casi gemelos,Marzo,26
 Q3Q9LU,Casi gemelos,Marzo,26
 ZQ7D4T,Casi gemelos,Marzo,27
 KHMXB9,Casi gemelos,Marzo,27
+MKKV83,Casi gemelos,Marzo,28
 HL67XM,Casi gemelos,Marzo,30
 ARFY59,Casi gemelos,Marzo,30
 JMR2JU,Casi gemelos,Marzo,2
@@ -3234,6 +3245,7 @@ XUY2U6,Casi gemelos,Marzo,3
 ESN8G3,Casi gemelos,Marzo,5
 8C9ST8,Casi gemelos,Marzo,6
 FSZLZC,Casi gemelos,Marzo,6
+NZZ4RS,Casi gemelos,Marzo,6
 SEDAKG,Casi gemelos,Marzo,7
 M33WL2,Casi gemelos,Marzo,8
 77S9EC,Casi gemelos,Marzo,8
@@ -3264,7 +3276,8 @@ PYR8SK,Casi gemelos,Marzo,28
 YDQP49,Casi gemelos,Marzo,29
 XFX8U7,Casi gemelos,Marzo,30
 HUA7PR,Casi gemelos,Marzo,31
-Y2SM92,Casi gemelos,Marzo,1
+JL85MQ,Casi gemelos,Marzo,1
+Y2SM92,Casi gemelos,Marzo,2
 T7XCPM,Casi gemelos,Marzo,3
 WNYKCD,Casi gemelos,Marzo,4
 CBU3CE,Casi gemelos,Marzo,4
@@ -3296,6 +3309,7 @@ MAC4X6,Casi gemelos,Marzo,26
 6MURMS,Casi gemelos,Marzo,26
 NYKVFQ,Casi gemelos,Marzo,27
 9GNVRV,Casi gemelos,Marzo,28
+J6VTDU,Casi gemelos,Marzo,28
 YFV6LU,Casi gemelos,Marzo,30
 GD53DM,Casi gemelos,Marzo,1
 27YHVB,Casi gemelos,Marzo,2
