@@ -873,6 +873,7 @@
 | `KNFKMV` | Sarahi | doc |
 | `2UZB9F` | Sarai | doc |
 | `PMXRXP` | Saul | doc |
+| `9RDDKY` | Saul | doc |
 | `93H9J9` | Sayid | doc |
 | `SKBZDL` | Sayra | doc |
 | `XTEKTV` | Scarlett | doc |
@@ -885,6 +886,7 @@
 | `V2XP99` | Sergio | doc |
 | `Q25JJU` | Sergio | doc |
 | `XPQ7SN` | Sergio | doc |
+| `9RDDKY` | Shania | doc |
 | `8RYZLX` | Shania | doc |
 | `P8AEN8` | Sharon | doc |
 | `F5TN2H` | Sharon | doc |
@@ -919,6 +921,7 @@
 | `FENCHJ` | Valeria | doc |
 | `FUEQZD` | Valentina | doc |
 | `BGBH9J` | Vanessa | doc |
+| `XBR3NR` | Vanessa | doc |
 | `T2MUUG` | Vanesa | doc |
 | `9G29YH` | Vania | doc |
 | `W3YVLV` | Velvet | doc |

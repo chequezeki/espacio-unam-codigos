@@ -227,7 +227,6 @@
 | `XT2GKJ` | Cortés | doc |
 | `QWGP83` | Cortez | doc |
 | `3BP4QB` | Covarrubias | doc |
-| `H388MB` | Contreras | doc |
 | `W3ZPUK` | Contreras | doc |
 | `VBDF4E` | FKWYFdZ | doc |
 | `E7METL` | FKWYFdZ | doc |
@@ -241,6 +240,7 @@
 | `GCZY6P` | Danna | doc |
 | `3LX4CZ` | De La Cruz | doc |
 | `DQ7HBE` | De La Cruz | doc |
+| `XCWUT3` | De la Paz | doc |
 | `6JGSCT` | De La Torre | doc |
 | `Z7YS6K` | De la Rosa | doc |
 | `ZUW2TP` | De la Vega | doc |
@@ -451,6 +451,7 @@
 | `ZAX4D8` | Landeros | doc |
 | `QR4PLZ` | Lara | doc |
 | `Z5KZQ5` | Larios | doc |
+| `4BDJKK` | Laureano | doc |
 | `YXVL5Z` | Lazaro | doc |
 | `CCQBM9` | Lazo | doc |
 | `3BGX9A` | Laydes | doc |
@@ -705,6 +706,7 @@
 | `WALUUQ` | Piedra | doc |
 | `ULFNRU` | Pineda | doc |
 | `7LX92Y` | Pinto | doc |
+| `JNYG3R` | Piña | doc |
 | `BP8YXK` | Piñón | doc |
 | `W8LHZL` | Pimentel | doc |
 | `BSGVLY` | Portillo | doc |
@@ -777,6 +779,7 @@
 | `PXH6BE` | Rodríguez | doc |
 | `KBH4QN` | Rodríguez | doc |
 | `YY4XRF` | Rodríguez | doc |
+| `XBR3NR` | Rodríguez | doc |
 | `QXN8JQ` | Rojas | doc |
 | `FZTJCT` | Rojas | doc |
 | `KMKJZT` | Rojas | doc |

@@ -203,7 +203,6 @@
 | `3PPWQ5` | Relaciones Internacionales | doc |
 | `B32HHM` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |
-| `27YHVB` | Derecho Sua | doc |
 | `7V7782` | Derecho Sua | doc |
 | `H388MB` | Derecho Sua | doc |
 
@@ -268,7 +267,6 @@
 | `DQ5KTT` | Ingeniería química | doc |
 | `J5NJ47` | Ingeniería química | doc |
 | `ME6AAR` | Ingeniería química | doc |
-| `88RTJY` | Ingeniería química | doc |
 | `D99CEH` | Ingeniería química | doc |
 | `XAYS2Y` | Ingeniería química | doc |
 | `3C99SZ` | Farmacia | doc |
@@ -360,6 +358,7 @@
 | `QXYCDC` | Psicología SUAyED | doc |
 | `2G5REG` | Psicología SUAyED | doc |
 | `URT7XH` | Psicología SUAyED | doc |
+| `8EJFYT` | Psicología SUAyED | doc |
 | `5HKD89` | Biología | comunidad |
 
 ## FES Zaragoza

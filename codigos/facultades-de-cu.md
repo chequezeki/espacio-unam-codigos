@@ -25,7 +25,6 @@
 | `VUMWSG` | Biología | doc |
 | `4SPRWY` | Biología | doc |
 | `C77D29` | Biología | doc |
-| `Q2KLU8` | Biología | doc |
 | `6G9NY5` | Biología | doc |
 | `ATAT6C` | Biología | doc |
 | `5H874P` | Biología | doc |
@@ -33,6 +32,7 @@
 | `ABK4DC` | Biología | doc |
 | `H4CMXL` | Biología | doc |
 | `XLB7Z2` | Biología | doc |
+| `659JAD` | Biología | doc |
 | `AKASBM` | Ciencias de la Computación | doc |
 | `C5WC8U` | Ciencias de la Computación | doc |
 | `YBCTES` | Ciencias de la Computación | doc |
@@ -53,6 +53,7 @@
 | `NYSCU3` | Física | doc |
 | `3BQQCQ` | Física | doc |
 | `367Y2Q` | Física | doc |
+| `XBR3NR` | Física | doc |
 | `4EVPB3` | Física Biomédica | doc |
 | `6JPQ4R` | Física Biomédica | doc |
 | `GC6HKG` | Física Biomédica | doc |
@@ -228,7 +229,6 @@
 | `KB2U7B` | Ciencia de la Nutrición Humana | doc |
 | `LRYEUK` | Fisioterapia | doc |
 | `3TGEAC` | Fisioterapia | doc |
-| `H388MB` | Fisioterapia | doc |
 | `G9HCLW` | Fisioterapia | doc |
 | `UB6DHX` | Fisioterapia | doc |
 | `YB7DRB` | Investigación Biomédica Básica | doc |
@@ -302,7 +302,6 @@
 | `SFS8D8` | Enfermería | doc |
 | `ZAFCPW` | Enfermería | doc |
 | `AMPZ69` | Enfermería | doc |
-| `H388MB` | Enfermería | doc |
 | `DW7V8V` | Enfermería | doc |
 | `6A43KN` | Enfermería | doc |
 | `2HGZPR` | Enfermería | doc |
@@ -403,7 +402,7 @@
 | `H6F4BA` | Geografía | doc |
 | `G4K6JE` | Geografía | doc |
 | `VNMPZ9` | Lengua y Literaturas Hispánicas | doc |
-| `EHX8WQ` | Lengua y Literaturas Hispánicas | doc |
+| `DUZ6ZW` | Lengua y Literaturas Hispánicas | doc |
 | `2B9BEB` | Lengua y Literaturas Hispánicas | doc |
 | `MD2YTA` | Lengua y Literaturas Hispánicas | doc |
 | `CWFTUP` | Lengua y Literaturas Hispánicas | doc |
@@ -491,7 +490,6 @@
 | `4QRXH7` | (SUA), QPNKGB | doc |
 | `PTRGRY` | (SUA), QPNKGB | doc |
 | `UEYXQY` | (SUA), QPNKGB | doc |
-| `R9DENV` | (SUA), QPNKGB | doc |
 | `XH2446` | (SUA), QPNKGB | doc |
 | `U7D5JF` | (SUA), QPNKGB | doc |
 | `Q2KS8F` | (SUA), QPNKGB | doc |
@@ -537,6 +535,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `9MEAAP` | Administración | doc |
 | `9ZP2AZ` | Administración | doc |
 | `VBDF4E` | Administración | doc |
 | `FFWLPX` | Administración | doc |
@@ -573,6 +572,7 @@
 | `H3WUX3` | Informática | doc |
 | `KGTXD3` | Negocios Internacionales | doc |
 | `9RE3VP` | Negocios Internacionales | doc |
+| `ZBFQAD` | Negocios Internacionales | doc |
 
 ## Facultad de Artes y Diseño
 
